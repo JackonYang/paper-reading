@@ -1,5 +1,4 @@
-# Bitcask - A Log-Structured Hash Table for Fast Key/Value Data
-
+# Bitcask - A Log-Structured Hash Table for Fast Key/Value Data -- 2010
 阅读时间: 1h
 
 ## Summary
