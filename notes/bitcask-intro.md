@@ -19,7 +19,7 @@
 ## Pro
 
 1. 简单到不相信这是一个数据库。
-2. query 都是内存里做，只需一次 I/O 读 value 址。非常快。
+2. query 都是内存里做，只需一次 I/O 读 value。非常快。
 3. 如果命中操作系统的 filesystem cache，query 就没有 I/O。更快。
 3. save 是顺序写，append only。也很快。
 4. 存储的数据量，不受内存限制。（索引大小受限）
@@ -53,3 +53,16 @@
 #### hash map 为什么不能落盘
 
 random access I/O 太多
+
+## Highlights
+
+#### goals when evaluating such storage engines, including:
+
+1. low latency per item read or written
+2. high throughput, especially when writing an incoming stream of random items
+3. ability to handle datasets much larger than RAM w/o degradation
+4. crash friendliness, both in terms of fast recovery and not losing data
+5. ease of backup and restore
+6. a relatively simple, understandable (and thus supportable) code structure and data format
+7. predictable behavior under heavy access load or large volume
+8. a license that allowed for easy default use in Riak
