@@ -12,6 +12,10 @@ good good study, day day up
 
 ## Distributed System
 
-#### storage
+#### Storage
 
 - The Google File System | [pdf](pdf/gfs-sosp2003.pdf) | [notes](notes/gfs-sosp2003.md)
+
+#### Processing Model
+
+- MapReduce: Simplified Data Processing on Large Clusters | [pdf](pdf/mapreduce-simplified-data-processing-on-large-clusters.pdf) | [notes](notes/mapreduce-simplified-data-processing-on-large-clusters.md)
