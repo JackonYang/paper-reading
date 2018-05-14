@@ -19,3 +19,7 @@ good good study, day day up
 #### Processing Model
 
 - MapReduce: Simplified Data Processing on Large Clusters | [pdf](pdf/mapreduce-simplified-data-processing-on-large-clusters.pdf) | [notes](notes/mapreduce-simplified-data-processing-on-large-clusters.md)
+
+#### others
+
+- Web search for a planet: The Google cluster architecture | [pdf](pdf/googlecluster-ieee.pdf)
