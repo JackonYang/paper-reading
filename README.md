@@ -23,3 +23,9 @@ good good study, day day up
 #### others
 
 - Web search for a planet: The Google cluster architecture | [pdf](pdf/googlecluster-ieee.pdf)
+
+
+## Graphs
+
+- Finding and evaluating community structure in networks | [pdf](pdf/Finding-and-evaluating-community-structure-in-networks.pdf)
+- Fast algorithm for detecting community structure in networks | [pdf](pdf/Fast-algorithm-for-detecting-community-structure-in-networks.pdf)
