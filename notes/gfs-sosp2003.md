@@ -13,6 +13,8 @@
 
 创新来自于深挖细节，数据驱动设计。
 
+基于 shared-nothing principle，区别于 NAS/SAN。
+
 
 ## 背离传统分布式文件系统的假设
 
@@ -108,3 +110,7 @@ master 节点可以维持 global knowledge，简化了很多设计。
 1. master 会选择一个 chunk server 作为 primary。
 2. primary 选择序列化的顺序，其他 replica follow。
 3. master define global order
+
+## 保证数据的局部性
+
+这是 map-reduce 和 Hadoop 的基础。

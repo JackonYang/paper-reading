@@ -18,8 +18,8 @@
 
 ## 一点理解
 
-reduce 的输入是一个 key 对应的所有 values，
-所以，这是一个典型的 batch processing model。
+reduce 的输入是一个 key 对应的所有 values，而且是排序的。
+典型的 batch processing model。
 
 在 map 没有完成时，
 理论上，reduce worker 处于 IDE 状态。
@@ -27,7 +27,7 @@ reduce 的输入是一个 key 对应的所有 values，
 map 和 reduce 是 2 个 step，阻塞式的。
 所以，slow machine 就会成为系统的 performance bottleneck。出现 2+ 次。
 
-这个设计中，network resources 是稀有资源。
+Network resources 成为稀有资源。
 map 的输入，借助 GFS 可以实现很好的 Locality。
 但是，map 和 reduce 之间的数据传输，就做不到了。
 
@@ -36,20 +36,21 @@ combiner 的功能与 reducer 相似，
 在 map 的机器上先 group 一下，然后再给 reduce 进一步 group。从而大幅降低需要 network transfer 的 data。
 
 
-#### map + combiner 改为 streaming model
+#### Map 会把一个 key 的 value 排序，离线存储。
+
+这是一个很重要的 feature。
+
+如果需要维护一个 state，无序数据对 state 的读写就是 random 的。
+state 全部放在内存，可能空间不够。因为局部性很差，缓存也很难做。
+
+弊端也是很明显的，多了一轮超大的 I/O.
 
 通常来说，values 集合内部的顺序，不影响最终结果。
+但是，严重影响性能优化的空间。
 
-所以，map + combiner 改为 streaming model，是完全可行的。
-
-这样，map 的原始 output 不需要序列化到文件里。
-节省了磁盘空间 & I/O 时间。
-计算模型／调度模型，都可以大幅度简化。
-
-Google 的 paper 里面特别强调了 Ordering Guarantees。
-这个是针对 key 的。与 value 的 order 无关。
-
-对于 values 内部顺序影响最终结果的，这个方案不可行。
+如果中间 state 的大小可控，内存够用，
+可以考虑不排序，边读取数据边做预处理，也可以节省一次 I/O.
+计算模型／调度模型，可以做的更灵活。
 
 
 #### events Counters
@@ -80,15 +81,6 @@ Status Information 由单独的 monitor services 负责，从 redis 读取数据
 
 #### "straggler" and Backup Tasks
 
-我的做法是，
-当大部分 worker IDLE 时，剩余 worker 的计算任务依旧比较多时，reblance tasks。
-
-这种做法的问题在于：
-
-1. 当问题发生时再处理，已经浪费了很长时间等待。
-2. reblance 的阈值，不好选择。
-3. 低于 reblance 的阈值时，个别 worker 依旧可能成为 bottleneck 而且永远不结束。
-
 Google 的思路，很赞。
 在 task 的最后阶段，开启 N 个 worker 执行相同的任务。
 只要一个 worker 完成，kill 掉其他。
@@ -100,7 +92,6 @@ Google 的思路，很赞。
 
 
 #### Task Granularity
-
 
 - map: M pieces
 - reduce: R pieces.
@@ -118,3 +109,13 @@ In practice,
 - R: a small multiple of the number of worker machines we expect to use.
 
  We often perform MapReduce computations with M = 200, 000 and R = 5, 000, using 2,000 worker machines.
+
+#### 错误重试／bad record skip
+
+一切都是确定性的，input 是确定的，map ／ reduce 的计算也是确定的。
+
+当任何一个 worker 发生错误时，可以安全的重试／换一台机器重试。
+
+通过 counter，发生错误时，有能力自动识别一些错误原因，从而自动处理错误。
+
+可以自动识别 bad record 并在重试时跳过这些 bad record。
