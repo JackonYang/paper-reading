@@ -21,7 +21,14 @@ good good study, day day up
 - Web search for a planet: The Google cluster architecture | [pdf](pdf/googlecluster-ieee.pdf)
 
 
+## NLP
+
+#### Near-duplicate Detection
+
+- Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
+- Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
+
 ## Graphs
 
-- Finding and evaluating community structure in networks | [pdf](pdf/Finding-and-evaluating-community-structure-in-networks.pdf)
-- Fast algorithm for detecting community structure in networks | [pdf](pdf/Fast-algorithm-for-detecting-community-structure-in-networks.pdf)
+- Finding and evaluating community structure in networks | [pdf](pdf/finding-and-evaluating-community-structure-in-networks.pdf)
+- Fast algorithm for detecting community structure in networks | [pdf](pdf/fast-algorithm-for-detecting-community-structure-in-networks.pdf)
