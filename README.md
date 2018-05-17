@@ -8,7 +8,7 @@ good good study, day day up
 
 #### Theorem
 
-- Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web | [pdf](pdf/brewers-conjecture-sigact.pdf)
+- Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web | [pdf](pdf/brewers-conjecture-sigact.pdf) | [notes](notes/brewers-conjecture-sigact.md)
 - BASE: An Acid Alternative | [pdf](pdf/base-an-acid-alternative.pdf)
 
 #### Storage
