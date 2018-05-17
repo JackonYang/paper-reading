@@ -5,6 +5,12 @@ good good study, day day up
 
 ## Distributed System
 
+
+#### Theorem
+
+- Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web | [pdf](pdf/brewers-conjecture-sigact.pdf)
+- BASE: An Acid Alternative | [pdf](pdf/base-an-acid-alternative.pdf)
+
 #### Storage
 
 - Bitcask - A Log-Structured Hash Table for Fast Key/Value Data | [pdf](pdf/bitcask-intro.pdf) | [notes](notes/bitcask-intro.md)
