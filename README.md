@@ -11,6 +11,9 @@ good good study, day day up
 - Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web | [pdf](pdf/brewers-conjecture-sigact.pdf) | [notes](notes/brewers-conjecture-sigact.md)
 - BASE: An Acid Alternative | [pdf](pdf/base-an-acid-alternative.pdf) | [notes](notes/base-an-acid-alternative.md)
 - Eventually consistent | [pdf](pdf/eventually-consistent.pdf)
+- The Byzantine Generals Problem | [pdf](pdf/lamport82.pdf)
+- The Part-Time Parliament | [pdf](pdf/The-Part-Time-Parliament.pdf)
+- Paxos Made Simple | [pdf](pdf/paxos-simple.pdf)
 
 
 #### Storage
@@ -18,6 +21,7 @@ good good study, day day up
 - Bitcask - A Log-Structured Hash Table for Fast Key/Value Data | [pdf](pdf/bitcask-intro.pdf) | [notes](notes/bitcask-intro.md)
 - The Google File System | [pdf](pdf/gfs-sosp2003.pdf) | [notes](notes/gfs-sosp2003.md)
 - Bigtable: A Distributed Storage System for Structured Data | [pdf](pdf/bigtable-osdi06.pdf)
+- The Chubby lock service for loosely-coupled distributed systems | [pdf](pdf/chubby-osdi06.pdf)
 
 
 #### Processing Model
