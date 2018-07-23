@@ -40,6 +40,10 @@ good good study, day day up
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
 
+#### Chinese Word Segmentation
+
+- Hidden Markov Models | [pdf](pdf/hmm-nlp.pdf)
+
 ## Graphs
 
 - Finding and evaluating community structure in networks | [pdf](pdf/finding-and-evaluating-community-structure-in-networks.pdf)
