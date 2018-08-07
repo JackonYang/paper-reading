@@ -37,6 +37,8 @@ good good study, day day up
 
 #### Near-duplicate Detection
 
+- N-gram Similarity and Distance | [pdf](pdf/n-gram-similarity-and-distance.pdf)
+- A Closer Look at Skip-gram Modelling | [pdf](pdf/a-closer-look-at-skip-gram-modelling.pdf)
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
 
