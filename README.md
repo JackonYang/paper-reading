@@ -11,6 +11,7 @@ good good study, day day up
 - Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web | [pdf](pdf/brewers-conjecture-sigact.pdf) | [notes](notes/brewers-conjecture-sigact.md)
 - BASE: An Acid Alternative | [pdf](pdf/base-an-acid-alternative.pdf) | [notes](notes/base-an-acid-alternative.md)
 - Eventually consistent | [pdf](pdf/eventually-consistent.pdf)
+- Conflict-free Replicated Data Types | [pdf](pdf/conflict-free-replicated-data-types.pdf)
 - The Byzantine Generals Problem | [pdf](pdf/lamport82.pdf)
 - The Part-Time Parliament | [pdf](pdf/The-Part-Time-Parliament.pdf)
 - Paxos Made Simple | [pdf](pdf/paxos-simple.pdf)
