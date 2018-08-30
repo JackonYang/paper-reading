@@ -36,6 +36,14 @@ good good study, day day up
 
 ## NLP
 
+#### Basic Models
+
+- Speech and Language Processing | [pdf](pdf/speech-and-language-processing-ed3.pdf)
+- A Stochastic Parts Program and Noun Phrase Parser for Unrestricted Text | [pdf](pdf/a-stochastic-parts-program-and-noun-phrase-parser-for-unrestricted-text.pdf)
+- A Statistical Approach to Machine Translation | [pdf](pdf/a-statistical-approach-to-machine-translation.pdf)
+- Hidden Markov Models | [pdf](pdf/hmm-nlp.pdf)
+- Spam Filtering with Naive Bayes – Which Naive Bayes? | [pdf](pdf/spam-filtering-with-naive-bayes-which-naive-bayes.pdf)
+
 #### Near-duplicate Detection
 
 - N-gram Similarity and Distance | [pdf](pdf/n-gram-similarity-and-distance.pdf)
@@ -43,20 +51,6 @@ good good study, day day up
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
 
-
-#### Part of Speech Tagging
-
-- A Stochastic Parts Program and Noun Phrase Parser for Unrestricted Text | [pdf](pdf/a-stochastic-parts-program-and-noun-phrase-parser-for-unrestricted-text.pdf)
-
-
-#### Machine Translation
-
-- A Statistical Approach to Machine Translation | [pdf](pdf/a-statistical-approach-to-machine-translation.pdf)
-
-
-#### Chinese Word Segmentation
-
-- Hidden Markov Models | [pdf](pdf/hmm-nlp.pdf)
 
 ## Graphs
 
