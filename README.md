@@ -41,9 +41,18 @@ good good study, day day up
 - Speech and Language Processing | [pdf](pdf/speech-and-language-processing-ed3.pdf)
 - A Stochastic Parts Program and Noun Phrase Parser for Unrestricted Text | [pdf](pdf/a-stochastic-parts-program-and-noun-phrase-parser-for-unrestricted-text.pdf)
 - A Statistical Approach to Machine Translation | [pdf](pdf/a-statistical-approach-to-machine-translation.pdf)
-- Hidden Markov Models | [pdf](pdf/hmm-nlp.pdf)
-- Conditional Random Fields - Probabilistic Models for Segmenting and Labeling Sequence Data | [pdf](pdf/conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data.pdf)
 - Spam Filtering with Naive Bayes – Which Naive Bayes? | [pdf](pdf/spam-filtering-with-naive-bayes-which-naive-bayes.pdf)
+
+
+#### Undirected Graphical Model
+
+alias: Markov network, Markov Random Field (MRF)
+
+HMM, MEMM, CRF
+
+- introduction to Hidden Markov Model [pdf](pdf/speech-and-language-processing-ed3.pdf) Chap.8 Part-of-Speech Tagging
+- Conditional Random Fields - Probabilistic Models for Segmenting and Labeling Sequence Data | [pdf](pdf/conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data.pdf)
+
 
 #### Near-duplicate Detection
 
