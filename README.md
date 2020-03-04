@@ -3,9 +3,10 @@
 good good study, day day up
 
 
-## topic review
+## Topic Reviews
 
-- [[Paper Reading]经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md)
+- [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md)
+- [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md)
 
 
 ## Distributed System
