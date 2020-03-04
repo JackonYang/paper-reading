@@ -40,6 +40,47 @@ Google Sheets: [[PaperReading] Learning with Noisy Labels](https://docs.google.c
 
 Google brain Samy Bengio 组里的工作
 
-提出观点：Deep neural networks easily fit random labels，几乎是 2017 年之后 noisy label 文章必引观点。
+提出的观点并用实验证明：Deep neural networks easily fit random labels.
 
-这篇文章之前，introduction 都在介绍众包 & 错误不可避免，SOTA 模型表现差。这篇文章之后，理论焦点突出为 noisy label 导致的 overfitting。Zhang
+这个观点几乎是 2017 年之后 noisy label 相关文章必引观点。
+
+这篇文章之前，introduction 都在介绍众包 & 错误不可避免，SOTA 模型表现差。这篇文章之后，理论焦点突出为解决 noisy label 导致的 overfitting。
+
+文章也提出了一个非常有意义的问题：
+
+神经网络的参数量大于训练数据的量，generalization error 有的模型好，有的模型差，区别在哪里？
+
+__Deep neural networks easily fit random labels__
+
+实验方案：
+
+1. 用真实的数据，label 改为随机生成。
+2. model 使用标准模型，不加任何修改。
+3. 训练的效果：training error = 0，test error 与随机选的结果相同。
+
+对结果的解释：
+
+1. 因为 test label 也是完全随机生成的，无法预测。test error 符合预期。
+2. training error = 0，模型参数多，有能力记住所有 dataset 点。
+3. 随机数据导致模型的 generalization error 明显增加了。
+
+
+__对比试验__
+
+1. 基于原始真实数据集，label 不变，image pixel 改成全随机，依旧可以 0 training error
+2. 用 random + 原始数据混合测试，random 比例提升，generalization 错误率提升。说明，在 random data 混淆的情况下，依旧有能力学到部分真实特征。
+3. regularization 能降低 testing error，但对 generalization error 影响不直接。
+
+__记住所有 training data 的最小模型__
+
+two-layer ReLU network with p=2n+d parameters can express any labeling of any sample of size n in d dimension.
+
+2 层的模型，就能记忆全部训练数据。
+
+explicit regularizers:
+
+- dropout
+- weight decay
+
+regularization is required to ensure small generalization error
+
