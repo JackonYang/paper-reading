@@ -63,7 +63,7 @@ Google brain Samy Bengio 组里的工作
 
 神经网络的参数量大于训练数据的量，generalization error 有的模型好，有的模型差，区别在哪里？
 
-__Deep neural networks easily fit random labels__
+Deep neural networks easily fit random labels
 
 实验方案：
 
@@ -78,13 +78,13 @@ __Deep neural networks easily fit random labels__
 3. 随机数据导致模型的 generalization error 明显增加了。
 
 
-__对比试验__
+对比试验
 
 1. 基于原始真实数据集，label 不变，image pixel 改成全随机，依旧可以 0 training error
 2. 用 random + 原始数据混合测试，random 比例提升，generalization 错误率提升。说明，在 random data 混淆的情况下，依旧有能力学到部分真实特征。
 3. regularization 能降低 testing error，但对 generalization error 影响不直接。
 
-__记住所有 training data 的最小模型__
+记住所有 training data 的最小模型
 
 two-layer ReLU network with p=2n+d parameters can express any labeling of any sample of size n in d dimension.
 
@@ -161,3 +161,5 @@ cleanlab code: https://github.com/cgnorthcutt/cleanlab
 本文的核心贡献: we prove CL exactly estimates the joint distribution of noisy and true labels with exact identification of label errors under realistic sufficient conditions.
 
 The resulting CL procedure is a model-agnostic family of theory and algorithms for characterizing, finding, and learning with label errors. It uses predicted probabilities and noisy labels to count examples in the unnormalized confident joint, estimate the joint distribution, and prune noisy data, producing clean data as output.
+
+### 迭代式的学习 (semi-supervised learning, curriculum learning)
