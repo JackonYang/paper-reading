@@ -3,6 +3,11 @@
 good good study, day day up
 
 
+## topic review
+
+- [[Paper Reading]经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md)
+
+
 ## Distributed System
 
 
