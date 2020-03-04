@@ -1,4 +1,4 @@
-# [Paper Reading]经典 CNN model -- 从 AlexNet 到 ResNet
+# [Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet
 
 ## 目的
 
@@ -27,7 +27,7 @@
 一点感想：
 
 1. 明显的感受到 LeCun 和 Hinton 对早期工作的指引作用。
-2. 数据集的规模和硬件算力，是 CNN 理论进步的 2 大基石。 
+2. 数据集的规模和硬件算力，是 CNN 理论进步的 2 大基石。
 
 ## 模型的 Tensorflow 实现
 
@@ -63,7 +63,7 @@ Google Sheets: [[PaperReading] CNN models from-AlexNet-to-ResNet](https://docs.g
 从数据看人肉搜索的难度：
 
 1. 从 LeNet5（1998） 到 AlexNet（2012） 用了 14 年。
-2. AlexNet 的 top5 错误率，2010 年到 2012 年，从 17.0% 降到 15.3%，进展非常小。 
+2. AlexNet 的 top5 错误率，2010 年到 2012 年，从 17.0% 降到 15.3%，进展非常小。
 
 研究效率低的 3 个因素：
 
