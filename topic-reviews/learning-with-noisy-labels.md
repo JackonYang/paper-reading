@@ -29,9 +29,22 @@ Google Sheets: [[PaperReading] Learning with Noisy Labels](https://docs.google.c
 3. 对某些 label、某些错误的关注度，高于其他，需要针对性的优化。
 
 
+## 综述
+
+1. 改 loss function
+
+主要是 weighted sum 类的方法
+
+2. semi-supervised learning
+
+3. 置信学习 与 HMM 的关系
+
+用 transition matrix 建模 noisy label 的分布
+
+
 ## 理论基础类
 
-#### understanding deep learning requires rethinking generalization -- Zhang 2017
+### understanding deep learning requires rethinking generalization -- 2017
 
 - https://arxiv.org/abs/1611.03530
 - Chiyuan Zhang, Samy Bengio
@@ -84,3 +97,67 @@ explicit regularizers:
 
 regularization is required to ensure small generalization error
 
+### Convexity, Classification, and Risk Bounds
+
+- https://www.stat.berkeley.edu/~jordan/638.pdf
+- Bartlett
+- 2006
+- 阅读价值：
+
+most loss functions are not completely robust to label noise
+
+## Transition matrix 跃迁矩阵
+
+### Training deep neural-networks using a noise adaptation layer -- 2017
+
+- https://openreview.net/references/pdf?id=Sk5qglwSl
+- Jacob Goldberger
+- 2017
+- 阅读价值：高
+
+借鉴通信的信道模型，用 EM 算法。
+
+建模思路：
+
+- The correct unknown label can be viewed as a hidden random variable
+- Model the noise processes by a communication channel with unknown parameters.
+
+用 EM 算法找 network 和 correct label。这个思路 2012，2016 年都有不错的文章发出。
+
+典型的流程如下：
+
+- E-step, estimate the true label
+- M-step, retrain the network.
+
+缺点是，每次预测完 label 都要重新 train model。改进的思路是，能不能用 1 个 neural network 端到端的做完 2 步。
+
+2014 年 Sukhbaatar & Fergus 提出在最后面加一个 constrained linear layer。在部分有强假设的场景下，能够较好的模拟出 transition matrix 的效果。
+
+本文的贡献是，加 softmax 连接 correct label and noisy label，不用 linear layer。
+
+1. 模型可以扩展到 the case where the noise is dependent on both the correct label and the input features.
+2. 适用于 noisy distribution 未知的数据集。
+
+### Confident Learning: Estimating Uncertainty in Dataset Labels -- 2019
+
+- https://arxiv.org/abs/1911.00068
+- Curtis G. Northcutt
+- 2019
+- 阅读价值：高
+
+cleanlab 库的算法原理
+
+cleanlab code: https://github.com/cgnorthcutt/cleanlab
+
+假定，noise 只与 true label 有关，与 feature 相互独立。
+
+核心思路：
+
+1. 通过 prune, count, rank 3 步可以高效率算出 joint probabilities（true and predicted labels)
+2. 根据 joint probabilities 识别 label error。建模预测 complete matrix Q
+
+理论基础是 Angluin 1988 的 CNP。
+
+本文的核心贡献: we prove CL exactly estimates the joint distribution of noisy and true labels with exact identification of label errors under realistic sufficient conditions.
+
+The resulting CL procedure is a model-agnostic family of theory and algorithms for characterizing, finding, and learning with label errors. It uses predicted probabilities and noisy labels to count examples in the unnormalized confident joint, estimate the joint distribution, and prune noisy data, producing clean data as output.
