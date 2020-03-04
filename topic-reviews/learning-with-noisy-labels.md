@@ -1,50 +1,53 @@
 # [Paper Reading] Learning with Noisy Label -- 深度学习落地
 
-获取解决问题的主要思路，未来的主要研究方向。
+目的：获取解决问题的主要思路，预判未来的主要研究方向。
 
-在项目的技术方案选型、解决复杂问题时，提供 high level 的可靠输入。
+预期收益：在项目的技术选型、复杂问题的解决时，提供 high level 的可靠输入。
 
 Paper List(需要爬墙)
 
 Google Sheets: [[PaperReading] Learning with Noisy Labels](https://docs.google.com/spreadsheets/d/130oiMLRnYHE0YFmULx_SMrHxc3i2CxtGbdxayt4avDc/edit#gid=0)
 
+pdf 汇总版本：[GitHub: 论文 pdf 汇总](https://github.com/JackonYang/papers/tree/master/pdf/learning-with-noisy-label)
+
 
 ## 阅读背景
 
-这是一个很热，但很多人不熟悉的研究方向。
+这是一个很热门，但很多人不熟悉的研究方向。
+
+大的背景是：
 
 深度学习依赖大量高质量的标注数据 -- 时间成本、人力成本都很高。
 
 如何用半（弱）监督学习、无监督学习实现与监督学习水平相当的效果，是非常热门研究方向。
 
-这次的阅读，主要聚焦 Learning with noisy label：
+这次的 paper reading，聚焦 Learning with noisy label：
 
 1. 有一定量的标注数据。-- 通过搜索引擎、公开数据集等，很容易拿到。
 2. 标注数据的质量不高，存在或高或低的标注错误。
 
-相比于无监督学习，learning with noisy label 的目标场景更贴近深度学习在工业界的落地。
+不会覆盖无监督类学习。
+
+相比于无监督学习，learning with noisy label 更贴近深度学习在工业界的落地。
+典型的状态如下：
 
 1. 初始阶段有一定量的标注质量未知的数据。
-2. 一般会有持续的人工投入，不断提升标注质量。
+2. 一般会有持续的人工投入，不断提升标注质量。人工投入的形式，可能是付费众包，可能是借助用户反馈。
 3. 对某些 label、某些错误的关注度，高于其他，需要针对性的优化。
 
 
-## 综述
+## 总体观点
 
-1. 改 loss function
+不管什么方法，都在回答一个问题：如何区分 clean label 和 noisy label。
 
-主要是 weighted sum 类的方法
-
-2. semi-supervised learning
-
-3. 置信学习 与 HMM 的关系
-
-用 transition matrix 建模 noisy label 的分布
+1. 直接用概率论模型去识别，比如基于 EM 算法的模型、置信学习模型等。
+2. 根据模型预测的 loss 粗选，反复迭代。
+3. 隐式的，模型自身对 noise 的容忍度更高。核心思路是改成 weighted sum loss，noisy 的权重低，clean 的权重高。问题转化为如何找 weight。
 
 
 ## 理论基础类
 
-### understanding deep learning requires rethinking generalization -- 2017
+### paper: understanding deep learning requires rethinking generalization -- 2017
 
 - https://arxiv.org/abs/1611.03530
 - Chiyuan Zhang, Samy Bengio
@@ -97,7 +100,7 @@ explicit regularizers:
 
 regularization is required to ensure small generalization error
 
-### Convexity, Classification, and Risk Bounds
+### paper: Convexity, Classification, and Risk Bounds
 
 - https://www.stat.berkeley.edu/~jordan/638.pdf
 - Bartlett
@@ -106,9 +109,18 @@ regularization is required to ensure small generalization error
 
 most loss functions are not completely robust to label noise
 
-## Transition matrix 跃迁矩阵
+## 基于概率模型 estimate noisy label
 
-### Training deep neural-networks using a noise adaptation layer -- 2017
+包括 EM-based 模型、置信学习等。
+
+基本的数学模型是：
+
+1. noise 与 label 有关，狮子容易被分类成猫，但不容易被分类为轮船。
+2. 找 noisy label 和 true label 之间联合概率分布矩阵、转移矩阵。
+3. 用概率矩阵识别 clean label 或 noise label，修正数据集。
+
+
+### paper: Training deep neural-networks using a noise adaptation layer -- 2017
 
 - https://openreview.net/references/pdf?id=Sk5qglwSl
 - Jacob Goldberger
@@ -116,6 +128,7 @@ most loss functions are not completely robust to label noise
 - 阅读价值：高
 
 借鉴通信的信道模型，用 EM 算法。
+有点像 NLP 里的 HMM 模型。
 
 建模思路：
 
@@ -127,18 +140,21 @@ most loss functions are not completely robust to label noise
 典型的流程如下：
 
 - E-step, estimate the true label
-- M-step, retrain the network.
+- M-step, retrain the network
 
-缺点是，每次预测完 label 都要重新 train model。改进的思路是，能不能用 1 个 neural network 端到端的做完 2 步。
+缺点是，每次预测完 label 都要重新 train model。
+改进的思路是，用 1 个 neural network 端到端的做完 2 步。
 
-2014 年 Sukhbaatar & Fergus 提出在最后面加一个 constrained linear layer。在部分有强假设的场景下，能够较好的模拟出 transition matrix 的效果。
+2014 年 Sukhbaatar & Fergus 提出在最后面加一个 constrained linear layer 连接 correct label and noisy label。在部分有强假设的场景下，可行。
 
-本文的贡献是，加 softmax 连接 correct label and noisy label，不用 linear layer。
+本文的贡献是，把 Sukhbaatar 加的 linear layer 换成 softmax layer，提高了模型的普适性。
 
-1. 模型可以扩展到 the case where the noise is dependent on both the correct label and the input features.
+作者的观点：
+
+1. 改模型可以扩展到 the case where the noise is dependent on both the correct label and the input features.
 2. 适用于 noisy distribution 未知的数据集。
 
-### Confident Learning: Estimating Uncertainty in Dataset Labels -- 2019
+### paper: Confident Learning: Estimating Uncertainty in Dataset Labels -- 2019
 
 - https://arxiv.org/abs/1911.00068
 - Curtis G. Northcutt
@@ -154,12 +170,68 @@ cleanlab code: https://github.com/cgnorthcutt/cleanlab
 核心思路：
 
 1. 通过 prune, count, rank 3 步可以高效率算出 joint probabilities（true and predicted labels)
-2. 根据 joint probabilities 识别 label error。建模预测 complete matrix Q
+2. 根据 joint probabilities 识别 label error。
 
-理论基础是 Angluin 1988 的 CNP。
+理论基础是 Angluin 1988 的 CNP 理论。
+
+![](../images/confident-learning-process.png)
 
 本文的核心贡献: we prove CL exactly estimates the joint distribution of noisy and true labels with exact identification of label errors under realistic sufficient conditions.
 
 The resulting CL procedure is a model-agnostic family of theory and algorithms for characterizing, finding, and learning with label errors. It uses predicted probabilities and noisy labels to count examples in the unnormalized confident joint, estimate the joint distribution, and prune noisy data, producing clean data as output.
 
-### 迭代式的学习 (semi-supervised learning, curriculum learning)
+## 迭代的学习 (curriculum learning, semi-supervised learning, co-training, self-training)
+
+这种模型太多了，大同小异，文章看不完了。。。
+
+核心思路：
+
+1. 先用大量/全部数据 training 一个 model。
+2. 根据 loss 等参数，选出大概率为 true 的 label。
+3. 用 true label 重新或继续 training model。
+4. 重复 2-3 步。
+
+不同之处在于，
+
+1. curriculum learning 一次把 dataset 分成 N 组，从易到难的训练。其他大方法，大多每次只选出最简单的 1 组。
+2. 重复 training 的时候，学习的目标能否更复杂（全面）一点，把上一轮学到的参数也纳入新模型的学习目标里。
+
+### paper: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels -- 2018
+
+- https://arxiv.org/abs/1712.05055
+- Lu Jiang, Li Fei-Fei
+- 2018
+- 阅读价值：高
+
+code: https://github.com/google/mentornet
+
+Li Fei-Fei 在 Google 组里的文章。
+
+curriculum learning，课程学习，借鉴人类的学习模式。
+按照先容易后复杂的顺序，学习效果更好，学习速度更快。
+想象一下，给一个小学生随机丢 100 以内的加法和微积分学习任务。
+
+难点在于，curriculum（课程）怎么选？
+
+最早可以追溯到 Bengio 2009 年提出 curriculum learning。使用 predefined fixed curriculum。
+
+本文的主要贡献：
+
+1. 自动学习 data-driven 课程。MentorNet learns a data-driven curriculum to supervise the base deep CNN, naely StudentNet.
+2. 根据 StudentNet 的反馈，更新 Curriculum。
+
+论文里也给出了 Curriculum Learning 比较严谨的数学模型，是不错的参考资料。
+
+简单总结：目标函数里，有 3 个参数 w, v, lambda。
+
+其中，
+
+- w 就是一般 CNN 要学习的权重。
+- lambda 是超参数，表示学习难度。
+- v 是 curriculum learning 引入的权重， v_i < lambda, 表示第 i 条数据 "easy"，参与本次训练。
+
+可见，lambda 和 v 共同定义了“课程”。
+
+学的过程是：依次固定 v，w，优化另外一个参数。
+
+随着学习的进行，逐步调大 lambda，引入越来越多的学习数据。
