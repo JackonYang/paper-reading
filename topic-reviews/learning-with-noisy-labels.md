@@ -44,6 +44,7 @@ pdf 汇总版本：[GitHub: 论文 pdf 汇总](https://github.com/JackonYang/pap
 2. 根据模型预测的 loss 粗选，反复迭代。
 3. 隐式的，模型自身对 noise 的容忍度更高。核心思路是改成 weighted sum loss，noisy 的权重低，clean 的权重高。问题转化为如何找 weight。
 
+TODO：分析 MixUp 做 Data Argumentation 的思路。
 
 ## 理论基础类
 
@@ -56,7 +57,7 @@ pdf 汇总版本：[GitHub: 论文 pdf 汇总](https://github.com/JackonYang/pap
 
 Google brain Samy Bengio 组里的工作
 
-提出的观点并用实验证明：Deep neural networks easily fit random labels.
+提出观点并用实验证明：Deep neural networks easily fit random labels.
 
 这个观点几乎是 2017 年之后 noisy label 相关文章必引观点。
 
@@ -66,7 +67,7 @@ Google brain Samy Bengio 组里的工作
 
 神经网络的参数量大于训练数据的量，generalization error 有的模型好，有的模型差，区别在哪里？
 
-Deep neural networks easily fit random labels
+关于 Deep neural networks easily fit random labels 的实验细节如下。
 
 实验方案：
 
@@ -78,29 +79,28 @@ Deep neural networks easily fit random labels
 
 1. 因为 test label 也是完全随机生成的，无法预测。test error 符合预期。
 2. training error = 0，模型参数多，有能力记住所有 dataset 点。
-3. 随机数据导致模型的 generalization error 明显增加了。
+3. 用了随机数据后，模型的 generalization error 明显增加了。
 
 
 对比试验
 
 1. 基于原始真实数据集，label 不变，image pixel 改成全随机，依旧可以 0 training error
 2. 用 random + 原始数据混合测试，random 比例提升，generalization 错误率提升。说明，在 random data 混淆的情况下，依旧有能力学到部分真实特征。
-3. regularization 能降低 testing error，但对 generalization error 影响不直接。
+3. regularization 能降低 testing error，但对 generalization error 的影响不直接。
 
-记住所有 training data 的最小模型
+paper 的第 2 个重要贡献是：2 层的模型，就能记忆全部 training data。
 
 two-layer ReLU network with p=2n+d parameters can express any labeling of any sample of size n in d dimension.
 
-2 层的模型，就能记忆全部训练数据。
+提出问题，但没有结论：质疑 regularization is required to ensure small generalization error
 
-explicit regularizers:
+常用的 explicit regularizers:
 
-- dropout
-- weight decay
+- Dropout
+- Weight decay
+- Data Argumention
 
-regularization is required to ensure small generalization error
-
-### paper: Convexity, Classification, and Risk Bounds
+### paper: Convexity, Classification, and Risk Bounds -- 2006
 
 - https://www.stat.berkeley.edu/~jordan/638.pdf
 - Bartlett
@@ -116,7 +116,7 @@ most loss functions are not completely robust to label noise
 基本的数学模型是：
 
 1. noise 与 label 有关，狮子容易被分类成猫，但不容易被分类为轮船。
-2. 找 noisy label 和 true label 之间联合概率分布矩阵、转移矩阵。
+2. 找 noisy label 和 true label 之间联合概率分布矩阵 / 转移矩阵。
 3. 用概率矩阵识别 clean label 或 noise label，修正数据集。
 
 
@@ -135,9 +135,11 @@ most loss functions are not completely robust to label noise
 - The correct unknown label can be viewed as a hidden random variable
 - Model the noise processes by a communication channel with unknown parameters.
 
+求解思路：
+
 用 EM 算法找 network 和 correct label。这个思路 2012，2016 年都有不错的文章发出。
 
-典型的流程如下：
+典型的流程如下
 
 - E-step, estimate the true label
 - M-step, retrain the network
@@ -180,21 +182,29 @@ cleanlab code: https://github.com/cgnorthcutt/cleanlab
 
 The resulting CL procedure is a model-agnostic family of theory and algorithms for characterizing, finding, and learning with label errors. It uses predicted probabilities and noisy labels to count examples in the unnormalized confident joint, estimate the joint distribution, and prune noisy data, producing clean data as output.
 
-## 迭代的学习 (curriculum learning, semi-supervised learning, co-training, self-training)
+## 迭代的学习
+
+- curriculum learning
+- semi-supervised learning
+- co-training
+- self-training
+- ...
 
 这种模型太多了，大同小异，文章看不完了。。。
 
 核心思路：
 
-1. 先用大量/全部数据 training 一个 model。
-2. 根据 loss 等参数，选出大概率为 true 的 label。
+1. 先用大量/全部数据 training 一个 model，或者用公开的 model。
+2. 用 model 预测一遍 dataset，根据 loss 等参数，选出大概率为 true 的 label。
 3. 用 true label 重新或继续 training model。
 4. 重复 2-3 步。
 
 不同之处在于，
 
-1. curriculum learning 一次把 dataset 分成 N 组，从易到难的训练。其他大方法，大多每次只选出最简单的 1 组。
-2. 重复 training 的时候，学习的目标能否更复杂（全面）一点，把上一轮学到的参数也纳入新模型的学习目标里。
+1. 如何分组。curriculum learning 一次把 dataset 分成 N 组，从易到难的训练。其他大方法，大多每次只选出简单的 1 组，然后简单的组越来越壮大。
+2. 重复 training 的时候，比如，学习的目标能否更复杂（全面）一点，把上一轮学到的参数也纳入新模型的学习目标里。
+
+总的来说，semi-supervised learning 相对更热门一些。
 
 ### paper: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels -- 2018
 
@@ -205,7 +215,7 @@ The resulting CL procedure is a model-agnostic family of theory and algorithms f
 
 code: https://github.com/google/mentornet
 
-Li Fei-Fei 在 Google 组里的文章。
+Li Fei-Fei Google 组里的文章。
 
 curriculum learning，课程学习，借鉴人类的学习模式。
 按照先容易后复杂的顺序，学习效果更好，学习速度更快。
@@ -235,3 +245,16 @@ curriculum learning，课程学习，借鉴人类的学习模式。
 学的过程是：依次固定 v，w，优化另外一个参数。
 
 随着学习的进行，逐步调大 lambda，引入越来越多的学习数据。
+
+## TODO
+
+1. MixUp -- 2018
+2. MixMatch -- 2019
+3. DivideMix -- 2019
+4. co-teaching -- 2018
+
+## 总结
+
+1. noise 分布就在那里，不管你是否绕开。预测准了就能一路开挂。
+2. 当前的几个研究方向都不冲突，融合 & 暴力出奇迹是趋势。
+3. 2017 年之后，论文数量激增，体现研究热度很高。semi-supervised learning 相对更火一些。
