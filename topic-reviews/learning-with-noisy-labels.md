@@ -6,9 +6,9 @@
 
 Paper List(需要爬墙)
 
-Google Sheets: [[PaperReading] Learning with Noisy Labels](https://docs.google.com/spreadsheets/d/130oiMLRnYHE0YFmULx_SMrHxc3i2CxtGbdxayt4avDc/edit#gid=0)
+Google Sheets: [[PaperReading] Learning with Noisy Labels](https://link.zhihu.com/?target=https%3A//docs.google.com/spreadsheets/d/130oiMLRnYHE0YFmULx_SMrHxc3i2CxtGbdxayt4avDc/edit%3Fusp%3Dsharing)
 
-pdf 汇总版本：[GitHub: 论文 pdf 汇总](https://github.com/JackonYang/papers/tree/master/pdf/learning-with-noisy-label)
+pdf 汇总版本：[GitHub: Learning with Noisy Labels 论文 pdf 汇总](https://github.com/JackonYang/papers/tree/master/pdf/learning-with-noisy-label)
 
 
 ## 阅读背景
