@@ -3,10 +3,16 @@
 good good study, day day up
 
 
-## Topic Reviews
+## Deep Learning 深度学习算法
 
 - [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md)
+
+    三大经典实用模型：AlexNet、VggNet、ResNet
+
 - [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md)
+
+    当前研究热点，semi-supervised learning 流派越来越抢眼
+
 
 ## Data Warehouse 数据仓库
 
