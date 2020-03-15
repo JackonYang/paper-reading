@@ -8,6 +8,13 @@ good good study, day day up
 - [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md)
 - [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md)
 
+## Data Warehouse 数据仓库
+
+- [hbase 一日游 -- 从入门到放弃](https://zhuanlan.zhihu.com/p/113393004)
+
+    爬虫从 html 变成了 json API 为主。hbase 很好，但时代变了，继续用 Mongo
+
+--------- old --------------
 
 ## Distributed System
 
