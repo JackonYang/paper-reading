@@ -25,8 +25,8 @@ good good study, day day up
 
 #### Face Detection
 
-    - (face detection using opencv](src/face-detection/face-detection-using-opencv.ipynb)
-    - (face detection using Deep Learning](src/face-detection/face-detection-using-deep-learning.ipynb)
+- [face detection using opencv](src/face-detection/face-detection-using-opencv.ipynb)
+- [face detection using Deep Learning](src/face-detection/face-detection-using-deep-learning.ipynb)
 
 
 --------- old --------------
