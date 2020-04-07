@@ -20,6 +20,15 @@ good good study, day day up
 
     爬虫从 html 变成了 json API 为主。hbase 很好，但时代变了，继续用 Mongo
 
+## Code Demo
+
+
+#### Face Detection
+
+    - (face detection using opencv](src/face-detection/face-detection-using-opencv.ipynb)
+    - (face detection using Deep Learning](src/face-detection/face-detection-using-deep-learning.ipynb)
+
+
 --------- old --------------
 
 ## Distributed System

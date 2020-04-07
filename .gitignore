@@ -9,6 +9,7 @@ db.sqlite3
 media/*
 static/*
 
+.ipynb_checkpoints
 
 # flask
 config/production.py
