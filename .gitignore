@@ -4,6 +4,9 @@
 images/*
 log/*
 
+
+.obsidian
+
 # self defined
 db.sqlite3
 media/*
