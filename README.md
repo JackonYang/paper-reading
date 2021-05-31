@@ -10,7 +10,7 @@ good good study, day day up
 技术视角上，无非是 2 件事：
 
 1. 提高代码的运行速度 -- 高性能计算
-2. 提高代码的开发速度 -- 工程效率
+2. 提高代码的开发效率 -- 工程效率
 
 产品视角，暂不讨论。
 
@@ -209,6 +209,30 @@ TODO
 #### CUDA 编程与性能优化
 
 TODO
+
+# 框架
+
+## 深度学习框架
+
+Caffe, MxNet, TensorFlow etc
+
+## 推理框架
+
+TensorRT, OpenVINO
+
+# 专业技能
+
+## 音视频处理
+
+- 编码器、解码器
+- 图片编码格式
+- 视频格式
+- 音频格式
+- 常用工具：FFmpeg，RTSP
+
+## 高性能计算
+
+GEMM, openblas, MKL etc
 
 
 # DevOps
