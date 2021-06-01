@@ -1,9 +1,7 @@
-成为一个合格的“算法工程师”
+Paper Reading
 ===
 
-good good study, day day up
-
-# 定义“算法工程师”
+面向 deep learning 算法落地的 engineering 工作。
 
 比做算法的懂工程落地，比做工程的懂算法模型。
 
