@@ -5,32 +5,42 @@ Paper Reading
 
 比做算法的懂工程落地，比做工程的懂算法模型。
 
-技术视角上，无非是 2 件事：
+# Scope 定义
 
-1. 提高代码的运行速度 -- 高性能计算
-2. 提高代码的开发效率 -- 工程效率
+以下维度展开
 
-产品视角，暂不讨论。
+1. 找到一个适合 deep learning 解决的问题
 
-一些有代表性的具体工作：
+	- 自动驾驶
+	- 安防领域的人脸识别
+	- 自动写文章, 虚拟主播
 
-1. 通用矩阵乘（GEMM）优化与卷积计算
-2. 高性能的数学运算库：openblas, MKL etc
-3. 深度学习框架：Caffe, MxNet, TensorFlow etc
-4. 分布式的深度学习训练平台：各家公司自建为主
-5. 深度学习的推理框架：TensorRT, OpenVINO
-6. 模型自动部署和测试：各家公司自建为主
-7. 存训练数据的分布式小文件存储：ceph 等
+2. 工程效率高. 开发效率高, 迭代速度快
 
+	- 深度学习框架: Caffe, MxNet, TensorFlow 等
+	- 分布式的深度学习训练平台：各家公司自建为主
+
+3. 代码跑的更快, 更省钱.
+
+	- 通用矩阵乘（GEMM）优化与卷积计算
+	- 高性能的数学运算库: openblas, MKL 等
+	- 深度学习的推理框架: TensorRT, OpenVINO 等
+	- 模型量化. inference 时使用 int8 而非 float32
+	- 芯片: 推理芯片, 训练芯片, 算法定制芯片, 通用芯片
+
+4. 其他基础知识
+
+	- Computer Architecture
+	- 分布式存储: ceph 等
+	- 编程语言: Python, c++
 
 # Plans
 
 > [WIP]: work in progress, 进行中
 
-- [ ] [WIP] 初始化提纲目录
-- [ ] 明确此文档的长期维护机制
-- [ ] 定义技能等级和衡量标准
-- [ ] 画一张总体局面图
+- [x] 初始化提纲目录, 完成 Scope 定义
+- [x] 明确此文档的长期维护机制
+- [ ] [WIP]画一张总体局面图, 最好定义技能等级和衡量标准
 - [ ] 定义学习的优先级
 - [ ] 我的学习计划
 - [ ] 给出每个技能的学习路径
@@ -315,25 +325,25 @@ _MapReduce_
 
 - MapReduce: Simplified Data Processing on Large Clusters | [pdf](pdf/mapreduce-simplified-data-processing-on-large-clusters.pdf) | [notes](notes/mapreduce-simplified-data-processing-on-large-clusters.md)
 
-# 文档管理与更新机制
+# 项目管理记录
 
-## 内容组织结构
+## 内容维护机制
+
+内容分 3 类:
+
+1. reading list. 零散收集的阅读材料, 不乱即可, 无需结构化整理.
+2. 以 project 的形式, 系统的阅读新领域 / 新方向.
+3. 结构化的知识地图.
+
+其中, 1 和 2, 都比较稳定, 每次只要增量的添加笔记即可.
+3 则很难在第一天设计出能用 10 年的知识地图.
+定期按照已有的 notes 规模和特点设计, 每次能用 1-2 年就可以.
+
+## 常用命令
 
 TODO
 
-## 工作流程
-
-TODO
-
-1. 不改动内容框架的前提下，更新内容
-	1. 增加 toc，更新 toc
-2. 改动内容框架
-	- 增加新的类目
-	- 类目关系重新组织
-	- 更新总体局面图
-
-
-# 我的 timeline
+## 我的 timeline
 
 | 开始时间   |      事项      |      输出      | 耗时 | 评价 |
 | --------- |:------------ |:-------------- |:---:|:---|
