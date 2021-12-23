@@ -32,14 +32,6 @@ Paper Reading
 	- 分布式存储: ceph 等
 	- 编程语言: Python, c++
 
-# 知识地图
-
-TODO 结构化的知识地图
-
-定期按照已有的 notes 规模和特点设计, 每次能用 1-2 年就可以.
-
-~~详见 [knowledge_graph_2021_12_13.md](knowledge_graph/knowledge_graph_2021_12_13.md)~~
-
 # Topic Readings 专题阅读笔记
 
 以专题阅读的形式, 系统的阅读新领域 / 新方向
@@ -48,7 +40,6 @@ TODO 结构化的知识地图
 | --- | --- | --- | --- |
 | | deep learning | [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) | 三大经典实用模型：AlexNet、VggNet、ResNet |
 | | deep learning | [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) | 当前研究热点，semi-supervised learning 流派越来越抢眼 |
-
 
 # reading list
 
@@ -78,6 +69,11 @@ _Near-duplicate Detection_
 - A Closer Look at Skip-gram Modelling | [pdf](pdf/a-closer-look-at-skip-gram-modelling.pdf)
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
+
+## CPU 性能优化
+
+- [CPU Cache Line伪共享问题的总结和分析](https://mp.weixin.qq.com/s/y1NSE5xdh8Nt5hlmK0E8Og) 阿里云 杨勇
+
 ## 搜索引擎
 
 - Web search for a planet: The Google cluster architecture | [pdf](pdf/googlecluster-ieee.pdf)
@@ -116,6 +112,10 @@ papers
 ## 常用命令
 
 TODO
+
+## Wishing List
+
+- 画一个知识地图, 定义技能等级和评价标准
 
 ## 我的 timeline
 
