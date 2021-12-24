@@ -1,6 +1,6 @@
 /*
 matrix add using CUDA
-demonstrate that the order of accessing momery matters a lot on speed performance
+demonstrate that GPU cache line is important to high speed performance
 
 compile: make
 
@@ -8,8 +8,7 @@ run: ./test 10240 1024
 
 output(using 2080ti):
 
-#################### LOOP_M_FIRST #########################
-
+#################### Better Cache #########################
 <M, N> = <10240 1024>
 Take 0.247000 ms 169.809879 GB/s
 Take 0.239000 ms 175.493891 GB/s
@@ -32,7 +31,7 @@ Take 0.238000 ms 176.231261 GB/s
 Take 0.239000 ms 175.493891 GB/s
 Take 0.240000 ms 174.762667 GB/s
 
-#################### LOOP_N_FIRST #########################
+#################### Worse Cache #########################
 <M, N> = <10240 1024>
 Take 0.760000 ms 55.188211 GB/s
 Take 0.752000 ms 55.775319 GB/s
@@ -69,7 +68,7 @@ Take 0.766000 ms 54.755927 GB/s
 
 // step 1. compile and run. fast
 // step 2. comment this line, compile and run. slow
-// #define LOOP_M_FIRST
+#define BETTER_CACHE
 
 #define TIME(a,b) ((double)((b).tv_sec-(a).tv_sec) * 1000.0 + (double)((b).tv_usec-(a).tv_usec)/(double)1000.0)
 
@@ -91,7 +90,7 @@ __global__ void AddGpuKernel(float *C,
     const int tnumx = blockDim.x * gridDim.x;
     const int tnumy = blockDim.y * gridDim.y;
 
-#if defined(LOOP_M_FIRST)
+#if defined(BETTER_CACHE)
     for (int i = tidy; i < M; i += tnumy)
     {
         for (int j = tidx; j < N; j += tnumx)
