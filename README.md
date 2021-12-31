@@ -70,9 +70,25 @@ _Near-duplicate Detection_
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
 
-## CPU 性能优化
+## 性能优化与并发编程
+
+主要是几个 topic
+
+- Linux perf 工具的使用
+- CPU 上的并发编程, 比如, OpenMP 模型, Cache 与 Numa 类问题
+- GPU 上的并发编程. 主要是 cuda
+
+#### Cache 与 Numa
 
 - [CPU Cache Line伪共享问题的总结和分析](https://mp.weixin.qq.com/s/y1NSE5xdh8Nt5hlmK0E8Og) 阿里云 杨勇
+
+#### OpenMP
+
+- [OpenMP tutorial](https://hpc.llnl.gov/tuts/openMP) one of the eight tutorials in the 4+ day "Using LLNL's Supercomputers" workshop
+
+#### CUDA
+
+- [CUDA tutorial with code](cpp-notes/cuda-tutorial/README.md)
 
 ## 搜索引擎
 
