@@ -36,14 +36,32 @@ Paper Reading
 
 以专题阅读的形式, 系统的阅读新领域 / 新方向
 
-| 日期 | 分类 | 笔记 link | 简介 |
-| --- | --- | --- | --- |
-| | deep learning | [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) | 三大经典实用模型：AlexNet、VggNet、ResNet |
-| | deep learning | [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) | 当前研究热点，semi-supervised learning 流派越来越抢眼 |
+- [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) 读三个经典实用模型的论文：AlexNet、VggNet、ResNet
+- [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) 当前研究热点，semi-supervised learning 流派越来越抢眼
 
 # reading list
 
 零散收集的阅读材料, 不乱即可, 无需结构化整理.
+
+## 自动驾驶
+
+#### 入门 tutorial
+
+- [Apollo & Udacity 开放课程](https://apollo.auto/devcenter/devcenter_cn.html)
+
+#### 深入自动驾驶
+
+- [Apollo轨迹规划技术分享](https://www.cnblogs.com/liuzubing/p/11051390.html)
+- [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/)
+- [多伦多大学开放课程-自动驾驶汽车](https://www.coursera.org/specializations/self-driving-cars) 较为详细的分模块介绍, slides 和 scripts 质量很高
+
+#### 自动驾驶 Lectures
+
+- [MIT 开放课程-Self-Driving Cars](https://selfdrivingcars.mit.edu/) Waymo 等公司的 lecture
+- [Tesla Autonomy Day 2019](https://www.youtube.com/watch?v=-b041NXGPZ8&t=7371s)
+- [Inside Nvidia's AI Infrastructure for Self-Driving Cars](https://www.youtube.com/watch?v=__eCwQxZFv8&t=226s)
+- [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
+
 
 ## NLP
 
