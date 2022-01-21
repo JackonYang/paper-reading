@@ -51,6 +51,7 @@ Paper Reading
 
 #### 深入自动驾驶
 
+- [apollo3.5 Cyber架构讲解记录](https://zhuanlan.zhihu.com/p/56053077) 百度-王柏生
 - [Apollo轨迹规划技术分享](https://www.cnblogs.com/liuzubing/p/11051390.html)
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/)
 - [多伦多大学开放课程-自动驾驶汽车](https://www.coursera.org/specializations/self-driving-cars) 较为详细的分模块介绍, slides 和 scripts 质量很高
@@ -62,6 +63,13 @@ Paper Reading
 - [Inside Nvidia's AI Infrastructure for Self-Driving Cars](https://www.youtube.com/watch?v=__eCwQxZFv8&t=226s)
 - [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
 
+#### 可视化
+
+- [自动驾驶主流可视化工具对比（cruise/uber/Apollo/waymo）](https://zhuanlan.zhihu.com/p/113026573)
+- [Uber和Cruise开源自动驾驶的可视化工具](https://zhuanlan.zhihu.com/p/57279694)
+- [Cruise 开源了可视化平台Webviz，以提升自动驾驶研究水平](https://zhuanlan.zhihu.com/p/71190270)
+- [AVS 3D Web 自动驾驶可视化+伯克利开源项目+Uber开源项目](https://zhuanlan.zhihu.com/p/152382225)
+- [运行apollo3.5并体验dreamview可视化效果](https://zhuanlan.zhihu.com/p/56089471)
 
 ## NLP
 
