@@ -52,8 +52,6 @@ Paper Reading
 #### 深入自动驾驶
 
 - [apollo3.5 Cyber架构讲解记录](https://zhuanlan.zhihu.com/p/56053077) 百度-王柏生
-- [Apollo轨迹规划技术分享](https://www.cnblogs.com/liuzubing/p/11051390.html)
-- [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/)
 - [多伦多大学开放课程-自动驾驶汽车](https://www.coursera.org/specializations/self-driving-cars) 较为详细的分模块介绍, slides 和 scripts 质量很高
 
 #### 自动驾驶 Lectures
@@ -62,6 +60,19 @@ Paper Reading
 - [Tesla Autonomy Day 2019](https://www.youtube.com/watch?v=-b041NXGPZ8&t=7371s)
 - [Inside Nvidia's AI Infrastructure for Self-Driving Cars](https://www.youtube.com/watch?v=__eCwQxZFv8&t=226s)
 - [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
+
+
+#### Motion Planning 决策规划
+
+- :thumbsup: [Apollo 规划技术详解](https://bit.baidu.com/productsBuy?id=82) 主讲人是 百度 EM planner paper 的作者, 7 个视频, 1 倍速看完预计 4h
+- [Robot Motion Planning](https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/020807motion.pdf) pdf slide, 非常干货
+- [Apollo轨迹规划技术分享](https://www.cnblogs.com/liuzubing/p/11051390.html)
+- [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/)
+
+#### Control 控制系统
+
+- [Toward a Comfortable Driving Experience for a Self-Driving Shuttle Bus](https://www.mdpi.com/2079-9292/8/9/943)
+
 
 #### 可视化
 
