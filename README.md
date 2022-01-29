@@ -45,14 +45,15 @@ Paper Reading
 
 ## 自动驾驶
 
-#### 入门 tutorial
+#### tutorials
 
 - [Apollo & Udacity 开放课程](https://apollo.auto/devcenter/devcenter_cn.html)
-
-#### 深入自动驾驶
-
 - [apollo3.5 Cyber架构讲解记录](https://zhuanlan.zhihu.com/p/56053077) 百度-王柏生
 - [多伦多大学开放课程-自动驾驶汽车](https://www.coursera.org/specializations/self-driving-cars) 较为详细的分模块介绍, slides 和 scripts 质量很高
+- :thumbsup: [Apollo 规划技术详解](https://bit.baidu.com/productsBuy?id=82) 主讲人是 百度 EM planner paper 的作者, 7 个视频, 1 倍速看完预计 4h
+- [Robot Motion Planning](https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/020807motion.pdf) pdf slide, 非常干货
+- [Apollo轨迹规划技术分享](https://www.cnblogs.com/liuzubing/p/11051390.html)
+- [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/)
 
 #### 自动驾驶 Lectures
 
@@ -62,16 +63,13 @@ Paper Reading
 - [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
 
 
-#### Motion Planning 决策规划
+#### Paper - Motion Planning 决策规划
 
-- :thumbsup: [Apollo 规划技术详解](https://bit.baidu.com/productsBuy?id=82) 主讲人是 百度 EM planner paper 的作者, 7 个视频, 1 倍速看完预计 4h
-- [Robot Motion Planning](https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/020807motion.pdf) pdf slide, 非常干货
-- [Apollo轨迹规划技术分享](https://www.cnblogs.com/liuzubing/p/11051390.html)
-- [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/)
+- [Optimal and Efficient Path Planning for Partially-Known Environments](http://robotics.caltech.edu/~jwb/courses/ME132/handouts/Dstar_icra94.pdf) 1994, D* 算法
 
-#### Control 控制系统
+#### Paper - Control 控制系统
 
-- [Toward a Comfortable Driving Experience for a Self-Driving Shuttle Bus](https://www.mdpi.com/2079-9292/8/9/943)
+- [Toward a Comfortable Driving Experience for a Self-Driving Shuttle Bus](https://www.mdpi.com/2079-9292/8/9/943) 基于福田大客车研究 acc & jerk, 适用于 self-driving 和小汽车.
 
 
 #### 可视化
@@ -114,6 +112,12 @@ _Near-duplicate Detection_
 - Linux perf 工具的使用
 - CPU 上的并发编程, 比如, OpenMP 模型, Cache 与 Numa 类问题
 - GPU 上的并发编程. 主要是 cuda
+
+
+#### Linux kernel and perf
+
+- [cgroups 详解](pdf/linux-kernel-and-perf/cgroups-intro.pdf)
+- [Linux Performance Analysis and Tools](pdf/linux-kernel-and-perf/linux-performance-analysis-and-tools.pdf)
 
 #### Cache 与 Numa
 
