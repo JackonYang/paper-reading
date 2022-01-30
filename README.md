@@ -54,6 +54,9 @@ Paper Reading
 - [Robot Motion Planning](https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/020807motion.pdf) pdf slide, 非常干货
 - [Apollo轨迹规划技术分享](https://www.cnblogs.com/liuzubing/p/11051390.html)
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/)
+- [自动驾驶中的车辆运动学模型](https://zhuanlan.zhihu.com/p/103834150) 自行车模型(Bicycle Model), 阿克曼转向几何(Ackerman Turning Geometry)是一种为了解决交通工具转弯时，内外转向轮路径指向的圆心不同的几何学。
+- [无人驾驶汽车系统入门（五）——运动学自行车模型和动力学自行车模型](https://blog.csdn.net/AdamShan/article/details/78696874) 运动学自行车模型的Python实现
+- [Github: YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note) Note for Apollo 3.0 perception, prediction and planning modules
 
 #### 自动驾驶 Lectures
 
@@ -69,6 +72,8 @@ Paper Reading
 
 #### Paper - Control 控制系统
 
+- [A Learning-Based Tune-Free Control Framework for Large Scale Autonomous Driving System Deployment](https://arxiv.org/ftp/arxiv/papers/2011/2011.04250.pdf) Apollo 的自动调参控制框架
+- [An Automated Learning-Based Procedure for Large-scale VehicleDynamics Modeling on Baidu Apollo Platform](https://www.researchgate.net/publication/338945678_An_Automated_Learning-Based_Procedure_for_Large-scale_Vehicle_Dynamics_Modeling_on_Baidu_Apollo_Platform) Apollo 的车辆动力学模拟, learning based model,
 - [Toward a Comfortable Driving Experience for a Self-Driving Shuttle Bus](https://www.mdpi.com/2079-9292/8/9/943) 基于福田大客车研究 acc & jerk, 适用于 self-driving 和小汽车.
 
 
