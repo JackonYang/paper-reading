@@ -12,6 +12,8 @@ Video Length: 1:40:26
 
 ## 简评
 
+[slide pdf](https://github.com/CppCon/CppCon2014/blob/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style%20-%20Herb%20Sutter%20-%20CppCon%202014.pdf)
+
 把 c++ 指针这个问题讲完了，什么时候 raw，什么时候 unique ，什么时候 shared.
 
 ## 亮点笔记
