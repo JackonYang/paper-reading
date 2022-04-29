@@ -1,47 +1,29 @@
-Paper Reading
+Paper Reading -- Deep Learning Infra
 ===
-
-面向 deep learning 算法落地的 engineering 工作。
 
 比做算法的懂工程落地，比做工程的懂算法模型。
 
-# Scope 定义
+1. deep learning: 算法、inference 部署、训练框架
+2. 高性能计算
+3. 芯片 & 硬件体系结构
+4. c++ / python 语言
+5. 存储与文件系统: deep learning 的重要 infra
 
-1. 找到一个适合 deep learning 解决的问题
+## C++
 
-	- 自动驾驶
-	- 安防领域的人脸识别
-	- 自动写文章, 虚拟主播
+### 学习材料
 
-2. 工程效率高. 开发效率高, 迭代速度快
+- A tour of C++ | [pdf](pdf/01-modern-cpp/A-Tour-of-C++.pdf) | c++ 之父写的 180 页小书，入门推荐，针对 c++ 11 & 有经验的开发者
 
-	- 深度学习框架: Caffe, MxNet, TensorFlow 等
-	- 分布式的深度学习训练平台：各家公司自建为主
+- <http://www.gotw.ca/gotw/> Guru of the Week is a regular series of C++ programming problems created and written by Herb Sutter.
 
-3. 代码跑的更快, 更省钱.
+### 常用工具
 
-	- 通用矩阵乘（GEMM）优化与卷积计算
-	- 高性能的数学运算库: openblas, MKL 等
-	- 深度学习的推理框架: TensorRT, OpenVINO 等
-	- 模型量化. inference 时使用 int8 而非 float32
-	- 芯片: 推理芯片, 训练芯片, 算法定制芯片, 通用芯片
+- [https://quick-bench.com/](https://quick-bench.com/) 在线测代码的 benchmark
 
-4. 其他基础知识
+    例子：<https://quick-bench.com/q/WHAVxKybeeNMP6-fdEeW8r6_m0M>
 
-	- Computer Architecture
-	- 分布式存储: ceph 等
-	- 编程语言: Python, c++
-
-# Topic Readings 专题阅读笔记
-
-以专题阅读的形式, 系统的阅读新领域 / 新方向
-
-- [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) 读三个经典实用模型的论文：AlexNet、VggNet、ResNet
-- [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) 当前研究热点，semi-supervised learning 流派越来越抢眼
-
-# reading list
-
-零散收集的阅读材料, 不乱即可, 无需结构化整理.
+- <https://godbolt.org/> 在线看汇编代码
 
 ## 自动驾驶
 
@@ -65,7 +47,6 @@ Paper Reading
 - [Inside Nvidia's AI Infrastructure for Self-Driving Cars](https://www.youtube.com/watch?v=__eCwQxZFv8&t=226s)
 - [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
 
-
 #### Paper - Motion Planning 决策规划
 
 - [Optimal and Efficient Path Planning for Partially-Known Environments](http://robotics.caltech.edu/~jwb/courses/ME132/handouts/Dstar_icra94.pdf) 1994, D* 算法
@@ -76,7 +57,6 @@ Paper Reading
 - [An Automated Learning-Based Procedure for Large-scale VehicleDynamics Modeling on Baidu Apollo Platform](https://www.researchgate.net/publication/338945678_An_Automated_Learning-Based_Procedure_for_Large-scale_Vehicle_Dynamics_Modeling_on_Baidu_Apollo_Platform) Apollo 的车辆动力学模拟, learning based model,
 - [Toward a Comfortable Driving Experience for a Self-Driving Shuttle Bus](https://www.mdpi.com/2079-9292/8/9/943) 基于福田大客车研究 acc & jerk, 适用于 self-driving 和小汽车.
 
-
 #### 可视化
 
 - [自动驾驶主流可视化工具对比（cruise/uber/Apollo/waymo）](https://zhuanlan.zhihu.com/p/113026573)
@@ -84,6 +64,11 @@ Paper Reading
 - [Cruise 开源了可视化平台Webviz，以提升自动驾驶研究水平](https://zhuanlan.zhihu.com/p/71190270)
 - [AVS 3D Web 自动驾驶可视化+伯克利开源项目+Uber开源项目](https://zhuanlan.zhihu.com/p/152382225)
 - [运行apollo3.5并体验dreamview可视化效果](https://zhuanlan.zhihu.com/p/56089471)
+
+## Deep Learning 基础理论
+
+- [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) 读三个经典实用模型的论文：AlexNet、VggNet、ResNet
+- [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) 当前研究热点，semi-supervised learning 流派越来越抢眼
 
 ## NLP
 
@@ -110,15 +95,6 @@ _Near-duplicate Detection_
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
 
-## 性能优化与并发编程
-
-主要是几个 topic
-
-- Linux perf 工具的使用
-- CPU 上的并发编程, 比如, OpenMP 模型, Cache 与 Numa 类问题
-- GPU 上的并发编程. 主要是 cuda
-
-
 #### Linux kernel and perf
 
 - [cgroups 详解](pdf/linux-kernel-and-perf/cgroups-intro.pdf)
@@ -140,7 +116,6 @@ _Near-duplicate Detection_
 
 - Web search for a planet: The Google cluster architecture | [pdf](pdf/googlecluster-ieee.pdf)
 
-
 ## 图理论
 
 - Finding and evaluating community structure in networks | [pdf](pdf/finding-and-evaluating-community-structure-in-networks.pdf)
@@ -155,7 +130,6 @@ papers
 - Bigtable: A Distributed Storage System for Structured Data | [pdf](pdf/bigtable-osdi06.pdf)
 - The Chubby lock service for loosely-coupled distributed systems | [pdf](pdf/chubby-osdi06.pdf)
 
-
 ## 分布式系统
 
 papers
@@ -169,8 +143,8 @@ papers
 - Paxos Made Simple | [pdf](pdf/paxos-simple.pdf)
 - MapReduce: Simplified Data Processing on Large Clusters | [pdf](pdf/mapreduce-simplified-data-processing-on-large-clusters.pdf) | [notes](notes/mapreduce-simplified-data-processing-on-large-clusters.md)
 
-
 # 项目笔记
+
 ## 常用命令
 
 TODO
