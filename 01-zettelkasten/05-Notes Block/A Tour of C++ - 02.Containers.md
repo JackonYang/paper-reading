@@ -12,7 +12,7 @@ A class with the main purpose of holding objects. vector / list / map / unordere
 2. 默认推荐用 range-for loop，或 interator, begin(), end() 
 3. 使用多态时，element 要用 pointer
 4. 传参时，用 reference。函数返回时用 value (默认会 move 而不是 copy)
-5. 默认推荐使用 Vector
+5. 默认推荐使用 Vector. 案例：[[Optimizing the Velodyne driver using vector]]
 
 ### 处理性能
 
@@ -29,8 +29,8 @@ A class with the main purpose of holding objects. vector / list / map / unordere
 
 ### 处理性能
 
-1. vector 倍增扩容，capacity 一般是 2 的幂次。
-2. 不能假设 reserve 会带来性能提升，需要测一下。
+1. vector 倍增扩容，capacity 一般是 2 的幂次。（如果当前位置没法扩了，或找个新内存空间，然后把已有数据都 move 过去，所以，可能很慢）
+2. 不能假设 reserve 会带来性能提升，需要测一下。(实测，频繁插入的时候，一般还是有提升的，但不要在 for 循环里 reserve)
 3. 插入类操作的效率，可能是惊人的快。比如 insert，push_back
 
 ## List

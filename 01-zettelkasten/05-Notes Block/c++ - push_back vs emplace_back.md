@@ -18,7 +18,7 @@ push_back:
 emplace_back:
 1. construct
 
-总结：emplace_back 优化掉的，只是 move & destruct，会有性能提升，但影响一般可以忽略
+总结：emplace_back 优化掉的，只是 move(or copy) & destruct，会有性能提升，但影响一般可以忽略
 
 ## 性能实测
 
