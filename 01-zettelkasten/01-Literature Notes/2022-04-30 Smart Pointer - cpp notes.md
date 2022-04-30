@@ -2,7 +2,7 @@
 
 Created: 2022-04-30 20:37
 
-## 要点
+## 00.要点
 
 crucial to the [[c++ - RAII]] programming idiom
 
@@ -19,8 +19,18 @@ crucial to the [[c++ - RAII]] programming idiom
 auto_ptr: 赋值构造或拷贝构造以后，新的 ptr 会夺权内存管理权，容易重复 delete。
 shared_ptr: 没有必要的拷贝，会导致 counter 加加减减。造成 performance 问题。
 
-## References
+## 01.Basic
+
+1. cnblogs: [C++智能指针总结](https://www.cnblogs.com/wuyepeng/p/9741241.html)
+
+## 02.Dive into
 
 1. [[GotW-89 - Smart Pointers]]
 2. [[GotW-91 - Smart Pointer Parameters]]
-3. cnblogs: [C++智能指针总结](https://www.cnblogs.com/wuyepeng/p/9741241.html)
+
+## 03.Case Study
+
+1. [[Case Study - unique pointer destructor issue]]
+
+
+## References
