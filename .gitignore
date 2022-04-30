@@ -1,6 +1,7 @@
 # .gitignore by JackonYang
 
 
+test
 images/*
 log/*
 
