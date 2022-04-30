@@ -30,7 +30,7 @@ emplace_back:
 开 O2 优化，基本没有性能差异
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1r2r8y68kj21h70onae7.jpg)
 
-开 Ofast，快了 1.3 倍。push_back 比 O2 的还要慢，怀疑哪里优化错了。
+开 Ofast，快了 1.3 倍。push_back 比 O2 的还要慢，怀疑哪里优化错了。[[Clang optimization levels]]
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1r2px2vlgj21hg0of42h.jpg)
 
 ## 为什么不能全用 emplace_back
