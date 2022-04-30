@@ -25,7 +25,7 @@ Google 的 inbox 邮件整理，也是类似的思路。
 
 先无脑写，写着写着，结构就自然有了，框架自然就清晰了。
 
-## 工具 - obsidian
+## 工具 - Obsidian
 
 obsidian 非常符合 Zettelkasten 的软件需求，笔记间建立 link 很方面，还能可视化展示。在笔记的结构化方面，也是随着笔记 & 相互之间 link 增多，结构逐渐清晰。非常舒服
 
@@ -33,6 +33,14 @@ obsidian 非常符合 Zettelkasten 的软件需求，笔记间建立 link 很方
 
 - [[Zettelkasten Smart Notes - Step by Step with Obsidian]]
 - [[My simple note-taking setup - Zettelkasten in Obsidian - Step-by-step guide]]
+
+## Plugins
+
+### Obsidian-linter
+
+[Automatically add a line break at the end of the file](https://forum.obsidian.md/t/automatically-add-a-line-break-at-the-end-of-the-file/13229)
+
+You can use the [obsidian-linter 18](https://github.com/platers/obsidian-linter) plugin with the [line-break-at-document-end 9](https://github.com/platers/obsidian-linter/blob/master/docs/rules.md#line-break-at-document-end) option.
 
 ## 补充 Tips
 
@@ -45,4 +53,3 @@ Mac 下可以分屏，一边看视频，一边记笔记。
 效果如下：
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1idavecftj21c80u043z.jpg)
-
