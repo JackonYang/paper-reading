@@ -14,7 +14,8 @@ Paper Reading -- Deep Learning Infra
 - [HPC Learning Timline](01-zettelkasten/06-Content%20Maps/HPC%20Learning%20Timline.md) 我的 HPC 学习时间线
 - [Learn Modern Cpp](01-zettelkasten/06-Content%20Maps/Learn%20Modern%20Cpp.md) 先学点语言基础 -- "Modern" C++
 - [perf-tools-and-docs](01-zettelkasten/06-Content%20Maps/perf-tools-and-docs.md) 性能调优的工具 & 工具使用文档
-- [Server Hardwares](01-zettelkasten/06-Content%20Maps/Server%20Hardwares.md) 硬件入门介绍
+- [Server Hardwares](01-zettelkasten/06-Content%20Maps/Server%20Hardwares.md) 硬件介绍
+- [How To Run faster](01-zettelkasten/06-Content%20Maps/How%20To%20Run%20faster.md) 性能优化的套路与实践
 
 - [cgroups 详解](pdf/linux-kernel-and-perf/cgroups-intro.pdf)
 - [Linux Performance Analysis and Tools](pdf/linux-kernel-and-perf/linux-performance-analysis-and-tools.pdf)
