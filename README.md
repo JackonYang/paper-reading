@@ -9,25 +9,20 @@ Paper Reading -- Deep Learning Infra
 4. c++ / python 语言
 5. 存储与文件系统: deep learning 的重要 infra
 
-## C++
+# 高性能计算
 
-### 学习材料
+- [Learn Modern Cpp](01-zettelkasten/06-Content%20Maps/Learn%20Modern%20Cpp.md) 先学点语言基础 -- "Modern" C++
+- [perf-tools-and-docs](01-zettelkasten/06-Content%20Maps/perf-tools-and-docs.md) 性能调优的工具 & 工具使用文档
+- [Server Hardwares](01-zettelkasten/06-Content%20Maps/Server%20Hardwares.md) 硬件入门介绍
 
-- A tour of C++ | [pdf](pdf/01-modern-cpp/A-Tour-of-C++.pdf) | c++ 之父写的 180 页小书，入门推荐，针对 c++ 11 & 有经验的开发者
+- [cgroups 详解](pdf/linux-kernel-and-perf/cgroups-intro.pdf)
+- [Linux Performance Analysis and Tools](pdf/linux-kernel-and-perf/linux-performance-analysis-and-tools.pdf)
+- [OpenMP tutorial](https://hpc.llnl.gov/tuts/openMP) one of the eight tutorials in the 4+ day "Using LLNL's Supercomputers" workshop
+- [CUDA tutorial with code](cpp-notes/cuda-tutorial/README.md)
 
-- <http://www.gotw.ca/gotw/> Guru of the Week is a regular series of C++ programming problems created and written by Herb Sutter.
+# 自动驾驶
 
-### 常用工具
-
-- [https://quick-bench.com/](https://quick-bench.com/) 在线测代码的 benchmark
-
-    例子：<https://quick-bench.com/q/WHAVxKybeeNMP6-fdEeW8r6_m0M>
-
-- <https://godbolt.org/> 在线看汇编代码
-
-## 自动驾驶
-
-#### tutorials
+## Tutorials
 
 - [Apollo & Udacity 开放课程](https://apollo.auto/devcenter/devcenter_cn.html)
 - [apollo3.5 Cyber架构讲解记录](https://zhuanlan.zhihu.com/p/56053077) 百度-王柏生
@@ -40,24 +35,24 @@ Paper Reading -- Deep Learning Infra
 - [无人驾驶汽车系统入门（五）——运动学自行车模型和动力学自行车模型](https://blog.csdn.net/AdamShan/article/details/78696874) 运动学自行车模型的Python实现
 - [Github: YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note) Note for Apollo 3.0 perception, prediction and planning modules
 
-#### 自动驾驶 Lectures
+## 自动驾驶 Lectures
 
 - [MIT 开放课程-Self-Driving Cars](https://selfdrivingcars.mit.edu/) Waymo 等公司的 lecture
 - [Tesla Autonomy Day 2019](https://www.youtube.com/watch?v=-b041NXGPZ8&t=7371s)
 - [Inside Nvidia's AI Infrastructure for Self-Driving Cars](https://www.youtube.com/watch?v=__eCwQxZFv8&t=226s)
 - [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
 
-#### Paper - Motion Planning 决策规划
+## Paper - Motion Planning 决策规划
 
 - [Optimal and Efficient Path Planning for Partially-Known Environments](http://robotics.caltech.edu/~jwb/courses/ME132/handouts/Dstar_icra94.pdf) 1994, D* 算法
 
-#### Paper - Control 控制系统
+## Paper - Control 控制系统
 
 - [A Learning-Based Tune-Free Control Framework for Large Scale Autonomous Driving System Deployment](https://arxiv.org/ftp/arxiv/papers/2011/2011.04250.pdf) Apollo 的自动调参控制框架
 - [An Automated Learning-Based Procedure for Large-scale VehicleDynamics Modeling on Baidu Apollo Platform](https://www.researchgate.net/publication/338945678_An_Automated_Learning-Based_Procedure_for_Large-scale_Vehicle_Dynamics_Modeling_on_Baidu_Apollo_Platform) Apollo 的车辆动力学模拟, learning based model,
 - [Toward a Comfortable Driving Experience for a Self-Driving Shuttle Bus](https://www.mdpi.com/2079-9292/8/9/943) 基于福田大客车研究 acc & jerk, 适用于 self-driving 和小汽车.
 
-#### 可视化
+## 可视化
 
 - [自动驾驶主流可视化工具对比（cruise/uber/Apollo/waymo）](https://zhuanlan.zhihu.com/p/113026573)
 - [Uber和Cruise开源自动驾驶的可视化工具](https://zhuanlan.zhihu.com/p/57279694)
@@ -65,12 +60,12 @@ Paper Reading -- Deep Learning Infra
 - [AVS 3D Web 自动驾驶可视化+伯克利开源项目+Uber开源项目](https://zhuanlan.zhihu.com/p/152382225)
 - [运行apollo3.5并体验dreamview可视化效果](https://zhuanlan.zhihu.com/p/56089471)
 
-## Deep Learning 基础理论
+ Deep Learning 基础理论
 
 - [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) 读三个经典实用模型的论文：AlexNet、VggNet、ResNet
 - [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) 当前研究热点，semi-supervised learning 流派越来越抢眼
 
-## NLP
+ NLP
 
 _Basic Models_
 
@@ -95,33 +90,17 @@ _Near-duplicate Detection_
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
 
-#### Linux kernel and perf
 
-- [cgroups 详解](pdf/linux-kernel-and-perf/cgroups-intro.pdf)
-- [Linux Performance Analysis and Tools](pdf/linux-kernel-and-perf/linux-performance-analysis-and-tools.pdf)
-
-#### Cache 与 Numa
-
-- [CPU Cache Line伪共享问题的总结和分析](https://mp.weixin.qq.com/s/y1NSE5xdh8Nt5hlmK0E8Og) 阿里云 杨勇
-
-#### OpenMP
-
-- [OpenMP tutorial](https://hpc.llnl.gov/tuts/openMP) one of the eight tutorials in the 4+ day "Using LLNL's Supercomputers" workshop
-
-#### CUDA
-
-- [CUDA tutorial with code](cpp-notes/cuda-tutorial/README.md)
-
-## 搜索引擎
+ 搜索引擎
 
 - Web search for a planet: The Google cluster architecture | [pdf](pdf/googlecluster-ieee.pdf)
 
-## 图理论
+ 图理论
 
 - Finding and evaluating community structure in networks | [pdf](pdf/finding-and-evaluating-community-structure-in-networks.pdf)
 - Fast algorithm for detecting community structure in networks | [pdf](pdf/fast-algorithm-for-detecting-community-structure-in-networks.pdf)
 
-## 数据库系统
+ 数据库系统
 
 papers
 
@@ -130,7 +109,7 @@ papers
 - Bigtable: A Distributed Storage System for Structured Data | [pdf](pdf/bigtable-osdi06.pdf)
 - The Chubby lock service for loosely-coupled distributed systems | [pdf](pdf/chubby-osdi06.pdf)
 
-## 分布式系统
+ 分布式系统
 
 papers
 
@@ -142,19 +121,3 @@ papers
 - The Part-Time Parliament | [pdf](pdf/The-Part-Time-Parliament.pdf)
 - Paxos Made Simple | [pdf](pdf/paxos-simple.pdf)
 - MapReduce: Simplified Data Processing on Large Clusters | [pdf](pdf/mapreduce-simplified-data-processing-on-large-clusters.pdf) | [notes](notes/mapreduce-simplified-data-processing-on-large-clusters.md)
-
-# 项目笔记
-
-## 常用命令
-
-TODO
-
-## Wishing List
-
-- 画一个知识地图, 定义技能等级和评价标准
-
-## 我的 timeline
-
-| 开始时间   |      事项      |      输出      | 耗时 | 评价 |
-| --------- |:------------ |:-------------- |:---:|:---|
-| 2021.5.26 | 学 c++ 基本功 |      TODO      | 4d | 满意 |
