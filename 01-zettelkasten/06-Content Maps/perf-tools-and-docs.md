@@ -11,7 +11,8 @@ Created: 2022-05-01 00:13
 
 ## Online Tools
 
-1. [[quick-bench dot com]]
+1. [[quick-bench dot com]]: 在线测 c++ 代码的 benchmark
+2. [[godbolt dot org]] 在线看 c++ 代码的汇编代码
 
 # Docs
 
