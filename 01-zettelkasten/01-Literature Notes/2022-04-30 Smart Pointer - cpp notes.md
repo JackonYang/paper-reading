@@ -1,10 +1,10 @@
-# 2022-04-30 Smart Pointer - cpp notes
+# 2022-04-30 Smart Pointer - Cpp Notes
 
 Created: 2022-04-30 20:37
 
 ## 00.要点
 
-crucial to the [[c++ - RAII]] programming idiom
+crucial to the [c++ - RAII](../05-Notes%20Block/c++%20-%20RAII.md) programming idiom
 
 1. 不用手动 new / delete
 2. 避免了常见的重复 delete 问题
@@ -25,12 +25,11 @@ shared_ptr: 没有必要的拷贝，会导致 counter 加加减减。造成 perf
 
 ## 02.Dive into
 
-1. [[GotW-89 - Smart Pointers]]
-2. [[GotW-91 - Smart Pointer Parameters]]
+1. [GotW-89 - Smart Pointers](../05-Notes%20Block/GotW-89%20-%20Smart%20Pointers.md)
+2. [GotW-91 - Smart Pointer Parameters](../05-Notes%20Block/GotW-91%20-%20Smart%20Pointer%20Parameters.md)
 
 ## 03.Case Study
 
-1. [[Case Study - unique pointer destructor issue]]
-
+1. [Case Study - unique pointer destructor issue](../05-Notes%20Block/Case%20Study%20-%20unique%20pointer%20destructor%20issue.md)
 
 ## References

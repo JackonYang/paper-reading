@@ -4,7 +4,7 @@ Created: 2022-04-30 13:20
 
 ## Notes
 
-## shared_ptr implementation
+## shared_ptr Implementation
 
 maintain housekeeping information in a control block shared by all shared_ptrs and weak_ptrs referring to a given object
 
@@ -13,7 +13,7 @@ housekeeping information 包括
 - A “strong reference” count。指向 object，为 0 时，清理 object。
 - A “weak reference” count。observing object。为 0 时，触发清理 control block。如果 shared object 还没有被清理，则也触发。
 
-## shared_ptr vs. unique_ptr
+## shared_ptr Vs. unique_ptr
 
 若不确定，默认就行 unique_ptr. 3 个理由
 

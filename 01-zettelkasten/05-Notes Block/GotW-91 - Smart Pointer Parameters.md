@@ -17,7 +17,6 @@ Created: 2022-04-30 13:12
 4. 不推荐 `const unique_ptr&`，直接传 raw pointer，或 reference(if not nullable)
 5. Use a `const shared_ptr&` as a parameter only if you’re not sure whether or not you’ll take a copy and share ownership
 
-
 ## Copy 的性能损失
 
 smarter pointer 作为参数的性能损失，错误用法例如：
@@ -39,8 +38,7 @@ the reference count is an atomic shared variable (or equivalent), incrementing
 
 shared reference count，一个变量，同时只有一个 processor 能处理。其他 processor 要等待。也可能会影响 reference count 的 cache line。当然，设计良好的代码，不应该多 processor 进程短时间内反复修改同一个 reference count。
 
-
-## Passing unique_ptr by value means “sink.”
+## Passing unique_ptr by Value Means “sink.”
 
 ```cpp
 void f( unique_ptr<widget> );
@@ -85,14 +83,13 @@ good_sink( pw );             // error: good!
 good_sink( move(pw) );       // compiles: crystal clear what's going on
 ```
 
-## Passing unique_ptr by reference is for in/out unique_ptr parameters.
+## Passing unique_ptr by Reference is for in/out unique_ptr Parameters.
 
 ```cpp
 void f( unique_ptr<widget>& );
 ```
 
-
-## Passing shared_ptr by value implies taking shared ownership.
+## Passing shared_ptr by Value Implies Taking Shared Ownership.
 
 ```cpp
 void f( shared_ptr<widget> );
@@ -105,4 +102,4 @@ If the local scope is not the final destination, just std::move the shared_pt
 ## References
 
 1. https://herbsutter.com/2013/06/05/gotw-91-solution-smart-pointer-parameters/
-2. [[GotW-89 - Smart Pointers]]
+2. [GotW-89 - Smart Pointers](GotW-89%20-%20Smart%20Pointers.md)
