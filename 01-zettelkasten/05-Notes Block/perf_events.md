@@ -8,8 +8,6 @@ perf_events 易于搜索
 
 ## 用法案例
 
-![[Pasted image 20220501002309.png]]
-
 ## 功能范围
 
 event-oriented observability tool, which can help you solve advanced performance and troubleshooting functions. Questions that can be answered include:

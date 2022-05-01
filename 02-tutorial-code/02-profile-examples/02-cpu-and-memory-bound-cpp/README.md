@@ -1,4 +1,4 @@
-# push_back VS emplace_back
+# CPU & Memory Bound Cpp
 
 ## Usage
 
@@ -20,3 +20,7 @@ make clean
 2. memory_bound  函数使用 _mm_clflush 驱逐缓存，人为触发程序的 L1 D-Cache Load Miss。因此该函数 CPI 必然大于 1，属于典型的 Memory 密集型的代码。
 
 ## Output
+
+## Reference
+
+代码来自：http://oliveryang.net/2018/03/linux-CPI-flamegraph/
