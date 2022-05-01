@@ -1,4 +1,4 @@
-# c++ - push_back vs emplace_back
+# c++ - push_back Vs emplace_back
 
 Created: 2022-04-29 23:51
 
@@ -22,16 +22,12 @@ emplace_back:
 
 ## 性能实测
 
-测试环境：[https://quick-bench.com/q/8BE_4RgtUrY_lCj_uUiEeDl7LJs](https://quick-bench.com/q/8BE_4RgtUrY_lCj_uUiEeDl7LJs)
+测试环境：[https://quick-bench.com/q/vbXC5sFAY5an9c8Iz157ErvBs44](https://quick-bench.com/q/vbXC5sFAY5an9c8Iz157ErvBs44)
 
-1. 加速很微弱
-2. 开 O3 时，快了 1.3 倍。可能是优化错了，另外，push_back 本身就耗时很小，快 1.3 倍一般也影响不到整个系统 performance。
+1. 快了 1.6 倍，提升比例还不错。
+2. 实际项目里，push_back 本身耗时预期很小，即使全部优化掉，可能也影响不到整个系统 performance。
 
-开 O2 优化，基本没有性能差异
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1r2r8y68kj21h70onae7.jpg)
-
-开 Ofast，快了 1.3 倍。push_back 比 O2 的还要慢，怀疑哪里优化错了。[[Clang optimization levels]]
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1r2px2vlgj21hg0of42h.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1sr28k6otj21hb0obwir.jpg)
 
 ## 为什么不能全用 emplace_back
 
@@ -45,10 +41,9 @@ std::vector<std::vector<int>> vec1;
 vec1.emplace_back(1000000);
 ```
 
-
 ## References
 
-1. https://yasenh.github.io/post/cpp-diary-1-emplace_back/
+1. [https://yasenh.github.io/post/cpp-diary-1-emplace_back/](https://yasenh.github.io/post/cpp-diary-1-emplace_back/)
 2. [CLANG-TIDY - MODERNIZE-USE-EMPLACE](https://clang.llvm.org/extra/clang-tidy/checks/modernize-use-emplace.html)
-2.  [C++ difference between emplace_back and push_back function](http://candcplusplus.com/c-difference-between-emplace_back-and-push_back-function)
-3.  [Tip of the Week #112: emplace vs. push_back](https://abseil.io/tips/112)
+2. [C++ difference between emplace_back and push_back function](http://candcplusplus.com/c-difference-between-emplace_back-and-push_back-function)
+3. [Tip of the Week #112: emplace vs. push_back](https://abseil.io/tips/112)

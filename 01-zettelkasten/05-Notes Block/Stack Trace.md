@@ -12,10 +12,7 @@ a report of the active stack frames at a certain point in time during the execut
 Java:
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1s6ystkyrj20kg03maad.jpg)
 
-Python: https://docs.python.org/3/library/traceback.html
-
-c/c++: https://www.gnu.org/software/libc/manual/html_node/Backtraces.html
-
 ## References
 
-1.
+1. Python: https://docs.python.org/3/library/traceback.html
+2. c/c++: https://www.gnu.org/software/libc/manual/html_node/Backtraces.html
