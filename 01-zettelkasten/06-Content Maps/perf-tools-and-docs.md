@@ -8,6 +8,9 @@ Created: 2022-05-01 00:13
 2. [eBPF](../05-Notes%20Block/eBPF.md)
 3. [Hotspot](../05-Notes%20Block/Hotspot.md)
 4. [heaptrack](../05-Notes%20Block/heaptrack.md): Heap Memory Profiler for Linux
+5. [gperftools](../05-Notes%20Block/gperftools.md)
+6. [valgrind](../05-Notes%20Block/valgrind.md) 内存分析工具，慢到基本不要用
+7. [sanitizer](../05-Notes%20Block/sanitizer.md)
 
 ## Online Tools
 

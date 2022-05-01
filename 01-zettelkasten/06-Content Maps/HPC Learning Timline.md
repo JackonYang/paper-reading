@@ -13,9 +13,18 @@
 - 多线程
 - history
 
+最新的完整 notes: [Learn Modern Cpp](Learn%20Modern%20Cpp.md)
+
 ## Perf 工具
 
-先掌握几个比较有用的即可
+1. [Perf and Flame Graph Quick Start](../05-Notes%20Block/Perf%20and%20Flame%20Graph%20Quick%20Start.md)
+2. [trace glibc using gdb](../05-Notes%20Block/trace%20glibc%20using%20gdb.md)
+3. [gperftools](../05-Notes%20Block/gperftools.md)
+4. [sanitizer](../05-Notes%20Block/sanitizer.md)
 
-1. [Perf Quick Start](../05-Notes%20Block/Perf%20Quick%20Start.md)
-2. 
+思路:
+
+1. 先掌握几个比较有用的工具即可，重点是 perf & 火焰图。其他可以先跳过
+2. 关键要实际的 profile 几个典型的 code。理解典型问题的特征 & 代码层面的原因
+
+最新的完整 notes: [perf-tools-and-docs](perf-tools-and-docs.md)
