@@ -11,6 +11,7 @@ Created: 2022-05-01 00:13
 5. [gperftools](../05-Notes%20Block/gperftools.md)
 6. [valgrind](../05-Notes%20Block/valgrind.md) 内存分析工具，慢到基本不要用
 7. [sanitizer](../05-Notes%20Block/sanitizer.md)
+8. [fio](../05-Notes%20Block/fio.md)
 
 ## Online Tools
 
@@ -23,6 +24,10 @@ Created: 2022-05-01 00:13
 2. [CPU Flame Graphs](../05-Notes%20Block/CPU%20Flame%20Graphs.md)
 3. https://github.com/brendangregg/perf-tools: Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 
-# Highlights
+# 零散笔记
 
 Run your test under `ltrace` or `valgrind` and see the number of `malloc()` calls.
+
+使用SpecInt， SpecFP，Linpack等得到处理器的性能，对比设计性能指标
+
+使用Stream测试程序测试内存系统的性能
