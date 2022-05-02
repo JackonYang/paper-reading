@@ -58,4 +58,5 @@ heap 的内存泄露检测
 
 ## References
 
-1.
+1. https://github.com/gperftools/gperftools
+2. https://developer.ridgerun.com/wiki/index.php?title=Profiling_with_GPerfTools
