@@ -1,4 +1,5 @@
-Paper Reading -- Deep Learning Infra
+# Paper Reading -- Deep Learning Infra
+
 ===
 
 比做算法的懂工程落地，比做工程的懂算法模型。
@@ -9,7 +10,27 @@ Paper Reading -- Deep Learning Infra
 4. c++ / python 语言
 5. 存储与文件系统: deep learning 的重要 infra
 
-# 高性能计算
+## C++ & GPU 编程
+
+### Reading List
+
+- [A Tour of C++](01-zettelkasten/02-References/A%20Tour%20of%20C++.md)
+- CUDA BY EXAMPLE: And Introduction to General-Pirpose GPU Programming
+- CUDA Application Design and Development
+
+## 高性能计算
+
+### Reading List
+
+- [深入理解计算机系统](01-zettelkasten/05-Notes%20Block/Computer%20Systems%20-%20A%20Programmer-s%20Perspective.md) 编译器级性能优化，存储器层次结构。进程通信。
+- [计算机体系结构 - 量化研究方法](01-zettelkasten/02-References/Computer%20Architecture%20-%20A%20quantitative%20Approach.md) 并行优化的理论体系。存储的层级结构，指令级优化，SIMD 数据并行，线程级并行等。
+- [计算机组成与设计 - 硬件/软件接口](01-zettelkasten/05-Notes%20Block/Computer%20Organization%20and%20Design%20-%20The%20Hardware%20and%20Software%20Interface.md) 指令级，CPU 流水线，存储器的层级结构
+
+全都用大量篇幅讲存储器的层次结构。
+
+TODO  补充 deep learning 的高性能计算
+
+### Notes
 
 - [HPC Learning Timline](01-zettelkasten/06-Content%20Maps/HPC%20Learning%20Timline.md) 我的 HPC 学习时间线
 - [Learn Modern Cpp](01-zettelkasten/06-Content%20Maps/Learn%20Modern%20Cpp.md) 语言基础 -- Modern Cpp 学习地图
@@ -22,9 +43,9 @@ Paper Reading -- Deep Learning Infra
 - [OpenMP tutorial](https://hpc.llnl.gov/tuts/openMP) one of the eight tutorials in the 4+ day "Using LLNL's Supercomputers" workshop
 - [CUDA tutorial with code](cpp-notes/cuda-tutorial/README.md)
 
-# 自动驾驶
+## 自动驾驶
 
-## Tutorials
+### Tutorials
 
 - [Apollo & Udacity 开放课程](https://apollo.auto/devcenter/devcenter_cn.html)
 - [apollo3.5 Cyber架构讲解记录](https://zhuanlan.zhihu.com/p/56053077) 百度-王柏生
@@ -37,24 +58,24 @@ Paper Reading -- Deep Learning Infra
 - [无人驾驶汽车系统入门（五）——运动学自行车模型和动力学自行车模型](https://blog.csdn.net/AdamShan/article/details/78696874) 运动学自行车模型的Python实现
 - [Github: YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note) Note for Apollo 3.0 perception, prediction and planning modules
 
-## 自动驾驶 Lectures
+### 自动驾驶 Lectures
 
 - [MIT 开放课程-Self-Driving Cars](https://selfdrivingcars.mit.edu/) Waymo 等公司的 lecture
 - [Tesla Autonomy Day 2019](https://www.youtube.com/watch?v=-b041NXGPZ8&t=7371s)
 - [Inside Nvidia's AI Infrastructure for Self-Driving Cars](https://www.youtube.com/watch?v=__eCwQxZFv8&t=226s)
 - [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
 
-## Paper - Motion Planning 决策规划
+### Paper - Motion Planning 决策规划
 
 - [Optimal and Efficient Path Planning for Partially-Known Environments](http://robotics.caltech.edu/~jwb/courses/ME132/handouts/Dstar_icra94.pdf) 1994, D* 算法
 
-## Paper - Control 控制系统
+### Paper - Control 控制系统
 
 - [A Learning-Based Tune-Free Control Framework for Large Scale Autonomous Driving System Deployment](https://arxiv.org/ftp/arxiv/papers/2011/2011.04250.pdf) Apollo 的自动调参控制框架
 - [An Automated Learning-Based Procedure for Large-scale VehicleDynamics Modeling on Baidu Apollo Platform](https://www.researchgate.net/publication/338945678_An_Automated_Learning-Based_Procedure_for_Large-scale_Vehicle_Dynamics_Modeling_on_Baidu_Apollo_Platform) Apollo 的车辆动力学模拟, learning based model,
 - [Toward a Comfortable Driving Experience for a Self-Driving Shuttle Bus](https://www.mdpi.com/2079-9292/8/9/943) 基于福田大客车研究 acc & jerk, 适用于 self-driving 和小汽车.
 
-## 可视化
+### 可视化
 
 - [自动驾驶主流可视化工具对比（cruise/uber/Apollo/waymo）](https://zhuanlan.zhihu.com/p/113026573)
 - [Uber和Cruise开源自动驾驶的可视化工具](https://zhuanlan.zhihu.com/p/57279694)
@@ -62,12 +83,12 @@ Paper Reading -- Deep Learning Infra
 - [AVS 3D Web 自动驾驶可视化+伯克利开源项目+Uber开源项目](https://zhuanlan.zhihu.com/p/152382225)
 - [运行apollo3.5并体验dreamview可视化效果](https://zhuanlan.zhihu.com/p/56089471)
 
- Deep Learning 基础理论
+## Deep Learning 基础理论
 
 - [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) 读三个经典实用模型的论文：AlexNet、VggNet、ResNet
 - [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) 当前研究热点，semi-supervised learning 流派越来越抢眼
 
- NLP
+## NLP
 
 _Basic Models_
 
@@ -92,17 +113,16 @@ _Near-duplicate Detection_
 - Similarity Estimation Techniques from Rounding Algorithms | [pdf](pdf/charikar-estim.pdf)
 - Detecting Near-Duplicates for Web Crawling | [pdf](pdf/simhash-detecting-near-duplicates-for-web-crawling.pdf)
 
-
- 搜索引擎
+## 搜索引擎
 
 - Web search for a planet: The Google cluster architecture | [pdf](pdf/googlecluster-ieee.pdf)
 
- 图理论
+## 图理论
 
 - Finding and evaluating community structure in networks | [pdf](pdf/finding-and-evaluating-community-structure-in-networks.pdf)
 - Fast algorithm for detecting community structure in networks | [pdf](pdf/fast-algorithm-for-detecting-community-structure-in-networks.pdf)
 
- 数据库系统
+## 数据库系统
 
 papers
 
@@ -111,7 +131,7 @@ papers
 - Bigtable: A Distributed Storage System for Structured Data | [pdf](pdf/bigtable-osdi06.pdf)
 - The Chubby lock service for loosely-coupled distributed systems | [pdf](pdf/chubby-osdi06.pdf)
 
- 分布式系统
+## 分布式系统
 
 papers
 
