@@ -33,4 +33,4 @@ rmmovl %esp 0x12345(%edx)
 
 ## References
 
-1. [y86-isa](../../04-pdf/files/y86-isa.pdf)
+1. [Y86-ISA PDF](../../04-pdf/files/Y86-ISA.pdf)

@@ -6,17 +6,11 @@ Created: 2022-05-04 00:05
 
 详细笔记：[Sequential Y86-64 Implementation](../../04-pdf/files/Sequential%20Y86-64%20Implementation.pdf)
 
-处理指令分 6 个阶段：
-1. fetch
-2. decode
-3. execute
-4. memory
-5. write back
-6. PC update
-
-控制指令执行：
-1. 用时钟控制状态元素的更新
-2. 值通过组合逻辑来传播
+1. 处理指令分 6 个阶段
+2. 控制指令执行：
+	- 用时钟控制状态元素的更新
+	- 值通过组合逻辑来传播
+3. 用时序（timing）控制写 - 存储。使得所有状态更新同时发生
 
 ## 处理指令的 6 个阶段
 
@@ -62,4 +56,4 @@ circuit retiming
 ## References
 
 1. [Sequential Y86-64 Implementation](../../04-pdf/files/Sequential%20Y86-64%20Implementation.pdf)
-2. [y86-isa](../../04-pdf/files/y86-isa.pdf)
+2. [Y86-ISA PDF](../../04-pdf/files/Y86-ISA.pdf)
