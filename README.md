@@ -35,7 +35,7 @@ Nvidia Docs:
 
 - [深入理解计算机系统](01-zettelkasten/02-References/Computer%20Systems%20-%20A%20Programmer-s%20Perspective.md) 入门编译器级的性能优化。理解 CPU 体系结构、存储器层次结构，了解进程间通信。
 - [计算机体系结构 - 量化研究方法](01-zettelkasten/02-References/Computer%20Architecture%20-%20A%20quantitative%20Approach.md) 并行优化的理论体系。存储的层级结构，指令级优化，SIMD 数据并行，线程级并行等。
-- [计算机组成与设计 - 硬件/软件接口](01-zettelkasten/02-References/Computer%20Organization%20and%20Design%20-%20The%20Hardware%20and%20Software%20Interface.md) 指令级，CPU 流水线，存储器的层级结构
+- [计算机组成与设计 - 硬件/软件接口](01-zettelkasten/02-References/Computer%20Organization%20and%20Design%20-%20The%20Hardware%20and%20Software%20Interface.md) 更偏硬件设计。软件开发者需要理解的，基本都在前两本里讲得更透彻。可以不读。
 
 全都用大量篇幅讲存储器的层次结构。
 

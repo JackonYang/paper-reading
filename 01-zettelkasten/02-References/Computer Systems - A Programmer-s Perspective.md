@@ -32,7 +32,7 @@ PDF 版详细笔记：[Sequential Y86-64 Implementation](../../04-pdf/files/Sequ
 	- 组合逻辑，值在里面传播，不用存储
 	- 时序（timing）控制写-存储
 	- 电路重定时（circuit retiming）
-- CPU Pipeline 设计: [Y86 Pipelining](../05-Notes%20Block/Y86%20Pipelining.md)
+- CPU Pipeline 设计: 讲的很一般，不是本书精髓。直接看 [MIPS CPU Pipeline Introduction](../05-Notes%20Block/MIPS%20CPU%20Pipeline%20Introduction.md)
 
 ## Reference
 
