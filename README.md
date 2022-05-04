@@ -1,30 +1,41 @@
 # Paper Reading -- Deep Learning Infra
 
-===
-
 比做算法的懂工程落地，比做工程的懂算法模型。
 
-1. deep learning: 算法、inference 部署、训练框架
-2. 高性能计算
-3. 芯片 & 硬件体系结构
-4. c++ / python 语言
+1. 编程语言: c++ / CUDA / python / Shell
+2. 性能优化: 指令级 / 编译器级，deep learning 的优化
+3. deep learning: 算法、inference 部署、训练框架
+4. 芯片 & 硬件体系结构
 5. 存储与文件系统: deep learning 的重要 infra
 
-## C++ & GPU 编程
+## 编程语言
 
-### Reading List
+### Reading List -- C++
 
-- [A Tour of C++](01-zettelkasten/02-References/A%20Tour%20of%20C++.md)
-- CUDA BY EXAMPLE: And Introduction to General-Pirpose GPU Programming
-- CUDA Application Design and Development
+- [A Tour of C++](01-zettelkasten/02-References/A%20Tour%20of%20C++.md): by [Bjarne Stroustrup](01-zettelkasten/04-Ref%20Authors/Bjarne%20Stroustrup.md), an idea of what constitutes modern C++
+- [CppCon 2014 - Herb Sutter - Back to the Basics - Essentials of Modern C++ Style](01-zettelkasten/02-References/CppCon%202014%20-%20Herb%20Sutter%20-%20Back%20to%20the%20Basics%20-%20Essentials%20of%20Modern%20C++%20Style.md): 把 c++ 指针讲清楚的男人
+- [GotW - Guru of the Week](01-zettelkasten/03-Ref%20Sources/GotW%20-%20Guru%20of%20the%20Week.md): by [Herb Sutter](01-zettelkasten/04-Ref%20Authors/Herb%20Sutter.md)
+
+### Reading List -- CUDA
+
+- [CUDA_by_Example](04-pdf/files/CUDA_by_Example.pdf) - And Introduction to General-Pirpose GPU Programming
+- [CUDA_Application_Design_and_Development](04-pdf/files/CUDA_Application_Design_and_Development.pdf)
+
+Nvidia Docs:
+
+- [S4158-cuda-streams-best-practices-common-pitfalls](04-pdf/files/S4158-cuda-streams-best-practices-common-pitfalls.pdf)
+- [Tesla-P4-Product-Brief](04-pdf/files/Tesla-P4-Product-Brief.pdf)
+- [T4 Product Brief](04-pdf/files/T4%20Product%20Brief.pdf)
+
+### Reading List -- Python & Shell
 
 ## 高性能计算
 
 ### Reading List
 
-- [深入理解计算机系统](01-zettelkasten/05-Notes%20Block/Computer%20Systems%20-%20A%20Programmer-s%20Perspective.md) 编译器级性能优化，存储器层次结构。进程通信。
+- [深入理解计算机系统](01-zettelkasten/02-References/Computer%20Systems%20-%20A%20Programmer-s%20Perspective.md) 编译器级性能优化，存储器层次结构。进程通信。
 - [计算机体系结构 - 量化研究方法](01-zettelkasten/02-References/Computer%20Architecture%20-%20A%20quantitative%20Approach.md) 并行优化的理论体系。存储的层级结构，指令级优化，SIMD 数据并行，线程级并行等。
-- [计算机组成与设计 - 硬件/软件接口](01-zettelkasten/05-Notes%20Block/Computer%20Organization%20and%20Design%20-%20The%20Hardware%20and%20Software%20Interface.md) 指令级，CPU 流水线，存储器的层级结构
+- [计算机组成与设计 - 硬件/软件接口](01-zettelkasten/02-References/Computer%20Organization%20and%20Design%20-%20The%20Hardware%20and%20Software%20Interface.md) 指令级，CPU 流水线，存储器的层级结构
 
 全都用大量篇幅讲存储器的层次结构。
 
