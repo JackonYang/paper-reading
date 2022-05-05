@@ -68,11 +68,18 @@ Y86 是分离的设计。现代服务器也是分离的。指令和 data 用独�
 
 整数程序的分支率，一般更高。预测精度低于科学运算。错误率 11% : 4%
 
-## Code & Perf Example
+## Code Example
 
 用 [perf](../05-Notes%20Block/perf_events.md) 可以看分支预测成功率
 
-优化方法：for 循环展开，减少 if...else
+[分支预测的 example code & profile 方法](../../02-tutorial-code/02-profile-examples/03-branch-prediction/README.md)
+
+测试结果如下图，同样的运算量，
+branch miss 提高了 16%，处理时间翻 3 倍。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1xeqosbrqj21sc0hugpr.jpg)
+
+提高分支预测成功率的优化方法：for 循环展开，减少 if...else
 
 ## References
 
