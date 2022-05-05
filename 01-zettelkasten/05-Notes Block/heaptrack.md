@@ -42,6 +42,8 @@ heaptrack_print heaptrack.APP.PID.gz | less
 ```
 
 
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1r3gqsj4ij20xp0dmdjp.jpg)
+
 ##TODO
 
 - [ ] how to use heaptrack

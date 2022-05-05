@@ -18,6 +18,11 @@
 - [GotW - Guru of the Week](../03-Ref%20Sources/GotW%20-%20Guru%20of%20the%20Week.md) a regular series of C++ programming problems created and written by [Herb Sutter](01-zettelkasten/04-Ref%20Authors/Herb%20Sutter.md)
 - [CppCon](../03-Ref%20Sources/CppCon.md) 在 YouTube 上找 video，GitHub 上找 slides.
 
+**Online Tools**
+
+- http://www.cplusplus.com
+- https://en.cppreference.com
+
 我的笔记地图 [Cpp Notes Map](01-zettelkasten/06-Content%20Maps/Cpp%20Notes%20Map.md)
 
 ### CUDA 编程

@@ -1,6 +1,6 @@
 # Cpp Notes Map
 
-## 我的笔记
+## c++ 主要知识点
 
 1. [A Tour of C++](../02-References/A%20Tour%20of%20C++.md)
 2. [c++ - RAII](../05-Notes%20Block/c++%20-%20RAII.md)
