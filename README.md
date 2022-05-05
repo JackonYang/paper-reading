@@ -2,36 +2,49 @@
 
 比做算法的懂工程落地，比做工程的懂算法模型。
 
-1. 编程语言: c++ / CUDA / python / Shell
-2. 性能优化: 指令级 / 编译器级，deep learning 的优化
-3. deep learning: 算法、inference 部署、训练框架
-4. 芯片 & 硬件体系结构
-5. 存储与文件系统: deep learning 的重要 infra
+1. 编程: c++ / CUDA / 汇编 / python / Shell
+2. 算法: deep learning / CV / NLP etc，训练框架，推理部署
+3. 工程: 硬件体系结构，OS & linux kernel, 分布式 & k8s 集群，存储
+4. 性能优化: 并行优化，deep learning 优化，profile 工具
 
 ## 编程语言
 
-### Reading List -- C++
+### C++ 开发
 
-- [A Tour of C++](01-zettelkasten/02-References/A%20Tour%20of%20C++.md): by [Bjarne Stroustrup](01-zettelkasten/04-Ref%20Authors/Bjarne%20Stroustrup.md), an idea of what constitutes modern C++
+**Reading List**
+
+- [A Tour of C++](01-zettelkasten/02-References/A%20Tour%20of%20C++.md): by [Bjarne Stroustrup](01-zettelkasten/04-Ref%20Authors/Bjarne%20Stroustrup.md), an idea of what constitutes modern C++. 针对有经验的开发者
 - [CppCon 2014 - Herb Sutter - Back to the Basics - Essentials of Modern C++ Style](01-zettelkasten/02-References/CppCon%202014%20-%20Herb%20Sutter%20-%20Back%20to%20the%20Basics%20-%20Essentials%20of%20Modern%20C++%20Style.md): 把 c++ 指针讲清楚的男人
-- [GotW - Guru of the Week](01-zettelkasten/03-Ref%20Sources/GotW%20-%20Guru%20of%20the%20Week.md): by [Herb Sutter](01-zettelkasten/04-Ref%20Authors/Herb%20Sutter.md)
+- [GotW - Guru of the Week](../03-Ref%20Sources/GotW%20-%20Guru%20of%20the%20Week.md) a regular series of C++ programming problems created and written by [Herb Sutter](01-zettelkasten/04-Ref%20Authors/Herb%20Sutter.md)
+- [CppCon](../03-Ref%20Sources/CppCon.md) 在 YouTube 上找 video，GitHub 上找 slides.
 
-### Reading List -- CUDA
+我的笔记地图 [Cpp Notes Map](01-zettelkasten/06-Content%20Maps/Cpp%20Notes%20Map.md)
+
+### CUDA 编程
+
+**Reading List**
 
 - [CUDA_by_Example](04-pdf/files/CUDA_by_Example.pdf) - And Introduction to General-Pirpose GPU Programming
 - [CUDA_Application_Design_and_Development](04-pdf/files/CUDA_Application_Design_and_Development.pdf)
 
-Nvidia Docs:
+**Nvidia Docs**
 
 - [S4158-cuda-streams-best-practices-common-pitfalls](04-pdf/files/S4158-cuda-streams-best-practices-common-pitfalls.pdf)
 - [Tesla-P4-Product-Brief](04-pdf/files/Tesla-P4-Product-Brief.pdf)
 - [T4 Product Brief](04-pdf/files/T4%20Product%20Brief.pdf)
 
-### Reading List -- Python & Shell
+### 汇编
 
-## 高性能计算
+- x86 汇编
+- MIPS 汇编
 
-### Reading List
+### Python & Shell
+
+TODO
+
+## 计算机体系结构
+
+### CPU & Memory
 
 - [深入理解计算机系统](01-zettelkasten/02-References/Computer%20Systems%20-%20A%20Programmer-s%20Perspective.md) 入门编译器级的性能优化。理解 CPU 体系结构、存储器层次结构，了解进程间通信。
 - [计算机体系结构 - 量化研究方法](01-zettelkasten/02-References/Computer%20Architecture%20-%20A%20quantitative%20Approach.md) 并行优化的理论体系。存储的层级结构，指令级优化，SIMD 数据并行，线程级并行等。
@@ -39,12 +52,14 @@ Nvidia Docs:
 
 全都用大量篇幅讲存储器的层次结构。
 
+### GPU
+
+TODO
+
+## 性能优化
+
 TODO  补充 deep learning 的高性能计算
-
-### Notes
-
 - [HPC Learning Timline](01-zettelkasten/06-Content%20Maps/HPC%20Learning%20Timline.md) 我的 HPC 学习时间线
-- [Learn Modern Cpp](01-zettelkasten/06-Content%20Maps/Learn%20Modern%20Cpp.md) 语言基础 -- Modern Cpp 学习地图
 - [perf-tools-and-docs](01-zettelkasten/06-Content%20Maps/perf-tools-and-docs.md) 性能调优的工具 & 工具使用文档
 - [Computer Hardware Introduction](01-zettelkasten/06-Content%20Maps/Computer%20Hardware%20Introduction.md) 计算机硬件科普
 - [performance optimization](01-zettelkasten/06-Content%20Maps/performance%20optimization.md)  处理性能优化地图，以 CPU 为主
@@ -144,6 +159,8 @@ papers
 
 ## 分布式系统
 
+https://github.com/misc-codes/software-architecture-books
+
 papers
 
 - Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web | [pdf](pdf/brewers-conjecture-sigact.pdf) | [notes](notes/brewers-conjecture-sigact.md)
@@ -154,3 +171,7 @@ papers
 - The Part-Time Parliament | [pdf](pdf/The-Part-Time-Parliament.pdf)
 - Paxos Made Simple | [pdf](pdf/paxos-simple.pdf)
 - MapReduce: Simplified Data Processing on Large Clusters | [pdf](pdf/mapreduce-simplified-data-processing-on-large-clusters.pdf) | [notes](notes/mapreduce-simplified-data-processing-on-large-clusters.md)
+
+## 开发环境
+
+git/vim/tmux/docker configs
