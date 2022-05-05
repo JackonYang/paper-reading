@@ -64,10 +64,9 @@ resource can be moved from scope to scope using move semantics or smart pointers
 1. 简单的成员函数，尽可能 inline。即，生成的 machine code 里没有函数调用。
 2. return container by value，依赖高效的 move constructor
 
+## Virtual Function & Vtbl
 
-## Virtual Function & vtbl
-
-vtabl (virtual function table), 一张表（数组），维护类的所有虚函数指针。
+vtbl (virtual function table), 一张表（数组），维护类的所有虚函数指针。
 
 每个类一个 vtbl。
 
@@ -76,6 +75,20 @@ compiler 在编译时，把虚函数的函数名转成 vtbl 里面的 index。
 caller 只需要知道 vtbl 的地址 & 虚函数的 index，就可以调用。
 
 相比于普通的函数调用，性能损失低于 25%。空间的 overhead 是每个 object 一个 pointer & 每个 class 一个 vtbl。
+
+Q: vtbl 性能损失，是否主要来自 CPU pipeline 的条件分支预测成功率下降？[2022-05-05 ISA and CPU Pipeline](../01-Literature%20Notes/2022-05-05%20ISA%20and%20CPU%20Pipeline.md)
+
+据说是 virtual function 的汇编
+
+```asm
+...
+movq    (%rax), %rax
+movq    (%rax), %rax
+movq    -24(%rbp), %rdx
+movq    %rdx, %rdi
+call    *%rax
+...
+```
 
 ## 设计八卦
 
@@ -93,4 +106,4 @@ concrete class. representation is part of its definition。实现是定义的一
 
 ## References
 
-1. 
+1.

@@ -79,7 +79,10 @@ branch miss 提高了 16%，处理时间翻 3 倍。
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1xeqosbrqj21sc0hugpr.jpg)
 
-提高分支预测成功率的优化方法：for 循环展开，减少 if...else
+提高分支预测成功率的优化方法：
+
+- for 循环展开
+- 减少 if...else。比如条件跳转转为条件传送（-O3 自动优化）
 
 ## References
 
