@@ -14,7 +14,7 @@ RISC 处理器，经典的  5 级流水线。
 4. MEM(Memory): 读/写存储器
 5. WB(Write Back): 结果写回寄存器堆
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1wzanycq8j212w0oujuc.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1xcuti6zkj20lj087mxs.jpg)
 
 ## 流水线化
 

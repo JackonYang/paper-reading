@@ -57,6 +57,9 @@ TODO
 
 全都用大量篇幅讲存储器的层次结构。
 
+我的笔记：
+- [2022-05-05 ISA and CPU Pipeline](01-zettelkasten/01-Literature%20Notes/2022-05-05%20ISA%20and%20CPU%20Pipeline.md)
+
 ### GPU
 
 TODO

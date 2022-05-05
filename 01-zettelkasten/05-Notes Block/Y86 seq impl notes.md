@@ -12,14 +12,6 @@ Created: 2022-05-04 00:05
 	- 值通过组合逻辑来传播
 3. 用时序（timing）控制写 - 存储。使得所有状态更新同时发生
 
-## Harvard Architecture
-
-冯诺伊曼结构里，instruction 和 data memory 不分离。
-
-Y86 是分离的设计。现代服务器 CPU 也都是分离的？各自独立的 L1 cache。
-
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1x031av01j20k40ctt96.jpg)
-
 ## 处理指令的 6 个阶段
 
 - 取指（fetch）：从存储器读，地址是 PC。2 个 4 bit 部分，inode & ifunc，以及 rA, rB, valC, 计算新 PC 的 valP（正常跳转时）
@@ -65,4 +57,3 @@ circuit retiming
 
 1. [Sequential Y86-64 Implementation](../../04-pdf/files/Sequential%20Y86-64%20Implementation.pdf)
 2. [Y86-ISA PDF](../../04-pdf/files/Y86-ISA.pdf)
-3. https://en.wikipedia.org/wiki/Harvard_architecture
