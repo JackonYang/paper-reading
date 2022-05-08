@@ -9,7 +9,8 @@
 
 ## X 的 100 问
 
-- [Question100 Computer System](01-zettelkasten/01-Literature%20Notes/Question100%20Computer%20System.md)
+- [Question100 Computer System](01-zettelkasten/01-Literature%20Notes/Question100%20Computer%20System.md) 计算机系统 100 问：体系结构、GPU、OS、编译器
+- [Question100 Parallel Computing](01-zettelkasten/01-Literature%20Notes/Question100%20Parallel%20Computing.md) 并行计算 100 问
 
 ## 编程语言
 
