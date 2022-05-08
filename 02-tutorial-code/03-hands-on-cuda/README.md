@@ -1,5 +1,4 @@
-# CUDA tutorial with code
-
+# Hands On Cuda
 
 1. [CUDA hello world](c1/test.cu) Run a device function in multi threads.
 2. [passing parameters to device function](c2/test.cu) demonstrate why memory copy in CUDA is very important
