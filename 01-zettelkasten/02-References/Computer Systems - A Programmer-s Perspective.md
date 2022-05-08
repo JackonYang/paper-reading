@@ -34,6 +34,11 @@ PDF 版详细笔记：[Sequential Y86-64 Implementation](../../04-pdf/files/Sequ
 	- 电路重定时（circuit retiming）
 - CPU Pipeline 设计: 讲的很一般，不是本书精髓。直接看 [MIPS CPU Pipeline Introduction](../05-Notes%20Block/MIPS%20CPU%20Pipeline%20Introduction.md)
 
+## 存储器的层次结构
+
+- [Principle of Locality](../05-Notes%20Block/Principle%20of%20Locality.md)
+- [CPU Cache](../05-Notes%20Block/CPU%20Cache.md)
+
 ## Reference
 
 1. [csapp-talk-3e](../../04-pdf/files/csapp-talk-3e.pdf) lab(练习题) 不错
