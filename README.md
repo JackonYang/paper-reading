@@ -7,6 +7,10 @@
 3. 工程: 硬件体系结构，OS & linux kernel, 分布式 & k8s 集群，存储
 4. 性能优化: 并行优化，deep learning 优化，profile 工具
 
+## X 的 100 问
+
+- [Question100 Computer System](01-zettelkasten/01-Literature%20Notes/Question100%20Computer%20System.md)
+
 ## 编程语言
 
 ### C++ 开发
