@@ -23,9 +23,13 @@ Scope：硬件（含 GPU，ARM）、OS & 编译器
 
 ## GPU
 
-1. CUDA 与 OpenCL 的区别，用哪个？-- TODO
-2. Tesla P4 的标称 FLOPS 为 5.5TFLOPS，该数据是怎么来的？-- TODO
-3. NVIDIA GPU 计算和存储分为哪几层？怎么和 CUDA 对应？-- 分为一个任务控制核心和很多流控制器，每个流处理器有自己的1级缓存，和共用的2级缓存 TODO
+1. GPU 和 CPU 的主要区别 -- GPU 降低了 cache 和 Flow Control 的需求，针对几千个线程的并行计算设计。详见 [GPU vs CPU](../05-Notes%20Block/GPU%20vs%20CPU.md)
+2. CUDA 与 OpenCL 的区别，用哪个？-- TODO
+3. Tesla P4 的标称 FLOPS 为 5.5TFLOPS，该数据是怎么来的？-- TODO
+4. NVIDIA GPU 计算和存储分为哪几层？怎么和 CUDA 对应？-- 分为一个任务控制核心和很多流控制器，每个流处理器有自己的1级缓存，和共用的2级缓存 TODO
+5. pinned memory 与 GPU 传数据，为什么比 pageable memory 快。-- 硬件上，可以并发的拷贝，而不用担心出错。
+6. 怎么用 pinned memory？-- 申请 host 内存时，用 cudaMallocHost 代替 malloc
+7. GPU 上是否有 cache line？-- 有。原理同 CPU cache line
 
 ## 内存 & Cache
 
