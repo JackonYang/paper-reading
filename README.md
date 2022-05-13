@@ -12,11 +12,6 @@
 - [Question100 Computer System](01-zettelkasten/01-Literature%20Notes/Question100%20Computer%20System.md) 计算机系统 100 问：体系结构、GPU、OS、编译器
 - [Question100 Parallel Computing](01-zettelkasten/01-Literature%20Notes/Question100%20Parallel%20Computing.md) 并行计算 100 问
 
-### 汇编
-
-- x86 汇编
-- MIPS 汇编
-
 ## 计算机体系结构
 
 ### CPU & Memory
@@ -48,6 +43,11 @@
 - [Tesla-P4-Product-Brief](04-pdf/files/Tesla-P4-Product-Brief.pdf)
 - [T4 Product Brief](04-pdf/files/T4%20Product%20Brief.pdf)
 - [NVIDIA_Fermi_Compute_Architecture_Whitepaper](04-pdf/files/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
+
+### 汇编
+
+- x86 汇编
+- MIPS 汇编
 
 ## 编译原理
 
