@@ -69,6 +69,10 @@ TODO
 
 TODO
 
+## 编译原理
+
+1. [Compilers Notes Map](01-zettelkasten/06-Content%20Maps/Compilers%20Notes%20Map.md)
+
 ## 性能优化
 
 TODO  补充 deep learning 的高性能计算
@@ -82,9 +86,9 @@ TODO  补充 deep learning 的高性能计算
 - [OpenMP tutorial](https://hpc.llnl.gov/tuts/openMP) one of the eight tutorials in the 4+ day "Using LLNL's Supercomputers" workshop
 - [CUDA tutorial with code](cpp-notes/cuda-tutorial/README.md)
 
-## 编译原理
+## 架构设计
 
-1. [Compilers Notes Map](01-zettelkasten/06-Content%20Maps/Compilers%20Notes%20Map.md)
+- [Pipeline Schedulers](01-zettelkasten/01-Literature%20Notes/Pipeline%20Schedulers.md)
 
 ## 自动驾驶
 
@@ -92,6 +96,7 @@ TODO  补充 deep learning 的高性能计算
 
 - [Apollo & Udacity 开放课程](https://apollo.auto/devcenter/devcenter_cn.html)
 - [apollo3.5 Cyber架构讲解记录](https://zhuanlan.zhihu.com/p/56053077) 百度-王柏生
+- [Introduction to Optimization, 4th Edition Edwin K. P. Chong, Stanislaw H. Zak-An ](04-pdf/files/Introduction%20to%20Optimization,%204th%20Edition%20Edwin%20K.%20P.%20Chong,%20Stanislaw%20H.%20Zak-An%20.pdf)
 - [多伦多大学开放课程-自动驾驶汽车](https://www.coursera.org/specializations/self-driving-cars) 较为详细的分模块介绍, slides 和 scripts 质量很高
 - :thumbsup: [Apollo 规划技术详解](https://bit.baidu.com/productsBuy?id=82) 主讲人是 百度 EM planner paper 的作者, 7 个视频, 1 倍速看完预计 4h
 - [Robot Motion Planning](https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/020807motion.pdf) pdf slide, 非常干货
