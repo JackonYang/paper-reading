@@ -9,3 +9,7 @@
 ## Talks
 
 - [Writing Great Machine Schedulers](../02-References/Writing%20Great%20Machine%20Schedulers.md)
+
+## Notes
+
+- [Compiler - Machine-Independent Optimizations](../05-Notes%20Block/Compiler%20-%20Machine-Independent%20Optimizations.md)
