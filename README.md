@@ -12,6 +12,47 @@
 - [Question100 Computer System](01-zettelkasten/01-Literature%20Notes/Question100%20Computer%20System.md) 计算机系统 100 问：体系结构、GPU、OS、编译器
 - [Question100 Parallel Computing](01-zettelkasten/01-Literature%20Notes/Question100%20Parallel%20Computing.md) 并行计算 100 问
 
+### 汇编
+
+- x86 汇编
+- MIPS 汇编
+
+## 计算机体系结构
+
+### CPU & Memory
+
+- [深入理解计算机系统](01-zettelkasten/02-References/Computer%20Systems%20-%20A%20Programmer-s%20Perspective.md) 入门编译器级的性能优化。理解 CPU 体系结构、存储器层次结构，了解进程间通信。
+- [计算机体系结构 - 量化研究方法](01-zettelkasten/02-References/Computer%20Architecture%20-%20A%20quantitative%20Approach.md) 并行优化的理论体系。存储的层级结构，指令级优化，SIMD 数据并行，线程级并行等。
+- [计算机组成与设计 - 硬件/软件接口](01-zettelkasten/02-References/Computer%20Organization%20and%20Design%20-%20The%20Hardware%20and%20Software%20Interface.md) 更偏硬件设计。软件开发者需要理解的，基本都在前两本里讲得更透彻。可以不读。
+
+全都用大量篇幅讲存储器的层次结构。
+
+我的笔记：
+- [2022-05-05 ISA and CPU Pipeline](01-zettelkasten/01-Literature%20Notes/2022-05-05%20ISA%20and%20CPU%20Pipeline.md)
+
+### GPU & CUDA 编程
+
+**Reading List**
+
+- [CUDA_by_Example](04-pdf/files/CUDA_by_Example.pdf) - And Introduction to General-Pirpose GPU Programming
+- [CUDA_Application_Design_and_Development](04-pdf/files/CUDA_Application_Design_and_Development.pdf)
+- [CUDA_C_Programming_Guide_11_6](04-pdf/files/CUDA_C_Programming_Guide_11_6.pdf)
+
+我的笔记
+
+- [GPU Architecture](01-zettelkasten/06-Content%20Maps/GPU%20Architecture.md)
+
+**Nvidia Docs**
+
+- [S4158-cuda-streams-best-practices-common-pitfalls](04-pdf/files/S4158-cuda-streams-best-practices-common-pitfalls.pdf)
+- [Tesla-P4-Product-Brief](04-pdf/files/Tesla-P4-Product-Brief.pdf)
+- [T4 Product Brief](04-pdf/files/T4%20Product%20Brief.pdf)
+- [NVIDIA_Fermi_Compute_Architecture_Whitepaper](04-pdf/files/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
+
+## 编译原理
+
+1. [Compilers Notes Map](01-zettelkasten/06-Content%20Maps/Compilers%20Notes%20Map.md)
+
 ## 编程语言
 
 ### C++ 开发
@@ -30,48 +71,9 @@
 
 我的笔记地图 [Cpp Notes Map](01-zettelkasten/06-Content%20Maps/Cpp%20Notes%20Map.md)
 
-### CUDA 编程
-
-**Reading List**
-
-- [CUDA_by_Example](04-pdf/files/CUDA_by_Example.pdf) - And Introduction to General-Pirpose GPU Programming
-- [CUDA_Application_Design_and_Development](04-pdf/files/CUDA_Application_Design_and_Development.pdf)
-
-**Nvidia Docs**
-
-- [S4158-cuda-streams-best-practices-common-pitfalls](04-pdf/files/S4158-cuda-streams-best-practices-common-pitfalls.pdf)
-- [Tesla-P4-Product-Brief](04-pdf/files/Tesla-P4-Product-Brief.pdf)
-- [T4 Product Brief](04-pdf/files/T4%20Product%20Brief.pdf)
-
-### 汇编
-
-- x86 汇编
-- MIPS 汇编
-
 ### Python & Shell
 
 TODO
-
-## 计算机体系结构
-
-### CPU & Memory
-
-- [深入理解计算机系统](01-zettelkasten/02-References/Computer%20Systems%20-%20A%20Programmer-s%20Perspective.md) 入门编译器级的性能优化。理解 CPU 体系结构、存储器层次结构，了解进程间通信。
-- [计算机体系结构 - 量化研究方法](01-zettelkasten/02-References/Computer%20Architecture%20-%20A%20quantitative%20Approach.md) 并行优化的理论体系。存储的层级结构，指令级优化，SIMD 数据并行，线程级并行等。
-- [计算机组成与设计 - 硬件/软件接口](01-zettelkasten/02-References/Computer%20Organization%20and%20Design%20-%20The%20Hardware%20and%20Software%20Interface.md) 更偏硬件设计。软件开发者需要理解的，基本都在前两本里讲得更透彻。可以不读。
-
-全都用大量篇幅讲存储器的层次结构。
-
-我的笔记：
-- [2022-05-05 ISA and CPU Pipeline](01-zettelkasten/01-Literature%20Notes/2022-05-05%20ISA%20and%20CPU%20Pipeline.md)
-
-### GPU
-
-TODO
-
-## 编译原理
-
-1. [Compilers Notes Map](01-zettelkasten/06-Content%20Maps/Compilers%20Notes%20Map.md)
 
 ## 性能优化
 

@@ -2,10 +2,11 @@
 
 ## c++ 主要知识点
 
-1. [C++Primer-4th-cn](../../04-pdf/files/C++Primer-4th-cn.pdf)
-2. [A Tour of C++](../02-References/A%20Tour%20of%20C++.md)
-3. [c++ - RAII](../05-Notes%20Block/c++%20-%20RAII.md)
-4. [2022-04-30 Smart Pointer - cpp notes](../01-Literature%20Notes/2022-04-30%20Smart%20Pointer%20-%20cpp%20notes.md)
+1. [The C Programming Language-cn](../../04-pdf/files/The%20C%20Programming%20Language-cn.pdf)
+2. [C++Primer-4th-cn](../../04-pdf/files/C++Primer-4th-cn.pdf)
+3. [A Tour of C++](../02-References/A%20Tour%20of%20C++.md)
+4. [c++ - RAII](../05-Notes%20Block/c++%20-%20RAII.md)
+5. [2022-04-30 Smart Pointer - cpp notes](../01-Literature%20Notes/2022-04-30%20Smart%20Pointer%20-%20cpp%20notes.md)
 
 ## Case Study
 
