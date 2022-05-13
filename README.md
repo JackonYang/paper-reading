@@ -82,6 +82,10 @@ TODO  补充 deep learning 的高性能计算
 - [OpenMP tutorial](https://hpc.llnl.gov/tuts/openMP) one of the eight tutorials in the 4+ day "Using LLNL's Supercomputers" workshop
 - [CUDA tutorial with code](cpp-notes/cuda-tutorial/README.md)
 
+## 编译原理
+
+1. [Compilers Notes Map](01-zettelkasten/06-Content%20Maps/Compilers%20Notes%20Map.md)
+
 ## 自动驾驶
 
 ### Tutorials
