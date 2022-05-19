@@ -11,6 +11,13 @@
 
 - [Question100 Computer Architecture and Parallel Computing](01-zettelkasten/01-Literature%20Notes/Question100%20Computer%20Architecture%20and%20Parallel%20Computing.md) 计算机体系结构与并行计算 100 问
 
+## Awesome Online Tools
+
+- https://en.wikichip.org/wiki/WikiChip: 查各类芯片的架构 & spec
+- https://godbolt.org/: 在线看 c++ 代码的汇编代码
+- https://quick-bench.com/: 在线测 c++ 代码的 benchmark
+- https://en.cppreference.com: c++ 手册
+
 ## 计算机体系结构
 
 ### CPU & Memory
@@ -63,16 +70,11 @@
 - [GotW - Guru of the Week](../03-Ref%20Sources/GotW%20-%20Guru%20of%20the%20Week.md) a regular series of C++ programming problems created and written by [Herb Sutter](01-zettelkasten/04-Ref%20Authors/Herb%20Sutter.md)
 - [CppCon](../03-Ref%20Sources/CppCon.md) 在 YouTube 上找 video，GitHub 上找 slides.
 
-**Online Tools**
-
-- http://www.cplusplus.com
-- https://en.cppreference.com
-
 我的笔记地图 [Cpp Notes Map](01-zettelkasten/06-Content%20Maps/Cpp%20Notes%20Map.md)
 
 ### Python & Shell
 
-TODO
+- [Shell Notes Map](01-zettelkasten/06-Content%20Maps/Shell%20Notes%20Map.md)
 
 ## 性能优化
 
