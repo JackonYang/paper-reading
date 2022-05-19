@@ -13,3 +13,4 @@
 ## Notes
 
 - [Compiler - Machine-Independent Optimizations](../05-Notes%20Block/Compiler%20-%20Machine-Independent%20Optimizations.md)
+- [Compiler - Instruction-Level Parallelism](../05-Notes%20Block/Compiler%20-%20Instruction-Level%20Parallelism.md)
