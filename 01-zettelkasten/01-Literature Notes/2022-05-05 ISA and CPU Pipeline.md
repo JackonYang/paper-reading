@@ -70,7 +70,7 @@ Y86 是分离的设计。现代服务器也是分离的。指令和 data 用独�
 
 ## Code Example
 
-用 [perf](../05-Notes%20Block/perf_events.md) 可以看分支预测成功率
+用 [perf](../05-Notes%20Block/perf.md) 可以看分支预测成功率
 
 [分支预测的 example code & profile 方法](../../02-tutorial-code/02-profile-examples/03-branch-prediction/README.md)
 

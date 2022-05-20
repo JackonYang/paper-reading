@@ -6,7 +6,7 @@ Created: 2022-05-01 20:49
 
 google 的 profile 工具。
 
-1. 分析 CPU，应该是不如何 perf [perf_events](perf_events.md)
+1. 分析 CPU，应该是不如何 perf [perf](perf.md)
 2. 分析内存，可能不错。用  heapProfile
 
 ## HeapProfile

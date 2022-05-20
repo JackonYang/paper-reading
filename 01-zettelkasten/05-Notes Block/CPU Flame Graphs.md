@@ -19,7 +19,7 @@ It usually works by creating a timed interrupt that collects the current program
 
 ## Profilers
 
-- [[perf_events]] (perf_events)
+- [[perf]] (perf_events)
 - DTrace
 - SystemTap
 - ktap

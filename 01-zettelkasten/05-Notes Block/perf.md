@@ -1,10 +1,8 @@
-# perf_events
+# Perf
 
 Created: 2022-05-01 00:12
 
 perf, also been called Performance Counters for Linux (PCL), Linux perf events (LPE), or perf_events.
-
-perf_events 易于搜索
 
 ## 用法案例
 
