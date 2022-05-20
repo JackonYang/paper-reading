@@ -7,6 +7,7 @@ Created: 2022-04-22 23:12
 - [ ] heap memory 的分配算法对 coding 有哪些具体影响？
 - [ ] model of memory and computation
 - [ ] c++ 学什么？技能等级标准
+- [ ] 使用ld的--warp 来hook memcpy函数并在入口处使用boost/stacktrace来在LOG中打出调用栈
 
 ## Random Notes
 

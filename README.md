@@ -14,6 +14,8 @@
 ## Awesome Online Tools
 
 - https://en.wikichip.org/wiki/WikiChip: 查各类芯片的架构 & spec
+- https://www.cpubenchmark.net/ 查芯片(CPU)的 benchmark。各种算力的 Ops/s
+- https://www.videocardbenchmark.net/ 查显卡的 benchmark
 - https://godbolt.org/: 在线看 c++ 代码的汇编代码
 - https://quick-bench.com/: 在线测 c++ 代码的 benchmark
 - https://en.cppreference.com: c++ 手册

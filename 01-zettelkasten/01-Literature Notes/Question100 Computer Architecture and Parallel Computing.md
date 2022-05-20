@@ -194,6 +194,8 @@ TODO
 
 TODO
 
+公式：`浮点性能参考指标 (xFLOPS) = 处理器频率 * 总运算核心数 * flops/cycle`
+
 ### 4. NVIDIA GPU 计算和存储分为哪几层？怎么和 CUDA 对应
 
 计算
@@ -374,6 +376,8 @@ TODO
 乘加指令的 ThroughPut 为 1，视作 2 次 Float 操作；
 
 则 fp32 的 GFLOPS = 1.6G × 4 × 2 = 12.8 GFLOPS
+
+公式：`浮点性能参考指标 (xFLOPS) = 处理器频率 * 总运算核心数 * flops/cycle`
 
 ### 4. NEON 中乘加对应的 Intrinsic 是什么？加法和乘法呢？
 
