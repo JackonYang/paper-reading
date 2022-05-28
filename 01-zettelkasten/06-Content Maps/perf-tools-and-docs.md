@@ -2,16 +2,27 @@
 
 Created: 2022-05-01 00:13
 
-## Tools
+## 系统监控类
 
-1. [perf_events](../05-Notes%20Block/perf_events.md): 即 perf, Linux kernel 自带 profile 工具
+```bash
+sudo apt-get install numactl fio iperf
+```
+
+1. [phoronix-test-suite](../05-Notes%20Block/phoronix-test-suite.md) 各种benchmark 统一管理的自动化工具，目前主要拿来看 system info
+2. [lstopo](../05-Notes%20Block/lstopo.md)  查看硬件的拓扑结构
+3. [nvidia-smi Usage](../05-Notes%20Block/nvidia-smi%20Usage.md) GPU 监控
+4. numactl
+5. [fio](../05-Notes%20Block/fio.md)
+
+## 代码 Profile
+
+1. [perf](../05-Notes%20Block/perf.md): 即 perf, Linux kernel 自带 profile 工具
 2. [eBPF](../05-Notes%20Block/eBPF.md)
 3. [Hotspot](../05-Notes%20Block/Hotspot.md)
 4. [heaptrack](../05-Notes%20Block/heaptrack.md): Heap Memory Profiler for Linux
 5. [gperftools](../05-Notes%20Block/gperftools.md)
 6. [valgrind](../05-Notes%20Block/valgrind.md) 内存分析工具，慢到基本不要用
 7. [sanitizer](../05-Notes%20Block/sanitizer.md)
-8. [fio](../05-Notes%20Block/fio.md)
 
 ## Online Tools
 
