@@ -6,6 +6,7 @@ Created: 2022-04-22 14:54
 - Logseq指南 https://www.bilibili.com/video/BV1DU4y1g7Bf
 - Obsidian：目前我们眼中最美最好用的免费笔记/知识管理软件
 https://www.bilibili.com/video/BV1SA411i7BG
+- 我是如何使用Obsidian写作的 https://www.bilibili.com/video/BV1P64y1q7ND
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h2of94hwu0j20yq0hg0uu.jpg)
 
