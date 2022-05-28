@@ -13,6 +13,11 @@
 
 ## Awesome Online Tools
 
+```dataview
+LIST
+From #online-tools
+```
+
 - https://en.wikichip.org/wiki/WikiChip: 查各类芯片的架构 & spec
 - https://www.cpubenchmark.net/ 查芯片(CPU)的 benchmark。各种算力的 Ops/s
 - https://www.videocardbenchmark.net/ 查显卡的 benchmark
