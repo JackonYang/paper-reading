@@ -2,6 +2,17 @@
 
 Created: 2022-04-22 14:54
 
+终极玩法的 demo：
+用 Obsidian 搭建个人书库，我一直想搞的软件，大佬用 Obsidian 搞定了，学到了好多插件，自定义 css/ quickAdd
+https://www.bilibili.com/video/BV1YT4y167dL
+https://www.bilibili.com/video/BV1hB4y1y7BX
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h2oj3toauhj21h90u0wky.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h2oj6isbcwj21ha0tz7df.jpg)
+
+---
+
 - b 站牛逼笔记：https://www.bilibili.com/video/BV18a411r7mt
 - Logseq指南 https://www.bilibili.com/video/BV1DU4y1g7Bf
 - Obsidian：目前我们眼中最美最好用的免费笔记/知识管理软件
