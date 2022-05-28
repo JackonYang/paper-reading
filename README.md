@@ -14,7 +14,7 @@
 ## Awesome Online Tools
 
 ```dataview
-LIST
+table url
 From #online-tools
 ```
 
@@ -207,3 +207,11 @@ papers
 ## 开发环境
 
 git/vim/tmux/docker configs
+
+- [Dev Env Setup](01-zettelkasten/06-Content%20Maps/Dev%20Env%20Setup.md)
+- [Python Notes Map](01-zettelkasten/06-Content%20Maps/Python%20Notes%20Map.md)
+- [Shell Notes Map](01-zettelkasten/06-Content%20Maps/Shell%20Notes%20Map.md)
+
+## 其他
+
+- [Security and Hacking](01-zettelkasten/06-Content%20Maps/Security%20and%20Hacking.md)
