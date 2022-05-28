@@ -2,6 +2,15 @@
 
 Created: 2022-04-22 14:54
 
+- b 站牛逼笔记：https://www.bilibili.com/video/BV18a411r7mt
+- Logseq指南 https://www.bilibili.com/video/BV1DU4y1g7Bf
+- Obsidian：目前我们眼中最美最好用的免费笔记/知识管理软件
+https://www.bilibili.com/video/BV1SA411i7BG
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h2of94hwu0j20yq0hg0uu.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h2ofao9t7tj21go0u0tff.jpg)
+
 ## 方法论 - Zettelkasten
 
 Zettelkasten 是一个德国社会学家的笔记方法论。
