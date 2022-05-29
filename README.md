@@ -25,6 +25,11 @@ From #online-tools
 - https://quick-bench.com/: 在线测 c++ 代码的 benchmark
 - https://en.cppreference.com: c++ 手册
 
+## AI Infra 设计
+
+- [Research CI o11n Design](01-zettelkasten/01-Literature%20Notes/Research%20CI%20o11n%20Design.md)
+- [DevOps Data Infa Design](01-zettelkasten/01-Literature%20Notes/DevOps%20Data%20Infa%20Design.md)
+
 ## Deep Learning
 
 ### Tutorials
