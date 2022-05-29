@@ -10,6 +10,7 @@
 ## X 的 100 问
 
 - [Question100 Computer Architecture and Parallel Computing](01-zettelkasten/01-Literature%20Notes/Question100%20Computer%20Architecture%20and%20Parallel%20Computing.md) 计算机体系结构与并行计算 100 问
+- [WIP-Question100 Deep Learing](01-zettelkasten/05-Notes%20Block/Question100%20Deep%20Learing.md)
 
 ## Awesome Online Tools
 
