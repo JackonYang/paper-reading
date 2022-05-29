@@ -25,6 +25,19 @@ From #online-tools
 - https://quick-bench.com/: 在线测 c++ 代码的 benchmark
 - https://en.cppreference.com: c++ 手册
 
+## Deep Learning
+
+### Tutorials
+
+- [deep learning tutorials](01-zettelkasten/01-Literature%20Notes/deep%20learning%20tutorials.md) 初学者看的教程
+
+### Papers
+
+- [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) 读三个经典实用模型的论文：AlexNet、VggNet、ResNet
+- [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) 当前研究热点，semi-supervised learning 流派越来越抢眼
+- [Paper Reading - Object Detection](01-zettelkasten/01-Literature%20Notes/Paper%20Reading%20-%20Object%20Detection.md)
+- [Paper Reading - Face Detection](01-zettelkasten/01-Literature%20Notes/Paper%20Reading%20-%20Face%20Detection.md)
+
 ## 计算机体系结构
 
 ### CPU & Memory
@@ -140,11 +153,6 @@ TODO  补充 deep learning 的高性能计算
 - [Cruise 开源了可视化平台Webviz，以提升自动驾驶研究水平](https://zhuanlan.zhihu.com/p/71190270)
 - [AVS 3D Web 自动驾驶可视化+伯克利开源项目+Uber开源项目](https://zhuanlan.zhihu.com/p/152382225)
 - [运行apollo3.5并体验dreamview可视化效果](https://zhuanlan.zhihu.com/p/56089471)
-
-## Deep Learning 基础理论
-
-- [[Paper Reading] 经典 CNN model -- 从 AlexNet 到 ResNet](topic-reviews/CNN-models--From-AlexNet-to-ResNet.md) 读三个经典实用模型的论文：AlexNet、VggNet、ResNet
-- [[Paper Reading] Learning with Noisy Label -- 深度学习落地](topic-reviews/learning-with-noisy-labels.md) 当前研究热点，semi-supervised learning 流派越来越抢眼
 
 ## NLP
 

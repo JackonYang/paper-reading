@@ -34,6 +34,10 @@
 
 ---
 
+[2016-FPT-Feature Pyramid Networks](../../04-pdf/files/2016-FPN-Feature%20Pyramid%20Networks.pdf)
+
+---
+
 [2017-mask-rcnn](../../04-pdf/files/2017-mask-rcnn.pdf)
 
 ---
