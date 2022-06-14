@@ -2,6 +2,10 @@
 
 Created: 2022-05-06 11:07
 
+## Readings
+
+- Scott Meyers: Cpu Caches and Why You Care  https://www.youtube.com/watch?v=WDIkqP4JbkE
+
 ## Cache 类型
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h1yjhdrlinj20st0ey0wk.jpg)
@@ -20,8 +24,6 @@ t 表示，组内的第几个 cache line。当 valid bit 有效时，生效。
 对称多处理器 (SMP)
 
 1 个 x86 CPU 有 4 个物理 Core，每个 Core 有两个 HT (Hyper Thread)
-
-![](../../Pasted%20image%2020220508142357.png)
 
 # References
 
