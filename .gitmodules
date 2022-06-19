@@ -1,0 +1,3 @@
+[submodule "paper-repo"]
+	path = paper-repo
+	url = git@github.com:JackonYang/paper-repo.git
