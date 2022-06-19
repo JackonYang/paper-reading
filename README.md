@@ -30,6 +30,7 @@ From #online-tools
 
 - [Research CI o11n Design](01-zettelkasten/01-Literature%20Notes/Research%20CI%20o11n%20Design.md)
 - [DevOps Data Infa Design](01-zettelkasten/01-Literature%20Notes/DevOps%20Data%20Infa%20Design.md)
+- 数据管理 [DVC-usage](01-zettelkasten/05-Notes%20Block/DVC-usage.md)
 
 ## Deep Learning
 
