@@ -110,11 +110,14 @@ dvc fetch data/raw/val.dvc
 # 查看数据是否变更
 dvc status
 
-# 删除文件. 只会删除本地 .dvc 文件 & 更新 .gitignore
+# 删除文件. 默认只会删除本地 .dvc 文件 & 更新 .gitignore。
+# --outs 顺便删除本地被管理的文件。
 # remove 后，一般跟 git 命令，从 git 删除对应的 .dvc 文件。
-dvc remove xxx.dvc
-# 从 remote 删除文件
-dvc gc
+# https://dvc.org/doc/command-reference/remove
+dvc remove *.dvc --outs
+# 待验证。删 remove cloud 里的用不上的
+# https://dvc.org/doc/command-reference/gc
+dvc gc --workspace -c
 ```
 
 ## 更多 DVC Remote 介绍
