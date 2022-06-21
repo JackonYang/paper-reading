@@ -1,7 +1,8 @@
 ---
 title: Linux Performance Analysis And Tools
+tags: other-default
 ---
 
-# Linux Performance Analysis And Tools
-
 [local pdf](../../../pdfs/linux-performance-analysis-and-tools.pdf)
+
+# Linux Performance Analysis And Tools

@@ -1,7 +1,8 @@
 ---
 title: OSX Mavericks Core Technology Overview
+tags: other-default
 ---
 
-# OSX Mavericks Core Technology Overview
-
 [local pdf](../../../pdfs/OSX_Mavericks_Core_Technology_Overview.pdf)
+
+# OSX Mavericks Core Technology Overview

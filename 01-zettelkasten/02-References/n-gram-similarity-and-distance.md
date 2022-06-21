@@ -1,7 +1,8 @@
 ---
 title: N Gram Similarity And Distance
+tags: other-default
 ---
 
-# N Gram Similarity And Distance
-
 [local pdf](../../../pdfs/n-gram-similarity-and-distance.pdf)
+
+# N Gram Similarity And Distance

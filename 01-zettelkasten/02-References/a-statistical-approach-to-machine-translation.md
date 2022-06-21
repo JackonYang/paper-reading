@@ -1,7 +1,8 @@
 ---
 title: A Statistical Approach To Machine Translation
+tags: other-default
 ---
 
-# A Statistical Approach To Machine Translation
-
 [local pdf](../../../pdfs/a-statistical-approach-to-machine-translation.pdf)
+
+# A Statistical Approach To Machine Translation

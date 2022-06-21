@@ -1,7 +1,8 @@
 ---
 title: Text Classification Algorithms- A Survey
+tags: other-default
 ---
 
-# Text Classification Algorithms- A Survey
-
 [local pdf](../../../pdfs/Text%20Classification%20Algorithms-%20A%20Survey.pdf)
+
+# Text Classification Algorithms- A Survey

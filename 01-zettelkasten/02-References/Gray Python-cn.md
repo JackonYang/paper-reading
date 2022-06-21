@@ -1,7 +1,8 @@
 ---
 title: Gray Python(cn)
+tags: other-default
 ---
 
-# Gray Python(cn)
-
 [local pdf](../../../pdfs/Gray%20Python-cn.pdf)
+
+# Gray Python(cn)

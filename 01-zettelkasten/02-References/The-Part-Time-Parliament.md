@@ -1,7 +1,8 @@
 ---
 title: The Part Time Parliament
+tags: other-default
 ---
 
-# The Part Time Parliament
-
 [local pdf](../../../pdfs/The-Part-Time-Parliament.pdf)
+
+# The Part Time Parliament

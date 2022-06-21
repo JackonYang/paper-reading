@@ -1,7 +1,8 @@
 ---
 title: Googlecluster Ieee
+tags: other-default
 ---
 
-# Googlecluster Ieee
-
 [local pdf](../../../pdfs/googlecluster-ieee.pdf)
+
+# Googlecluster Ieee

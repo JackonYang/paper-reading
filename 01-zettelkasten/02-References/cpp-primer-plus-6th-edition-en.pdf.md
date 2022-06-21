@@ -1,7 +1,8 @@
 ---
 title: Cpp Primer Plus
+tags: other-default
 ---
 
-# Cpp Primer Plus
-
 [local pdf](../../../pdfs/cpp-primer-plus-6th-edition-en.pdf.pdf)
+
+# Cpp Primer Plus

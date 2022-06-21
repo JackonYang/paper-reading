@@ -1,7 +1,8 @@
 ---
 title: Pagerank Algorithm(1999)
+tags: other-default
 ---
 
-# Pagerank Algorithm(1999)
-
 [local pdf](../../../pdfs/1999-PageRank-algorithm.pdf)
+
+# Pagerank Algorithm(1999)

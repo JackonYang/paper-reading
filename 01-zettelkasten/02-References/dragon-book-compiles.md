@@ -1,7 +1,8 @@
 ---
 title: Dragon Book Compiles
+tags: other-default
 ---
 
-# Dragon Book Compiles
-
 [local pdf](../../../pdfs/dragon-book-compiles.pdf)
+
+# Dragon Book Compiles

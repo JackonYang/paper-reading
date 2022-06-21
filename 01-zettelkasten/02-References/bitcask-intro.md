@@ -1,7 +1,8 @@
 ---
 title: Bitcask Intro
+tags: other-default
 ---
 
-# Bitcask Intro
-
 [local pdf](../../../pdfs/bitcask-intro.pdf)
+
+# Bitcask Intro

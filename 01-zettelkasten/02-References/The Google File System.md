@@ -1,7 +1,8 @@
 ---
 title: The Google File System
+tags: other-default
 ---
 
-# The Google File System
-
 [local pdf](../../../pdfs/The%20Google%20File%20System.pdf)
+
+# The Google File System

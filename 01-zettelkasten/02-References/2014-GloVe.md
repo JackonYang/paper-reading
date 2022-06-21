@@ -1,7 +1,8 @@
 ---
 title: Glove(2014)
+tags: other-default
 ---
 
-# Glove(2014)
-
 [local pdf](../../../pdfs/2014-GloVe.pdf)
+
+# Glove(2014)

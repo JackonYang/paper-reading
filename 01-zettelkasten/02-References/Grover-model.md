@@ -1,7 +1,8 @@
 ---
 title: Grover Model
+tags: other-default
 ---
 
-# Grover Model
-
 [local pdf](../../../pdfs/Grover-model.pdf)
+
+# Grover Model

@@ -1,7 +1,8 @@
 ---
 title: Eventually Consistent
+tags: other-default
 ---
 
-# Eventually Consistent
-
 [local pdf](../../../pdfs/eventually-consistent.pdf)
+
+# Eventually Consistent

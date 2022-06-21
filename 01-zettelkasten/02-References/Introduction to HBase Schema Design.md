@@ -1,7 +1,8 @@
 ---
 title: Introduction to HBase Schema Design
+tags: other-default
 ---
 
-# Introduction to HBase Schema Design
-
 [local pdf](../../../pdfs/Introduction%20to%20HBase%20Schema%20Design.pdf)
+
+# Introduction to HBase Schema Design

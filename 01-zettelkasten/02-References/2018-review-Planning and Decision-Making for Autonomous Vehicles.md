@@ -1,7 +1,8 @@
 ---
 title: review-Planning and Decision-Making for Autonomous Vehicles(2018)
+tags: other-default
 ---
 
-# review-Planning and Decision-Making for Autonomous Vehicles(2018)
-
 [local pdf](../../../pdfs/2018-review-Planning%20and%20Decision-Making%20for%20Autonomous%20Vehicles.pdf)
+
+# review-Planning and Decision-Making for Autonomous Vehicles(2018)

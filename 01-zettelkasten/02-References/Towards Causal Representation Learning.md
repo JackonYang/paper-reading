@@ -1,7 +1,8 @@
 ---
 title: Towards Causal Representation Learning
+tags: other-default
 ---
 
-# Towards Causal Representation Learning
-
 [local pdf](../../../pdfs/Towards%20Causal%20Representation%20Learning.pdf)
+
+# Towards Causal Representation Learning

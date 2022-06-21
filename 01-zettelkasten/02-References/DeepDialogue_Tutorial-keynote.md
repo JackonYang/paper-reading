@@ -1,7 +1,8 @@
 ---
 title: DeepDialogue Tutorial-keynote
+tags: other-default
 ---
 
-# DeepDialogue Tutorial-keynote
-
 [local pdf](../../../pdfs/DeepDialogue_Tutorial-keynote.pdf)
+
+# DeepDialogue Tutorial-keynote

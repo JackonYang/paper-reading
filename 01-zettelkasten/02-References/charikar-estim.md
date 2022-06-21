@@ -1,7 +1,8 @@
 ---
 title: Charikar Estim
+tags: other-default
 ---
 
-# Charikar Estim
-
 [local pdf](../../../pdfs/charikar-estim.pdf)
+
+# Charikar Estim

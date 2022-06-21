@@ -1,7 +1,8 @@
 ---
 title: Drop an Octave
+tags: other-default
 ---
 
-# Drop an Octave
-
 [local pdf](../../../pdfs/Drop%20an%20Octave.pdf)
+
+# Drop an Octave

@@ -1,7 +1,8 @@
 ---
 title: Mobilenetv2
+tags: other-default
 ---
 
-# Mobilenetv2
-
 [local pdf](../../../pdfs/mobileNetV2.pdf)
+
+# Mobilenetv2
