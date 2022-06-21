@@ -2,4 +2,6 @@
 title: The Three Layer Causal Hierarchy
 ---
 
+# The Three Layer Causal Hierarchy
+
 [local pdf](../../../pdfs/The%20Three%20Layer%20Causal%20Hierarchy.pdf)
