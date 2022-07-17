@@ -59,7 +59,7 @@ source:
 
 ## 李沐 3 遍阅读法
 
-[how-to-read-ai-paper](../05-Notes%20Block/how-to-read-ai-paper.md)
+[how-to-read-ai-paper](../note-blocks/how-to-read-ai-paper.md)
 
 读摘要，信息量：
 
