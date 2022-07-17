@@ -6,8 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/sequential-y86-64-implementation.yaml
 pdf_relpath: paper-repo/pdfs/Sequential%20Y86-64%20Implementation.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- archive
 url_slug: Sequential%20Y86-64%20Implementation
 ---
 
