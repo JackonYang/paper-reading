@@ -54,7 +54,7 @@ Popularized as `bottom-up' attention, bounding box (or region) based visual feat
 24. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 25. [Stacked Attention Networks for Image Question Answering](2016-stacked-attention-networks-for-image-question-answering)
 26. [FiLM - Visual Reasoning with a General Conditioning Layer](2018-film-visual-reasoning-with-a-general-conditioning-layer)
-27. [Attention is All you Need](2017-attention-is-all-you-need.md)
+27. [Attention is All you Need](2017-transformer.md)
 28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 30. [Aggregated Residual Transformations for Deep Neural Networks](2017-aggregated-residual-transformations-for-deep-neural-networks)

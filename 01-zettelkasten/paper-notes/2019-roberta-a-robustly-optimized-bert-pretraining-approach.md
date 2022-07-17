@@ -44,7 +44,7 @@ Language model pretraining has led to significant performance gains but careful 
 9. Scaling Neural Machine Translation
 10. A Surprisingly Robust Trick for the Winograd Schema Challenge
 11. [Universal Language Model Fine-tuning for Text Classification](2018-universal-language-model-fine-tuning-for-text-classification)
-12. [Attention is All you Need](2017-attention-is-all-you-need.md)
+12. [Attention is All you Need](2017-transformer.md)
 13. [Language Models are Unsupervised Multitask Learners](2019-language-models-are-unsupervised-multitask-learners)
 14. A Simple Method for Commonsense Reasoning
 15. [Multi-Task Deep Neural Networks for Natural Language Understanding](2019-multi-task-deep-neural-networks-for-natural-language-understanding)

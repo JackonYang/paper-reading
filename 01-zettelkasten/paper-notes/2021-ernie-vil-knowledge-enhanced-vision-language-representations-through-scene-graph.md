@@ -32,7 +32,7 @@ We propose a knowledge-enhanced approach, ERNIE-ViL, to learn joint representati
 
 1. An Empirical Study on Leveraging Scene Graphs for Visual Question Answering
 2. [ViLBERT - Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](2019-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks)
-3. [Attention is All you Need](2017-attention-is-all-you-need.md)
+3. [Attention is All you Need](2017-transformer.md)
 4. [SPICE - Semantic Propositional Image Caption Evaluation](2016-spice-semantic-propositional-image-caption-evaluation)
 5. [Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](2018-conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning)
 6. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)

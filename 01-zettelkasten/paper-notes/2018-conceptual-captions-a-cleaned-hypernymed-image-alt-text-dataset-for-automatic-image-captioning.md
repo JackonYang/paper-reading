@@ -48,7 +48,7 @@ We present a new dataset of image caption annotations, Conceptual Captions, whic
 18. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
 19. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](2017-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning)
 20. [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](2017-speed-accuracy-trade-offs-for-modern-convolutional-object-detectors)
-21. [Attention is All you Need](2017-attention-is-all-you-need.md)
+21. [Attention is All you Need](2017-transformer.md)
 22. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 23. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 24. Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics

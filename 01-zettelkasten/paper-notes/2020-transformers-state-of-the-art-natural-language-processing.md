@@ -45,7 +45,7 @@ Recent progress in natural language processing has been driven by advances in bo
 9. FLAIR - An Easy-to-Use Framework for State-of-the-Art NLP
 10. [Language Models are Unsupervised Multitask Learners](2019-language-models-are-unsupervised-multitask-learners)
 11. FlauBERT - Unsupervised Language Model Pre-training for French
-12. [Attention is All you Need](2017-attention-is-all-you-need.md)
+12. [Attention is All you Need](2017-transformer.md)
 13. [Universal Language Model Fine-tuning for Text Classification](2018-universal-language-model-fine-tuning-for-text-classification)
 14. SciBERT - A Pretrained Language Model for Scientific Text
 15. exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformer Models

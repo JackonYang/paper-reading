@@ -51,7 +51,7 @@ We present SpanBERT, a pre-training method that is designed to better represent 
 20. [A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](2018-a-broad-coverage-challenge-corpus-for-sentence-understanding-through-inference)
 21. Position-aware Attention and Supervised Data Improve Slot Filling
 22. pair2vec - Compositional Word-Pair Embeddings for Cross-Sentence Inference
-23. [Attention is All you Need](2017-attention-is-all-you-need.md)
+23. [Attention is All you Need](2017-transformer.md)
 24. HuggingFace's Transformers - State-of-the-art Natural Language Processing
 25. [Universal Language Model Fine-tuning for Text Classification](2018-universal-language-model-fine-tuning-for-text-classification)
 26. context2vec - Learning Generic Context Embedding with Bidirectional LSTM

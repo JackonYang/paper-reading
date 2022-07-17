@@ -77,7 +77,7 @@ We present VILLA, the first known effort on large-scale adversarial training for
 46. [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](2016-multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding)
 47. [Deep Modular Co-Attention Networks for Visual Question Answering](2019-deep-modular-co-attention-networks-for-visual-question-answering)
 48. Learning Conditioned Graph Structures for Interpretable Visual Question Answering
-49. [Attention is All you Need](2017-attention-is-all-you-need.md)
+49. [Attention is All you Need](2017-transformer.md)
 50. Unsupervised Data Augmentation for Consistency Training
 51. [Neural Module Networks](2016-neural-module-networks)
 52. Contrastive Bidirectional Transformer for Temporal Representation Learning

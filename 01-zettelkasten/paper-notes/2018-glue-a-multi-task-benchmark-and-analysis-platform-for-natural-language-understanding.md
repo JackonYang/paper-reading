@@ -56,7 +56,7 @@ Human ability to understand language is general, flexible, and robust. In contra
 25. SentEval - An Evaluation Toolkit for Universal Sentence Representations
 26. [GloVe - Global Vectors for Word Representation](2014-glove-global-vectors-for-word-representation)
 27. Non-entailed subsequences as a challenge for natural language inference
-28. [Attention is All you Need](2017-attention-is-all-you-need.md)
+28. [Attention is All you Need](2017-transformer.md)
 29. Inference is Everything - Recasting Semantic Resources into a Unified Evaluation Framework
 30. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 31. [Learning Distributed Representations of Sentences from Unlabelled Data](2016-learning-distributed-representations-of-sentences-from-unlabelled-data)

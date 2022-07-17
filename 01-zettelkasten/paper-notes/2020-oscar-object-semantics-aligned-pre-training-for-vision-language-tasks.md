@@ -66,7 +66,7 @@ Large-scale pre-training methods of learning cross-modal representations on imag
 29. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 30. [The Open Images Dataset V4](2020-the-open-images-dataset-v4)
 31. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
-32. [Attention is All you Need](2017-attention-is-all-you-need.md)
+32. [Attention is All you Need](2017-transformer.md)
 33. nocaps - novel object captioning at scale
 34. [Making the V in VQA Matter - Elevating the Role of Image Understanding in Visual Question Answering](2017-making-the-v-in-vqa-matter-elevating-the-role-of-image-understanding-in-visual-question-answering)
 35. [Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](2018-conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning)

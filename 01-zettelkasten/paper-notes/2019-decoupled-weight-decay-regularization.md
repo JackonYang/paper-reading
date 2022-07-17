@@ -42,7 +42,7 @@ L$_2$ regularization and weight decay regularization are equivalent for standard
 15. AutoAugment - Learning Augmentation Policies from Data
 16. High-dimensional dynamics of generalization error in neural networks
 17. Shake-Shake regularization
-18. [Attention is All you Need](2017-attention-is-all-you-need.md)
+18. [Attention is All you Need](2017-transformer.md)
 19. Beyond Convexity - Stochastic Quasi-Convex Optimization
 20. [Densely Connected Convolutional Networks](2017-densely-connected-convolutional-networks)
 21. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)

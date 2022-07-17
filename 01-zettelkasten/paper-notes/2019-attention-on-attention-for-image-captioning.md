@@ -33,7 +33,7 @@ Attention mechanisms are widely used in current encoder/decoder frameworks of im
 4. [Review Networks for Caption Generation](2016-review-networks-for-caption-generation)
 5. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 6. SCA-CNN - Spatial and Channel-Wise Attention in Convolutional Networks for Image Captioning
-7. [Attention is All you Need](2017-attention-is-all-you-need.md)
+7. [Attention is All you Need](2017-transformer.md)
 8. Less Is More - Picking Informative Frames for Video Captioning
 9. Self-Critical Sequence Training for Image Captioning
 10. [Boosting Image Captioning with Attributes](2017-boosting-image-captioning-with-attributes)

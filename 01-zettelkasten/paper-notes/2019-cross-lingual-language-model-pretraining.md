@@ -44,7 +44,7 @@ Recent studies have demonstrated the efficiency of generative pretraining for En
 17. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 18. [Exploring the Limits of Language Modeling](2016-exploring-the-limits-of-language-modeling)
 19. Edinburgh Neural Machine Translation Systems for WMT 16
-20. [Attention is All you Need](2017-attention-is-all-you-need.md)
+20. [Attention is All you Need](2017-transformer.md)
 21. Exploiting Similarities among Languages for Machine Translation
 22. Multilingual Models for Compositional Distributed Semantics
 23. [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](2013-recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank)
