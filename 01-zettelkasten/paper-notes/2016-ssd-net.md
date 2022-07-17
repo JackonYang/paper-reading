@@ -1,4 +1,6 @@
 ---
+Alias: SSD-Net
+meta_key: 2016-ssd-single-shot-multibox-detector
 title: SSD - Single Shot MultiBox Detector
 authors:
 - W. Liu
@@ -10,17 +12,23 @@ authors:
 - A. Berg
 fieldsOfStudy:
 - Computer Science
-meta_key: 2016-ssd-single-shot-multibox-detector
+filesize_readable: 2.4 MB
+meta_key: 2016-ssd-net
+meta_relpath: paper-extra-data/pdf-meta/2016-ssd.yaml
 numCitedBy: 15552
+pdf_relpath: paper-repo/pdfs/2016-ssd.pdf
 reading_status: TBD
 ref_count: 40
 tags:
 - gen-from-ref
 - other-default
 - paper
+url_slug: 2016-ssd
 venue: ECCV
 year: 2016
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2016-ssd.pdf)
 
 # SSD - Single Shot MultiBox Detector
 
