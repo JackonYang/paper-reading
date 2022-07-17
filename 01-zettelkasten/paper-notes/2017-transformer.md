@@ -13,7 +13,7 @@ authors:
 fieldsOfStudy:
 - Computer Science
 filesize_readable: 2.1 MB
-meta_key: 2017-attention-is-all-you-need
+meta_key: 2017-transformer
 meta_relpath: paper-extra-data/pdf-meta/attention-is-all-you-need.yaml
 numCitedBy: 35966
 pdf_relpath: paper-repo/pdfs/Attention%20Is%20All%20You%20Need.pdf
@@ -24,7 +24,7 @@ tags:
 - gen-from-ref
 - nlp
 - paper
-- transformer
+- deep-learning-model
 url_slug: Attention%20Is%20All%20You%20Need
 venue: NIPS
 year: 2017

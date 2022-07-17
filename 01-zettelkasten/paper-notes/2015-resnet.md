@@ -16,7 +16,7 @@ pdf_relpath: paper-repo/pdfs/2015-ResNet.pdf
 reading_status: DONE
 ref_count: 61
 tags:
-- cnn-model
+- deep-learning-model
 - gen-from-ref
 - paper
 url_slug: 2015-ResNet

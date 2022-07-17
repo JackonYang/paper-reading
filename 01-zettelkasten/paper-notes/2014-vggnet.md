@@ -15,7 +15,7 @@ reading_status: TBD
 ref_count: 57
 tags:
 - gen-from-ref
-- other-default
+- deep-learning-model
 - paper
 url_slug: 2014-VggNet
 venue: ICLR

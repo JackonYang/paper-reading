@@ -15,7 +15,7 @@ pdf_relpath: paper-repo/pdfs/2012-AlexNet.pdf
 reading_status: DONE
 ref_count: 50
 tags:
-- cnn-model
+- deep-learning-model
 - gen-from-ref
 - paper
 url_slug: 2012-AlexNet
