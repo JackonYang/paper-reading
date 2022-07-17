@@ -49,5 +49,5 @@ We present a hierarchical model that learns image decompositions via alternating
 21. Hierarchical models of object recognition in cortex
 22. Parsing Images into Regions, Curves, and Curve Groups
 23. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
-24. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+24. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 25. A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems

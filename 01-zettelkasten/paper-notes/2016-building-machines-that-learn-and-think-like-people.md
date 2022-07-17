@@ -235,7 +235,7 @@ Abstract Recent progress in artificial intelligence has renewed interest in buil
 206. A Neural Substrate of Prediction and Reward
 207. Learning from one example through shared densities on transforms
 208. Whose gaze will infants follow? The elicitation of gaze-following in 12-month-olds
-209. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+209. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 210. A Cognitive Model of Planning
 211. The mentalistic basis of core social cognition - experiments in preverbal infants and a computational model.
 212. Social evaluation by preverbal infants

@@ -39,7 +39,7 @@ We describe a single convolutional neural network architecture that, given a sen
 12. Phoneme recognition using time-delay neural networks
 13. Shallow Semantic Parsing using Support Vector Machines
 14. Using Corpus Statistics on Entities to Improve Semi-supervised Relation Extraction from the Web
-15. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+15. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 16. The Necessity of Parsing for Predicate Argument Recognition
 17. Robust methods in analysis of natural language data
 18. Robust Parsing of the Proposition Bank

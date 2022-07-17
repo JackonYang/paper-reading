@@ -45,7 +45,7 @@ We consider the problem of designing models to leverage a recently introduced ap
 15. What is the best multi-stage architecture for object recognition?
 16. Rank, Trace-Norm and Max-Norm
 17. [Reading Digits in Natural Images with Unsupervised Feature Learning](2011-reading-digits-in-natural-images-with-unsupervised-feature-learning)
-18. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+18. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 19. On the piecewise analysis of networks of linear threshold neurons
 20. [Deep Sparse Rectifier Neural Networks](2011-deep-sparse-rectifier-neural-networks)
 21. General constructive representations for continuous piecewise-linear functions

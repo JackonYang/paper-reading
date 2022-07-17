@@ -67,7 +67,7 @@ This work introduces a novel convolutional network architecture for the task of 
 39. Semi-supervised Learning with Ladder Networks
 40. Articulated Human Detection with Flexible Mixtures of Parts
 41. A discriminatively trained, multiscale, deformable part model
-42. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+42. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 43. [Torch7 - A Matlab-like Environment for Machine Learning](2011-torch7-a-matlab-like-environment-for-machine-learning)
 44. Combining local appearance and holistic view - Dual-Source Deep Neural Networks for human pose estimation
 45. [Holistically-Nested Edge Detection](2015-holistically-nested-edge-detection)

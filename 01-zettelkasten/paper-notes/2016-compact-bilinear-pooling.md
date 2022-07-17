@@ -60,7 +60,7 @@ Bilinear models has been shown to achieve impressive performance on a wide range
 31. The Caltech-UCSD Birds-200-2011 Dataset
 32. Fast Neural Networks with Circulant Projections
 33. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
-34. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+34. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 35. Random Feature Maps for Dot Product Kernels
 36. Very sparse random projections
 37. Caltech-UCSD Birds 200

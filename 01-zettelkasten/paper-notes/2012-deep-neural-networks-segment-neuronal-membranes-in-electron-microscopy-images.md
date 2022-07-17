@@ -43,7 +43,7 @@ We address a central problem of neuroanatomy, namely, the automatic segmentation
 14. Learning rotational features for filament detection
 15. Hierarchical models of object recognition in cortex
 16. Best practices for convolutional neural networks applied to visual document analysis
-17. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+17. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 18. Fast Ray features for learning irregular shapes
 19. Performance and Scalability of GPU-Based Convolutional Neural Networks
 20. Object recognition with features inspired by visual cortex

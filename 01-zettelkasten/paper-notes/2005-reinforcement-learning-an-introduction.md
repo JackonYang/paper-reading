@@ -385,7 +385,7 @@ Reinforcement learning, one of the most active research areas in artificial inte
 358. The misbehavior of organisms.
 359. Discrete-time, discrete-valued observable operator models - a tutorial
 360. On the Theory of Apportionment
-361. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+361. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 362. A neuro-dynamic programming approach to retailer inventory management
 363. FUNCTIONAL APPROXIMATIONS AND DYNAMIC PROGRAMMING
 364. Predictability Modulates Human Brain Response to Reward

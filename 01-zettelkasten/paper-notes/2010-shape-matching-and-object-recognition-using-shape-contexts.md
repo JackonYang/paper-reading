@@ -64,7 +64,7 @@ This paper presents my work on computing shape models that are computationally f
 36. The internal representation of solid shape with respect to vision
 37. SHAPE MANIFOLDS, PROCRUSTEAN METRICS, AND COMPLEX PROJECTIVE SPACES
 38. Fourier Descriptors for Plane Closed Curves
-39. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+39. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 40. Low-dimensional procedure for the characterization of human faces.
 41. Principal Warps - Thin-Plate Splines and the Decomposition of Deformations
 42. Computational framework for determining stereo correspondence from a set of linear spatial filters

@@ -88,7 +88,7 @@ Multi-resolution image features may be approximated via extrapolation from nearb
 59. [A Model of Saliency-Based Visual Attention for Rapid Scene Analysis](2009-a-model-of-saliency-based-visual-attention-for-rapid-scene-analysis)
 60. Scale-Space for Discrete Signals
 61. The Design and Use of Steerable Filters
-62. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+62. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 63. A Performance Evaluation of Single and Multi-feature People Detection
 64. Efficient matching of pictorial structures
 65. Noise removal via Bayesian wavelet coring

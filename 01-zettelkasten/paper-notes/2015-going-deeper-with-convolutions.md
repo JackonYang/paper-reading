@@ -80,7 +80,7 @@ We propose a deep convolutional neural network architecture codenamed Inception 
 46. Robust Object Recognition with Cortex-Like Mechanisms
 47. HMDB - A large video database for human motion recognition
 48. [Learning realistic human actions from movies](2008-learning-realistic-human-actions-from-movies)
-49. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+49. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 50. Parsing the Hand in Depth Images
 51. Recognizing indoor scenes
 52. Segmentation as selective search for object recognition

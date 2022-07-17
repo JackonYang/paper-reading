@@ -34,7 +34,7 @@ This article offers an empirical exploration on the use of character-level convo
 6. A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval
 7. In Defense of Word Embedding for Generic Text Representation
 8. [Framewise phoneme classification with bidirectional LSTM and other neural network architectures](2005-framewise-phoneme-classification-with-bidirectional-lstm-and-other-neural-network-architectures)
-9. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+9. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 10. [LSTM - A Search Space Odyssey](2017-lstm-a-search-space-odyssey)
 11. Learning mid-level features for recognition
 12. Backpropagation Applied to Handwritten Zip Code Recognition

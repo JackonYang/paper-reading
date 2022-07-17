@@ -54,7 +54,7 @@ This paper introduces the Deep Recurrent Attentive Writer (DRAW) neural network 
 24. [Neural Turing Machines](2014-neural-turing-machines)
 25. On the quantitative analysis of deep belief networks
 26. [Long Short-Term Memory](1997-long-short-term-memory)
-27. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+27. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 28. The Neural Autoregressive Distribution Estimator
 29. Markov Chain Monte Carlo and Variational Inference - Bridging the Gap
 30. Learning where to look

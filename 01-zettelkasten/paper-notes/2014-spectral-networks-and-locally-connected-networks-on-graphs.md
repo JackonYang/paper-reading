@@ -39,7 +39,7 @@ Convolutional Neural Networks are extremely efficient architectures in image and
 10. Multiscale Wavelets on Trees, Graphs and High Dimensional Data - Theory and Applications to Semi Supervised Learning
 11. Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
 12. Diffusion Wavelets
-13. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+13. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 14. A tutorial on spectral clustering
 15. [Deep Neural Networks for Acoustic Modeling in Speech Recognition - The Shared Views of Four Research Groups](2012-deep-neural-networks-for-acoustic-modeling-in-speech-recognition-the-shared-views-of-four-research-groups)
 16. Multiresolution signal processing for meshes

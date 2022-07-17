@@ -39,7 +39,7 @@ We show how to use complementary priors to eliminate the explaining-away effects
 11. Diffusion Networks, Products of Experts, and Factor Analysis
 12. DIFFUSION NETWORKS , PRODUCT OF EXPERTS , AND FACTOR ANALYSIS
 13. Best practices for convolutional neural networks applied to visual document analysis
-14. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+14. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 15. Learning multiple layers of representation
 16. [Training Products of Experts by Minimizing Contrastive Divergence](2002-training-products-of-experts-by-minimizing-contrastive-divergence)
 17. Fields of Experts - a framework for learning image priors

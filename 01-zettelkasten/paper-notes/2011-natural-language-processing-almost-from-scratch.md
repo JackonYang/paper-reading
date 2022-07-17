@@ -83,7 +83,7 @@ We propose a unified neural network architecture and learning algorithm that can
 52. The Proposition Bank - An Annotated Corpus of Semantic Roles
 53. [Greedy Layer-Wise Training of Deep Networks](2006-greedy-layer-wise-training-of-deep-networks)
 54. Transductive Inference for Text Classification using Support Vector Machines
-55. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+55. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 56. RCV1 - A New Benchmark Collection for Text Categorization Research
 57. [Conditional Random Fields - Probabilistic Models for Segmenting and Labeling Sequence Data](2001-conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data)
 58. [Multitask Learning](2004-multitask-learning)

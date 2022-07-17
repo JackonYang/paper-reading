@@ -47,7 +47,7 @@ Deep Neural Networks (DNNs) are powerful models that have achieved excellent per
 19. Overcoming the Curse of Sentence Length for Neural Machine Translation using Automatic Segmentation
 20. [Deep Neural Networks for Acoustic Modeling in Speech Recognition](2012-deep-neural-networks-for-acoustic-modeling-in-speech-recognition)
 21. Fast and Robust Neural Network Joint Models for Statistical Machine Translation
-22. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+22. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 23. [Multi-column deep neural networks for image classification](2012-multi-column-deep-neural-networks-for-image-classification)
 24. Edinburgh's Phrase-based Machine Translation Systems for WMT-14
 25. Learning representations by back-propagating errors

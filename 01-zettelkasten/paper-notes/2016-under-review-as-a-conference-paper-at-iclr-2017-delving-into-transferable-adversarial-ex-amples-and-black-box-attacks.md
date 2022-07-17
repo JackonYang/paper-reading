@@ -36,4 +36,4 @@ An intriguing property of deep neural networks is the existence of adversarial e
 10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 11. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 12. Man vs. computer - Benchmarking machine learning algorithms for traffic sign recognition
-13. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+13. [Gradient-based learning applied to document recognition](1998-lenet5.md)

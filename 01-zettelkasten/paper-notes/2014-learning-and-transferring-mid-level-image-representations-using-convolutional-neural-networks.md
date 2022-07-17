@@ -62,7 +62,7 @@ Convolutional neural networks (CNN) have recently shown outstanding image classi
 33. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)
 34. [Unbiased look at dataset bias](2011-unbiased-look-at-dataset-bias)
 35. A latent model of discriminative aspect
-36. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+36. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 37. Synergistic Face Detection and Pose Estimation with Energy-Based Models
 38. An original approach for the localization of objects in images
 39. [Beyond Bags of Features - Spatial Pyramid Matching for Recognizing Natural Scene Categories](2006-beyond-bags-of-features-spatial-pyramid-matching-for-recognizing-natural-scene-categories)

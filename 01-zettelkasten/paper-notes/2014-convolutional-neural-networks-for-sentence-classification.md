@@ -44,7 +44,7 @@ We report on a series of experiments with convolutional neural networks (CNN) tr
 18. [CNN Features Off-the-Shelf - An Astounding Baseline for Recognition](2014-cnn-features-off-the-shelf-an-astounding-baseline-for-recognition)
 19. Learning Question Classifiers
 20. Seeing Stars - Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales
-21. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+21. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 22. Learning Discriminative Projections for Text Similarity Measures
 23. From symbolic to sub-symbolic information in question classification
 24. [ADADELTA - An Adaptive Learning Rate Method](2012-adadelta-an-adaptive-learning-rate-method)

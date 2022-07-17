@@ -61,7 +61,7 @@ We develop a Deep-Text Recurrent Network (DTRN)that regards scene text reading a
 31. Symmetry-based text line detection in natural scenes
 32. [Towards End-To-End Speech Recognition with Recurrent Neural Networks](2014-towards-end-to-end-speech-recognition-with-recurrent-neural-networks)
 33. ICDAR 2003 robust reading competitions
-34. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+34. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 35. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 36. [Long Short-Term Memory](1997-long-short-term-memory)
 37. [Framewise phoneme classification with bidirectional LSTM and other neural network architectures](2005-framewise-phoneme-classification-with-bidirectional-lstm-and-other-neural-network-architectures)

@@ -87,7 +87,7 @@ Much recent progress in Vision-to-Language (V2L) problems has been achieved thro
 57. Midge - Generating Image Descriptions From Computer Vision Detections
 58. [Long Short-Term Memory](1997-long-short-term-memory)
 59. Multilabel SVM active learning for image classification
-60. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+60. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 61. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 62. Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation
 63. Framing image description as a ranking task

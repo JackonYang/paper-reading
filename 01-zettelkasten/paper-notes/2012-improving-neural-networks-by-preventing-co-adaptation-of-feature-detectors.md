@@ -36,7 +36,7 @@ When a large feedforward neural network is trained on a small training set, it t
 6. Bayesian Learning for Neural Networks
 7. [Reducing the Dimensionality of Data with Neural Networks](2006-reducing-the-dimensionality-of-data-with-neural-networks)
 8. [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](2012-context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition)
-9. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+9. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 10. [Machine learning](1996-machine-learning)
 11. The Importance of Encoding Versus Training with Sparse Coding and Vector Quantization
 12. [Training Products of Experts by Minimizing Contrastive Divergence](2002-training-products-of-experts-by-minimizing-contrastive-divergence)

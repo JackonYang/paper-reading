@@ -61,7 +61,7 @@ We evaluate whether features extracted from the activation of a deep convolution
 29. Efficient Object Category Recognition Using Classemes
 30. SUN database - Large-scale scene recognition from abbey to zoo
 31. [Multitask Learning](2004-multitask-learning)
-32. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+32. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 33. [Histograms of oriented gradients for human detection](2005-histograms-of-oriented-gradients-for-human-detection)
 34. Group-sensitive multiple kernel learning for object categorization
 35. [Reducing the Dimensionality of Data with Neural Networks](2006-reducing-the-dimensionality-of-data-with-neural-networks)

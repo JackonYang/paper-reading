@@ -42,7 +42,7 @@ Image-based sequence recognition has been a long-standing research topic in comp
 14. Strokelets - A Learned Multi-scale Representation for Scene Text Recognition
 15. End-to-End Text Recognition with Hybrid HMM Maxout Models
 16. Supervised mid-level features for word image representation
-17. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+17. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 18. Word Spotting and Recognition with Embedded Attributes
 19. Scene text detection and recognition - recent advances and future trends
 20. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)

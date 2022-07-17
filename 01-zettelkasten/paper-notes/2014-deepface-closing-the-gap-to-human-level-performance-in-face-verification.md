@@ -55,7 +55,7 @@ In modern face recognition, the conventional pipeline consists of four stages: d
 26. [Improving deep neural networks for LVCSR using rectified linear units and dropout](2013-improving-deep-neural-networks-for-lvcsr-using-rectified-linear-units-and-dropout)
 27. Face Description with Local Binary Patterns - Application to Face Recognition
 28. Emergence of Complex-Like Cells in a Temporal Product Network with Local Receptive Fields
-29. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+29. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 30. [Large Scale Distributed Deep Networks](2012-large-scale-distributed-deep-networks)
 31. [Learning Deep Architectures for AI](2007-learning-deep-architectures-for-ai)
 32. Learning representations by back-propagating errors

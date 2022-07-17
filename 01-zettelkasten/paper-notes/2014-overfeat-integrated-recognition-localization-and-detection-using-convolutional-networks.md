@@ -50,7 +50,7 @@ We present an integrated framework for using Convolutional Networks for classifi
 19. A Convolutional Neural Network Hand Tracker
 20. Synergistic Face Detection and Pose Estimation with Energy-Based Models
 21. Original approach for the localisation of objects in images
-22. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+22. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 23. Fast image scanning with deep max-pooling convolutional neural networks
 24. Reading handwritten digits - a ZIP code recognition system
 25. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)

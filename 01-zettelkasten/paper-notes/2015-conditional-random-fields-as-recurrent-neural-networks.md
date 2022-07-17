@@ -69,7 +69,7 @@ Pixel-level labelling tasks, such as semantic segmentation, play a central role 
 36. [Conditional Random Fields - Probabilistic Models for Segmenting and Labeling Sequence Data](2001-conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data)
 37. Semantic texton forests for image categorization and segmentation
 38. Free-Form Region Description with Second-Order Pooling
-39. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+39. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 40. Pulling Things out of Perspective
 41. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 42. The Role of Context for Object Detection and Semantic Segmentation in the Wild

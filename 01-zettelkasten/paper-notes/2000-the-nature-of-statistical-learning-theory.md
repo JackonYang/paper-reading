@@ -54,7 +54,7 @@ Setting of the learning problem consistency of learning processes bounds on the 
 28. Central Limit Theorems for Empirical Measures
 29. A Technique for the Numerical Solution of Certain Integral Equations of the First Kind
 30. Theoretical Foundations of the Potential Function Method in Pattern Recognition Learning
-31. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+31. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 32. Universal Donsker Classes and Metric Entropy
 33. Efficient Pattern Recognition Using a New Transformation Distance
 34. Learning Internal Representations by Error Propagation, Parallel Distributed Processing

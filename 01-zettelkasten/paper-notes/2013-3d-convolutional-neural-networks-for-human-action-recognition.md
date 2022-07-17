@@ -67,7 +67,7 @@ We consider the automated recognition of human actions in surveillance videos. M
 38. Neural Networks - Tricks of the Trade
 39. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 40. Object recognition with features inspired by visual cortex
-41. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+41. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 42. Convolutional Networks Can Learn to Generate Affinity Graphs for Image Segmentation
 43. Scaling learning algorithms towards AI
 44. View-Independent Action Recognition from Temporal Self-Similarities

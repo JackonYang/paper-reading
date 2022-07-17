@@ -34,6 +34,6 @@ This paper addresses the visualisation of image classification models, learnt us
 6. [Building high-level features using large scale unsupervised learning](2013-building-high-level-features-using-large-scale-unsupervised-learning)
 7. A discriminatively trained, multiscale, deformable part model
 8. [A Fast Learning Algorithm for Deep Belief Nets](2006-a-fast-learning-algorithm-for-deep-belief-nets)
-9. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+9. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 10. [Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images](2001-interactive-graph-cuts-for-optimal-boundary-region-segmentation-of-objects-in-n-d-images)
 11. How to Explain Individual Classification Decisions

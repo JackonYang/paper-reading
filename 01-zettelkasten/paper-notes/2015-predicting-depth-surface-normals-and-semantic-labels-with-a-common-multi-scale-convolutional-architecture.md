@@ -71,6 +71,6 @@ In this paper we address three different computer vision tasks using a single ba
 44. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
 45. Shape, Illumination, and Reflectance from Shading
 46. Unfolding an Indoor Origami World
-47. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+47. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 48. Automatic Detection of Multiple and Overlapping EP Catheters in Fluoroscopic Sequences
 49. Coarse-to-fine Depth Estimation from a Single Image via Coupled Regression and Dictionary Learning

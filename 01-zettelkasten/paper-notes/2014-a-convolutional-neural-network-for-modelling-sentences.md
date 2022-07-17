@@ -51,7 +51,7 @@ The ability to accurately represent sentences is central to language understandi
 23. Connectionist Learning Procedures
 24. Estimating Linear Models for Compositional Distributional Semantics
 25. A Context-Theoretic Framework for Compositionality in Distributional Semantics
-26. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+26. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 27. Nouns are Vectors, Adjectives are Matrices - Representing Adjective-Noun Constructions in Semantic Space
 28. Question classification with log-linear models
 29. Category-theoretic quantitative compositional distributional models of natural language semantics

@@ -67,7 +67,7 @@ Recent deep learning models have demonstrated strong capabilities for classifyin
 38. Detecting text in natural scenes with stroke width transform
 39. Image Classification using Random Forests and Ferns
 40. Cluster-Based Co-Saliency Detection
-41. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+41. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 42. Learning Deep Representation for Face Alignment with Auxiliary Attributes
 43. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 44. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)

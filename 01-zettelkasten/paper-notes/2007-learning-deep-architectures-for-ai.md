@@ -117,7 +117,7 @@ Theoretical results strongly suggest that in order to learn the kind of complica
 91. Learning Despite Concept Variation by Finding Structure in Attribute-based Data
 92. The Cost of Cortical Computation
 93. Loss Functions for Discriminative Training of Energy-Based Models
-94. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+94. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 95. Flexible shaping - How learning in small steps helps
 96. Unsupervised Learning of Models for Recognition
 97. Parallel Models of Associative Memory

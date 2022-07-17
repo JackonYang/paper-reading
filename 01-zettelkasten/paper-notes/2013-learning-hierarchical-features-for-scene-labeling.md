@@ -66,7 +66,7 @@ Scene labeling consists of labeling each pixel in an image with the category of 
 37. Best practices for convolutional neural networks applied to visual document analysis
 38. [An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision](2004-an-experimental-comparison-of-min-cut-max-flow-algorithms-for-energy-minimization-in-vision)
 39. Toward automatic phenotyping of developing embryos from videos
-40. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+40. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 41. Hardware accelerated convolutional neural networks for synthetic vision systems
 42. A committee of neural networks for traffic sign classification
 43. Dimensionality Reduction by Learning an Invariant Mapping

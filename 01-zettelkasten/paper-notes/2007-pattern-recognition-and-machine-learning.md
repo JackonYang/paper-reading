@@ -117,7 +117,7 @@ Probability Distributions.- Linear Models for Regression.- Linear Models for Cla
 90. Dimension Reduction by Local Principal Component Analysis
 91. Generalized Discriminant Analysis Using a Kernel Approach
 92. Bayesian Hierarchical Mixtures of Experts
-93. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+93. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 94. On Estimating Regression
 95. Propagation of Probabilities, Means, and Variances in Mixed Graphical Association Models
 96. Mixtures of Probabilistic Principal Component Analyzers

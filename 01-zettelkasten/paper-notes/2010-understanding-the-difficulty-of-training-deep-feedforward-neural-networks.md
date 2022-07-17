@@ -35,7 +35,7 @@ Whereas before 2006 it appears that deep multilayer neural networks were not suc
 8. Learning long-term dependencies with gradient descent is difficult
 9. Learning representations by back-propagating errors
 10. Efficient Learning of Sparse Representations with an Energy-Based Model
-11. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+11. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 12. Accelerated Learning in Layered Neural Networks
 13. [A unified architecture for natural language processing - deep neural networks with multitask learning](2008-a-unified-architecture-for-natural-language-processing-deep-neural-networks-with-multitask-learning)
 14. A Scalable Hierarchical Distributed Language Model

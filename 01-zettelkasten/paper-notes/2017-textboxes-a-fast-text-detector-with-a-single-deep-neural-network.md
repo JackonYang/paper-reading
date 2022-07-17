@@ -54,5 +54,5 @@ This paper presents an end-to-end trainable fast scene text detector, named Text
 24. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 25. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 26. [Fast R-CNN](2015-fast-r-cnn)
-27. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+27. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 28. Object count/area graphs for the evaluation of object detection and segmentation algorithms

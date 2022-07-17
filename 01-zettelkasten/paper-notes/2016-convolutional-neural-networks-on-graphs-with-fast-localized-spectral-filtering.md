@@ -50,7 +50,7 @@ In this work, we are interested in generalizing convolutional neural networks (C
 22. Towards a theoretical foundation for Laplacian-based manifold methods
 23. Generalized Tree-Based Wavelet Transform
 24. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems)
-25. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+25. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 26. A tutorial on spectral clustering
 27. On the degrees of freedom of signals on graphs
 28. [Normalized cuts and image segmentation](1997-normalized-cuts-and-image-segmentation)

@@ -72,7 +72,7 @@ We introduce the dense captioning task, which requires a computer vision system 
 44. [Long Short-Term Memory](1997-long-short-term-memory)
 45. [Microsoft COCO Captions - Data Collection and Evaluation Server](2015-microsoft-coco-captions-data-collection-and-evaluation-server)
 46. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
-47. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+47. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 48. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
 49. [Recurrent neural network based language model](2010-recurrent-neural-network-based-language-model)
 50. [Generating Sequences With Recurrent Neural Networks](2013-generating-sequences-with-recurrent-neural-networks)

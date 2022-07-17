@@ -49,7 +49,7 @@ Our proposed deeply-supervised nets (DSN) method simultaneously minimizes classi
 19. [On the difficulty of training recurrent neural networks](2013-on-the-difficulty-of-training-recurrent-neural-networks)
 20. [Maxout Networks](2013-maxout-networks)
 21. [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](2012-context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition)
-22. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+22. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 23. Nonparametric guidance of autoencoder representations using label information
 24. [Regularization of Neural Networks using DropConnect](2013-regularization-of-neural-networks-using-dropconnect)
 25. Large-scale Learning with SVM and Convolutional for Generic Object Categorization

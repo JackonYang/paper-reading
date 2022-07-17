@@ -58,7 +58,7 @@ Convolutional Neural Networks define an exceptionally powerful class of models, 
 29. Part-Based R-CNNs for Fine-Grained Category Detection
 30. Optimizing Neural Networks that Generate Iimages
 31. Transformation Properties of Learned Visual Representations
-32. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+32. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 33. Invariant Scattering Convolution Networks
 34. [Reading Digits in Natural Images with Unsupervised Feature Learning](2011-reading-digits-in-natural-images-with-unsupervised-feature-learning)
 35. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)

@@ -56,7 +56,7 @@ This paper presents stacked attention networks (SANs) that learn to answer natur
 26. [Dropout - a simple way to prevent neural networks from overfitting](2014-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting)
 27. [Long Short-Term Memory](1997-long-short-term-memory)
 28. [Generating Sequences With Recurrent Neural Networks](2013-generating-sequences-with-recurrent-neural-networks)
-29. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+29. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 30. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 31. Verb Semantics and Lexical Selection
 32. SHOW

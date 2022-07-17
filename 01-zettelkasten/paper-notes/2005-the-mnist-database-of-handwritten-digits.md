@@ -25,4 +25,4 @@ Disclosed is an improved articulated bar flail having shearing edges for efficie
 
 ## Paper References
 
-1. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+1. [Gradient-based learning applied to document recognition](1998-lenet5.md)

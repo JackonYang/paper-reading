@@ -51,7 +51,7 @@ We introduce a novel type of text representation that preserves the 2D layout of
 19. Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks
 20. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
 21. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
-22. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+22. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 23. CloudScan - A Configuration-Free Invoice Analysis System Using Recurrent Neural Networks
 24. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
 25. Minimum Word Error Rate Training for Attention-Based Sequence-to-Sequence Models

@@ -68,7 +68,7 @@ Object detection performance, as measured on the canonical PASCAL VOC dataset, h
 39. Scalable multi-label annotation
 40. Example-Based Learning for View-Based Human Face Detection
 41. [Representation Learning - A Review and New Perspectives](2013-representation-learning-a-review-and-new-perspectives)
-42. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+42. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 43. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 44. Neural network-based face detection
 45. Original approach for the localisation of objects in images

@@ -45,7 +45,7 @@ While logistic sigmoid neurons are more biologically plausible than hyperbolic t
 17. [Extracting and composing robust features with denoising autoencoders](2008-extracting-and-composing-robust-features-with-denoising-autoencoders)
 18. Why Does Unsupervised Pre-training Help Deep Learning?
 19. Incorporating Second-Order Functional Knowledge for Better Option Pricing
-20. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+20. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 21. Active Deep Networks for Semi-Supervised Sentiment Classification
 22. Deep Self-Taught Learning for Handwritten Character Recognition
 23. The Cortical Neuron

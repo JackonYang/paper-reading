@@ -46,7 +46,7 @@ Most modern convolutional neural networks (CNNs) used for object recognition are
 17. Discriminative Transfer Learning with Tree-based Priors
 18. What is the best multi-stage architecture for object recognition?
 19. [Dropout - a simple way to prevent neural networks from overfitting](2014-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting)
-20. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+20. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 21. [Regularization of Neural Networks using DropConnect](2013-regularization-of-neural-networks-using-dropconnect)
 22. [Improving neural networks by preventing co-adaptation of feature detectors](2012-improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors)
 23. [Maxout Networks](2013-maxout-networks)

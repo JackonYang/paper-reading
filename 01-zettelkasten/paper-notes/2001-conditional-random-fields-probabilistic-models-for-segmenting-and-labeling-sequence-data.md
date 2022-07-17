@@ -44,7 +44,7 @@ We present conditional random fields , a framework for building probabilistic mo
 16. [Foundations of statistical natural language processing](2002-foundations-of-statistical-natural-language-processing)
 17. Finite-State Transducers in Language and Speech Processing
 18. [A decision-theoretic generalization of on-line learning and an application to boosting](1995-a-decision-theoretic-generalization-of-on-line-learning-and-an-application-to-boosting)
-19. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+19. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 20. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 21. Boosting Applied to Tagging and PP Attachment
 22. Generalized Iterative Scaling for Log-Linear Models

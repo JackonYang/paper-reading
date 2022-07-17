@@ -50,7 +50,7 @@ Abstract: Graph-structured data appears frequently in domains including chemistr
 21. From machine learning to machine reasoning
 22. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 23. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
-24. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+24. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 25. Learning to Decipher the Heap for Program Verification
 26. Generalization of back-propagation to recurrent neural networks.
 27. Empirical Risk Minimization of Graphical Model Parameters Given Approximate Inference, Decoding, and Model Structure

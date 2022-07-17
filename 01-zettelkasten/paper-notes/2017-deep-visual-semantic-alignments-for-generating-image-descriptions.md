@@ -84,7 +84,7 @@ We present a model that generates natural language descriptions of images and th
 57. [Microsoft COCO Captions - Data Collection and Evaluation Server](2015-microsoft-coco-captions-data-collection-and-evaluation-server)
 58. Bidirectional recurrent neural networks
 59. [Meteor Universal - Language Specific Translation Evaluation for Any Target Language](2014-meteor-universal-language-specific-translation-evaluation-for-any-target-language)
-60. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+60. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 61. What do we perceive in a glance of a real-world scene?
 62. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 63. [Bleu - a Method for Automatic Evaluation of Machine Translation](2002-bleu-a-method-for-automatic-evaluation-of-machine-translation)

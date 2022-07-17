@@ -122,7 +122,7 @@ In this work we address the task of semantic image segmentation with Deep Learni
 92. Detect What You Can - Detecting and Representing Objects Using Holistic Models and Body Parts
 93. [GrabCut - interactive foreground extraction using iterated graph cuts](2004-grabcut-interactive-foreground-extraction-using-iterated-graph-cuts)
 94. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems)
-95. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+95. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 96. Parallel and Deterministic Algorithms from MRFs - Surface Reconstruction
 97. The discrete wavelet transform - wedding the a trous and Mallat algorithms
 98. Multirate digital filters, filter banks, polyphase networks, and applications - a tutorial

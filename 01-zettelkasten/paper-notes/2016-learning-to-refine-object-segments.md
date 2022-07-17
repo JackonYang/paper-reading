@@ -65,6 +65,6 @@ Object segmentation requires both object-level information and low-level pixel d
 36. Geodesic Object Proposals
 37. Semantic texton forests for image categorization and segmentation
 38. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
-39. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+39. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 40. Holistically-Nested Edge Detection
 41. [Learning Hierarchical Features for Scene Labeling](2013-learning-hierarchical-features-for-scene-labeling)

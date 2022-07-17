@@ -37,7 +37,7 @@ We present a fast, fully parameterizable GPU implementation of Convolutional Neu
 7. Deep, Big, Simple Neural Nets for Handwritten Digit Recognition
 8. 3D Object Recognition with Deep Belief Nets
 9. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
-10. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+10. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 11. Neocognitron for handwritten digit recognition
 12. Best practices for convolutional neural networks applied to visual document analysis
 13. Better Digit Recognition with a Committee of Simple Neural Nets

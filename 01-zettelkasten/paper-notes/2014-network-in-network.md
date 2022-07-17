@@ -38,7 +38,7 @@ We propose a novel deep network structure called "Network In Network" (NIN) to e
 10. [Regularization of Neural Networks using DropConnect](2013-regularization-of-neural-networks-using-dropconnect)
 11. [Improving neural networks by preventing co-adaptation of feature detectors](2012-improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors)
 12. ICA with Reconstruction Cost for Efficient Overcomplete Feature Learning
-13. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+13. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 14. [Representation Learning - A Review and New Perspectives](2013-representation-learning-a-review-and-new-perspectives)
 15. Human Face Detection in Visual Scenes
 16. [Reading Digits in Natural Images with Unsupervised Feature Learning](2011-reading-digits-in-natural-images-with-unsupervised-feature-learning)

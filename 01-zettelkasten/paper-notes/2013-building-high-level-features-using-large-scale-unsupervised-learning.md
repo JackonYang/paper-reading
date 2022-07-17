@@ -62,7 +62,7 @@ We consider the problem of building high-level, class-specific feature detectors
 29. The chains model for detecting parts by their context
 30. Efficient sparse coding algorithms
 31. Why is Real-World Visual Object Recognition Hard?
-32. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+32. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 33. Invariant visual representation by single neurons in the human brain
 34. Slow feature analysis yields a rich repertoire of complex cell properties.
 35. Nonlinear image representation using divisive normalization

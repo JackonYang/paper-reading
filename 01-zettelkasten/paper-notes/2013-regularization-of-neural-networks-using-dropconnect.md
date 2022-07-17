@@ -33,7 +33,7 @@ We introduce DropConnect, a generalization of Dropout (Hinton et al., 2012), for
 3. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
 4. [Multi-column deep neural networks for image classification](2012-multi-column-deep-neural-networks-for-image-classification)
 5. [Rectified Linear Units Improve Restricted Boltzmann Machines](2010-rectified-linear-units-improve-restricted-boltzmann-machines)
-6. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+6. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 7. Probable networks and plausible predictions - a review of practical Bayesian methods for supervised neural networks
 8. Empirical margin distributions and bounding the generalization error of combined classifiers
 9. [Practical Bayesian Optimization of Machine Learning Algorithms](2012-practical-bayesian-optimization-of-machine-learning-algorithms)

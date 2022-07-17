@@ -53,7 +53,7 @@ Recognizing text in natural images is a challenging task with many unsolved prob
 23. Text Detection and Recognition in Imagery - A Survey
 24. ICDAR 2003 robust reading competitions - entries, results, and future directions
 25. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
-26. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+26. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 27. End-to-End Text Recognition with Hybrid HMM Maxout Models
 28. [Attention-Based Models for Speech Recognition](2015-attention-based-models-for-speech-recognition)
 29. TILT - Transform Invariant Low-Rank Textures

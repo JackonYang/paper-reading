@@ -59,7 +59,7 @@ We present recursive recurrent neural networks with attention modeling (R2AM) fo
 32. Whole is Greater than Sum of Parts - Recognizing Scene Text Words
 33. Top-down and bottom-up cues for scene text recognition
 34. Region-Based Discriminative Feature Pooling for Scene Text Recognition
-35. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+35. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 36. Word Spotting in the Wild
 37. End-to-end scene text recognition
 38. Toward Integrated Scene Text Reading

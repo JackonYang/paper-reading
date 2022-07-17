@@ -57,7 +57,7 @@ Recent work has shown that convolutional networks can be substantially deeper, m
 29. Convolutional neural networks applied to house numbers digit classification
 30. Deep Manifold Traversal - Changing Labels with Convolutional Features
 31. Resnet in Resnet - Generalizing Residual Architectures
-32. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+32. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 33. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 34. Pedestrian Detection with Unsupervised Multi-stage Feature Learning
 35. [Reading Digits in Natural Images with Unsupervised Feature Learning](2011-reading-digits-in-natural-images-with-unsupervised-feature-learning)

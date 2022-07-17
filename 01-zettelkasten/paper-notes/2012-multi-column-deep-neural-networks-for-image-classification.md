@@ -31,7 +31,7 @@ Traditional methods of computer vision and machine learning cannot match human p
 3. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 4. Large-scale object recognition with CUDA-accelerated hierarchical neural networks
 5. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
-6. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+6. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 7. Deep, Big, Simple Neural Nets for Handwritten Digit Recognition
 8. Traffic sign recognition with multi-scale Convolutional Networks
 9. Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition

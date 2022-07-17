@@ -47,7 +47,7 @@ Convolutional Neural Networks (CNNs) have been established as a powerful class o
 16. Modeling Temporal Structure of Decomposable Motion Segments for Activity Classification
 17. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 18. Indoor Semantic Segmentation using depth information
-19. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
+19. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 20. Behavior recognition via sparse spatio-temporal features
 21. [Histograms of oriented gradients for human detection](2005-histograms-of-oriented-gradients-for-human-detection)
 22. [Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images](2012-deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images)
