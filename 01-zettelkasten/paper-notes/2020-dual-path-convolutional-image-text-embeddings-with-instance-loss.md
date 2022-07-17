@@ -71,7 +71,7 @@ Matching images and sentences demands a fine understanding of both modalities. I
 40. [Dual Attention Networks for Multimodal Reasoning and Matching](2017-dual-attention-networks-for-multimodal-reasoning-and-matching)
 41. Image Classification by Cross-Media Active Learning With Privileged Information
 42. Unsupervised Person Re-identification
-43. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+43. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 44. Person Re-identification - Past, Present and Future
 45. A New Evaluation Protocol and Benchmarking Results for Extendable Cross-media Retrieval
 46. Multi-scale Deep Learning Architectures for Person Re-identification

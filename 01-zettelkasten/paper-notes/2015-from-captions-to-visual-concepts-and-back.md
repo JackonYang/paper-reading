@@ -76,7 +76,7 @@ This paper presents a novel approach for automatically generating image descript
 39. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
 40. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
 41. [Microsoft COCO Captions - Data Collection and Evaluation Server](2015-microsoft-coco-captions-data-collection-and-evaluation-server)
-42. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+42. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 43. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 44. Strategies for training large scale neural network language models
 45. Trigger-based language models - a maximum entropy approach

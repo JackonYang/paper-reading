@@ -37,7 +37,7 @@ We introduce the dense captioning task, which requires a computer vision system 
 9. Describing Multimedia Content Using Attention-Based Encoder-Decoder Networks
 10. [From captions to visual concepts and back](2015-from-captions-to-visual-concepts-and-back)
 11. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-12. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+12. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 13. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 14. Flickr30k Entities - Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models
 15. Scalable Object Detection Using Deep Neural Networks

@@ -65,7 +65,7 @@ Modeling textual or visual information with vector representations trained from 
 34. [Multimodal Deep Learning](2011-multimodal-deep-learning)
 35. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 36. [Image Question Answering Using Convolutional Neural Network with Dynamic Parameter Prediction](2016-image-question-answering-using-convolutional-neural-network-with-dynamic-parameter-prediction)
-37. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+37. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 38. Fisher Vectors Derived from Hybrid Gaussian-Laplacian Mixture Models for Image Annotation
 39. WSABIE - Scaling Up to Large Vocabulary Image Annotation
 40. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)

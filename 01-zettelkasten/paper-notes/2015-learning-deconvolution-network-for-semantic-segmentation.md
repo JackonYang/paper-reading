@@ -40,7 +40,7 @@ We propose a novel semantic segmentation algorithm by learning a deep deconvolut
 12. Feedforward semantic segmentation with zoom-out features
 13. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)
 14. [Adaptive deconvolutional networks for mid and high level feature learning](2011-adaptive-deconvolutional-networks-for-mid-and-high-level-feature-learning)
-15. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+15. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 16. Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network
 17. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
 18. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

@@ -47,7 +47,7 @@ We present a robust end-to-end neural-based model to attentively recognize text 
 17. Real-time scene text localization and recognition
 18. ICDAR 2003 robust reading competitions
 19. [Learning to Refine Object Segments](2016-learning-to-refine-object-segments)
-20. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+20. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 21. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 22. [Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks](2006-connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks)
 23. [On the Properties of Neural Machine Translation - Encoder-Decoder Approaches](2014-on-the-properties-of-neural-machine-translation-encoder-decoder-approaches)

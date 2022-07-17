@@ -33,7 +33,7 @@ We present a simple, highly modularized network architecture for image classific
 3. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 4. [Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification](2015-delving-deep-into-rectifiers-surpassing-human-level-performance-on-imagenet-classification)
 5. [Identity Mappings in Deep Residual Networks](2016-identity-mappings-in-deep-residual-networks)
-6. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+6. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 7. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 8. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
 9. Deep Roots - Improving CNN Efficiency with Hierarchical Filter Groups

@@ -40,7 +40,7 @@ State-of-the-art object detection networks depend on region proposal algorithms 
 11. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 12. [What Makes for Effective Detection Proposals?](2016-what-makes-for-effective-detection-proposals)
 13. [DenseCap - Fully Convolutional Localization Networks for Dense Captioning](2016-densecap-fully-convolutional-localization-networks-for-dense-captioning)
-14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 15. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)
 16. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 17. [Deep Neural Networks for Object Detection](2013-deep-neural-networks-for-object-detection)

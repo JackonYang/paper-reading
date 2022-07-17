@@ -28,7 +28,7 @@ There is large consent that successful training of deep networks requires many t
 
 1. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 2. [Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images](2012-deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images)
-3. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+3. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 4. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 5. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 6. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)

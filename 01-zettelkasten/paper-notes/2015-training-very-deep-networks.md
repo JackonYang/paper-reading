@@ -42,7 +42,7 @@ Theoretical and empirical evidence indicates that the depth of neural networks i
 14. Feature Learning in Deep Neural Networks - Studies on Speech Recognition Tasks.
 15. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 16. [A Fast Learning Algorithm for Deep Belief Nets](2006-a-fast-learning-algorithm-for-deep-belief-nets)
-17. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+17. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 18. [Maxout Networks](2013-maxout-networks)
 19. [Striving for Simplicity - The All Convolutional Net](2015-striving-for-simplicity-the-all-convolutional-net)
 20. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

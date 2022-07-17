@@ -55,7 +55,7 @@ In this paper, we address referring expression comprehension: localizing an imag
 23. Modular Multitask Reinforcement Learning with Policy Sketches
 24. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 25. [Deep Residual Learning for Image Recognition](2015-resnet.md)
-26. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+26. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 27. Parsing with Compositional Vector Grammars
 28. An Implementation of Faster RCNN with Study for Region Sampling
 29. [Inferring and Executing Programs for Visual Reasoning](2017-inferring-and-executing-programs-for-visual-reasoning)

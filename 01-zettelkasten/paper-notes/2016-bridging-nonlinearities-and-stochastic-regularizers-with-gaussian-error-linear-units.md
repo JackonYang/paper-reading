@@ -45,6 +45,6 @@ We propose the Gaussian Error Linear Unit (GELU), a high-performing neural netwo
 18. Deep Networks with Stochastic Depth
 19. [Acoustic Modeling Using Deep Belief Networks](2012-acoustic-modeling-using-deep-belief-networks)
 20. All you need is a good init
-21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 22. A Simple Approximation to the Area Under Standard Normal Curve
 23. Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters

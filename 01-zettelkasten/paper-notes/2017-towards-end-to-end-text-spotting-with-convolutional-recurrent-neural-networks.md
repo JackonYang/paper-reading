@@ -44,7 +44,7 @@ In this work, we jointly address the problem of text detection and recognition i
 16. [Robust Scene Text Recognition with Automatic Rectification](2016-robust-scene-text-recognition-with-automatic-rectification)
 17. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 18. ICDAR 2015 competition on Robust Reading
-19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 20. Symmetry-based text line detection in natural scenes
 21. Scene text detection and recognition - recent advances and future trends
 22. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)

@@ -72,7 +72,7 @@ We propose the task of free-form and open-ended Visual Question Answering (VQA).
 40. ConceptNet - A Practical Commonsense Reasoning Tool-Kit
 41. [Distributed Representations of Words and Phrases and their Compositionality](2013-distributed-representations-of-words-and-phrases-and-their-compositionality)
 42. Hierarchical semantic indexing for large scale image retrieval
-43. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+43. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 44. Midge - Generating Image Descriptions From Computer Vision Detections
 45. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 46. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

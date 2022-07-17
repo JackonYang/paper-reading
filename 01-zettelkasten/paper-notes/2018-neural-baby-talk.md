@@ -64,7 +64,7 @@ We introduce a novel framework for image captioning that can produce natural lan
 35. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 36. Encode, Review, and Decode - Reviewer Module for Caption Generation
 37. [GloVe - Global Vectors for Word Representation](2014-glove-global-vectors-for-word-representation)
-38. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+38. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 39. Pointer Networks
 40. Midge - Generating Image Descriptions From Computer Vision Detections
 41. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)

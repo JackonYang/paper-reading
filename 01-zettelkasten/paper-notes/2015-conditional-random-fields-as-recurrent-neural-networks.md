@@ -51,7 +51,7 @@ Pixel-level labelling tasks, such as semantic segmentation, play a central role 
 18. Training an Active Random Field for Real-Time Image Denoising
 19. Material recognition in the wild with the Materials in Context Database
 20. Recurrent conditional random field for language understanding
-21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 22. Efficient inference for fully-connected CRFs with stationarity
 23. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)
 24. Learning Deep Structured Models

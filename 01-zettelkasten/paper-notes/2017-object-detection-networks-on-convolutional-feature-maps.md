@@ -42,7 +42,7 @@ Most object detectors contain two important components: a feature extractor and 
 12. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 13. Deformable part models are convolutional neural networks
 14. [Deep Residual Learning for Image Recognition](2015-resnet.md)
-15. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+15. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 16. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 17. Regionlets for Generic Object Detection
 18. CNN - Single-label to Multi-label

@@ -77,7 +77,7 @@ This paper introduces a novel rotation-based framework for arbitrary-oriented te
 45. ICDAR 2015 competition on Robust Reading
 46. Word Spotting in the Wild
 47. [Fast R-CNN](2015-fast-r-cnn)
-48. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+48. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 49. [Robust Wide Baseline Stereo from Maximally Stable Extremal Regions](2002-robust-wide-baseline-stereo-from-maximally-stable-extremal-regions)
 50. ICDAR 2003 robust reading competitions
 51. ICDAR 2013 Robust Reading Competition

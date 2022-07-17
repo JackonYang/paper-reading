@@ -50,7 +50,7 @@ Image-based sequence recognition has been a long-standing research topic in comp
 22. PhotoOCR - Reading Text in Uncontrolled Conditions
 23. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 24. [Speech recognition with deep recurrent neural networks](2013-speech-recognition-with-deep-recurrent-neural-networks)
-25. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+25. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 26. Convolutional recurrent neural networks - Learning spatial dependencies for image representation
 27. ICDAR 2003 robust reading competitions - entries, results, and future directions
 28. Optical music recognition - state-of-the-art and open issues

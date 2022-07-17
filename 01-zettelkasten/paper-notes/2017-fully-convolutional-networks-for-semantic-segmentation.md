@@ -44,7 +44,7 @@ Convolutional networks are powerful visual models that yield hierarchies of feat
 16. ParseNet - Looking Wider to See Better
 17. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 18. [U-Net - Convolutional Networks for Biomedical Image Segmentation](2015-u-net-convolutional-networks-for-biomedical-image-segmentation)
-19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 20. Do Convnets Learn Correspondence?
 21. Feedforward semantic segmentation with zoom-out features
 22. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

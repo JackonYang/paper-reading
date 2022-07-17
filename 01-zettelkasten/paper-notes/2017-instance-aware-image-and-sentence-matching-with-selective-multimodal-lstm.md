@@ -52,7 +52,7 @@ Effective image and sentence matching depends on how to well measure their globa
 24. Fisher Kernels on Visual Vocabularies for Image Categorization
 25. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 26. Deep correlation for matching images and text
-27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 28. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 29. Simulating human saccadic scanpaths on natural images
 30. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

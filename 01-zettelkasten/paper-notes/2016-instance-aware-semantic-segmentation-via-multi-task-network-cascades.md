@@ -39,7 +39,7 @@ Semantic segmentation research has recently witnessed rapid progress, but many l
 11. [Conditional Random Fields as Recurrent Neural Networks](2015-conditional-random-fields-as-recurrent-neural-networks)
 12. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)
 13. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 15. CPMC - Automatic Object Segmentation Using Constrained Parametric Min-Cuts
 16. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 17. [Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification](2015-delving-deep-into-rectifiers-surpassing-human-level-performance-on-imagenet-classification)

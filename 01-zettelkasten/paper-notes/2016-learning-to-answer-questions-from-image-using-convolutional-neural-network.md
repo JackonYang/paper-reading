@@ -37,7 +37,7 @@ In this paper, we propose to employ the convolutional neural network (CNN) for t
 9. [Convolutional Neural Networks for Sentence Classification](2014-convolutional-neural-networks-for-sentence-classification)
 10. [Show and tell - A neural image caption generator](2015-show-and-tell-a-neural-image-caption-generator)
 11. [A Convolutional Neural Network for Modelling Sentences](2014-a-convolutional-neural-network-for-modelling-sentences)
-12. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+12. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 13. Learning a Recurrent Visual Representation for Image Caption Generation
 14. [Deep Visual-Semantic Alignments for Generating Image Descriptions](2017-deep-visual-semantic-alignments-for-generating-image-descriptions)
 15. [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](2014-unifying-visual-semantic-embeddings-with-multimodal-neural-language-models)

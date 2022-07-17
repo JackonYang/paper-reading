@@ -36,7 +36,7 @@ Deep residual networks have emerged as a family of extremely deep architectures 
 7. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 8. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 9. [Deep Residual Learning for Image Recognition](2015-resnet.md)
-10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 11. All you need is a good init
 12. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision)
 13. [Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)](2016-fast-and-accurate-deep-network-learning-by-exponential-linear-units-elus)

@@ -59,7 +59,7 @@ We describe a question answering model that applies to both images and structure
 30. The Stanford Typed Dependencies Representation
 31. Combined Distributional and Logical Semantics
 32. Learning Synchronous Grammars for Semantic Parsing with Lambda Calculus
-33. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+33. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 34. [ADADELTA - An Adaptive Learning Rate Method](2012-adadelta-an-adaptive-learning-rate-method)
 35. [Simple statistical gradient-following algorithms for connectionist reinforcement learning](2004-simple-statistical-gradient-following-algorithms-for-connectionist-reinforcement-learning)
 36. Towards a Formal Distributional Semantics - Simulating Logical Calculi with Tensors

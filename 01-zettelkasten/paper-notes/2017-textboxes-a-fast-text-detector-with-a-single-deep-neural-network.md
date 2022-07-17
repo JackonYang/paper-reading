@@ -44,7 +44,7 @@ This paper presents an end-to-end trainable fast scene text detector, named Text
 14. ICDAR 2011 Robust Reading Competition Challenge 2 - Reading Text in Scene Images
 15. Word Spotting in the Wild
 16. Detecting texts of arbitrary orientations in natural images
-17. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+17. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 18. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
 19. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 20. [Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks](2006-connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks)

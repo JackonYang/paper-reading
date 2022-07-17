@@ -63,7 +63,7 @@ Incidental scene text spotting is considered one of the most difficult and valua
 32. [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](2016-recursive-recurrent-nets-with-attention-modeling-for-ocr-in-the-wild)
 33. ICDAR 2013 Robust Reading Competition
 34. Scene Text Localization and Recognition with Oriented Stroke Detection
-35. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+35. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 36. [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](2018-arbitrary-oriented-scene-text-detection-via-rotation-proposals)
 37. Sequence-to-Label Script Identification for Multilingual OCR
 38. Multi-Orientation Scene Text Detection with Adaptive Clustering

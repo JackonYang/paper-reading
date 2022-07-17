@@ -56,7 +56,7 @@ People often refer to entities in an image in terms of their relationships with 
 26. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 27. Fast and Accurate Shift-Reduce Constituent Parsing
 28. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
-29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 30. Multiple Object Recognition with Visual Attention
 31. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems)
 32. [Multiscale Combinatorial Grouping](2014-multiscale-combinatorial-grouping)

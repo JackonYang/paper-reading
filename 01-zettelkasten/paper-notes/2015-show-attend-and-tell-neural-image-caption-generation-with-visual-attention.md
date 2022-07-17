@@ -53,7 +53,7 @@ Inspired by recent work in machine translation and object detection, we introduc
 20. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 21. Composing Simple Image Descriptions using Web-scale N-grams
 22. Multimodal Neural Language Models
-23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 24. [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](2015-deep-captioning-with-multimodal-recurrent-neural-networks-m-rnn)
 25. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 26. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)

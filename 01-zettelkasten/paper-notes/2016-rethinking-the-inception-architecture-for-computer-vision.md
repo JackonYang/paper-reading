@@ -28,7 +28,7 @@ Convolutional networks are at the core of most state of-the-art computer vision 
 
 ## Paper References
 
-1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 2. Scalable Object Detection Using Deep Neural Networks
 3. [Large-Scale Video Classification with Convolutional Neural Networks](2014-large-scale-video-classification-with-convolutional-neural-networks)
 4. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

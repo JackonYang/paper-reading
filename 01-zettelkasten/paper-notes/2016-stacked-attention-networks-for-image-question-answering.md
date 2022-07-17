@@ -46,7 +46,7 @@ This paper presents stacked attention networks (SANs) that learn to answer natur
 16. [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](2014-unifying-visual-semantic-embeddings-with-multimodal-neural-language-models)
 17. A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval
 18. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
-19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 20. [Convolutional Neural Networks for Sentence Classification](2014-convolutional-neural-networks-for-sentence-classification)
 21. Semantic Parsing via Paraphrasing
 22. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

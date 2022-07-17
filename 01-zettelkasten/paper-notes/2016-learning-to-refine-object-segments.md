@@ -42,7 +42,7 @@ Object segmentation requires both object-level information and low-level pixel d
 13. Fully Connected Deep Structured Networks
 14. [Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture](2015-predicting-depth-surface-normals-and-semantic-labels-with-a-common-multi-scale-convolutional-architecture)
 15. [Conditional Random Fields as Recurrent Neural Networks](2015-conditional-random-fields-as-recurrent-neural-networks)
-16. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+16. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 17. Deconvolutional networks
 18. [Measuring the Objectness of Image Windows](2012-measuring-the-objectness-of-image-windows)
 19. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

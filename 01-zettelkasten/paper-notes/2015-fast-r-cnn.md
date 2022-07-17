@@ -30,7 +30,7 @@ This paper proposes a Fast Region-based Convolutional Network method (Fast R-CNN
 3. Scalable Object Detection Using Deep Neural Networks
 4. [Return of the Devil in the Details - Delving Deep into Convolutional Nets](2014-return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets)
 5. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
-6. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+6. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 7. segDeepM - Exploiting segmentation and context in deep neural networks for object detection
 8. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 9. [What Makes for Effective Detection Proposals?](2016-what-makes-for-effective-detection-proposals)

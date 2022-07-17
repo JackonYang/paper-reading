@@ -83,7 +83,7 @@ We present an approach to efficiently detect the 2D pose of multiple people in a
 54. Everybody Dance Now
 55. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 56. Beyond trees - common-factor models for 2D human pose recovery
-57. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+57. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 58. Teaching Robots to Predict Human Motion
 59. Pictorial Structures for Object Recognition
 60. Joint Graph Decomposition & Node Labeling - Problem, Algorithms, Applications

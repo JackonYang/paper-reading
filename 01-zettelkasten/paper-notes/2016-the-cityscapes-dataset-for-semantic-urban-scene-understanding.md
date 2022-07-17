@@ -73,7 +73,7 @@ Visual understanding of complex urban street scenes is an enabling factor for a 
 38. [The Pascal Visual Object Classes Challenge - A Retrospective](2014-the-pascal-visual-object-classes-challenge-a-retrospective)
 39. Joint Semantic Segmentation and 3D Reconstruction from Monocular Video
 40. Monocular Pedestrian Detection - Survey and Experiments
-41. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+41. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 42. Feedforward semantic segmentation with zoom-out features
 43. Hough Regions for Joining Instance Localization and Segmentation
 44. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)

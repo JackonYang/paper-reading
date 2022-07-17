@@ -48,7 +48,7 @@ Many new proposals for scene text recognition (STR) models have been introduced 
 15. ICDAR 2003 robust reading competitions
 16. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 17. A robust arbitrary text detection system for natural scene images
-18. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+18. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 19. ICDAR 2013 Robust Reading Competition
 20. [Rosetta - Large Scale System for Text Detection and Recognition in Images](2018-rosetta-large-scale-system-for-text-detection-and-recognition-in-images)
 21. [Gated Recurrent Convolution Neural Network for OCR](2017-gated-recurrent-convolution-neural-network-for-ocr)

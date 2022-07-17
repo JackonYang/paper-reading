@@ -41,7 +41,7 @@ Convolutional Neural Network (CNN) has demonstrated promising performance in sin
 8. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 9. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 10. [CNN Features Off-the-Shelf - An Astounding Baseline for Recognition](2014-cnn-features-off-the-shelf-an-astounding-baseline-for-recognition)
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. Deep Convolutional Ranking for Multilabel Image Annotation
 13. Weakly supervised object recognition with convolutional neural networks
 14. Background Context Augmented Hypothesis Graph for Object Segmentation

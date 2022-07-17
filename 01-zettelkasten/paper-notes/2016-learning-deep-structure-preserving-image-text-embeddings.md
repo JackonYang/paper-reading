@@ -36,7 +36,7 @@ This paper proposes a method for learning joint embeddings of images and text us
 8. Learning Fine-Grained Image Similarity with Deep Ranking
 9. [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](2015-deep-captioning-with-multimodal-recurrent-neural-networks-m-rnn)
 10. Deep Metric Learning Using Triplet Network
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. [Show and tell - A neural image caption generator](2015-show-and-tell-a-neural-image-caption-generator)
 13. [Grounding of Textual Phrases in Images by Reconstruction](2016-grounding-of-textual-phrases-in-images-by-reconstruction)
 14. Visual Madlibs - Fill in the blank Image Generation and Question Answering

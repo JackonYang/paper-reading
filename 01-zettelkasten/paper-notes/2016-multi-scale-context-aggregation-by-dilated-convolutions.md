@@ -29,7 +29,7 @@ State-of-the-art models for semantic segmentation are based on adaptations of co
 2. [Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation](2016-efficient-piecewise-training-of-deep-structured-models-for-semantic-segmentation)
 3. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 4. [Learning Deconvolution Network for Semantic Segmentation](2015-learning-deconvolution-network-for-semantic-segmentation)
-5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 6. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](2015-semantic-image-segmentation-with-deep-convolutional-nets-and-fully-connected-crfs)
 7. SegNet - A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling
 8. [Learning Hierarchical Features for Scene Labeling](2013-learning-hierarchical-features-for-scene-labeling)

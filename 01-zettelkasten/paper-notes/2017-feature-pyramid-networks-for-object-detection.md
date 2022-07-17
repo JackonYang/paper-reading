@@ -37,7 +37,7 @@ Feature pyramids are a basic component in recognition systems for detecting obje
 6. [Learning to Refine Object Segments](2016-learning-to-refine-object-segments)
 7. A MultiPath Network for Object Detection
 8. Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model
-9. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+9. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 10. [HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection](2016-hypernet-towards-accurate-region-proposal-generation-and-joint-object-detection)
 11. [Fast Feature Pyramids for Object Detection](2014-fast-feature-pyramids-for-object-detection)
 12. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

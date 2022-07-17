@@ -52,7 +52,7 @@ We propose a novel Connectionist Text Proposal Network (CTPN) that accurately lo
 22. ICDAR 2015 competition on Robust Reading
 23. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 24. BING - Binarized normed gradients for objectness estimation at 300fps
-25. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+25. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 26. Detecting text in natural scenes with stroke width transform
 27. Efficient Scene text localization and recognition with local character refinement
 28. ICDAR 2013 Robust Reading Competition

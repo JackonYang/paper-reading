@@ -53,7 +53,7 @@ We propose Dual Attention Networks (DANs) which jointly leverage visual and text
 25. [A Neural Attention Model for Abstractive Sentence Summarization](2015-a-neural-attention-model-for-abstractive-sentence-summarization)
 26. Simple Baseline for Visual Question Answering
 27. [Recurrent Models of Visual Attention](2014-recurrent-models-of-visual-attention)
-28. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+28. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 29. Associating neural word embeddings with deep image representations using Fisher Vectors
 30. Deep correlation for matching images and text
 31. [Image Question Answering Using Convolutional Neural Network with Dynamic Parameter Prediction](2016-image-question-answering-using-convolutional-neural-network-with-dynamic-parameter-prediction)

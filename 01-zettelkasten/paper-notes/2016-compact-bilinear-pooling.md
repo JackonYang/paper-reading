@@ -28,7 +28,7 @@ Bilinear models has been shown to achieve impressive performance on a wide range
 ## Paper References
 
 1. Bilinear CNN Models for Fine-Grained Visual Recognition
-2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 3. Improving the Fisher Kernel for Large-Scale Image Classification
 4. One-to-many face recognition with bilinear CNNs
 5. Face Identification with Bilinear CNNs

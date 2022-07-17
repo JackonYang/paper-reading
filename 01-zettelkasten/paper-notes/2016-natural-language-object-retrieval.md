@@ -50,7 +50,7 @@ In this paper, we address the task of natural language object retrieval, to loca
 19. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 20. LSDA - Large Scale Detection through Adaptation
 21. Learning Distance Metrics with Contextual Constraints for Image Retrieval
-22. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+22. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 23. Fisher Vectors Derived from Hybrid Gaussian-Laplacian Mixture Models for Image Annotation
 24. Fast, Accurate Detection of 100,000 Object Classes on a Single Machine
 25. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)

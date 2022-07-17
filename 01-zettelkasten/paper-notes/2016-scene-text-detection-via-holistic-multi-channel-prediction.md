@@ -74,7 +74,7 @@ Recently, scene text detection has become an active research topic in computer v
 43. Assistive Text Reading from Complex Background for Blind Persons
 44. Texture-Based Approach for Text Detection in Images Using Support Vector Machines and Continuously Adaptive Mean Shift Algorithm
 45. ICDAR 2015 competition on Robust Reading
-46. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+46. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 47. Mobile visual search on printed documents using text and low bit-rate features
 48. Word Spotting in the Wild
 49. Handwritten text line extraction based on minimum spanning tree clustering

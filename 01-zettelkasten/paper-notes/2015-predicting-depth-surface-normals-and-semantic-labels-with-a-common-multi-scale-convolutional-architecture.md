@@ -37,7 +37,7 @@ In this paper we address three different computer vision tasks using a single ba
 10. [Simultaneous Detection and Segmentation](2014-simultaneous-detection-and-segmentation)
 11. Convolutional feature masking for joint object and stuff segmentation
 12. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](2015-semantic-image-segmentation-with-deep-convolutional-nets-and-fully-connected-crfs)
-13. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+13. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 14. Dense real-time mapping of object-class semantics from RGB-D video
 15. Deep convolutional neural fields for depth estimation from a single image
 16. Computing the stereo matching cost with a convolutional neural network

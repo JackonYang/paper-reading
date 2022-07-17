@@ -62,7 +62,7 @@ Previous approaches for scene text detection have already achieved promising per
 30. Multi-Orientation Scene Text Detection with Adaptive Clustering
 31. Large-Lexicon Attribute-Consistent Text Recognition in Natural Images
 32. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-33. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+33. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 34. Text Detection and Recognition in Imagery - A Survey
 35. Text Localization in Natural Images Using Stroke Feature Transform and Text Covariance Descriptors
 36. Orientation Robust Text Line Detection in Natural Images

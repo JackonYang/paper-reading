@@ -36,7 +36,7 @@ In this paper we introduce a new method for text detection in natural images. Th
 8. End-to-end scene text recognition
 9. End-to-end text recognition with convolutional neural networks
 10. Scene Text Recognition using Higher Order Language Priors
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. Scene Text Localization and Recognition with Oriented Stroke Detection
 13. ICDAR 2011 Robust Reading Competition Challenge 2 - Reading Text in Scene Images
 14. ICDAR 2015 competition on Robust Reading

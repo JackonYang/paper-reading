@@ -55,7 +55,7 @@ In this paper, we propose a novel approach for text detection in natural images.
 24. Text String Detection From Natural Scenes by Structure-Based Partition and Grouping
 25. Detecting text in natural scenes with stroke width transform
 26. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
-27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 28. Word Spotting in the Wild
 29. ICDAR 2015 competition on Robust Reading
 30. ICDAR 2013 Robust Reading Competition

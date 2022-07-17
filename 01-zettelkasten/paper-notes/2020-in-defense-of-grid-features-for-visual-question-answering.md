@@ -43,7 +43,7 @@ Popularized as `bottom-up' attention, bounding box (or region) based visual feat
 13. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 14. VizWiz Grand Challenge - Answering Visual Questions from Blind People
 15. Interpretable Counting for Visual Question Answering
-16. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+16. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 17. [UNITER - Learning UNiversal Image-TExt Representations](2019-uniter-learning-universal-image-text-representations)
 18. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)
 19. [ViLBERT - Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](2019-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks)

@@ -58,7 +58,7 @@ Vision-and-language reasoning requires an understanding of visual concepts, lang
 31. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 32. [A Corpus for Reasoning about Natural Language Grounded in Photographs](2019-a-corpus-for-reasoning-about-natural-language-grounded-in-photographs)
 33. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
-34. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+34. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 35. Pythia v0.1 - the Winning Entry to the VQA Challenge 2018
 36. Gated Feedback Recurrent Neural Networks
 37. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)

@@ -58,7 +58,7 @@ We present a novel single-shot text detector that directly outputs word-level bo
 27. Detecting texts of arbitrary orientations in natural images
 28. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)
 29. Symmetry-based text line detection in natural scenes
-30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 31. ICDAR 2015 competition on Robust Reading
 32. Detecting text in natural scenes with stroke width transform
 33. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

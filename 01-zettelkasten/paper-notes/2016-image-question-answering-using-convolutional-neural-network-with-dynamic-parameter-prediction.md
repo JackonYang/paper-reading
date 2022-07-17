@@ -36,7 +36,7 @@ We tackle image question answering (ImageQA) problem by learning a convolutional
 8. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
 9. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 10. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. [Learning Deep Features for Scene Recognition using Places Database](2014-learning-deep-features-for-scene-recognition-using-places-database)
 13. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 14. [Skip-Thought Vectors](2015-skip-thought-vectors)

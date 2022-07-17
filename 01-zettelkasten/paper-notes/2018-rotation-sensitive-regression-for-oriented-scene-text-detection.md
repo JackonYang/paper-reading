@@ -64,7 +64,7 @@ Text in natural images is of arbitrary orientations, requiring detection in term
 34. Understanding image representations by measuring their equivariance and equivalence
 35. ICDAR 2015 competition on Robust Reading
 36. [TextProposals - A text-specific selective search algorithm for word spotting in the wild](2017-textproposals-a-text-specific-selective-search-algorithm-for-word-spotting-in-the-wild)
-37. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+37. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 38. [YOLO9000 - Better, Faster, Stronger](2017-yolo9000-better-faster-stronger)
 39. A Theoretical Analysis of Feature Pooling in Visual Recognition
 40. Rotation-invariant convolutional neural networks for galaxy morphology prediction

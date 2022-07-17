@@ -31,7 +31,7 @@ Recognition algorithms based on convolutional networks (CNNs) typically use the 
 2. [Simultaneous Detection and Segmentation](2014-simultaneous-detection-and-segmentation)
 3. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 4. Convolutional feature masking for joint object and stuff segmentation
-5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 6. Part-Based R-CNNs for Fine-Grained Category Detection
 7. Semantic Segmentation with Second-Order Pooling
 8. Learning to localize detected objects

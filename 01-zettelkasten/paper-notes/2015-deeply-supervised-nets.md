@@ -29,7 +29,7 @@ Our proposed deeply-supervised nets (DSN) method simultaneously minimizes classi
 ## Paper References
 
 1. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
-2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 3. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 4. [Network In Network](2014-network-in-network)
 5. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)

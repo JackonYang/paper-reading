@@ -33,7 +33,7 @@ Linking two data sources is a basic building block in numerous computer vision p
 6. Explain Images with Multimodal Recurrent Neural Networks
 7. Framing Image Description as a Ranking Task - Data, Models and Evaluation Metrics (Extended Abstract)
 8. Deep Canonical Correlation Analysis
-9. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+9. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 10. Generalized Multiview Analysis - A discriminative latent space
 11. Multimodal Convolutional Neural Networks for Matching Image and Sentence
 12. Canonical Correlation Analysis of Video Volume Tensors for Action Categorization and Detection

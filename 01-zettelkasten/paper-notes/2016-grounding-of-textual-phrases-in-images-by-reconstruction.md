@@ -64,7 +64,7 @@ Grounding (i.e. localizing) arbitrary, free-form textual phrases in visual conte
 34. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 35. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
 36. Every Moment Counts - Dense Detailed Labeling of Actions in Complex Videos
-37. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+37. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 38. Image retrieval using scene graphs
 39. Grounded Language Learning from Video Described with Sentences
 40. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)

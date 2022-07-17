@@ -47,7 +47,7 @@ Much recent progress in Vision-to-Language (V2L) problems has been achieved thro
 17. Building a Large-scale Multimodal Knowledge Base for Visual Question Answering
 18. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 19. Grounded Compositional Semantics for Finding and Describing Images with Sentences
-20. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+20. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 21. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)
 22. Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries
 23. Guiding the Long-Short Term Memory Model for Image Caption Generation

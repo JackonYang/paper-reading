@@ -31,7 +31,7 @@ Convolutional Neural Networks define an exceptionally powerful class of models, 
 2. Deep Symmetry Networks
 3. Locally Scale-Invariant Convolutional Neural Networks
 4. Neural Activation Constellations - Unsupervised Part Model Discovery with Convolutional Networks
-5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 6. Deep Networks with Internal Selective Attention through Feedback Connections
 7. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 8. Efficient and accurate approximations of nonlinear convolutional networks

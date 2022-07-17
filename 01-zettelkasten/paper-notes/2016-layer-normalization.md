@@ -33,7 +33,7 @@ Training state-of-the-art, deep neural networks is computationally expensive. On
 5. Recurrent Batch Normalization
 6. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 7. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
-8. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+8. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 9. Deep Speech 2 - End-to-End Speech Recognition in English and Mandarin
 10. [Deep Neural Networks for Acoustic Modeling in Speech Recognition - The Shared Views of Four Research Groups](2012-deep-neural-networks-for-acoustic-modeling-in-speech-recognition-the-shared-views-of-four-research-groups)
 11. [Large Scale Distributed Deep Networks](2012-large-scale-distributed-deep-networks)

@@ -36,7 +36,7 @@ It is well known that contextual and multi-scale representations are important f
 7. [HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection](2016-hypernet-towards-accurate-region-proposal-generation-and-joint-object-detection)
 8. Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model
 9. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 11. Scene labeling with LSTM recurrent neural networks
 12. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 13. Learning to Segment Object Candidates

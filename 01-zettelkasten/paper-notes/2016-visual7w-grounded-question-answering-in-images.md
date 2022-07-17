@@ -54,7 +54,7 @@ We have seen great progress in basic perceptual tasks such as object recognition
 25. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 26. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 27. A Neural Network for Factoid Question Answering over Paragraphs
-28. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+28. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 29. [Learning Deep Features for Scene Recognition using Places Database](2014-learning-deep-features-for-scene-recognition-using-places-database)
 30. [Large-Scale Video Classification with Convolutional Neural Networks](2014-large-scale-video-classification-with-convolutional-neural-networks)
 31. Learning to detect unseen object classes by between-class attribute transfer

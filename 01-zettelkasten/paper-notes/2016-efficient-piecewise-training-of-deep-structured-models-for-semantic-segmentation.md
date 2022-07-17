@@ -49,7 +49,7 @@ Recent advances in semantic image segmentation have mostly been achieved by trai
 20. Feedforward semantic segmentation with zoom-out features
 21. [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](2014-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network)
 22. [Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture](2015-predicting-depth-surface-normals-and-semantic-labels-with-a-common-multi-scale-convolutional-architecture)
-23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 24. Learning a Deep Convolutional Network for Image Super-Resolution
 25. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 26. Closed-Form Training of Conditional Random Fields for Large Scale Image Segmentation

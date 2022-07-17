@@ -50,7 +50,7 @@ Natural language questions are inherently compositional, and many are most easil
 20. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems)
 21. Making a Science of Model Search - Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures
 22. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
-23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 24. Modeling systems with internal state using evolino
 25. Neuroevolution - from architectures to learning
 26. Et al

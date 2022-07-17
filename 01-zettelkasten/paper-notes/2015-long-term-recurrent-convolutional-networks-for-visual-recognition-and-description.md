@@ -42,7 +42,7 @@ Models based on deep convolutional networks have dominated recent image interpre
 10. Sequence discriminative distributed training of long short-term memory recurrent neural networks
 11. [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](2014-unifying-visual-semantic-embeddings-with-multimodal-neural-language-models)
 12. [3D Convolutional Neural Networks for Human Action Recognition](2013-3d-convolutional-neural-networks-for-human-action-recognition)
-13. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+13. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 14. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 15. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 16. Sequence to Sequence -- Video to Text

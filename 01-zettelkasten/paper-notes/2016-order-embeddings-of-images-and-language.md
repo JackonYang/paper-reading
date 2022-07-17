@@ -48,7 +48,7 @@ Hypernymy, textual entailment, and image captioning can be seen as special cases
 19. Entailment above the word level in distributional semantics
 20. Reasoning With Neural Tensor Networks for Knowledge Base Completion
 21. Multimodal Convolutional Neural Networks for Matching Image and Sentence
-22. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+22. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 23. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 24. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
 25. [Visualizing Data using t-SNE](2008-visualizing-data-using-t-sne)

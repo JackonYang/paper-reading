@@ -36,7 +36,7 @@ We introduce a novel type of text representation that preserves the 2D layout of
 4. [A Neural Attention Model for Abstractive Sentence Summarization](2015-a-neural-attention-model-for-abstractive-sentence-summarization)
 5. [Learning to Refine Object Segments](2016-learning-to-refine-object-segments)
 6. Document Image Binarization with Fully Convolutional Neural Networks
-7. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+7. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 8. Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
 9. Multilingual Language Processing From Bytes
 10. SegNet - A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation

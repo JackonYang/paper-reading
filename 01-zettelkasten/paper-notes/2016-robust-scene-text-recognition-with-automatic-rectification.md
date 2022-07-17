@@ -59,7 +59,7 @@ Recognizing text in natural images is a challenging task with many unsolved prob
 29. TILT - Transform Invariant Low-Rank Textures
 30. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 31. [Speech recognition with deep recurrent neural networks](2013-speech-recognition-with-deep-recurrent-neural-networks)
-32. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+32. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 33. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 34. ICDAR 2013 Robust Reading Competition
 35. [Spatial Transformer Networks](2015-spatial-transformer-networks)

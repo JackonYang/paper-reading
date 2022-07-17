@@ -35,7 +35,7 @@ We introduce YOLO9000, a state-of-the-art, real-time object detection system tha
 8. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 9. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
 10. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 13. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
 14. [Network In Network](2014-network-in-network)

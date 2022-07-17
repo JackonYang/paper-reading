@@ -48,7 +48,7 @@ Most state-of-the-art scene text detection algorithms are deep learning based me
 19. Detecting texts of arbitrary orientations in natural images
 20. Text Detection and Recognition in Imagery - A Survey
 21. ICDAR 2015 competition on Robust Reading
-22. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+22. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 23. ICDAR 2013 Robust Reading Competition
 24. [Understanding the difficulty of training deep feedforward neural networks](2010-understanding-the-difficulty-of-training-deep-feedforward-neural-networks)
 25. Efficient Maximally Stable Extremal Region (MSER) Tracking

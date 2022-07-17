@@ -63,7 +63,7 @@ We propose a method that can generate an unambiguous description (known as a ref
 32. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)
 33. Natural Reference to Objects in a Visual Domain
 34. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
-35. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+35. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 36. Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
 37. The Use of Spatial Relations in Referring Expression Generation
 38. Computational Generation of Referring Expressions - A Survey

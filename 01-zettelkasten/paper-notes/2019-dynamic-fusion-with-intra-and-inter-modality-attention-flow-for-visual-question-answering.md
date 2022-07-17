@@ -57,7 +57,7 @@ Learning effective fusion of multi-modality features is at the heart of visual q
 25. Show, Tell and Discriminate - Image Captioning by Self-retrieval with Partially Labeled Data
 26. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 27. FishNet - A Versatile Backbone for Image, Region, and Pixel Level Prediction
-28. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+28. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 29. Relation Networks for Object Detection
 30. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 31. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)

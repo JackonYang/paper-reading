@@ -37,7 +37,7 @@ We present region-based, fully convolutional networks for accurate and efficient
 8. [Instance-Sensitive Fully Convolutional Networks](2016-instance-sensitive-fully-convolutional-networks)
 9. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](2015-semantic-image-segmentation-with-deep-convolutional-nets-and-fully-connected-crfs)
 10. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)
 13. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 14. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

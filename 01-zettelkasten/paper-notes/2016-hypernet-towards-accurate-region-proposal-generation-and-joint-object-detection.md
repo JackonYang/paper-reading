@@ -49,7 +49,7 @@ Almost all of the current top-performing object detection networks employ region
 20. Online Object Tracking with Proposal Selection
 21. What is an object?
 22. [Fast Feature Pyramids for Object Detection](2014-fast-feature-pyramids-for-object-detection)
-23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+23. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 24. An HOG-LBP human detector with partial occlusion handling
 25. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 26. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)

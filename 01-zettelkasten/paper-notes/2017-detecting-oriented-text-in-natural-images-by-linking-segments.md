@@ -51,7 +51,7 @@ Most state-of-the-art text detection methods are specific to horizontal Latin te
 23. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
 24. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 25. Efficient Scene text localization and recognition with local character refinement
-26. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+26. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 27. ICDAR 2013 Robust Reading Competition
 28. [Fast R-CNN](2015-fast-r-cnn)
 29. [You Only Look Once - Unified, Real-Time Object Detection](2016-you-only-look-once-unified-real-time-object-detection)

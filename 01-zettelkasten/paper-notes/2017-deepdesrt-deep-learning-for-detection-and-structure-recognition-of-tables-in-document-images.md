@@ -41,7 +41,7 @@ This paper presents a novel end-to-end system for table understanding in documen
 11. Learning to Detect Tables in Scanned Document Images Using Line Information
 12. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
 13. [HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection](2016-hypernet-towards-accurate-region-proposal-generation-and-joint-object-detection)
-14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 15. Recognition of Tables and Forms
 16. [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](2017-speed-accuracy-trade-offs-for-modern-convolutional-object-detectors)
 17. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)

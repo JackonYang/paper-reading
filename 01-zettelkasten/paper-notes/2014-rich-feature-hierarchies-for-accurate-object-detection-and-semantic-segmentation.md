@@ -37,7 +37,7 @@ Object detection performance, as measured on the canonical PASCAL VOC dataset, h
 8. CPMC - Automatic Object Segmentation Using Constrained Parametric Min-Cuts
 9. [Deep Neural Networks for Object Detection](2013-deep-neural-networks-for-object-detection)
 10. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. Sketch Tokens - A Learned Mid-level Representation for Contour and Object Detection
 13. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)
 14. Do We Need More Training Data or Better Models for Object Detection?

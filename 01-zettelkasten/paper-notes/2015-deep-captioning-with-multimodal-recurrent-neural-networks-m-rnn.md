@@ -43,7 +43,7 @@ In this paper, we present a multimodal Recurrent Neural Network (m-RNN) model fo
 13. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
 14. Deep Fragment Embeddings for Bidirectional Image Sentence Mapping
 15. Framing Image Description as a Ranking Task - Data, Models and Evaluation Metrics (Extended Abstract)
-16. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+16. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 17. [Multimodal learning with deep Boltzmann machines](2012-multimodal-learning-with-deep-boltzmann-machines)
 18. [DeViSE - A Deep Visual-Semantic Embedding Model](2013-devise-a-deep-visual-semantic-embedding-model)
 19. [Recurrent neural network based language model](2010-recurrent-neural-network-based-language-model)

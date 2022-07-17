@@ -29,7 +29,7 @@ Existing deep convolutional neural networks (CNNs) require a fixed-size (e.g., 2
 
 1. [Multi-scale Orderless Pooling of Deep Convolutional Activation Features](2014-multi-scale-orderless-pooling-of-deep-convolutional-activation-features)
 2. [Network In Network](2014-network-in-network)
-3. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+3. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 4. [Return of the Devil in the Details - Delving Deep into Convolutional Nets](2014-return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets)
 5. [Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks](2014-learning-and-transferring-mid-level-image-representations-using-convolutional-neural-networks)
 6. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

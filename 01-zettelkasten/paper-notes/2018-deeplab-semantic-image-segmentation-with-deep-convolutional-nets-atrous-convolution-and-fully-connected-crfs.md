@@ -54,7 +54,7 @@ In this work we address the task of semantic image segmentation with Deep Learni
 24. Fast, Exact and Multi-scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs
 25. Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
 26. Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation
-27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 28. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 29. Laplacian Reconstruction and Refinement for Semantic Segmentation
 30. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)

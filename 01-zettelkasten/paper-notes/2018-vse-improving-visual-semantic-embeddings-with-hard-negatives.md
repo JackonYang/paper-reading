@@ -37,7 +37,7 @@ We present a new technique for learning visual-semantic embeddings for cross-mod
 8. Framing Image Description as a Ranking Task - Data, Models and Evaluation Metrics (Extended Abstract)
 9. Ask Your Neurons - A Neural-Based Approach to Answering Questions about Images
 10. Associating neural word embeddings with deep image representations using Fisher Vectors
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. [Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books](2015-aligning-books-and-movies-towards-story-like-visual-explanations-by-watching-movies-and-reading-books)
 13. Large Scale Online Learning of Image Similarity Through Ranking
 14. [Instance-Aware Image and Sentence Matching with Selective Multimodal LSTM](2017-instance-aware-image-and-sentence-matching-with-selective-multimodal-lstm)

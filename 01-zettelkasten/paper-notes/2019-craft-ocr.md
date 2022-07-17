@@ -243,7 +243,7 @@ Scene text detection methods based on neural networks have emerged recently and 
 28. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 29. [DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](2018-deeplab-semantic-image-segmentation-with-deep-convolutional-nets-atrous-convolution-and-fully-connected-crfs)
 30. ICDAR 2015 competition on Robust Reading
-31. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+31. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 32. ICDAR 2013 Robust Reading Competition
 33. [U-Net - Convolutional Networks for Biomedical Image Segmentation](2015-u-net-convolutional-networks-for-biomedical-image-segmentation)
 34. [Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields](2017-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields)

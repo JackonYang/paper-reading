@@ -31,7 +31,7 @@ Very deep convolutional networks have been central to the largest advances in im
 2. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 3. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 4. [Network In Network](2014-network-in-network)
-5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 6. [Large-Scale Video Classification with Convolutional Neural Networks](2014-large-scale-video-classification-with-convolutional-neural-networks)
 7. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 8. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)

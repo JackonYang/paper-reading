@@ -51,7 +51,7 @@ We address the problem of Visual Question Answering (VQA), which requires joint 
 24. Deep Fragment Embeddings for Bidirectional Image Sentence Mapping
 25. Every Picture Tells a Story - Generating Sentences from Images
 26. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
-27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 28. [Teaching Machines to Read and Comprehend](2015-teaching-machines-to-read-and-comprehend)
 29. Joint Video and Text Parsing for Understanding Events and Answering Queries
 30. Question Answering with Subgraph Embeddings

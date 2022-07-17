@@ -36,7 +36,7 @@ This paper investigates the problem of image-caption retrieval using joint visua
 7. Visual Semantic Search - Retrieving Videos via Complex Textual Queries
 8. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 9. [Instance-Aware Image and Sentence Matching with Selective Multimodal LSTM](2017-instance-aware-image-and-sentence-matching-with-selective-multimodal-lstm)
-10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 11. [Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books](2015-aligning-books-and-movies-towards-story-like-visual-explanations-by-watching-movies-and-reading-books)
 12. [Linking Image and Text with 2-Way Nets](2017-linking-image-and-text-with-2-way-nets)
 13. [Dual Attention Networks for Multimodal Reasoning and Matching](2017-dual-attention-networks-for-multimodal-reasoning-and-matching)

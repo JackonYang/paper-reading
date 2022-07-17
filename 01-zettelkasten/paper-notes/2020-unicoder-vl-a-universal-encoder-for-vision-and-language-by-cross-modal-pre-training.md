@@ -57,7 +57,7 @@ We propose Unicoder-VL, a universal encoder that aims to learn joint representat
 27. [VSE++ - Improving Visual-Semantic Embeddings with Hard Negatives](2018-vse-improving-visual-semantic-embeddings-with-hard-negatives)
 28. [Deep Contextualized Word Representations](2018-deep-contextualized-word-representations)
 29. [Deep Residual Learning for Image Recognition](2015-resnet.md)
-30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 32. [Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](2018-conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning)
 33. [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](2013-recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank)

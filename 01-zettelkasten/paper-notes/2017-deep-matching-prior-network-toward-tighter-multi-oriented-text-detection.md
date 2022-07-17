@@ -43,7 +43,7 @@ Detecting incidental scene text is a challenging task because of multi-orientati
 16. Text Localization Based on Fast Feature Pyramids and Multi-Resolution Maximally Stable Extremal Regions
 17. Scene Text Recognition Using Part-Based Tree-Structured Character Detection
 18. Text String Detection From Natural Scenes by Structure-Based Partition and Grouping
-19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 20. Incidental Scene Text Understanding - Recent Progresses on ICDAR 2015 Robust Reading Competition Challenge 4
 21. PhotoOCR - Reading Text in Uncontrolled Conditions
 22. Detecting texts of arbitrary orientations in natural images

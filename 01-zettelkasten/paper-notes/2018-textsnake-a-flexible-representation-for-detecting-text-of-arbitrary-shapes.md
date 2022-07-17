@@ -69,7 +69,7 @@ Driven by deep neural networks and large scale datasets, scene text detection me
 38. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 39. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 40. ICDAR 2015 competition on Robust Reading
-41. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+41. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 42. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 43. [U-Net - Convolutional Networks for Biomedical Image Segmentation](2015-u-net-convolutional-networks-for-biomedical-image-segmentation)
 44. DenseBox - Unifying Landmark Localization with End to End Object Detection

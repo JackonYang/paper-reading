@@ -32,7 +32,7 @@ Rectified activation units (rectifiers) are essential for state-of-the-art neura
 3. Convolutional neural networks at constrained time cost
 4. [Return of the Devil in the Details - Delving Deep into Convolutional Nets](2014-return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets)
 5. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
-6. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+6. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 7. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
 8. [DeepFace - Closing the Gap to Human-Level Performance in Face Verification](2014-deepface-closing-the-gap-to-human-level-performance-in-face-verification)
 9. Some Improvements on Deep Convolutional Neural Network Based Image Classification

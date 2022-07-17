@@ -36,7 +36,7 @@ The ImageNet Large Scale Visual Recognition Challenge is a benchmark in object c
 ## Paper References
 
 1. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
-2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 3. [Learning Deep Features for Scene Recognition using Places Database](2014-learning-deep-features-for-scene-recognition-using-places-database)
 4. SUN database - Large-scale scene recognition from abbey to zoo
 5. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)

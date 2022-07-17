@@ -47,7 +47,7 @@ Visual question answering is fundamentally compositional in nature-a question li
 18. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 19. Global training of document processing systems using graph transformer networks
 20. [Natural Language Object Retrieval](2016-natural-language-object-retrieval)
-21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 22. Flickr30k Entities - Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models
 23. What Are You Talking About? Text-to-Image Coreference
 24. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)

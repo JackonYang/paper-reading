@@ -43,7 +43,7 @@ The field of object detection has made significant advances riding on the wave o
 15. Fracking Deep Convolutional Image Descriptors
 16. Category Independent Object Proposals
 17. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
-18. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+18. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 19. Integral Channel Features
 20. Unsupervised Discovery of Mid-Level Discriminative Patches
 21. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

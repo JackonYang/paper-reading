@@ -75,7 +75,7 @@ Previous deep learning based state-of-the-art scene text detection methods can b
 45. [DSSD - Deconvolutional Single Shot Detector](2017-dssd-deconvolutional-single-shot-detector)
 46. ICDAR 2015 competition on Robust Reading
 47. ICDAR 2013 Robust Reading Competition
-48. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+48. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 49. [Instance-Sensitive Fully Convolutional Networks](2016-instance-sensitive-fully-convolutional-networks)
 50. [Fast R-CNN](2015-fast-r-cnn)
 51. Fully Convolutional Instance-Aware Semantic Segmentation

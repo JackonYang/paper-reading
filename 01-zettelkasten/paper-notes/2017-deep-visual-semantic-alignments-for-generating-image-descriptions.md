@@ -57,7 +57,7 @@ We present a model that generates natural language descriptions of images and th
 30. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 31. See No Evil, Say No Evil - Description Generation from Densely Labeled Images
 32. Visual Semantic Search - Retrieving Videos via Complex Textual Queries
-33. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+33. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 34. From Image Annotation to Image Description
 35. Decomposing a scene into geometric and semantically consistent regions
 36. TreeTalk - Composition and Compression of Trees for Image Descriptions

@@ -27,7 +27,7 @@ Convolutional networks are powerful visual models that yield hierarchies of feat
 ## Paper References
 
 1. [Simultaneous Detection and Segmentation](2014-simultaneous-detection-and-segmentation)
-2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+2. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 3. Recurrent Convolutional Neural Networks for Scene Labeling
 4. Toward automatic phenotyping of developing embryos from videos
 5. [Learning Hierarchical Features for Scene Labeling](2013-learning-hierarchical-features-for-scene-labeling)

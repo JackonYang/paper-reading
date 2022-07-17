@@ -82,7 +82,7 @@ Computer vision has benefited from initializing multiple deep layers with weight
 53. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 54. High Accuracy Rule-based Question Classification using Question Syntax and Semantics
 55. Heterogeneous Transfer Learning for Image Classification
-56. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+56. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 57. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 58. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 59. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)

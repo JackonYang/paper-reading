@@ -43,7 +43,7 @@ We present a method for detecting objects in images using a single deep neural n
 11. Object Detectors Emerge in Deep Scene CNNs
 12. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 13. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)
-14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 15. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
 16. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 17. A discriminatively trained, multiscale, deformable part model

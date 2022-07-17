@@ -48,7 +48,7 @@ Automatically describing an image with a natural language has been an emerging c
 18. [CIDEr - Consensus-based image description evaluation](2015-cider-consensus-based-image-description-evaluation)
 19. Relative attributes
 20. [Deep Residual Learning for Image Recognition](2015-resnet.md)
-21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+21. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 22. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 23. Semi-supervised Domain Adaptation with Subspace Learning for visual recognition
 24. [SPICE - Semantic Propositional Image Caption Evaluation](2016-spice-semantic-propositional-image-caption-evaluation)

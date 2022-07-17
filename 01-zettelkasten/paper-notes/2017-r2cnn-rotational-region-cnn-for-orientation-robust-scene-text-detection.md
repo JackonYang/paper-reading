@@ -57,7 +57,7 @@ In this paper, we propose a novel method called Rotational Region CNN (R2CNN) fo
 24. ICDAR 2015 competition on Robust Reading
 25. Multi-Orientation Scene Text Detection with Adaptive Clustering
 26. [TextProposals - A text-specific selective search algorithm for word spotting in the wild](2017-textproposals-a-text-specific-selective-search-algorithm-for-word-spotting-in-the-wild)
-27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 28. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 29. ICDAR 2013 Robust Reading Competition
 30. [Deep Residual Learning for Image Recognition](2015-resnet.md)

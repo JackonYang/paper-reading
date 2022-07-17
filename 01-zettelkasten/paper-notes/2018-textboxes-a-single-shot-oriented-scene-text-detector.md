@@ -76,7 +76,7 @@ Scene text detection is an important step of scene text recognition system and a
 48. Text detection in stores using a repetition prior
 49. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
 50. ICDAR 2013 Robust Reading Competition
-51. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+51. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 52. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 53. [Fast R-CNN](2015-fast-r-cnn)
 54. [U-Net - Convolutional Networks for Biomedical Image Segmentation](2015-u-net-convolutional-networks-for-biomedical-image-segmentation)

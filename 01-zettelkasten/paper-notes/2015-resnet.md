@@ -231,7 +231,7 @@ Deeper neural networks are more difficult to train. We present a residual learni
 
 ## Paper References
 
-1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 2. Deep Residual Learning for Image Recognition Supplementary Materials
 3. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 4. [Deeply-Supervised Nets](2015-deeply-supervised-nets)

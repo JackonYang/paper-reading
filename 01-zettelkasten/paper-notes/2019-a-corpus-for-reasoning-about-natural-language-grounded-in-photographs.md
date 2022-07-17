@@ -84,7 +84,7 @@ We introduce a new dataset for joint reasoning about natural language and images
 54. Effectively Crowdsourcing Radiology Report Annotations
 55. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 56. DDRprog - A CLEVR Differentiable Dynamic Reasoning Programmer
-57. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+57. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 58. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 59. [Microsoft COCO Captions - Data Collection and Evaluation Server](2015-microsoft-coco-captions-data-collection-and-evaluation-server)
 60. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)

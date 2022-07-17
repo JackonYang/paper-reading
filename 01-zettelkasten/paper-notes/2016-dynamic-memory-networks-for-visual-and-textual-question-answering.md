@@ -55,7 +55,7 @@ Neural network architectures with memory and attention mechanisms exhibit certai
 27. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
 28. Visual Turing test for computer vision systems
 29. [On the Properties of Neural Machine Translation - Encoder-Decoder Approaches](2014-on-the-properties-of-neural-machine-translation-encoder-decoder-approaches)
-30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 31. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 32. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 33. Baby Talk - Understanding and Generating Image Descriptions

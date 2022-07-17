@@ -34,7 +34,7 @@ The main contribution of this paper is an approach for introducing additional co
 4. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 5. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 6. A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
-7. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+7. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 8. Scalable Object Detection Using Deep Neural Networks
 9. [HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection](2016-hypernet-towards-accurate-region-proposal-generation-and-joint-object-detection)
 10. ParseNet - Looking Wider to See Better

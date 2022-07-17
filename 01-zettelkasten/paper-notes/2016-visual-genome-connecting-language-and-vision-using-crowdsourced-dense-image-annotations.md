@@ -91,7 +91,7 @@ Despite progress in perceptual tasks such as image classification, computers sti
 54. [Learning to Answer Questions from Image Using Convolutional Neural Network](2016-learning-to-answer-questions-from-image-using-convolutional-neural-network)
 55. [Pedestrian Detection - An Evaluation of the State of the Art](2012-pedestrian-detection-an-evaluation-of-the-state-of-the-art)
 56. SUN database - Large-scale scene recognition from abbey to zoo
-57. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+57. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 58. Understanding Indoor Scenes Using 3D Geometric Phrases
 59. Explain Images with Multimodal Recurrent Neural Networks
 60. Incorporating Scene Context and Object Layout into Appearance Modeling

@@ -38,7 +38,7 @@ Deep Convolutional Neural Networks (DCNNs) have recently shown state of the art 
 8. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)
 9. Untangling Local and Global Deformations in Deep Convolutional Networks for Image Classification and Sliding Window Detection
 10. Material recognition in the wild with the Materials in Context Database
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. Combining the Best of Graphical Models and ConvNets for Semantic Segmentation
 13. [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](2011-efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials)
 14. Associative hierarchical CRFs for object class image segmentation

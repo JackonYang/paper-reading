@@ -35,7 +35,7 @@ We present recursive recurrent neural networks with attention modeling (R2AM) fo
 8. Generalizing Pooling Functions in Convolutional Neural Networks - Mixed, Gated, and Tree
 9. [Show and tell - A neural image caption generator](2015-show-and-tell-a-neural-image-caption-generator)
 10. Accurate Scene Text Recognition Based on Recurrent Neural Network
-11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 12. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 13. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 14. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition

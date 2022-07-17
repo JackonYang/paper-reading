@@ -36,7 +36,7 @@ We propose a novel extension of the encoder-decoder framework, called a review n
 6. [A Neural Attention Model for Abstractive Sentence Summarization](2015-a-neural-attention-model-for-abstractive-sentence-summarization)
 7. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 8. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
-9. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+9. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 10. [Effective Approaches to Attention-based Neural Machine Translation](2015-effective-approaches-to-attention-based-neural-machine-translation)
 11. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision)
 12. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)

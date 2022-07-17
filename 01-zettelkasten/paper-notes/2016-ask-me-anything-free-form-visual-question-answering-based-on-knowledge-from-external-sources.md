@@ -54,7 +54,7 @@ We propose a method for visual question answering which combines an internal rep
 24. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
 25. [Distributed Representations of Sentences and Documents](2014-distributed-representations-of-sentences-and-documents)
 26. CNN - Single-label to Multi-label
-27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 28. [HCP - A Flexible CNN Framework for Multi-Label Image Classification](2016-hcp-a-flexible-cnn-framework-for-multi-label-image-classification)
 29. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
 30. [Long Short-Term Memory](1997-long-short-term-memory)

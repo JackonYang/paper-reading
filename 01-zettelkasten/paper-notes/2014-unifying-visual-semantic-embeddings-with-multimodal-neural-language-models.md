@@ -54,7 +54,7 @@ Inspired by recent advances in multimodal learning and machine translation, we i
 26. Composing Simple Image Descriptions using Web-scale N-grams
 27. Every Picture Tells a Story - Generating Sentences from Images
 28. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
-29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
+29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 30. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 31. Factored 3-Way Restricted Boltzmann Machines For Modeling Natural Images
 32. [Efficient Estimation of Word Representations in Vector Space](2013-efficient-estimation-of-word-representations-in-vector-space)
