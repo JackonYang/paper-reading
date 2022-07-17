@@ -11,18 +11,31 @@ authors:
 - Illia Polosukhin
 fieldsOfStudy:
 - Computer Science
+filesize_readable: 2.1 MB
 meta_key: 2017-attention-is-all-you-need
+meta_relpath: paper-extra-data/pdf-meta/attention-is-all-you-need.yaml
 numCitedBy: 35966
+pdf_relpath: paper-repo/pdfs/Attention%20Is%20All%20You%20Need.pdf
 reading_status: TBD
 ref_count: 44
+status: todo
 tags:
 - gen-from-ref
+- nlp
 - paper
+- transformer
+url_slug: Attention%20Is%20All%20You%20Need
 venue: NIPS
 year: 2017
 ---
 
+[pdf(local)](../../paper-repo/pdfs/Attention%20Is%20All%20You%20Need.pdf)
+
 # Attention is All you Need
+
+## 阅读价值
+
+开创了 MLP、CNN、RNN 之后的第 4 大类模型。
 
 ## Abstract
 
