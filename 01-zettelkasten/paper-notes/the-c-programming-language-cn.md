@@ -7,7 +7,7 @@ meta_relpath: paper-extra-data/pdf-meta/the-c-programming-language-cn.yaml
 pdf_relpath: paper-repo/pdfs/The%20C%20Programming%20Language-cn.pdf
 reading_status: TBD
 tags:
-- other-default
+- cpp
 - paper
 url_slug: The%20C%20Programming%20Language-cn
 ---

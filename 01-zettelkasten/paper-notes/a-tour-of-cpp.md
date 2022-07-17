@@ -8,10 +8,10 @@ meta_relpath: paper-extra-data/pdf-meta/a-tour-of-cpp.yaml
 pdf_relpath: paper-repo/pdfs/A-Tour-of-Cpp.pdf
 reading_status: DONE
 tags:
-- cpp
 - book
-url_slug: A-Tour-of-Cpp
+- cpp
 url: http://www.staroceans.org/e-book/ATourofC%2B%2B.pdf
+url_slug: A-Tour-of-Cpp
 year: 2013
 ---
 
