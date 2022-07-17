@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 30
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: NIPS
 year: 2011

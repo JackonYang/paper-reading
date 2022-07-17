@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 44
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001
 year: 2001

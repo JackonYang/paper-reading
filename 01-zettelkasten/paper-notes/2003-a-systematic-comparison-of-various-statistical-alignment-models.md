@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 42
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: CL
 year: 2003

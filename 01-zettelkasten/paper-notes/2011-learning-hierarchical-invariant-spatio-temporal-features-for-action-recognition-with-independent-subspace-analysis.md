@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 49
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: CVPR 2011
 year: 2011

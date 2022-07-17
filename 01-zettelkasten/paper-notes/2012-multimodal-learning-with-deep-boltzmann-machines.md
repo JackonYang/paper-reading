@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 46
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: J. Mach. Learn. Res.
 year: 2012

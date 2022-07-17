@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 0
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ''
 year: 1966

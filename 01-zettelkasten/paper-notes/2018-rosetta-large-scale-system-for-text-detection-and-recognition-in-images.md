@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 35
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: KDD
 year: 2018

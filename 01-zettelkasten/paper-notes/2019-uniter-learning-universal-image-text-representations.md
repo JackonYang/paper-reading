@@ -17,6 +17,7 @@ reading_status: TBD
 ref_count: 56
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ECCV 2020
 year: 2019

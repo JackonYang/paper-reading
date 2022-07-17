@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 1
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ''
 year: 2005

@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 42
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ICML '09
 year: 2009

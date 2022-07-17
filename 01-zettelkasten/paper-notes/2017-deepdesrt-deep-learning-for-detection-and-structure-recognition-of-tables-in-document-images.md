@@ -14,6 +14,7 @@ reading_status: TBD
 ref_count: 34
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)
 year: 2017

@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 76
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ''
 year: 2018

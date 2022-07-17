@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 34
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2008 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2008

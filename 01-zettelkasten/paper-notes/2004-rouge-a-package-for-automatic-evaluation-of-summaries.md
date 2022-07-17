@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 16
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ACL 2004
 year: 2004

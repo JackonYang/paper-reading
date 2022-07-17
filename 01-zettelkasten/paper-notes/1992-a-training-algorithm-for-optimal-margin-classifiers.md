@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 40
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: COLT '92
 year: 1992

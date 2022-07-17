@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 78
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Neural Computation
 year: 2003

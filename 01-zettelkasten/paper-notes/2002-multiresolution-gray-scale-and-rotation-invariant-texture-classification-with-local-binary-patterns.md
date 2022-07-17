@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 95
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: IEEE Trans. Pattern Anal. Mach. Intell.
 year: 2002

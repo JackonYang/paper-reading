@@ -14,6 +14,7 @@ reading_status: TBD
 ref_count: 42
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: IJCAI
 year: 2011

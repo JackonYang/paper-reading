@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 33
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2011 International Conference on Computer Vision
 year: 2011

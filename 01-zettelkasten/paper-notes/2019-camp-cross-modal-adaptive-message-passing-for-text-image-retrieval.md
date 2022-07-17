@@ -16,6 +16,7 @@ reading_status: TBD
 ref_count: 36
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019

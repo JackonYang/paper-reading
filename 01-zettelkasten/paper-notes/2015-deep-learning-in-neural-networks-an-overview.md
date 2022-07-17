@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 1174
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Neural Networks
 year: 2015

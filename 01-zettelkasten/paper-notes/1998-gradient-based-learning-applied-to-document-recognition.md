@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 246
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Proc. IEEE
 year: 1998

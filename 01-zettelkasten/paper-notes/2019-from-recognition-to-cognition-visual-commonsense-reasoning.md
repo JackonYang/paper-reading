@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 98
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2019

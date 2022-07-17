@@ -14,6 +14,7 @@ reading_status: TBD
 ref_count: 5
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: SIGMOD Conference
 year: 2008

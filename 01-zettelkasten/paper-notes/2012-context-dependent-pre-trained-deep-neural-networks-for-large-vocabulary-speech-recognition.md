@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 93
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: IEEE Transactions on Audio, Speech, and Language Processing
 year: 2012

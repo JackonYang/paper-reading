@@ -16,6 +16,7 @@ reading_status: TBD
 ref_count: 67
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018

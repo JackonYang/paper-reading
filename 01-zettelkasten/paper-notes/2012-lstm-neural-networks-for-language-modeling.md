@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 18
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: INTERSPEECH
 year: 2012

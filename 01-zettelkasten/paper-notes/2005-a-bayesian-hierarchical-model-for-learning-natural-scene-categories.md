@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 21
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)
 year: 2005

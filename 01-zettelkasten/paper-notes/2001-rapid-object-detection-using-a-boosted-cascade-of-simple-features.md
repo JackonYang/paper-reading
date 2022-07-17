@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 26
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001
 year: 2001

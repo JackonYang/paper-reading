@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 38
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Inf. Syst.
 year: 2016

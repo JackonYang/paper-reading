@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 21
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: NAACL
 year: 2003

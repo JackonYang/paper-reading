@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 8
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ArXiv
 year: 2012

@@ -15,6 +15,7 @@ reading_status: TBD
 ref_count: 93
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: NeurIPS
 year: 2020

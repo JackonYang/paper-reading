@@ -14,6 +14,7 @@ reading_status: TBD
 ref_count: 47
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ECCV
 year: 2018

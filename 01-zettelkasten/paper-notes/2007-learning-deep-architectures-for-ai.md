@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 346
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Found. Trends Mach. Learn.
 year: 2007

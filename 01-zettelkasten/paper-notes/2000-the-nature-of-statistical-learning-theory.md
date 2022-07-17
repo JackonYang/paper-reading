@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 72
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Statistics for Engineering and Information Science
 year: 2000

@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 58
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: International Journal of Computer Vision
 year: 2004

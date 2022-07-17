@@ -20,6 +20,7 @@ reading_status: TBD
 ref_count: 48
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: EMNLP
 year: 2020

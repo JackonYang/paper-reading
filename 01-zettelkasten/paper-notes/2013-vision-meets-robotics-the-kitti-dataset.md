@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 16
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Int. J. Robotics Res.
 year: 2013

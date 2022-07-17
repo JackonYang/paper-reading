@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 19
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: WMT@ACL
 year: 2014

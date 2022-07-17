@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 67
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: IEEE Transactions on Image Processing
 year: 2018

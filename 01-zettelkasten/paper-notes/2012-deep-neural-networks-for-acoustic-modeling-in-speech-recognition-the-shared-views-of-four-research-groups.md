@@ -20,6 +20,7 @@ reading_status: TBD
 ref_count: 73
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: IEEE Signal Processing Magazine
 year: 2012

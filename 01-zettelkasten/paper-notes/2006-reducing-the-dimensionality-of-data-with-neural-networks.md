@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 42
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Science
 year: 2006

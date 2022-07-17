@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 77
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: TIST
 year: 2011

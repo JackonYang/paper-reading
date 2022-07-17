@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 0
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 'IEEE transactions on image processing : a publication of the IEEE Signal Processing Society'
 year: 2016

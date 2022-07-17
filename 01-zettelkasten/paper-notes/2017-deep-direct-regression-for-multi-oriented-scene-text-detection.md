@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 30
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017

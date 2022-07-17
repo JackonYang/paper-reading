@@ -17,6 +17,7 @@ reading_status: TBD
 ref_count: 15
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ACM Multimedia
 year: 2014

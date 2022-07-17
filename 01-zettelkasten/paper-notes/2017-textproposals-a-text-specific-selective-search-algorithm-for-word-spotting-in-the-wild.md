@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 93
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Pattern Recognit.
 year: 2017

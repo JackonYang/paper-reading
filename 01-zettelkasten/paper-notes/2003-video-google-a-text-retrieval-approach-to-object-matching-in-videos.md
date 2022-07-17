@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 21
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Proceedings Ninth IEEE International Conference on Computer Vision
 year: 2003

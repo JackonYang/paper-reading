@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 33
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: eccv 2004
 year: 2004

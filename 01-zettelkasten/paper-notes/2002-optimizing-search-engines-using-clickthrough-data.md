@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 36
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: KDD
 year: 2002

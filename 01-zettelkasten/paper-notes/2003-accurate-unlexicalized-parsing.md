@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 29
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ACL
 year: 2003

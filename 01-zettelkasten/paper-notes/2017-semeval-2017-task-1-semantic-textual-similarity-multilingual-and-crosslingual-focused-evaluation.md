@@ -15,6 +15,7 @@ reading_status: TBD
 ref_count: 96
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: SemEval@ACL
 year: 2017

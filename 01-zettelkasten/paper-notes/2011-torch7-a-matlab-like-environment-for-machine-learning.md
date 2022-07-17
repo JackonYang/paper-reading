@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 3
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: NIPS 2011
 year: 2011

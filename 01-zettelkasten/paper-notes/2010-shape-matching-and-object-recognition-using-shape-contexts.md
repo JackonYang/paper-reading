@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 94
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2010 3rd International Conference on Computer Science and Information Technology
 year: 2010

@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 65
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: Proceedings IEEE Workshop on Stereo and Multi-Baseline Vision (SMBV 2001)
 year: 2001

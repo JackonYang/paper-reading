@@ -17,6 +17,7 @@ reading_status: TBD
 ref_count: 67
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2016

@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 26
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017

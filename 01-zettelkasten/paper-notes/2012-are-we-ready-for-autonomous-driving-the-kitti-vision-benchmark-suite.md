@@ -12,6 +12,7 @@ reading_status: TBD
 ref_count: 53
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2012 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2012

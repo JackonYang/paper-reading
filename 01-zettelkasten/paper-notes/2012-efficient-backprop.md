@@ -13,6 +13,7 @@ reading_status: TBD
 ref_count: 36
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 'Neural Networks: Tricks of the Trade'
 year: 2012

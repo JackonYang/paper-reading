@@ -15,6 +15,7 @@ reading_status: TBD
 ref_count: 92
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: ACM Trans. Multim. Comput. Commun. Appl.
 year: 2020

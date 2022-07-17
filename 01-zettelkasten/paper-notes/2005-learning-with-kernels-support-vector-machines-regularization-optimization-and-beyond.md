@@ -10,6 +10,7 @@ reading_status: TBD
 ref_count: 10
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: IEEE Transactions on Neural Networks
 year: 2005

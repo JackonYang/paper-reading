@@ -11,6 +11,7 @@ reading_status: TBD
 ref_count: 389
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: J. Electronic Imaging
 year: 2007

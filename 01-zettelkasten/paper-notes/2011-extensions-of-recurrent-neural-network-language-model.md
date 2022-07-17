@@ -14,6 +14,7 @@ reading_status: TBD
 ref_count: 23
 tags:
 - gen-from-ref
+- other-default
 - paper
 venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 year: 2011
