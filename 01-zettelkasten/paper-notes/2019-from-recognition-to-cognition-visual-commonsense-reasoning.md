@@ -63,7 +63,7 @@ Visual understanding goes well beyond object recognition. With one glance at an 
 34. A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories
 35. TVQA - Localized, Compositional Video Question Answering
 36. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-37. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+37. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 38. MovieGraphs - Towards Understanding Human-Centric Situations from Videos
 39. Men Also Like Shopping - Reducing Gender Bias Amplification using Corpus-level Constraints
 40. TGIF - A New Dataset and Benchmark on Animated GIF Description

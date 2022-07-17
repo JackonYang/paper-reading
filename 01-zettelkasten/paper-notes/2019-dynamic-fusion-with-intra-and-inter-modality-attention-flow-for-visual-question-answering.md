@@ -59,7 +59,7 @@ Learning effective fusion of multi-modality features is at the heart of visual q
 27. FishNet - A Versatile Backbone for Image, Region, and Pixel Level Prediction
 28. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 29. Relation Networks for Object Detection
-30. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+30. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 31. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)
 32. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 33. [Densely Connected Convolutional Networks](2017-densely-connected-convolutional-networks)

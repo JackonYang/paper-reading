@@ -55,7 +55,7 @@ In this paper, we study the problem of image-text matching. Inferring the latent
 25. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 26. [Effective Approaches to Attention-based Neural Machine Translation](2015-effective-approaches-to-attention-based-neural-machine-translation)
 27. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
-28. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 29. [A Neural Attention Model for Abstractive Sentence Summarization](2015-a-neural-attention-model-for-abstractive-sentence-summarization)
 30. [Attention-Based Models for Speech Recognition](2015-attention-based-models-for-speech-recognition)
 31. Hierarchical Attention Networks for Document Classification

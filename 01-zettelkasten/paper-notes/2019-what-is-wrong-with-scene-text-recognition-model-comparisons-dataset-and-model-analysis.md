@@ -46,7 +46,7 @@ Many new proposals for scene text recognition (STR) models have been introduced 
 13. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition
 14. [Learning to Read Irregular Text with Attention Mechanisms](2017-learning-to-read-irregular-text-with-attention-mechanisms)
 15. ICDAR 2003 robust reading competitions
-16. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+16. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 17. A robust arbitrary text detection system for natural scene images
 18. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 19. ICDAR 2013 Robust Reading Competition

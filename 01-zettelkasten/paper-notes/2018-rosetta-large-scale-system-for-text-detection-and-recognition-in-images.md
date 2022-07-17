@@ -41,7 +41,7 @@ In this paper we present a deployed, scalable optical character recognition (OCR
 13. SqueezedText - A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network
 14. [An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition](2017-an-end-to-end-trainable-neural-network-for-image-based-sequence-recognition-and-its-application-to-scene-text-recognition)
 15. Reading Scene Text with Attention Convolutional Sequence Modeling
-16. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+16. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 17. ShuffleNet - An Extremely Efficient Convolutional Neural Network for Mobile Devices
 18. Soft-NMS - Improving Object Detection with One Line of Code
 19. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)

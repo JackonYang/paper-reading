@@ -45,7 +45,7 @@ The prevalent approach to sequence to sequence learning maps an input sequence t
 15. [On the difficulty of training recurrent neural networks](2013-on-the-difficulty-of-training-recurrent-neural-networks)
 16. [Attention-Based Models for Speech Recognition](2015-attention-based-models-for-speech-recognition)
 17. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
-18. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+18. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 19. [Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation](2016-google-s-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation)
 20. Edinburgh Neural Machine Translation Systems for WMT 16
 21. [Long Short-Term Memory](1997-long-short-term-memory)

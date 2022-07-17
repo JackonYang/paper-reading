@@ -38,7 +38,7 @@ It is well known that contextual and multi-scale representations are important f
 9. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 11. Scene labeling with LSTM recurrent neural networks
-12. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+12. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 13. Learning to Segment Object Candidates
 14. [What Makes for Effective Detection Proposals?](2016-what-makes-for-effective-detection-proposals)
 15. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)

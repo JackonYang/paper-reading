@@ -54,7 +54,7 @@ We propose VisualBERT, a simple and flexible framework for modeling a broad rang
 24. [Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](2018-conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning)
 25. [A simple neural network module for relational reasoning](2017-a-simple-neural-network-module-for-relational-reasoning)
 26. [Deep Contextualized Word Representations](2018-deep-contextualized-word-representations)
-27. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+27. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 28. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 29. Analyzing Multi-Head Self-Attention - Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned
 30. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)

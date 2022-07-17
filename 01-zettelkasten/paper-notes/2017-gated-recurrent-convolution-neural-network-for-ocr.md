@@ -40,7 +40,7 @@ Optical Character Recognition (OCR) aims to recognize text in natural images. In
 13. Deep Alternative Neural Network - Exploring Contexts as Early as Possible for Action Recognition
 14. Bidirectional recurrent neural networks
 15. Whole is Greater than Sum of Parts - Recognizing Scene Text Words
-16. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+16. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 17. Label Embedding - A Frugal Baseline for Text Recognition
 18. [Densely Connected Convolutional Networks](2017-densely-connected-convolutional-networks)
 19. End-to-end scene text recognition

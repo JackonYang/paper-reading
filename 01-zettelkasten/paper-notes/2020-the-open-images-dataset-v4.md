@@ -65,7 +65,7 @@ We present Open Images V4, a dataset of 9.2M images with unified annotations for
 28. Detecting Visual Relationships with Deep Relational Networks
 29. Learning from Noisy Large-Scale Datasets with Minimal Supervision
 30. Visual Relationship Detection with Language Priors
-31. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+31. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 32. [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](2017-speed-accuracy-trade-offs-for-modern-convolutional-object-detectors)
 33. One-shot learning of object categories
 34. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)

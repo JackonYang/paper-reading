@@ -49,7 +49,7 @@ Feature pyramids are a basic component in recognition systems for detecting obje
 18. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
 19. Attend Refine Repeat - Active Box Proposal Generation via In-Out Localization
 20. Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
-21. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+21. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 22. [Fast R-CNN](2015-fast-r-cnn)
 23. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 24. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

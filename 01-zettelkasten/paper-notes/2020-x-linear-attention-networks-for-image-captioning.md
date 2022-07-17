@@ -56,7 +56,7 @@ Recent progress on fine-grained visual recognition and visual question answering
 27. [Language Modeling with Gated Convolutional Networks](2017-language-modeling-with-gated-convolutional-networks)
 28. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 29. [Deep Visual-Semantic Alignments for Generating Image Descriptions](2017-deep-visual-semantic-alignments-for-generating-image-descriptions)
-30. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+30. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 31. [Self-Critical Sequence Training for Image Captioning](2017-self-critical-sequence-training-for-image-captioning)
 32. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 33. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)

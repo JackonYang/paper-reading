@@ -42,7 +42,7 @@ The capacity of a neural network to absorb information is limited by its number 
 10. [Exploring the Limits of Language Modeling](2016-exploring-the-limits-of-language-modeling)
 11. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 12. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
-13. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+13. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 14. Long short-term memory recurrent neural network architectures for large scale acoustic modeling
 15. Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation
 16. One billion word benchmark for measuring progress in statistical language modeling

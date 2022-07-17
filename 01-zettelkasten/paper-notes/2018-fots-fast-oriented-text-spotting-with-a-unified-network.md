@@ -68,7 +68,7 @@ Incidental scene text spotting is considered one of the most difficult and valua
 37. Sequence-to-Label Script Identification for Multilingual OCR
 38. Multi-Orientation Scene Text Detection with Adaptive Clustering
 39. Text Localization in Natural Images Using Stroke Feature Transform and Text Covariance Descriptors
-40. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+40. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 41. [Fast R-CNN](2015-fast-r-cnn)
 42. Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
 43. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)

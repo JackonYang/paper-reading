@@ -41,7 +41,7 @@ Attention networks in multimodal learning provide an efficient way to utilize gi
 13. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 14. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 15. Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts
-16. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+16. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 17. The VQA-Machine - Learning How to Use Existing Vision Algorithms to Answer New Questions
 18. Tips and Tricks for Visual Question Answering - Learnings from the 2017 Challenge
 19. [Learning Deep Structure-Preserving Image-Text Embeddings](2016-learning-deep-structure-preserving-image-text-embeddings)

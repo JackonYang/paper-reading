@@ -57,7 +57,7 @@ This work introduces a novel convolutional network architecture for the task of 
 29. Deep Reflectance Maps
 30. Indoor Semantic Segmentation using depth information
 31. Parsing occluded people by flexible compositions
-32. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+32. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 33. Deconvolutional networks
 34. Human Pose Estimation Using a Joint Pixel-wise and Part-wise Formulation
 35. Strong Appearance and Expressive Spatial Models for Human Pose Estimation

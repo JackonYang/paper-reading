@@ -54,7 +54,7 @@ Vision-and-language reasoning requires an understanding of visual concepts, lang
 27. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 28. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)
 29. [Deep Contextualized Word Representations](2018-deep-contextualized-word-representations)
-30. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+30. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 31. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 32. [A Corpus for Reasoning about Natural Language Grounded in Photographs](2019-a-corpus-for-reasoning-about-natural-language-grounded-in-photographs)
 33. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

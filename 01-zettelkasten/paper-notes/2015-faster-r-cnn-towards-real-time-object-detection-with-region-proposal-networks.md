@@ -48,7 +48,7 @@ State-of-the-art object detection networks depend on region proposal algorithms 
 19. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 20. Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images
 21. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
-22. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+22. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 23. [Measuring the Objectness of Image Windows](2012-measuring-the-objectness-of-image-windows)
 24. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 25. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)

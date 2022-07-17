@@ -64,7 +64,7 @@ We propose a knowledge-enhanced approach, ERNIE-ViL, to learn joint representati
 32. Neural Motifs - Scene Graph Parsing with Global Context
 33. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 34. Scene Graph Generation by Iterative Message Passing
-35. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+35. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 36. Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
 37. Image retrieval using scene graphs
 38. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)

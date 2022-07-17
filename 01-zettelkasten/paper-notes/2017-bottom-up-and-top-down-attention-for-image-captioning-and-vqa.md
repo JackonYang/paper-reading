@@ -57,7 +57,7 @@ Top-down visual attention mechanisms have been used extensively in image caption
 25. Optimization of image description metrics using policy gradient methods
 26. [SPICE - Semantic Propositional Image Caption Evaluation](2016-spice-semantic-propositional-image-caption-evaluation)
 27. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
-28. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 29. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 30. [Review Networks for Caption Generation](2016-review-networks-for-caption-generation)
 31. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)

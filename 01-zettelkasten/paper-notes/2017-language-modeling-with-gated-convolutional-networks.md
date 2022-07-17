@@ -47,7 +47,7 @@ The pre-dominant approach to language modeling to date is based on recurrent neu
 18. Three new graphical models for statistical language modelling
 19. Factorization tricks for LSTM networks
 20. [Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification](2015-delving-deep-into-rectifiers-surpassing-human-level-performance-on-imagenet-classification)
-21. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+21. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 22. [Understanding the difficulty of training deep feedforward neural networks](2010-understanding-the-difficulty-of-training-deep-feedforward-neural-networks)
 23. Predicting distributions with Linearizing Belief Networks
 24. Conditional Image Generation with PixelCNN Decoders

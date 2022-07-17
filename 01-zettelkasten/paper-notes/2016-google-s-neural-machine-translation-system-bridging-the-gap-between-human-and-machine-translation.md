@@ -84,7 +84,7 @@ Neural Machine Translation (NMT) is an end-to-end learning approach for automate
 28. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 29. Japanese and Korean voice search
 30. Bidirectional recurrent neural networks
-31. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+31. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 32. Gradient Flow in Recurrent Nets - the Difficulty of Learning Long-Term Dependencies
 33. Learning Recursive Distributed Representations for Holistic Computation
 34. Reward Augmented Maximum Likelihood for Neural Structured Prediction

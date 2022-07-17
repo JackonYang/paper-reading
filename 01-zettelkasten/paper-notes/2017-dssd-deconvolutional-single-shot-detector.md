@@ -41,7 +41,7 @@ The main contribution of this paper is an approach for introducing additional co
 11. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
 12. Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model
 13. [Learning Deconvolution Network for Semantic Segmentation](2015-learning-deconvolution-network-for-semantic-segmentation)
-14. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+14. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 15. A discriminatively trained, multiscale, deformable part model
 16. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 17. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)

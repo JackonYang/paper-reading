@@ -65,7 +65,7 @@ When building artificial intelligence systems that can reason and answer questio
 34. Understanding natural language
 35. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 36. Déjà Image-Captions - A Corpus of Expressive Descriptions in Repetition
-37. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+37. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 38. The Winograd Schema Challenge
 39. [Efficient Estimation of Word Representations in Vector Space](2013-efficient-estimation-of-word-representations-in-vector-space)
 40. [Compact Bilinear Pooling](2016-compact-bilinear-pooling)

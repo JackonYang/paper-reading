@@ -77,7 +77,7 @@ Matching images and sentences demands a fine understanding of both modalities. I
 46. Multi-scale Deep Learning Architectures for Person Re-identification
 47. Part-Based R-CNNs for Fine-Grained Category Detection
 48. Unsupervised Semantic-Preserving Adversarial Hashing for Image Search
-49. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+49. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 50. Discriminative Dictionary Learning With Common Label Alignment for Cross-Modal Retrieval
 51. Shared Predictive Cross-Modal Deep Quantization
 52. Twitter100k - A Real-World Dataset for Weakly Supervised Cross-Media Retrieval

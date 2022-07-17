@@ -50,7 +50,7 @@ We consider the scene text recognition problem under the attention-based encoder
 20. End-to-End Text Recognition with Hybrid HMM Maxout Models
 21. End-to-end attention-based large vocabulary speech recognition
 22. Joint CTC-attention based end-to-end speech recognition using multi-task learning
-23. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+23. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 24. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 25. ICDAR 2003 robust reading competitions
 26. [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](2016-recursive-recurrent-nets-with-attention-modeling-for-ocr-in-the-wild)

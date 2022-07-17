@@ -47,7 +47,7 @@ Visual question answering (VQA) is an interesting learning setting for evaluatin
 19. A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input
 20. [Learning to Answer Questions from Image Using Convolutional Neural Network](2016-learning-to-answer-questions-from-image-using-convolutional-neural-network)
 21. [CNN Features Off-the-Shelf - An Astounding Baseline for Recognition](2014-cnn-features-off-the-shelf-an-astounding-baseline-for-recognition)
-22. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+22. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 23. Learning Visual Features from Large Weakly Supervised Data
 24. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 25. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

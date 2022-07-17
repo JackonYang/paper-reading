@@ -48,7 +48,7 @@ We present graph attention networks (GATs), novel neural network architectures t
 17. [Convolutional Networks on Graphs for Learning Molecular Fingerprints](2015-convolutional-networks-on-graphs-for-learning-molecular-fingerprints)
 18. The One Hundred Layers Tiramisu - Fully Convolutional DenseNets for Semantic Segmentation
 19. Manifold Regularization - A Geometric Framework for Learning from Labeled and Unlabeled Examples
-20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+20. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 21. A general framework for adaptive processing of data structures
 22. [Visualizing Data using t-SNE](2008-visualizing-data-using-t-sne)
 23. Link-Based Classification

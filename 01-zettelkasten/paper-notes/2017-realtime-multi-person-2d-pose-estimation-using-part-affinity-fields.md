@@ -89,7 +89,7 @@ We present an approach to efficiently detect the 2D pose of multiple people in a
 60. Joint Graph Decomposition & Node Labeling - Problem, Algorithms, Applications
 61. [YOLO9000 - Better, Faster, Stronger](2017-yolo9000-better-faster-stronger)
 62. [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](2017-speed-accuracy-trade-offs-for-modern-convolutional-object-detectors)
-63. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+63. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 64. [Densely Connected Convolutional Networks](2017-densely-connected-convolutional-networks)
 65. [Understanding the difficulty of training deep feedforward neural networks](2010-understanding-the-difficulty-of-training-deep-feedforward-neural-networks)
 66. Learning long-term dependencies with gradient descent is difficult

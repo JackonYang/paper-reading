@@ -61,7 +61,7 @@ We introduce a novel framework for image captioning that can produce natural lan
 32. Baby talk - Understanding and generating simple image descriptions
 33. Human Attention in Visual Question Answering - Do Humans and Deep Networks look at the same regions?
 34. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-35. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+35. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 36. Encode, Review, and Decode - Reviewer Module for Caption Generation
 37. [GloVe - Global Vectors for Word Representation](2014-glove-global-vectors-for-word-representation)
 38. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)

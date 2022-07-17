@@ -54,7 +54,7 @@ Pre-training techniques have been verified successfully in a variety of NLP task
 23. Fast CNN-Based Document Layout Analysis
 24. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](2017-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning)
 25. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)
-26. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+26. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 27. Recursive X-Y cut using bounding boxes of connected components
 28. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 29. Evaluation of deep convolutional nets for document image classification and retrieval

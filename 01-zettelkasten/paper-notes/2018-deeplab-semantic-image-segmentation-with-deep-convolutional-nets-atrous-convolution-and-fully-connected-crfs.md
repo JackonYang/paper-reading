@@ -72,7 +72,7 @@ In this work we address the task of semantic image segmentation with Deep Learni
 42. Harmony potentials for joint classification and segmentation
 43. [U-Net - Convolutional Networks for Biomedical Image Segmentation](2015-u-net-convolutional-networks-for-biomedical-image-segmentation)
 44. [Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture](2015-predicting-depth-surface-normals-and-semantic-labels-with-a-common-multi-scale-convolutional-architecture)
-45. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+45. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 46. Semantic Object Parsing with Local-Global Long Short-Term Memory
 47. Proposal-Free Network for Instance-Level Object Segmentation
 48. Zoom Better to See Clearer - Human Part Segmentation with Auto Zoom Net

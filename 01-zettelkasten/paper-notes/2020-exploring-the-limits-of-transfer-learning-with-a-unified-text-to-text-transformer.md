@@ -121,7 +121,7 @@ Transfer learning, where a model is first pre-trained on a data-rich task before
 87. Generating Wikipedia by Summarizing Long Sequences
 88. Dirt Cheap Web-Scale Parallel Text from the Common Crawl
 89. Rethinking ImageNet Pre-Training
-90. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+90. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 91. [Distributed Representations of Words and Phrases and their Compositionality](2013-distributed-representations-of-words-and-phrases-and-their-compositionality)
 92. Do Better ImageNet Models Transfer Better?
 93. Findings of the 2014 Workshop on Statistical Machine Translation

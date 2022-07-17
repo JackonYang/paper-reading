@@ -34,7 +34,7 @@ Recently it has been shown that policy-gradient methods for reinforcement learni
 4. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 5. Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
 6. [Show and tell - A neural image caption generator](2015-show-and-tell-a-neural-image-caption-generator)
-7. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+7. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 8. Neural Variational Inference and Learning in Belief Networks
 9. [Simple statistical gradient-following algorithms for connectionist reinforcement learning](2004-simple-statistical-gradient-following-algorithms-for-connectionist-reinforcement-learning)
 10. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)

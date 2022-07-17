@@ -35,7 +35,7 @@ We present weight normalization: a reparameterization of the weight vectors in a
 8. Data-dependent Initializations of Convolutional Neural Networks
 9. All you need is a good init
 10. [Understanding the difficulty of training deep feedforward neural networks](2010-understanding-the-difficulty-of-training-deep-feedforward-neural-networks)
-11. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+11. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 12. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 13. Optimizing Neural Networks with Kronecker-factored Approximate Curvature
 14. [Network In Network](2014-network-in-network)

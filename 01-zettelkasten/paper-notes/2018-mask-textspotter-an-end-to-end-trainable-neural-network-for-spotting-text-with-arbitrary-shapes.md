@@ -107,7 +107,7 @@ Unifying text detection and text recognition in an end-to-end training fashion h
 77. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 78. Detecting text in natural scenes with stroke width transform
 79. Pyramid Scene Parsing Network
-80. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+80. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 81. ICDAR 2013 Robust Reading Competition
 82. [Convolutional Sequence to Sequence Learning](2017-convolutional-sequence-to-sequence-learning)
 83. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)

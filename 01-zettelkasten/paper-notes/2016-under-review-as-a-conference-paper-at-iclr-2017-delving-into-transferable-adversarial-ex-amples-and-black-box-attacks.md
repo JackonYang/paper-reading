@@ -30,7 +30,7 @@ An intriguing property of deep neural networks is the existence of adversarial e
 4. Explaining and Harnessing Adversarial Examples
 5. Universal Adversarial Perturbations
 6. Intriguing properties of neural networks
-7. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+7. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 8. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
 9. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)

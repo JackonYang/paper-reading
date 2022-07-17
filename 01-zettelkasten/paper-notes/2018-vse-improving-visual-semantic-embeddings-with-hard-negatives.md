@@ -46,7 +46,7 @@ We present a new technique for learning visual-semantic embeddings for cross-mod
 17. Joint embeddings of shapes and images via CNN image purification
 18. Grounded Compositional Semantics for Finding and Describing Images with Sentences
 19. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+20. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 21. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)
 22. Learning structural SVMs with latent variables
 23. Large Margin Methods for Structured and Interdependent Output Variables

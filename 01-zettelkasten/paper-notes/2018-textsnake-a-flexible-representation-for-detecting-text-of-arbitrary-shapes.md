@@ -70,7 +70,7 @@ Driven by deep neural networks and large scale datasets, scene text detection me
 39. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 40. ICDAR 2015 competition on Robust Reading
 41. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
-42. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+42. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 43. [U-Net - Convolutional Networks for Biomedical Image Segmentation](2015-u-net-convolutional-networks-for-biomedical-image-segmentation)
 44. DenseBox - Unifying Landmark Localization with End to End Object Detection
 45. [The Pascal Visual Object Classes Challenge - A Retrospective](2014-the-pascal-visual-object-classes-challenge-a-retrospective)

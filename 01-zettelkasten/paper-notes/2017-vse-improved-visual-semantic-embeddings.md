@@ -34,7 +34,7 @@ This paper investigates the problem of image-caption retrieval using joint visua
 5. Associating neural word embeddings with deep image representations using Fisher Vectors
 6. Ask Your Neurons - A Neural-Based Approach to Answering Questions about Images
 7. Visual Semantic Search - Retrieving Videos via Complex Textual Queries
-8. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+8. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 9. [Instance-Aware Image and Sentence Matching with Selective Multimodal LSTM](2017-instance-aware-image-and-sentence-matching-with-selective-multimodal-lstm)
 10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 11. [Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books](2015-aligning-books-and-movies-towards-story-like-visual-explanations-by-watching-movies-and-reading-books)

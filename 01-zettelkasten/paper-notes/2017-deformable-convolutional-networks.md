@@ -57,7 +57,7 @@ Convolutional neural networks (CNNs) are inherently limited to model geometric t
 25. [Fast R-CNN](2015-fast-r-cnn)
 26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](2017-speed-accuracy-trade-offs-for-modern-convolutional-object-detectors)
-28. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 29. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 30. Understanding the Effective Receptive Field in Deep Convolutional Neural Networks
 31. Inverse Compositional Spatial Transformer Networks

@@ -51,7 +51,7 @@ Visual Question Answering (VQA) requires a fine-grained and simultaneous underst
 21. Simple Baseline for Visual Question Answering
 22. [Where to Look - Focus Regions for Visual Question Answering](2016-where-to-look-focus-regions-for-visual-question-answering)
 23. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
-24. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+24. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 25. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 26. Training Deeper Neural Machine Translation Models with Transparent Attention
 27. [Attention-Based Models for Speech Recognition](2015-attention-based-models-for-speech-recognition)

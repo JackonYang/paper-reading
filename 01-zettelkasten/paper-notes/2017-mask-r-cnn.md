@@ -57,7 +57,7 @@ We present a conceptually simple, flexible, and general framework for object ins
 28. Convolutional Pose Machines
 29. Non-local Neural Networks
 30. [The Cityscapes Dataset for Semantic Urban Scene Understanding](2016-the-cityscapes-dataset-for-semantic-urban-scene-understanding)
-31. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+31. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 32. [Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields](2017-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields)
 33. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 34. Beyond Skip Connections - Top-Down Modulation for Object Detection

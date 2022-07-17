@@ -56,7 +56,7 @@ We propose Unicoder-VL, a universal encoder that aims to learn joint representat
 26. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)
 27. [VSE++ - Improving Visual-Semantic Embeddings with Hard Negatives](2018-vse-improving-visual-semantic-embeddings-with-hard-negatives)
 28. [Deep Contextualized Word Representations](2018-deep-contextualized-word-representations)
-29. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+29. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 32. [Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](2018-conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning)

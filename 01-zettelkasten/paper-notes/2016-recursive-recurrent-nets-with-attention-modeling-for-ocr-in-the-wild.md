@@ -39,7 +39,7 @@ We present recursive recurrent neural networks with attention modeling (R2AM) fo
 12. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 13. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 14. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition
-15. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+15. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 16. Deep Recursive Neural Networks for Compositionality in Language
 17. Convolutional-Recursive Deep Learning for 3D Object Classification
 18. Understanding Deep Architectures using a Recursive Convolutional Network

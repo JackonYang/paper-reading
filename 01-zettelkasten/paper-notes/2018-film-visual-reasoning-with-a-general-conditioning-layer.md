@@ -47,7 +47,7 @@ We introduce a general-purpose conditioning method for neural networks called Fi
 17. [Bottom-Up and Top-Down Attention for Image Captioning and VQA](2017-bottom-up-and-top-down-attention-for-image-captioning-and-vqa)
 18. [CLEVR - A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning](2017-clevr-a-diagnostic-dataset-for-compositional-language-and-elementary-visual-reasoning)
 19. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
-20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+20. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 21. Learning Factored Representations in a Deep Mixture of Experts
 22. [Learning to Compose Neural Networks for Question Answering](2016-learning-to-compose-neural-networks-for-question-answering)
 23. [Inferring and Executing Programs for Visual Reasoning](2017-inferring-and-executing-programs-for-visual-reasoning)

@@ -48,7 +48,7 @@ Scene text recognition has been a hot research topic in computer vision due to i
 17. Strokelets - A Learned Multi-scale Representation for Scene Text Recognition
 18. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition
 19. Word Spotting in the Wild
-20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+20. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 21. Real-time scene text localization and recognition
 22. Word Spotting and Recognition with Embedded Attributes
 23. ICDAR 2015 competition on Robust Reading

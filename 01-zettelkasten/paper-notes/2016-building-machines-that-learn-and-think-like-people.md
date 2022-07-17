@@ -140,7 +140,7 @@ Abstract Recent progress in artificial intelligence has renewed interest in buil
 111. What are the computations of the cerebellum, the basal ganglia and the cerebral cortex?
 112. [Deep Visual-Semantic Alignments for Generating Image Descriptions](2017-deep-visual-semantic-alignments-for-generating-image-descriptions)
 113. Motor primitives in vertebrates and invertebrates
-114. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+114. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 115. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
 116. Theory-based causal induction.
 117. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)

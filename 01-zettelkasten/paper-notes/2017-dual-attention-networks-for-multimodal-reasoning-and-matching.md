@@ -60,6 +60,6 @@ We propose Dual Attention Networks (DANs) which jointly leverage visual and text
 32. A Hierarchical Neural Autoencoder for Paragraphs and Documents
 33. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 34. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
-35. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+35. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 36. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 37. [Ask Me Anything - Dynamic Memory Networks for Natural Language Processing](2016-ask-me-anything-dynamic-memory-networks-for-natural-language-processing)

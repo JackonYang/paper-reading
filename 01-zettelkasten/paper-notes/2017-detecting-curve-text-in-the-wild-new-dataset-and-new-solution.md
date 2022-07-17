@@ -54,7 +54,7 @@ Scene text detection has been made great progress in recent years. The detection
 25. ICDAR 2003 robust reading competitions
 26. [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](2016-recursive-recurrent-nets-with-attention-modeling-for-ocr-in-the-wild)
 27. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
-28. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 30. Enriched Deep Recurrent Visual Attention Model for Multiple Object Recognition
 31. ICDAR 2013 Robust Reading Competition

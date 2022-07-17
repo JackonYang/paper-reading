@@ -57,7 +57,7 @@ The goal of this paper is to serve as a guide for selecting a detection architec
 21. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](2017-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning)
 22. [Fast R-CNN](2015-fast-r-cnn)
 23. [Deep Neural Networks for Object Detection](2013-deep-neural-networks-for-object-detection)
-24. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+24. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 25. MobileNets - Efficient Convolutional Neural Networks for Mobile Vision Applications
 26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)

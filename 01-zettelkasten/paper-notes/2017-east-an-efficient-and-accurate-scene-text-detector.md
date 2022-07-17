@@ -72,7 +72,7 @@ Previous approaches for scene text detection have already achieved promising per
 40. [U-Net - Convolutional Networks for Biomedical Image Segmentation](2015-u-net-convolutional-networks-for-biomedical-image-segmentation)
 41. [Fast R-CNN](2015-fast-r-cnn)
 42. Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning
-43. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+43. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 44. ICDAR 2013 Robust Reading Competition
 45. Detecting text in natural scenes with stroke width transform
 46. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)

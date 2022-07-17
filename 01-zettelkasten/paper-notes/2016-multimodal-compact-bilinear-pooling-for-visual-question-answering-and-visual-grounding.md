@@ -61,7 +61,7 @@ Modeling textual or visual information with vector representations trained from 
 30. [Learning to Compose Neural Networks for Question Answering](2016-learning-to-compose-neural-networks-for-question-answering)
 31. Separating Style and Content with Bilinear Models
 32. [GloVe - Global Vectors for Word Representation](2014-glove-global-vectors-for-word-representation)
-33. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+33. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 34. [Multimodal Deep Learning](2011-multimodal-deep-learning)
 35. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 36. [Image Question Answering Using Convolutional Neural Network with Dynamic Parameter Prediction](2016-image-question-answering-using-convolutional-neural-network-with-dynamic-parameter-prediction)

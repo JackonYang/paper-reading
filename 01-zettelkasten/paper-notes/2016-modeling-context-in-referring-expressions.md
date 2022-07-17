@@ -59,7 +59,7 @@ Humans refer to objects in their environments all the time, especially in dialog
 29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 30. Scalable Object Detection Using Deep Neural Networks
 31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-32. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+32. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 33. [LSTM - A Search Space Odyssey](2017-lstm-a-search-space-odyssey)
 34. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 35. [Fast R-CNN](2015-fast-r-cnn)

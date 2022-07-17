@@ -48,7 +48,7 @@ Attention-based neural encoder-decoder frameworks have been widely adopted for i
 19. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 20. Encode, Review, and Decode - Reviewer Module for Caption Generation
 21. Grounded Compositional Semantics for Finding and Describing Images with Sentences
-22. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+22. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 23. [CIDEr - Consensus-based image description evaluation](2015-cider-consensus-based-image-description-evaluation)
 24. [SPICE - Semantic Propositional Image Caption Evaluation](2016-spice-semantic-propositional-image-caption-evaluation)
 25. Learning Deep Features for Discriminative Localization

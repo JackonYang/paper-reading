@@ -44,7 +44,7 @@ We present the MAC network, a novel fully differentiable neural network architec
 17. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
 18. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 19. Key-Value Memory Networks for Directly Reading Documents
-20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+20. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 21. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)
 22. [Neural Turing Machines](2014-neural-turing-machines)
 23. Survey of Visual Question Answering - Datasets and Techniques

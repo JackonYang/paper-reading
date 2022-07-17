@@ -79,7 +79,7 @@ Computer vision has benefited from initializing multiple deep layers with weight
 50. Question Classification by Weighted Combination of Lexical, Syntactic and Semantic Features
 51. OpenNMT - Open-Source Toolkit for Neural Machine Translation
 52. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
-53. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+53. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 54. High Accuracy Rule-based Question Classification using Question Syntax and Semantics
 55. Heterogeneous Transfer Learning for Image Classification
 56. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)

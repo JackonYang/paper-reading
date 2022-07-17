@@ -45,7 +45,7 @@ We present a scalable approach for semi-supervised learning on graph-structured 
 18. [Visualizing Data using t-SNE](2008-visualizing-data-using-t-sne)
 19. Wavelets on Graphs via Spectral Graph Theory
 20. [Learning with Local and Global Consistency](2003-learning-with-local-and-global-consistency)
-21. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+21. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 22. On Modularity Clustering
 23. [Distributed Representations of Words and Phrases and their Compositionality](2013-distributed-representations-of-words-and-phrases-and-their-compositionality)
 24. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)

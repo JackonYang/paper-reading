@@ -32,7 +32,7 @@ We introduce YOLO9000, a state-of-the-art, real-time object detection system tha
 5. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 6. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
 7. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-8. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+8. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 9. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
 10. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 11. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)

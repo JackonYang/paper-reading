@@ -45,7 +45,7 @@ We present region-based, fully convolutional networks for accurate and efficient
 16. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 17. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision)
 18. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
-19. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+19. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 20. [Deep Neural Networks for Object Detection](2013-deep-neural-networks-for-object-detection)
 21. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 22. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)

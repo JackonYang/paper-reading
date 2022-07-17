@@ -46,7 +46,7 @@ In this paper, we present a novel SpaTial Attention Residue Network (STAR-Net) f
 16. Label Embedding - A Frugal Baseline for Text Recognition
 17. Deep Structured Output Learning for Unconstrained Text Recognition
 18. Supervised mid-level features for word image representation
-19. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+19. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 20. PhotoOCR - Reading Text in Uncontrolled Conditions
 21. Large-Lexicon Attribute-Consistent Text Recognition in Natural Images
 22. Word Spotting and Recognition with Embedded Attributes

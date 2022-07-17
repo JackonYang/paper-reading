@@ -58,7 +58,7 @@ In this paper, we introduce a new large-scale object detection dataset, Objects3
 25. WIDER FACE - A Face Detection Benchmark
 26. Diagnosing Error in Object Detectors
 27. [Fast R-CNN](2015-fast-r-cnn)
-28. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 29. [Are we ready for autonomous driving? The KITTI vision benchmark suite](2012-are-we-ready-for-autonomous-driving-the-kitti-vision-benchmark-suite)
 30. Pyramid Scene Parsing Network
 31. [Deformable Convolutional Networks](2017-deformable-convolutional-networks)

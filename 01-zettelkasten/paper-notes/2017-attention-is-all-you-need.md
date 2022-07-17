@@ -59,7 +59,7 @@ The dominant sequence transduction models are based on complex recurrent or conv
 14. [Exploring the Limits of Language Modeling](2016-exploring-the-limits-of-language-modeling)
 15. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
 16. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](2014-empirical-evaluation-of-gated-recurrent-neural-networks-on-sequence-modeling)
-17. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+17. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 18. [Dropout - a simple way to prevent neural networks from overfitting](2014-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting)
 19. Long Short-Term Memory-Networks for Machine Reading
 20. Neural GPUs Learn Algorithms

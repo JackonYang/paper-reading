@@ -58,7 +58,7 @@ Many modern NLP systems rely on word embeddings, previously trained in an unsupe
 28. A Structured Self-attentive Sentence Embedding
 29. Framing Image Description as a Ranking Task - Data, Models and Evaluation Metrics (Extended Abstract)
 30. PPDB - The Paraphrase Database
-31. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+31. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 32. [Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books](2015-aligning-books-and-movies-towards-story-like-visual-explanations-by-watching-movies-and-reading-books)
 33. [Long Short-Term Memory](1997-long-short-term-memory)
 34. The Multiverse Loss for Robust Transfer Learning

@@ -60,6 +60,6 @@ In this paper, we propose a novel method called Rotational Region CNN (R2CNN) fo
 27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 28. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 29. ICDAR 2013 Robust Reading Competition
-30. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+30. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 31. [TextBoxes - A Fast Text Detector with a Single Deep Neural Network](2017-textboxes-a-fast-text-detector-with-a-single-deep-neural-network)
 32. [You Only Look Once - Unified, Real-Time Object Detection](2016-you-only-look-once-unified-real-time-object-detection)

@@ -86,7 +86,7 @@ We introduce the Neural State Machine, seeking to bridge the gap between the neu
 59. Factorizable Net - An Efficient Subgraph-based Framework for Scene Graph Generation
 60. Survey of Visual Question Answering - Datasets and Techniques
 61. Explaining and Harnessing Adversarial Examples
-62. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+62. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 63. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 64. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 65. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)

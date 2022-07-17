@@ -66,7 +66,7 @@ Existing methods for visual reasoning attempt to directly map inputs to outputs 
 34. Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering
 35. [Hierarchical Question-Image Co-Attention for Visual Question Answering](2016-hierarchical-question-image-co-attention-for-visual-question-answering)
 36. Visual question answering - Datasets, algorithms, and future challenges
-37. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+37. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 38. [Accurate Unlexicalized Parsing](2003-accurate-unlexicalized-parsing)
 39. [Making the V in VQA Matter - Elevating the Role of Image Understanding in Visual Question Answering](2017-making-the-v-in-vqa-matter-elevating-the-role-of-image-understanding-in-visual-question-answering)
 40. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)

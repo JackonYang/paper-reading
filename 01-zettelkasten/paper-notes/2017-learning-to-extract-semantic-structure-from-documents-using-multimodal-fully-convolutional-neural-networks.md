@@ -47,7 +47,7 @@ We present an end-to-end, multimodal, fully convolutional network for extracting
 16. [Zero-Shot Learning Through Cross-Modal Transfer](2013-zero-shot-learning-through-cross-modal-transfer)
 17. Ask Your Neurons - A Neural-Based Approach to Answering Questions about Images
 18. Dense prediction for text line segmentation in handwritten document images
-19. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+19. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 20. Learning nongenerative grammatical models for document analysis
 21. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 22. Stacked What-Where Auto-encoders

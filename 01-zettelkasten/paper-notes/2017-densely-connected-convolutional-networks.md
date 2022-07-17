@@ -32,7 +32,7 @@ Recent work has shown that convolutional networks can be substantially deeper, m
 4. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 5. Deep Networks with Stochastic Depth
 6. Wide Residual Networks
-7. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+7. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 8. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 9. Deeply-Fused Nets
 10. Augmenting Supervised Neural Networks with Unsupervised Objectives for Large-scale Image Classification

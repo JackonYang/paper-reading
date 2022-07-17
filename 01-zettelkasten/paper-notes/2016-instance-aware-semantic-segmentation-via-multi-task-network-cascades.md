@@ -45,7 +45,7 @@ Semantic segmentation research has recently witnessed rapid progress, but many l
 17. [Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification](2015-delving-deep-into-rectifiers-surpassing-human-level-performance-on-imagenet-classification)
 18. [Fast R-CNN](2015-fast-r-cnn)
 19. Semantic Segmentation with Second-Order Pooling
-20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+20. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 21. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 22. [Multiscale Combinatorial Grouping](2014-multiscale-combinatorial-grouping)
 23. [Semantic contours from inverse detectors](2011-semantic-contours-from-inverse-detectors)

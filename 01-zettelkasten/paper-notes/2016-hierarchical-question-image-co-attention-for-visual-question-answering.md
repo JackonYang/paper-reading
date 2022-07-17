@@ -47,7 +47,7 @@ A number of recent works have proposed attention models for Visual Question Answ
 18. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)
 19. Attentive Pooling Networks
 20. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
-21. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+21. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 22. Measuring Machine Intelligence Through Visual Question Answering
 23. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 24. Reasoning about Entailment with Neural Attention

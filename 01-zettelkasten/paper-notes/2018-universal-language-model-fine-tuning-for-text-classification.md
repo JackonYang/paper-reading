@@ -55,7 +55,7 @@ Inductive transfer learning has greatly impacted computer vision, but existing a
 28. Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm
 29. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 30. Learning Transferable Features with Deep Adaptation Networks
-31. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+31. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 32. [Distributed Representations of Words and Phrases and their Compositionality](2013-distributed-representations-of-words-and-phrases-and-their-compositionality)
 33. Why Does Unsupervised Pre-training Help Deep Learning?
 34. Multitask Learning - A Knowledge-Based Source of Inductive Bias

@@ -46,7 +46,7 @@ The highest accuracy object detectors to date are based on a two-stage approach 
 16. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)
 17. Loss Max-Pooling for Semantic Image Segmentation
 18. [YOLO9000 - Better, Faster, Stronger](2017-yolo9000-better-faster-stronger)
-19. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+19. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 20. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)
 21. Beyond Skip Connections - Top-Down Modulation for Object Detection
 22. [Fast R-CNN](2015-fast-r-cnn)

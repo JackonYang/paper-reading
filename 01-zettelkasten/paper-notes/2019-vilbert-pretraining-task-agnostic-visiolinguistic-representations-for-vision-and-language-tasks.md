@@ -62,7 +62,7 @@ We present ViLBERT (short for Vision-and-Language BERT), a model for learning ta
 33. [Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books](2015-aligning-books-and-movies-towards-story-like-visual-explanations-by-watching-movies-and-reading-books)
 34. [Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](2018-conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning)
 35. [Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation](2016-google-s-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation)
-36. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+36. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 37. [Mask R-CNN](2017-mask-r-cnn)
 38. One billion word benchmark for measuring progress in statistical language modeling
 39. Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks

@@ -46,7 +46,7 @@ Natural language questions are inherently compositional, and many are most easil
 16. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 17. [Inferring and Executing Programs for Visual Reasoning](2017-inferring-and-executing-programs-for-visual-reasoning)
 18. Fast and Accurate Shift-Reduce Constituent Parsing
-19. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+19. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 20. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems)
 21. Making a Science of Model Search - Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures
 22. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)

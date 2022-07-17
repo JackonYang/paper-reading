@@ -28,7 +28,7 @@ Very deep convolutional networks have been central to the largest advances in im
 ## Paper References
 
 1. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision)
-2. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
+2. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 3. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 4. [Network In Network](2014-network-in-network)
 5. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
