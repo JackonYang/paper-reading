@@ -41,7 +41,7 @@ an idea of what constitutes modern C++
 主要读了 5 章，对于构建对 Modern c++ 的系统认知(an idea of what constitutes modern C++)，帮助比较大。
 但缺少 smart pointer 的介绍，可以看
 
-[CppCon 2014 - Herb Sutter - Back to the Basics - Essentials of Modern C++ Style](../02-References/CppCon%202014%20-%20Herb%20Sutter%20-%20Back%20to%20the%20Basics%20-%20Essentials%20of%20Modern%20C++%20Style.md)
+[cpp-pointers-by-herb-sutter](../note-blocks/cpp-pointers-by-herb-sutter.md)
 
 ## 目录
 

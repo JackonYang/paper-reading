@@ -44,7 +44,7 @@ hierarchy class 的 父类调用子类的方法时，并不确定当前父类是
 每个分配的 resource，都要有一个 owner，用 owner 的生命周期唯一控制资源的申请和释放。
 
 resource 的 owner，避免使用裸指针，用 smart pointer 帮助管理生命周期。非 owner 对象，可以用裸指针，代码更简洁。From
-[CppCon 2014 - Herb Sutter - Back to the Basics - Essentials of Modern C++ Style](../02-References/CppCon%202014%20-%20Herb%20Sutter%20-%20Back%20to%20the%20Basics%20-%20Essentials%20of%20Modern%20C++%20Style.md)
+[cpp-pointers-by-herb-sutter](cpp-pointers-by-herb-sutter.md)
 
 resource can be moved from scope to scope using move semantics or smart pointers.
 
