@@ -14,6 +14,7 @@ reading_status: TBD
 ref_count: 37
 tags:
 - gen-from-ref
+- ocr
 - paper
 venue: AAAI
 year: 2017
@@ -55,4 +56,3 @@ This paper presents an end-to-end trainable fast scene text detector, named Text
 26. [Fast R-CNN](2015-fast-r-cnn)
 27. [Gradient-based learning applied to document recognition](1998-gradient-based-learning-applied-to-document-recognition)
 28. Object count/area graphs for the evaluation of object detection and segmentation algorithms
-29. #p

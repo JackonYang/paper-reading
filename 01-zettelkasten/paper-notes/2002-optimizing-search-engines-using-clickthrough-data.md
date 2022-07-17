@@ -24,7 +24,7 @@ This paper presents an approach to automatically optimizing the retrieval qualit
 ## Paper References
 
 1. Unbiased Evaluation of Retrieval Quality using Clickthrough Data
-2. Analysis of a Very Large Altavista Query Log SRC Technical note #1998-14
+2. Analysis of a Very Large Altavista Query Log SRC Technical note
 3. Automatic combination of multiple ranked retrieval systems
 4. An Efficient Boosting Algorithm for Combining Preferences
 5. A Machine Learning Architecture for Optimizing Web Search Engines

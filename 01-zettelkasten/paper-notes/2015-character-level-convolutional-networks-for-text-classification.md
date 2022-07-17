@@ -55,5 +55,4 @@ This article offers an empirical exploration on the use of character-level convo
 28. A statistical interpretation of term specificity and its application in retrieval
 29. Some methods of speeding up the convergence of iteration methods
 30. Experiments with Time Delay Networks and Dynamic Time Warping for speaker independent isolated digits recognition
-31. #p
 32. DBpedia - A large-scale, multilingual knowledge base extracted from Wikipedia
