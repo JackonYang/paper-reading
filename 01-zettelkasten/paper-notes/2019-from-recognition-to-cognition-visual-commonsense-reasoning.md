@@ -55,7 +55,7 @@ Visual understanding goes well beyond object recognition. With one glance at an 
 26. Explainable Neural Computation via Stack Neural Module Networks
 27. [Unbiased look at dataset bias](2011-unbiased-look-at-dataset-bias)
 28. Multimodal Explanations - Justifying Decisions and Pointing to the Evidence
-29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 30. Flickr30k Entities - Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models
 31. Learning without Forgetting
 32. Annotation Artifacts in Natural Language Inference Data

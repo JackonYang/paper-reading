@@ -55,7 +55,7 @@ Much of vision-and-language research focuses on a small but diverse set of indep
 25. Visual Dialog
 26. [Hierarchical Question-Image Co-Attention for Visual Question Answering](2016-hierarchical-question-image-co-attention-for-visual-question-answering)
 27. [Fusion of Detected Objects in Text for Visual Question Answering](2019-fusion-of-detected-objects-in-text-for-visual-question-answering)
-28. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+28. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 29. [From Recognition to Cognition - Visual Commonsense Reasoning](2019-from-recognition-to-cognition-visual-commonsense-reasoning)
 30. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 31. Stochastic Filter Groups for Multi-Task CNNs - Learning Specialist and Generalist Convolution Kernels

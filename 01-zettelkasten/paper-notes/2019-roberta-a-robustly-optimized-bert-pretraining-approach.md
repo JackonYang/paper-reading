@@ -36,7 +36,7 @@ Language model pretraining has led to significant performance gains but careful 
 1. SuperGLUE - A Stickier Benchmark for General-Purpose Language Understanding Systems
 2. [XLNet - Generalized Autoregressive Pretraining for Language Understanding](2019-xlnet-generalized-autoregressive-pretraining-for-language-understanding)
 3. Cloze-driven Pretraining of Self-attention Networks
-4. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+4. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 5. Reducing BERT Pre-Training Time from 3 Days to 76 Minutes
 6. [SpanBERT - Improving Pre-training by Representing and Predicting Spans](2020-spanbert-improving-pre-training-by-representing-and-predicting-spans)
 7. [Automatic differentiation in PyTorch](2017-automatic-differentiation-in-pytorch)

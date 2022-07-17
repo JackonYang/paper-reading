@@ -53,7 +53,7 @@ Transfer learning, where a model is first pre-trained on a data-rich task before
 19. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 20. [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](2017-supervised-learning-of-universal-sentence-representations-from-natural-language-inference-data)
 21. Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling
-22. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+22. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 23. The Bottom-up Evolution of Representations in the Transformer - A Study with Machine Translation and Language Modeling Objectives
 24. Simple, Scalable Adaptation for Neural Machine Translation
 25. Get To The Point - Summarization with Pointer-Generator Networks

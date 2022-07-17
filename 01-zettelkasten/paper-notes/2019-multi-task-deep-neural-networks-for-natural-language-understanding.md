@@ -29,7 +29,7 @@ In this paper, we present a Multi-Task Deep Neural Network (MT-DNN) for learning
 
 1. Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding
 2. [Unified Language Model Pre-training for Natural Language Understanding and Generation](2019-unified-language-model-pre-training-for-natural-language-understanding-and-generation)
-3. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+3. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 4. Sentence Encoders on STILTs - Supplementary Training on Intermediate Labeled-data Tasks
 5. [GLUE - A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](2018-glue-a-multi-task-benchmark-and-analysis-platform-for-natural-language-understanding)
 6. [Attention is All you Need](2017-attention-is-all-you-need)

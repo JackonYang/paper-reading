@@ -29,7 +29,7 @@ Increasing model size when pretraining natural language representations often re
 
 ## Paper References
 
-1. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+1. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 2. [RoBERTa - A Robustly Optimized BERT Pretraining Approach](2019-roberta-a-robustly-optimized-bert-pretraining-approach)
 3. Well-Read Students Learn Better - On the Importance of Pre-training Compact Models
 4. Efficient Training of BERT by Progressively Stacking

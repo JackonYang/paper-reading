@@ -76,7 +76,7 @@ We introduce a new dataset for joint reasoning about natural language and images
 46. [GloVe - Global Vectors for Word Representation](2014-glove-global-vectors-for-word-representation)
 47. Working Memory Networks - Augmenting Memory Networks with a Relational Reasoning Module
 48. [Efficient Estimation of Word Representations in Vector Space](2013-efficient-estimation-of-word-representations-in-vector-space)
-49. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+49. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 50. Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction
 51. Learning Visual Question Answering by Bootstrapping Hard Attention
 52. Scalable multi-label annotation

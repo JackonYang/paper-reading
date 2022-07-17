@@ -36,7 +36,7 @@ This paper presents a new Unified pre-trained Language Model (UniLM) that can be
 2. Pre-trained language model representations for language generation
 3. [Multi-Task Deep Neural Networks for Natural Language Understanding](2019-multi-task-deep-neural-networks-for-natural-language-understanding)
 4. [Language Models are Unsupervised Multitask Learners](2019-language-models-are-unsupervised-multitask-learners)
-5. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+5. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 6. MASS - Masked Sequence to Sequence Pre-training for Language Generation
 7. [GLUE - A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](2018-glue-a-multi-task-benchmark-and-analysis-platform-for-natural-language-understanding)
 8. Text Summarization with Pretrained Encoders

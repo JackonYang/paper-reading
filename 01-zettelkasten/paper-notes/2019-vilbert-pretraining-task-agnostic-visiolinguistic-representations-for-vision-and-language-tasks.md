@@ -32,7 +32,7 @@ We present ViLBERT (short for Vision-and-Language BERT), a model for learning ta
 3. [Unified Vision-Language Pre-Training for Image Captioning and VQA](2020-unified-vision-language-pre-training-for-image-captioning-and-vqa)
 4. [Unicoder-VL - A Universal Encoder for Vision and Language by Cross-modal Pre-training](2020-unicoder-vl-a-universal-encoder-for-vision-and-language-by-cross-modal-pre-training)
 5. [LXMERT - Learning Cross-Modality Encoder Representations from Transformers](2019-lxmert-learning-cross-modality-encoder-representations-from-transformers)
-6. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+6. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 7. Modulating early visual processing by language
 8. [MAttNet - Modular Attention Network for Referring Expression Comprehension](2018-mattnet-modular-attention-network-for-referring-expression-comprehension)
 9. [VideoBERT - A Joint Model for Video and Language Representation Learning](2019-videobert-a-joint-model-for-video-and-language-representation-learning)

@@ -26,7 +26,7 @@ Vision-and-language reasoning requires an understanding of visual concepts, lang
 ## Paper References
 
 1. [ViLBERT - Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](2019-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks)
-2. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+2. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 3. Multimodal Unified Attention Networks for Vision-and-Language Interactions
 4. [VideoBERT - A Joint Model for Video and Language Representation Learning](2019-videobert-a-joint-model-for-video-and-language-representation-learning)
 5. [Attention is All you Need](2017-attention-is-all-you-need)

@@ -29,7 +29,7 @@ With the capability of modeling bidirectional contexts, denoising autoencoding b
 
 ## Paper References
 
-1. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+1. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 2. [ALBERT - A Lite BERT for Self-supervised Learning of Language Representations](2020-albert-a-lite-bert-for-self-supervised-learning-of-language-representations)
 3. MADE - Masked Autoencoder for Distribution Estimation
 4. [Character-Level Language Modeling with Deeper Self-Attention](2019-character-level-language-modeling-with-deeper-self-attention)

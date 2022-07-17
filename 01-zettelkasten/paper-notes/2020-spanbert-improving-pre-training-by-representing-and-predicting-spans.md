@@ -32,7 +32,7 @@ We present SpanBERT, a pre-training method that is designed to better represent 
 1. End-to-end Neural Coreference Resolution
 2. Learning Recurrent Span Representations for Extractive Question Answering
 3. BERT for Coreference Resolution - Baselines and Analysis
-4. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+4. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 5. ERNIE - Enhanced Language Representation with Informative Entities
 6. Matching the Blanks - Distributional Similarity for Relation Learning
 7. [Unified Language Model Pre-training for Natural Language Understanding and Generation](2019-unified-language-model-pre-training-for-natural-language-understanding-and-generation)

@@ -33,7 +33,7 @@ We propose Unicoder-VL, a universal encoder that aims to learn joint representat
 3. [UNITER - Learning UNiversal Image-TExt Representations](2019-uniter-learning-universal-image-text-representations)
 4. [VL-BERT - Pre-training of Generic Visual-Linguistic Representations](2020-vl-bert-pre-training-of-generic-visual-linguistic-representations)
 5. [VideoBERT - A Joint Model for Video and Language Representation Learning](2019-videobert-a-joint-model-for-video-and-language-representation-learning)
-6. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+6. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 7. Dual-Path Convolutional Image-Text Embedding
 8. [VisualBERT - A Simple and Performant Baseline for Vision and Language](2019-visualbert-a-simple-and-performant-baseline-for-vision-and-language)
 9. [Attention is All you Need](2017-attention-is-all-you-need)

@@ -43,7 +43,7 @@ We propose VisualBERT, a simple and flexible framework for modeling a broad rang
 13. [A Corpus for Reasoning about Natural Language Grounded in Photographs](2019-a-corpus-for-reasoning-about-natural-language-grounded-in-photographs)
 14. Flickr30k Entities - Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models
 15. [Language Models are Unsupervised Multitask Learners](2019-language-models-are-unsupervised-multitask-learners)
-16. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+16. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 17. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 18. [Attention is All you Need](2017-attention-is-all-you-need)
 19. Towards VQA Models That Can Read

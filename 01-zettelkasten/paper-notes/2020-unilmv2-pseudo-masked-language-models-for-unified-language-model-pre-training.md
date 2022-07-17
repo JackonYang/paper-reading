@@ -38,7 +38,7 @@ We propose to pre-train a unified language model for both autoencoding and parti
 2. [XLNet - Generalized Autoregressive Pretraining for Language Understanding](2019-xlnet-generalized-autoregressive-pretraining-for-language-understanding)
 3. MASS - Masked Sequence to Sequence Pre-training for Language Generation
 4. Cross-Lingual Natural Language Generation via Pre-Training
-5. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+5. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 6. BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 7. Text Summarization with Pretrained Encoders
 8. [Attention is All you Need](2017-attention-is-all-you-need)

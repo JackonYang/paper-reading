@@ -32,7 +32,7 @@ Self-supervised learning has become increasingly important to leverage the abund
 2. SoundNet - Learning Sound Representations from Unlabeled Video
 3. Anticipating Visual Representations from Unlabeled Video
 4. Generating Videos with Scene Dynamics
-5. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+5. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 6. Deep multi-scale video prediction beyond mean square error
 7. [Neural Baby Talk](2018-neural-baby-talk)
 8. Weakly-Supervised Video Object Grounding from Text by Loss Weighting and Object Interaction

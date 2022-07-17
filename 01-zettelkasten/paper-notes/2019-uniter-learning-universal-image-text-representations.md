@@ -52,7 +52,7 @@ Joint image-text embedding is the bedrock for most Vision-and-Language (V+L) tas
 19. Flickr30k Entities - Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models
 20. [Language Models are Unsupervised Multitask Learners](2019-language-models-are-unsupervised-multitask-learners)
 21. [Attention is All you Need](2017-attention-is-all-you-need)
-22. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+22. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 23. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 24. Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
 25. [Fusion of Detected Objects in Text for Visual Question Answering](2019-fusion-of-detected-objects-in-text-for-visual-question-answering)

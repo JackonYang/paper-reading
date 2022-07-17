@@ -33,7 +33,7 @@ We introduce a new pre-trainable generic representation for visual-linguistic ta
 1. [ViLBERT - Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](2019-vilbert-pretraining-task-agnostic-visiolinguistic-representations-for-vision-and-language-tasks)
 2. [VisualBERT - A Simple and Performant Baseline for Vision and Language](2019-visualbert-a-simple-and-performant-baseline-for-vision-and-language)
 3. [Unicoder-VL - A Universal Encoder for Vision and Language by Cross-modal Pre-training](2020-unicoder-vl-a-universal-encoder-for-vision-and-language-by-cross-modal-pre-training)
-4. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+4. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 5. [Visual7W - Grounded Question Answering in Images](2016-visual7w-grounded-question-answering-in-images)
 6. [Improving Language Understanding by Generative Pre-Training](2018-improving-language-understanding-by-generative-pre-training)
 7. [Language Models are Unsupervised Multitask Learners](2019-language-models-are-unsupervised-multitask-learners)

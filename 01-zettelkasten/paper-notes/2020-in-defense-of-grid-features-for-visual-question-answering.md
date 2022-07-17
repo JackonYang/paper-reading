@@ -56,7 +56,7 @@ Popularized as `bottom-up' attention, bounding box (or region) based visual feat
 26. [FiLM - Visual Reasoning with a General Conditioning Layer](2018-film-visual-reasoning-with-a-general-conditioning-layer)
 27. [Attention is All you Need](2017-attention-is-all-you-need)
 28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
-29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 30. [Aggregated Residual Transformations for Deep Neural Networks](2017-aggregated-residual-transformations-for-deep-neural-networks)
 31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 32. [Bilinear Attention Networks](2018-bilinear-attention-networks)

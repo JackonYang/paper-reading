@@ -57,7 +57,7 @@ We present VILLA, the first known effort on large-scale adversarial training for
 26. [Oscar - Object-Semantics Aligned Pre-training for Vision-Language Tasks](2020-oscar-object-semantics-aligned-pre-training-for-vision-language-tasks)
 27. Fast is better than free - Revisiting adversarial training
 28. Are Labels Required for Improving Adversarial Robustness?
-29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 30. Exact Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables
 31. Multi-modal Factorized Bilinear Pooling with Co-attention Learning for Visual Question Answering
 32. Ensemble Adversarial Training - Attacks and Defenses

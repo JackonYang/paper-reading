@@ -41,7 +41,7 @@ Recent studies have demonstrated the efficiency of generative pretraining for En
 14. Offline bilingual word vectors, orthogonal transformations and the inverted softmax
 15. [A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](2018-a-broad-coverage-challenge-corpus-for-sentence-understanding-through-inference)
 16. [Universal Language Model Fine-tuning for Text Classification](2018-universal-language-model-fine-tuning-for-text-classification)
-17. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+17. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 18. [Exploring the Limits of Language Modeling](2016-exploring-the-limits-of-language-modeling)
 19. Edinburgh Neural Machine Translation Systems for WMT 16
 20. [Attention is All you Need](2017-attention-is-all-you-need)

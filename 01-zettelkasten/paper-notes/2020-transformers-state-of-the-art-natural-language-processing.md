@@ -34,7 +34,7 @@ Recent progress in natural language processing has been driven by advances in bo
 
 ## Paper References
 
-1. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+1. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 2. AllenNLP - A Deep Semantic Natural Language Processing Platform
 3. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](2020-exploring-the-limits-of-transfer-learning-with-a-unified-text-to-text-transformer)
 4. Reformer - The Efficient Transformer

@@ -55,7 +55,7 @@ We propose a knowledge-enhanced approach, ERNIE-ViL, to learn joint representati
 23. [VideoBERT - A Joint Model for Video and Language Representation Learning](2019-videobert-a-joint-model-for-video-and-language-representation-learning)
 24. Auto-Encoding Scene Graphs for Image Captioning
 25. [From Recognition to Cognition - Visual Commonsense Reasoning](2019-from-recognition-to-cognition-visual-commonsense-reasoning)
-26. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+26. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 27. [Improving Language Understanding by Generative Pre-Training](2018-improving-language-understanding-by-generative-pre-training)
 28. Image Generation from Scene Graphs
 29. [Stacked Cross Attention for Image-Text Matching](2018-stacked-cross-attention-for-image-text-matching)

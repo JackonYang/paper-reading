@@ -50,7 +50,7 @@ Learning effective fusion of multi-modality features is at the heart of visual q
 18. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)
 19. Squeeze-and-Excitation Networks
 20. [Image Question Answering Using Convolutional Neural Network with Dynamic Parameter Prediction](2016-image-question-answering-using-convolutional-neural-network-with-dynamic-parameter-prediction)
-21. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+21. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 22. Video Object Detection with Locally-Weighted Deformable Neighbors
 23. Structured Attention Networks
 24. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)

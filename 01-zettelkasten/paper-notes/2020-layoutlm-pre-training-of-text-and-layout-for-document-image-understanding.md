@@ -40,7 +40,7 @@ Pre-training techniques have been verified successfully in a variety of NLP task
 9. [PubLayNet - Largest Dataset Ever for Document Layout Analysis](2019-publaynet-largest-dataset-ever-for-document-layout-analysis)
 10. FUNSD - A Dataset for Form Understanding in Noisy Scanned Documents
 11. Graph Convolution for Multimodal Information Extraction from Visually Rich Documents
-12. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+12. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 13. [Chargrid - Towards Understanding 2D Documents](2018-chargrid-towards-understanding-2d-documents)
 14. [Mask R-CNN](2020-mask-r-cnn)
 15. The Document Spectrum for Page Layout Analysis

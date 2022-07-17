@@ -41,7 +41,7 @@ To advance models of multimodal context, we introduce a simple yet powerful neur
 12. [VideoBERT - A Joint Model for Video and Language Representation Learning](2019-videobert-a-joint-model-for-video-and-language-representation-learning)
 13. [Compositional Attention Networks for Machine Reasoning](2018-compositional-attention-networks-for-machine-reasoning)
 14. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-15. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+15. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 16. Like a Baby - Visually Situated Neural Language Acquisition
 17. The Neuro-Symbolic Concept Learner - Interpreting Scenes Words and Sentences from Natural Supervision
 18. [Attention is All you Need](2017-attention-is-all-you-need)

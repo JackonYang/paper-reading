@@ -34,7 +34,7 @@ Natural language processing tasks, such as question answering, machine translati
 3. [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](2017-supervised-learning-of-universal-sentence-representations-from-natural-language-inference-data)
 4. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 5. A Neural Conversational Model
-6. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+6. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 7. Unsupervised Pretraining for Sequence to Sequence Learning
 8. Unsupervised Machine Translation Using Monolingual Corpora Only
 9. One billion word benchmark for measuring progress in statistical language modeling
