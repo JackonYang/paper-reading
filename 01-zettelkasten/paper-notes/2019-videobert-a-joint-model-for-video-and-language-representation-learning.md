@@ -36,7 +36,7 @@ Self-supervised learning has become increasingly important to leverage the abund
 6. Deep multi-scale video prediction beyond mean square error
 7. [Neural Baby Talk](2018-neural-baby-talk)
 8. Weakly-Supervised Video Object Grounding from Text by Loss Weighting and Object Interaction
-9. [Attention is All you Need](2017-attention-is-all-you-need)
+9. [Attention is All you Need](2017-attention-is-all-you-need.md)
 10. Stochastic Variational Video Prediction
 11. SLAC - A Sparsely Labeled Dataset for Action Classification and Localization
 12. Visual Dynamics - Probabilistic Future Frame Synthesis via Cross Convolutional Networks

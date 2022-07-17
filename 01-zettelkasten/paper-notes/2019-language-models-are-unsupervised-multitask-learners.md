@@ -45,7 +45,7 @@ Natural language processing tasks, such as question answering, machine translati
 14. Word Translation Without Parallel Data
 15. A Simple Method for Commonsense Reasoning
 16. [Learned in Translation - Contextualized Word Vectors](2017-learned-in-translation-contextualized-word-vectors)
-17. [Attention is All you Need](2017-attention-is-all-you-need)
+17. [Attention is All you Need](2017-attention-is-all-you-need.md)
 18. Looking for ELMo's friends - Sentence-Level Pretraining Beyond Language Modeling
 19. Multilingual Language Processing From Bytes
 20. [Neural Machine Translation of Rare Words with Subword Units](2016-neural-machine-translation-of-rare-words-with-subword-units)

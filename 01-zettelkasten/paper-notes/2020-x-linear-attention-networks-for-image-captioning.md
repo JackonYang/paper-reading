@@ -45,7 +45,7 @@ Recent progress on fine-grained visual recognition and visual question answering
 16. Describing Multimedia Content Using Attention-Based Encoder-Decoder Networks
 17. Incorporating Copying Mechanism in Image Captioning for Learning Novel Objects
 18. Convolutional Auto-encoding of Sentence Topics for Image Paragraph Generation
-19. [Attention is All you Need](2017-attention-is-all-you-need)
+19. [Attention is All you Need](2017-attention-is-all-you-need.md)
 20. [Image Captioning with Semantic Attention](2016-image-captioning-with-semantic-attention)
 21. Auto-Encoding Scene Graphs for Image Captioning
 22. Hierarchy Parsing for Image Captioning

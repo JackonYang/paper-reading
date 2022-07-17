@@ -39,7 +39,7 @@ We present graph attention networks (GATs), novel neural network architectures t
 8. [Spectral Networks and Locally Connected Networks on Graphs](2014-spectral-networks-and-locally-connected-networks-on-graphs)
 9. Revisiting Semi-Supervised Learning with Graph Embeddings
 10. Geometric Deep Learning on Graphs and Manifolds Using Mixture Model CNNs
-11. [Attention is All you Need](2017-attention-is-all-you-need)
+11. [Attention is All you Need](2017-attention-is-all-you-need.md)
 12. [A simple neural network module for relational reasoning](2017-a-simple-neural-network-module-for-relational-reasoning)
 13. A new model for learning in graph domains
 14. [The Graph Neural Network Model](2009-the-graph-neural-network-model)

@@ -54,7 +54,7 @@ Joint image-text embedding is the bedrock for most Vision-and-Language (V+L) tas
 21. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](2018-bottom-up-and-top-down-attention-for-image-captioning-and-visual-question-answering)
 22. Unsupervised Representation Learning by Predicting Image Rotations
 23. [Language Models are Unsupervised Multitask Learners](2019-language-models-are-unsupervised-multitask-learners)
-24. [Attention is All you Need](2017-attention-is-all-you-need)
+24. [Attention is All you Need](2017-attention-is-all-you-need.md)
 25. Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
 26. Contrastive Bidirectional Transformer for Temporal Representation Learning
 27. Colorful Image Colorization

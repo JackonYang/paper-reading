@@ -44,7 +44,7 @@ Visual Question Answering (VQA) requires a fine-grained and simultaneous underst
 14. Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding
 15. Multimodal Residual Learning for Visual QA
 16. Tips and Tricks for Visual Question Answering - Learnings from the 2017 Challenge
-17. [Attention is All you Need](2017-attention-is-all-you-need)
+17. [Attention is All you Need](2017-attention-is-all-you-need.md)
 18. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
 19. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)
 20. Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks

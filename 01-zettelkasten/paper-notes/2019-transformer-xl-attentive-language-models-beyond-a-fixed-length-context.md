@@ -38,7 +38,7 @@ Transformers have a potential of learning longer-term dependency, but are limite
 7. Recurrent Highway Networks
 8. Larger-Context Language Modelling
 9. An Analysis of Neural Language Modeling at Multiple Scales
-10. [Attention is All you Need](2017-attention-is-all-you-need)
+10. [Attention is All you Need](2017-attention-is-all-you-need.md)
 11. TopicRNN - A Recurrent Neural Network with Long-Range Semantic Dependency
 12. Multiplicative LSTM for sequence modelling
 13. Tying Word Vectors and Word Classifiers - A Loss Framework for Language Modeling

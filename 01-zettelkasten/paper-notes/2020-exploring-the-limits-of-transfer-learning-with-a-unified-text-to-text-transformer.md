@@ -75,7 +75,7 @@ Transfer learning, where a model is first pre-trained on a data-rich task before
 41. To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks
 42. [Deep Contextualized Word Representations](2018-deep-contextualized-word-representations)
 43. CTRL - A Conditional Transformer Language Model for Controllable Generation
-44. [Attention is All you Need](2017-attention-is-all-you-need)
+44. [Attention is All you Need](2017-attention-is-all-you-need.md)
 45. [Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation](2016-google-s-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation)
 46. Snorkel MeTaL - Weak Supervision for Multi-Task Learning
 47. WiC - 10, 000 Example Pairs for Evaluating Context-Sensitive Representations

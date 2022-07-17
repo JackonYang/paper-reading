@@ -32,7 +32,7 @@ In this paper, we present a Multi-Task Deep Neural Network (MT-DNN) for learning
 3. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 4. Sentence Encoders on STILTs - Supplementary Training on Intermediate Labeled-data Tasks
 5. [GLUE - A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](2018-glue-a-multi-task-benchmark-and-analysis-platform-for-natural-language-understanding)
-6. [Attention is All you Need](2017-attention-is-all-you-need)
+6. [Attention is All you Need](2017-attention-is-all-you-need.md)
 7. Multi-task Sequence to Sequence Learning
 8. The RepEval 2017 Shared Task - Multi-Genre Natural Language Inference with Sentence Representations
 9. Testing the Generalization Power of Neural Network Models across NLI Benchmarks

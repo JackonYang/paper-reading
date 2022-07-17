@@ -44,7 +44,7 @@ Learning effective fusion of multi-modality features is at the heart of visual q
 12. Exploring Visual Relationship for Image Captioning
 13. [Self-Attention with Relative Position Representations](2018-self-attention-with-relative-position-representations)
 14. Learning to Count Objects in Natural Images for Visual Question Answering
-15. [Attention is All you Need](2017-attention-is-all-you-need)
+15. [Attention is All you Need](2017-attention-is-all-you-need.md)
 16. VizWiz Grand Challenge - Answering Visual Questions from Blind People
 17. Simple Baseline for Visual Question Answering
 18. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)

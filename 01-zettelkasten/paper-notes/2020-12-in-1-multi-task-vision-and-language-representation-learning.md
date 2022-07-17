@@ -50,7 +50,7 @@ Much of vision-and-language research focuses on a small but diverse set of indep
 20. BAM! Born-Again Multi-Task Networks for Natural Language Understanding
 21. [UNITER - Learning UNiversal Image-TExt Representations](2019-uniter-learning-universal-image-text-representations)
 22. Visual Entailment Task for Visually-Grounded Language Learning
-23. [Attention is All you Need](2017-attention-is-all-you-need)
+23. [Attention is All you Need](2017-attention-is-all-you-need.md)
 24. [A unified architecture for natural language processing - deep neural networks with multitask learning](2008-a-unified-architecture-for-natural-language-processing-deep-neural-networks-with-multitask-learning)
 25. Visual Dialog
 26. [Hierarchical Question-Image Co-Attention for Visual Question Answering](2016-hierarchical-question-image-co-attention-for-visual-question-answering)

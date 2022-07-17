@@ -27,7 +27,7 @@ Relying entirely on an attention mechanism, the Transformer introduced by Vaswan
 ## Paper References
 
 1. [Effective Approaches to Attention-based Neural Machine Translation](2015-effective-approaches-to-attention-based-neural-machine-translation)
-2. [Attention is All you Need](2017-attention-is-all-you-need)
+2. [Attention is All you Need](2017-attention-is-all-you-need.md)
 3. [End-To-End Memory Networks](2015-end-to-end-memory-networks)
 4. [Graph Attention Networks](2018-graph-attention-networks)
 5. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision)

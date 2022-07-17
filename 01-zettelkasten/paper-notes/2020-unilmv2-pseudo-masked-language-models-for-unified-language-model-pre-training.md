@@ -41,7 +41,7 @@ We propose to pre-train a unified language model for both autoencoding and parti
 5. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 6. BART - Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 7. Text Summarization with Pretrained Encoders
-8. [Attention is All you Need](2017-attention-is-all-you-need)
+8. [Attention is All you Need](2017-attention-is-all-you-need.md)
 9. [ALBERT - A Lite BERT for Self-supervised Learning of Language Representations](2020-albert-a-lite-bert-for-self-supervised-learning-of-language-representations)
 10. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](2020-exploring-the-limits-of-transfer-learning-with-a-unified-text-to-text-transformer)
 11. Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks

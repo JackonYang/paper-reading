@@ -44,7 +44,7 @@ To advance models of multimodal context, we introduce a simple yet powerful neur
 15. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 16. Like a Baby - Visually Situated Neural Language Acquisition
 17. The Neuro-Symbolic Concept Learner - Interpreting Scenes Words and Sentences from Natural Supervision
-18. [Attention is All you Need](2017-attention-is-all-you-need)
+18. [Attention is All you Need](2017-attention-is-all-you-need.md)
 19. [Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning](2018-conceptual-captions-a-cleaned-hypernymed-image-alt-text-dataset-for-automatic-image-captioning)
 20. Multimodal Distributional Semantics
 21. [Unicoder-VL - A Universal Encoder for Vision and Language by Cross-modal Pre-training](2020-unicoder-vl-a-universal-encoder-for-vision-and-language-by-cross-modal-pre-training)

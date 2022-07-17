@@ -47,7 +47,7 @@ Natural language understanding comprises a wide range of diverse tasks such as t
 20. [Learned in Translation - Contextualized Word Vectors](2017-learned-in-translation-contextualized-word-vectors)
 21. [A unified architecture for natural language processing - deep neural networks with multitask learning](2008-a-unified-architecture-for-natural-language-processing-deep-neural-networks-with-multitask-learning)
 22. Semi-Supervised Learning for Natural Language
-23. [Attention is All you Need](2017-attention-is-all-you-need)
+23. [Attention is All you Need](2017-attention-is-all-you-need.md)
 24. An efficient framework for learning sentence representations
 25. [Teaching Machines to Read and Comprehend](2015-teaching-machines-to-read-and-comprehend)
 26. Constituency Parsing with a Self-Attentive Encoder

@@ -82,7 +82,7 @@ The following is part position paper, part review, and part unification. We argu
 29. Action Schema Networks - Generalised Policies with Deep Learning
 30. Learning to Represent Programs with Graphs
 31. Discovering objects and their relations from entangled scene representations
-32. [Attention is All you Need](2017-attention-is-all-you-need)
+32. [Attention is All you Need](2017-attention-is-all-you-need.md)
 33. Learning Explanatory Rules from Noisy Data
 34. Can Neural Networks Understand Logical Entailment?
 35. Inductive Representation Learning on Large Graphs

@@ -1,4 +1,5 @@
 ---
+Alias: transformer
 title: Attention is All you Need
 authors:
 - Ashish Vaswani

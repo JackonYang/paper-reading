@@ -38,7 +38,7 @@ LSTMs and other RNN variants have shown strong performance on character-level la
 8. MuFuRU - The Multi-Function Recurrent Unit
 9. Memory Architectures in Recurrent Neural Network Language Models
 10. Zoneout - Regularizing RNNs by Randomly Preserving Hidden Activations
-11. [Attention is All you Need](2017-attention-is-all-you-need)
+11. [Attention is All you Need](2017-attention-is-all-you-need.md)
 12. Very Deep Convolutional Networks for Natural Language Processing
 13. Recurrent Highway Networks
 14. Fast-Slow Recurrent Neural Networks

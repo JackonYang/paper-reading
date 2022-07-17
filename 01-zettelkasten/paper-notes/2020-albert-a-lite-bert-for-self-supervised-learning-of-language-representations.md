@@ -41,7 +41,7 @@ Increasing model size when pretraining natural language representations often re
 10. Adaptive Input Representations for Neural Language Modeling
 11. Patient Knowledge Distillation for BERT Model Compression
 12. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](2020-exploring-the-limits-of-transfer-learning-with-a-unified-text-to-text-transformer)
-13. [Attention is All you Need](2017-attention-is-all-you-need)
+13. [Attention is All you Need](2017-attention-is-all-you-need.md)
 14. [Transformer-XL - Attentive Language Models beyond a Fixed-Length Context](2019-transformer-xl-attentive-language-models-beyond-a-fixed-length-context)
 15. Megatron-LM - Training Multi-Billion Parameter Language Models Using Model Parallelism
 16. [SpanBERT - Improving Pre-training by Representing and Predicting Spans](2020-spanbert-improving-pre-training-by-representing-and-predicting-spans)
