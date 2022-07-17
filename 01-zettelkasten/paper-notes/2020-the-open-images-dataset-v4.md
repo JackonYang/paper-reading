@@ -36,7 +36,7 @@ We present Open Images V4, a dataset of 9.2M images with unified annotations for
 ## Paper References
 
 1. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-2. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+2. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 3. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 4. [Measuring the Objectness of Image Windows](2012-measuring-the-objectness-of-image-windows)
 5. [The Pascal Visual Object Classes Challenge - A Retrospective](2014-the-pascal-visual-object-classes-challenge-a-retrospective)

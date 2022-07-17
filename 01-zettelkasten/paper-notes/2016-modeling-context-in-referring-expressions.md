@@ -55,7 +55,7 @@ Humans refer to objects in their environments all the time, especially in dialog
 25. [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](2015-deep-captioning-with-multimodal-recurrent-neural-networks-m-rnn)
 26. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
 27. Im2Text - Describing Images Using 1 Million Captioned Photographs
-28. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+28. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 30. Scalable Object Detection Using Deep Neural Networks
 31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)

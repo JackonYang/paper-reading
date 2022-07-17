@@ -61,7 +61,7 @@ Driven by deep neural networks and large scale datasets, scene text detection me
 30. [Deep Direct Regression for Multi-oriented Scene Text Detection](2017-deep-direct-regression-for-multi-oriented-scene-text-detection)
 31. Orientation Robust Text Line Detection in Natural Images
 32. Feature Enhancement Network - A Refined Scene Text Detector
-33. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+33. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 34. Text Detection and Recognition in Imagery - A Survey
 35. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 36. Detecting text in natural scenes with stroke width transform

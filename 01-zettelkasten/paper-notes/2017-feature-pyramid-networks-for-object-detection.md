@@ -33,7 +33,7 @@ Feature pyramids are a basic component in recognition systems for detecting obje
 2. A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
 3. [Object Detection Networks on Convolutional Feature Maps](2017-object-detection-networks-on-convolutional-feature-maps)
 4. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-5. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+5. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 6. [Learning to Refine Object Segments](2016-learning-to-refine-object-segments)
 7. A MultiPath Network for Object Detection
 8. Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model

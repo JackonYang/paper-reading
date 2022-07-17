@@ -47,7 +47,7 @@ In this work, we jointly address the problem of text detection and recognition i
 19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 20. Symmetry-based text line detection in natural scenes
 21. Scene text detection and recognition - recent advances and future trends
-22. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+22. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 23. Scene Text Localization and Recognition with Oriented Stroke Detection
 24. PhotoOCR - Reading Text in Uncontrolled Conditions
 25. FASText - Efficient Unconstrained Scene Text Detector

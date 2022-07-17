@@ -41,7 +41,7 @@ We present a novel single-shot text detector that directly outputs word-level bo
 10. [Detecting Oriented Text in Natural Images by Linking Segments](2017-detecting-oriented-text-in-natural-images-by-linking-segments)
 11. [Deep Matching Prior Network - Toward Tighter Multi-oriented Text Detection](2017-deep-matching-prior-network-toward-tighter-multi-oriented-text-detection)
 12. Text Flow - A Unified Text Detection System in Natural Scene Images
-13. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+13. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 14. [Reading Scene Text in Deep Convolutional Sequences](2016-reading-scene-text-in-deep-convolutional-sequences)
 15. A Text Detection System for Natural Scenes with Convolutional Feature Learning and Cascaded Classification
 16. Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees

@@ -43,7 +43,7 @@ Convolutional neural networks (CNNs) are inherently limited to model geometric t
 11. Harmonic Networks - Deep Translation and Rotation Equivariance
 12. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 13. Exploiting Cyclic Symmetry in Convolutional Neural Networks
-14. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+14. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 15. Deep Symmetry Networks
 16. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](2015-semantic-image-segmentation-with-deep-convolutional-nets-and-fully-connected-crfs)
 17. Object Detection via a Multi-region and Semantic Segmentation-Aware CNN Model

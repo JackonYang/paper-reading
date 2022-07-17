@@ -77,7 +77,7 @@ We present an approach to efficiently detect the 2D pose of multiple people in a
 48. Simple Baselines for Human Pose Estimation and Tracking
 49. Total Capture - A 3D Deformation Model for Tracking Faces, Hands, and Bodies
 50. Strike a pose - tracking people by finding stylized poses
-51. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+51. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 52. Deeply Learned Compositional Models for Human Pose Estimation
 53. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 54. Everybody Dance Now

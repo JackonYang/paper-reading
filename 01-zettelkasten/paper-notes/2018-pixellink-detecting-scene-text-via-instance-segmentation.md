@@ -38,7 +38,7 @@ Most state-of-the-art scene text detection algorithms are deep learning based me
 9. [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](2018-arbitrary-oriented-scene-text-detection-via-rotation-proposals)
 10. A Unified Framework for Multioriented Text Detection and Recognition
 11. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
-12. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+12. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 13. [COCO-Text - Dataset and Benchmark for Text Detection and Recognition in Natural Images](2016-coco-text-dataset-and-benchmark-for-text-detection-and-recognition-in-natural-images)
 14. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 15. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)

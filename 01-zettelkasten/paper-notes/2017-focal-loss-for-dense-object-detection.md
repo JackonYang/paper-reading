@@ -32,7 +32,7 @@ The highest accuracy object detectors to date are based on a two-stage approach 
 2. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 3. Learning to Segment Object Candidates
 4. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
-5. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+5. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 6. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 7. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 8. Scalable Object Detection Using Deep Neural Networks

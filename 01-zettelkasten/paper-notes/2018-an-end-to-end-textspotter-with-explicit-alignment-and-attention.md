@@ -54,7 +54,7 @@ Text detection and recognition in natural images have long been considered as tw
 23. [Real-Time Lexicon-Free Scene Text Localization and Recognition](2016-real-time-lexicon-free-scene-text-localization-and-recognition)
 24. Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees
 25. ICDAR 2015 competition on Robust Reading
-26. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+26. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 27. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 28. Detecting texts of arbitrary orientations in natural images
 29. Symmetry-based text line detection in natural scenes

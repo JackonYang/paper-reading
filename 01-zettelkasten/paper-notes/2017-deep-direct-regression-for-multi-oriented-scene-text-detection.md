@@ -36,7 +36,7 @@ In this paper, we first provide a new perspective to divide existing high perfor
 7. Text Flow - A Unified Text Detection System in Natural Scene Images
 8. DeepText - A Unified Framework for Text Proposal Generation and Text Detection in Natural Images
 9. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-10. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+10. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 11. Symmetry-based text line detection in natural scenes
 12. Multi-Orientation Scene Text Detection with Adaptive Clustering
 13. DenseBox - Unifying Landmark Localization with End to End Object Detection

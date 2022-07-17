@@ -237,7 +237,7 @@ Scene text detection methods based on neural networks have emerged recently and 
 22. [Mask TextSpotter - An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](2018-mask-textspotter-an-end-to-end-trainable-neural-network-for-spotting-text-with-arbitrary-shapes)
 23. [ICDAR2017 Robust Reading Challenge on Multi-Lingual Scene Text Detection and Script Identification - RRC-MLT](2017-icdar2017-robust-reading-challenge-on-multi-lingual-scene-text-detection-and-script-identification-rrc-mlt)
 24. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-25. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+25. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 26. Detecting text in natural scenes with stroke width transform
 27. [An End-to-End TextSpotter with Explicit Alignment and Attention](2018-an-end-to-end-textspotter-with-explicit-alignment-and-attention)
 28. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)

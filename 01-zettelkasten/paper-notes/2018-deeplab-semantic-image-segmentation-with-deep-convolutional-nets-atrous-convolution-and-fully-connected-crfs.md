@@ -64,7 +64,7 @@ In this work we address the task of semantic image segmentation with Deep Learni
 34. Pixel-Level Encoding and Depth Layering for Instance-Level Semantic Labeling
 35. Bridging Category-level and Instance-level Semantic Image Segmentation
 36. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
-37. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+37. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 38. [Simultaneous Detection and Segmentation](2014-simultaneous-detection-and-segmentation)
 39. Scalable Object Detection Using Deep Neural Networks
 40. Material recognition in the wild with the Materials in Context Database

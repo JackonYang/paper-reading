@@ -45,7 +45,7 @@ This paper presents an end-to-end trainable fast scene text detector, named Text
 15. Word Spotting in the Wild
 16. Detecting texts of arbitrary orientations in natural images
 17. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
-18. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+18. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 19. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 20. [Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks](2006-connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks)
 21. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)

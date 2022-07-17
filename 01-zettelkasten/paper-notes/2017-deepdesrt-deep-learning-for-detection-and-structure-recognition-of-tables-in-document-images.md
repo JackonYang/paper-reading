@@ -39,7 +39,7 @@ This paper presents a novel end-to-end system for table understanding in documen
 9. Dataset, Ground-Truth and Performance Metrics for Table Detection Evaluation
 10. [Holistically-Nested Edge Detection](2015-holistically-nested-edge-detection)
 11. Learning to Detect Tables in Scanned Document Images Using Line Information
-12. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+12. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 13. [HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection](2016-hypernet-towards-accurate-region-proposal-generation-and-joint-object-detection)
 14. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 15. Recognition of Tables and Forms

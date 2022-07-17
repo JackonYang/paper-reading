@@ -62,7 +62,7 @@ Scene text detection is an important step of scene text recognition system and a
 34. Text detection in images using sparse representation with discriminative dictionaries
 35. [TextProposals - A text-specific selective search algorithm for word spotting in the wild](2017-textproposals-a-text-specific-selective-search-algorithm-for-word-spotting-in-the-wild)
 36. Scene Text Localization Using Gradient Local Correlation
-37. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+37. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 38. Text Localization Based on Fast Feature Pyramids and Multi-Resolution Maximally Stable Extremal Regions
 39. Detection and Recognition of Text Embedded in Online Images via Neural Context Models
 40. Scene Text Detection via Connected Component Clustering and Nontext Filtering

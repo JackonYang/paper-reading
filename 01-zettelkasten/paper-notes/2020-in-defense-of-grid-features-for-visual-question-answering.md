@@ -63,7 +63,7 @@ Popularized as `bottom-up' attention, bounding box (or region) based visual feat
 33. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 34. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
 35. [CIDEr - Consensus-based image description evaluation](2015-cider-consensus-based-image-description-evaluation)
-36. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+36. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 37. [Focal Loss for Dense Object Detection](2020-focal-loss-for-dense-object-detection)
 38. [Focal Loss for Dense Object Detection](2017-focal-loss-for-dense-object-detection)
 39. [Deep Visual-Semantic Alignments for Generating Image Descriptions](2017-deep-visual-semantic-alignments-for-generating-image-descriptions)

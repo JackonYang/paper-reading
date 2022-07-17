@@ -59,7 +59,7 @@ Top-down visual attention mechanisms have been used extensively in image caption
 27. [Deep Visual-Semantic Alignments for Generating Image Descriptions](2017-deep-visual-semantic-alignments-for-generating-image-descriptions)
 28. Optimization of image description metrics using policy gradient methods
 29. [Deep Residual Learning for Image Recognition](2015-resnet.md)
-30. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+30. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 31. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 32. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
 33. [Order-Embeddings of Images and Language](2016-order-embeddings-of-images-and-language)

@@ -49,7 +49,7 @@ People often refer to entities in an image in terms of their relationships with 
 19. [You Only Look Once - Unified, Real-Time Object Detection](2016-you-only-look-once-unified-real-time-object-detection)
 20. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 21. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
-22. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+22. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 23. Stating the Obvious - Extracting Visual Common Sense Knowledge
 24. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 25. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)

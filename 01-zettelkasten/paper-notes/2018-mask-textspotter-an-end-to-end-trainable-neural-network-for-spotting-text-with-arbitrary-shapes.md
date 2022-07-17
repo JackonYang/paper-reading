@@ -97,7 +97,7 @@ Unifying text detection and text recognition in an end-to-end training fashion h
 67. Orientation Robust Text Line Detection in Natural Images
 68. ICDAR2017 Robust Reading Challenge on COCO-Text
 69. ICDAR 2015 competition on Robust Reading
-70. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+70. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 71. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 72. [Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks](2006-connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks)
 73. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)

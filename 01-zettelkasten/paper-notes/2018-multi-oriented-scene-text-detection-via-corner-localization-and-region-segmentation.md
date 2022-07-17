@@ -56,7 +56,7 @@ Previous deep learning based state-of-the-art scene text detection methods can b
 26. [Towards End-to-End Text Spotting with Convolutional Recurrent Neural Networks](2017-towards-end-to-end-text-spotting-with-convolutional-recurrent-neural-networks)
 27. WeText - Scene Text Detection under Weak Supervision
 28. Deep TextSpotter - An End-to-End Trainable Scene Text Localization and Recognition Framework
-29. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+29. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 30. Point Linking Network for Object Detection
 31. Efficient Scene text localization and recognition with local character refinement
 32. [An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition](2017-an-end-to-end-trainable-neural-network-for-image-based-sequence-recognition-and-its-application-to-scene-text-recognition)

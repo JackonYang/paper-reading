@@ -38,7 +38,7 @@ The goal of this paper is to serve as a guide for selecting a detection architec
 2. PVANET - Deep but Lightweight Neural Networks for Real-time Object Detection
 3. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 4. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision)
-5. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+5. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 6. Scalable Object Detection Using Deep Neural Networks
 7. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 8. Scalable, High-Quality Object Detection

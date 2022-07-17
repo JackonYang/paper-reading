@@ -56,7 +56,7 @@ Incidental scene text spotting is considered one of the most difficult and valua
 25. Region-Based Discriminative Feature Pooling for Scene Text Recognition
 26. UnitBox - An Advanced Object Detection Network
 27. [STAR-Net - A SpaTial Attention Residue Network for Scene Text Recognition](2016-star-net-a-spatial-attention-residue-network-for-scene-text-recognition)
-28. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+28. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 29. Robust Text Detection in Natural Scene Images
 30. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 31. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition

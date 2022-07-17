@@ -28,7 +28,7 @@ The main contribution of this paper is an approach for introducing additional co
 
 ## Paper References
 
-1. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+1. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 2. [Learning to Refine Object Segments](2016-learning-to-refine-object-segments)
 3. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 4. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)

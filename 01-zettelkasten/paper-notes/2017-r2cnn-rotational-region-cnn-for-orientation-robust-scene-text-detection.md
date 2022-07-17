@@ -52,7 +52,7 @@ In this paper, we propose a novel method called Rotational Region CNN (R2CNN) fo
 19. Canny Text Detector - Fast and Robust Scene Text Localization Algorithm
 20. Robust Text Detection in Natural Scene Images
 21. Scene Text Localization and Recognition with Oriented Stroke Detection
-22. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+22. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 23. Text Localization in Natural Images Using Stroke Feature Transform and Text Covariance Descriptors
 24. ICDAR 2015 competition on Robust Reading
 25. Multi-Orientation Scene Text Detection with Adaptive Clustering

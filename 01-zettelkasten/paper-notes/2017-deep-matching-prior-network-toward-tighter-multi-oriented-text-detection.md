@@ -32,7 +32,7 @@ Detecting incidental scene text is a challenging task because of multi-orientati
 5. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 6. Deep Features for Text Spotting
 7. Toward Integrated Scene Text Reading
-8. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
+8. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 9. Canny Text Detector - Fast and Robust Scene Text Localization Algorithm
 10. Scene text detection and recognition - recent advances and future trends
 11. Real-time scene text localization and recognition
