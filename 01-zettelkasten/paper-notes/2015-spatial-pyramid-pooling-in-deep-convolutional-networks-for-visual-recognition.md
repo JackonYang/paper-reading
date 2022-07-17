@@ -32,7 +32,7 @@ Existing deep convolutional neural networks (CNNs) require a fixed-size (e.g., 2
 3. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 4. [Return of the Devil in the Details - Delving Deep into Convolutional Nets](2014-return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets)
 5. [Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks](2014-learning-and-transferring-mid-level-image-representations-using-convolutional-neural-networks)
-6. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+6. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 7. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 8. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
 9. [DeepFace - Closing the Gap to Human-Level Performance in Face Verification](2014-deepface-closing-the-gap-to-human-level-performance-in-face-verification)

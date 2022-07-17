@@ -71,7 +71,7 @@ In this work we explore recent advances in Recurrent Neural Networks for large s
 41. [Training Very Deep Networks](2015-training-very-deep-networks)
 42. Improving Neural Networks with Dropout
 43. Building a Large Annotated Corpus of English - The Penn Treebank
-44. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+44. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 45. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
 46. Noise-contrastive estimation - A new estimation principle for unnormalized statistical models
 47. An Efficient Gradient-Based Algorithm for On-Line Training of Recurrent Network Trajectories

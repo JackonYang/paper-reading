@@ -55,7 +55,7 @@ Object segmentation requires both object-level information and low-level pixel d
 26. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 27. [What Makes for Effective Detection Proposals?](2016-what-makes-for-effective-detection-proposals)
 28. FlowNet - Learning Optical Flow with Convolutional Networks
-29. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+29. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 30. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
 31. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)
 32. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)

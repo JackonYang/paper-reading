@@ -88,7 +88,7 @@ Point clouds provide a flexible geometric representation suitable for countless 
 56. [Semi-Supervised Classification with Graph Convolutional Networks](2017-semi-supervised-classification-with-graph-convolutional-networks)
 57. [Spatial Transformer Networks](2015-spatial-transformer-networks)
 58. Shape Context - A New Descriptor for Shape Matching and Object Recognition
-59. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+59. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 60. Scale-invariant heat kernel signatures for non-rigid shape recognition
 61. A combined texture-shape descriptor for enhanced 3D feature matching
 62. [Gated Graph Sequence Neural Networks](2016-gated-graph-sequence-neural-networks)

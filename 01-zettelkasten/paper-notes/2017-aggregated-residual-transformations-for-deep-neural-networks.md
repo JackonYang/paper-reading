@@ -40,7 +40,7 @@ We present a simple, highly modularized network architecture for image classific
 10. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision)
 11. [Network In Network](2014-network-in-network)
 12. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](2017-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning)
-13. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+13. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 14. Residual Networks Behave Like Ensembles of Relatively Shallow Networks
 15. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 16. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)

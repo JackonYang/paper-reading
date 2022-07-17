@@ -51,7 +51,7 @@ This paper presents stacked attention networks (SANs) that learn to answer natur
 21. Semantic Parsing via Paraphrasing
 22. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 23. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
-24. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+24. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 25. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 26. [Dropout - a simple way to prevent neural networks from overfitting](2014-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting)
 27. [Long Short-Term Memory](1997-long-short-term-memory)

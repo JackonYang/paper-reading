@@ -36,7 +36,7 @@ We propose a deep convolutional neural network architecture codenamed Inception 
 2. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
 3. Scalable Object Detection Using Deep Neural Networks
 4. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)
-5. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+5. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 6. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
 7. [Network In Network](2014-network-in-network)
 8. [Two-Stream Convolutional Networks for Action Recognition in Videos](2014-two-stream-convolutional-networks-for-action-recognition-in-videos)

@@ -42,7 +42,7 @@ Deep Convolutional Neural Networks (DCNNs) have recently shown state of the art 
 12. Combining the Best of Graphical Models and ConvNets for Semantic Segmentation
 13. [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](2011-efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials)
 14. Associative hierarchical CRFs for object class image segmentation
-15. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+15. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 16. TextonBoost for Image Understanding - Multi-Class Object Recognition and Segmentation by Jointly Modeling Texture, Layout, and Context
 17. CPMC - Automatic Object Segmentation Using Constrained Parametric Min-Cuts
 18. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

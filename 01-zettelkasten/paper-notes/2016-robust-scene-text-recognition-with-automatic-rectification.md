@@ -57,7 +57,7 @@ Recognizing text in natural images is a challenging task with many unsolved prob
 27. End-to-End Text Recognition with Hybrid HMM Maxout Models
 28. [Attention-Based Models for Speech Recognition](2015-attention-based-models-for-speech-recognition)
 29. TILT - Transform Invariant Low-Rank Textures
-30. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+30. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 31. [Speech recognition with deep recurrent neural networks](2013-speech-recognition-with-deep-recurrent-neural-networks)
 32. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 33. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)

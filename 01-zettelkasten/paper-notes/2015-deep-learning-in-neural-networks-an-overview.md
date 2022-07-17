@@ -81,7 +81,7 @@ year: 2015
 59. Learning a context-free task with a recurrent neural network - An analysis of stability
 60. Recurrent Neural Networks Can Learn to Implement Symbol-Sensitive Counting
 61. On-line Q-learning using connectionist systems
-62. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+62. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 63. A Recurrent Neural Network that Learns to Count
 64. A Machine Learning Method for Extracting Symbolic Knowledge from Recurrent Neural Networks
 65. Introduction to the theory of neural computation

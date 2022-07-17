@@ -31,7 +31,7 @@ We report on a series of experiments with convolutional neural networks (CNN) tr
 5. [Natural Language Processing (Almost) from Scratch](2011-natural-language-processing-almost-from-scratch)
 6. [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](2013-recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank)
 7. [Improving neural networks by preventing co-adaptation of feature detectors](2012-improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors)
-8. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+8. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 9. Context-aware Learning for Sentence-level Sentiment Analysis with Posterior Regularization
 10. [Speech recognition with deep recurrent neural networks](2013-speech-recognition-with-deep-recurrent-neural-networks)
 11. [Distributed Representations of Sentences and Documents](2014-distributed-representations-of-sentences-and-documents)

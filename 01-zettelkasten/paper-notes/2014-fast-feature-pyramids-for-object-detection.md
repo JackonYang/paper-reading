@@ -83,7 +83,7 @@ Multi-resolution image features may be approximated via extrapolation from nearb
 54. Uncertainty relation for resolution in space, spatial frequency, and orientation optimized by two-dimensional visual cortical filters.
 55. A Systems View of Scale Space
 56. Special Invited Paper-Additive logistic regression - A statistical view of boosting
-57. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+57. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 58. High Detection-rate Cascades for Real-Time Object Detection
 59. [A Model of Saliency-Based Visual Attention for Rapid Scene Analysis](2009-a-model-of-saliency-based-visual-attention-for-rapid-scene-analysis)
 60. Scale-Space for Discrete Signals

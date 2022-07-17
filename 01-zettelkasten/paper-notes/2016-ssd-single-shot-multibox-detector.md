@@ -52,7 +52,7 @@ We present a method for detecting objects in images using a single deep neural n
 20. ParseNet - Looking Wider to See Better
 21. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 22. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
-23. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+23. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 24. Diagnosing Error in Object Detectors
 25. Some Improvements on Deep Convolutional Neural Network Based Image Classification
 26. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

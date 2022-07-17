@@ -58,7 +58,7 @@ Image-language matching tasks have recently attracted a lot of attention in the 
 29. Visual Madlibs - Fill in the blank Image Generation and Question Answering
 30. [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](2017-translating-videos-to-natural-language-using-deep-recurrent-neural-networks)
 31. Multimodal Neural Language Models
-32. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+32. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 33. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 34. [Multimodal learning with deep Boltzmann machines](2012-multimodal-learning-with-deep-boltzmann-machines)
 35. [VQA - Visual Question Answering](2015-vqa-visual-question-answering)

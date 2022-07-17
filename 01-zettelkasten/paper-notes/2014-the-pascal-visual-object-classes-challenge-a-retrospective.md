@@ -64,7 +64,7 @@ The Pascal Visual Object Classes (VOC) challenge consists of two components: (i)
 33. [Beyond Bags of Features - Spatial Pyramid Matching for Recognizing Natural Scene Categories](2006-beyond-bags-of-features-spatial-pyramid-matching-for-recognizing-natural-scene-categories)
 34. [Distinctive Image Features from Scale-Invariant Keypoints](2004-distinctive-image-features-from-scale-invariant-keypoints)
 35. Exploiting photographic style for category-level image classification by generalizing the spatial pyramid
-36. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+36. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 37. Image segmentation by figure-ground composition into maximal cliques
 38. Combining randomization and discrimination for fine-grained image categorization
 39. All of statistics

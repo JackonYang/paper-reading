@@ -28,7 +28,7 @@ Rectified activation units (rectifiers) are essential for state-of-the-art neura
 ## Paper References
 
 1. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
-2. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+2. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 3. Convolutional neural networks at constrained time cost
 4. [Return of the Devil in the Details - Delving Deep into Convolutional Nets](2014-return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets)
 5. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

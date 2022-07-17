@@ -57,7 +57,7 @@ Neural network architectures with memory and attention mechanisms exhibit certai
 29. [On the Properties of Neural Machine Translation - Encoder-Decoder Approaches](2014-on-the-properties-of-neural-machine-translation-encoder-decoder-approaches)
 30. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 31. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
-32. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+32. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 33. Baby Talk - Understanding and Generating Image Descriptions
 34. Baby talk - Understanding and generating simple image descriptions
 35. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)

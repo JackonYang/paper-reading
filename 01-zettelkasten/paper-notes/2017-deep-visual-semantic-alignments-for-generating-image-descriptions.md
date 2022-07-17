@@ -65,7 +65,7 @@ We present a model that generates natural language descriptions of images and th
 38. A Neural Probabilistic Language Model
 39. Neural Probabilistic Language Models
 40. Im2Text - Describing Images Using 1 Million Captioned Photographs
-41. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+41. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 42. Midge - Generating Image Descriptions From Computer Vision Detections
 43. [GloVe - Global Vectors for Word Representation](2014-glove-global-vectors-for-word-representation)
 44. [Distributed Representations of Words and Phrases and their Compositionality](2013-distributed-representations-of-words-and-phrases-and-their-compositionality)

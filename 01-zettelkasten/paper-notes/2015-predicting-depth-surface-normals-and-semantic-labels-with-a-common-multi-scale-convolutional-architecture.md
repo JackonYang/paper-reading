@@ -68,7 +68,7 @@ In this paper we address three different computer vision tasks using a single ba
 41. Synergistic Face Detection and Pose Estimation with Energy-Based Models
 42. Stereopsis via deep learning
 43. SIFT Flow - Dense Correspondence across Different Scenes
-44. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+44. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 45. Shape, Illumination, and Reflectance from Shading
 46. Unfolding an Indoor Origami World
 47. [Gradient-based learning applied to document recognition](1998-lenet5.md)

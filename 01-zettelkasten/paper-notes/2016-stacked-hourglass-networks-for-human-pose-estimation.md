@@ -61,7 +61,7 @@ This work introduces a novel convolutional network architecture for the task of 
 33. Deconvolutional networks
 34. Human Pose Estimation Using a Joint Pixel-wise and Part-wise Formulation
 35. Strong Appearance and Expressive Spatial Models for Human Pose Estimation
-36. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+36. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 37. DeepEdge - A multi-scale bifurcated deep network for top-down contour detection
 38. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
 39. Semi-supervised Learning with Ladder Networks

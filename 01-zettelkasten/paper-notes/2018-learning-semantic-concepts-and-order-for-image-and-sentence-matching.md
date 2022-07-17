@@ -58,7 +58,7 @@ Image and sentence matching has made great progress recently, but it remains cha
 30. Deep correlation for matching images and text
 31. Fisher Kernels on Visual Vocabularies for Image Categorization
 32. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
-33. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+33. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 34. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 35. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 36. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)

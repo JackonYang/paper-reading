@@ -42,7 +42,7 @@ Predicting depth is an essential component in understanding the 3D geometry of a
 14. [Vision meets robotics - The KITTI dataset](2013-vision-meets-robotics-the-kitti-dataset)
 15. Photo tourism - exploring photo collections in 3D
 16. [A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms](2001-a-taxonomy-and-evaluation-of-dense-two-frame-stereo-correspondence-algorithms)
-17. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+17. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 18. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
 19. High speed obstacle avoidance using monocular vision and reinforcement learning
 20. [Multiple View Geometry in Computer Vision](2001-multiple-view-geometry-in-computer-vision)

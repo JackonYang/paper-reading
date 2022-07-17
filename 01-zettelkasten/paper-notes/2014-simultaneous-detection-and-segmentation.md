@@ -49,7 +49,7 @@ We aim to detect all instances of a category in an image and, for each instance,
 20. Augmenting deformable part models with irregular-shaped object patches
 21. Detecting People Using Mutually Consistent Poselet Activations
 22. Scene Parsing with Object Instances and Occlusion Ordering
-23. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+23. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 24. Diagnosing Error in Object Detectors
 25. Pedestrian Detection with Unsupervised Multi-stage Feature Learning
 26. [Histograms of oriented gradients for human detection](2005-histograms-of-oriented-gradients-for-human-detection)

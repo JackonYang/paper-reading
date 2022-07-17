@@ -94,7 +94,7 @@ Matching images and sentences demands a fine understanding of both modalities. I
 63. Collecting Image Annotations Using Amazon's Mechanical Turk
 64. Convolutional Neural Network Architectures for Matching Natural Language Sentences
 65. Do Convolutional Networks need to be Deep for Text Classification ?
-66. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+66. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 67. A Multimedia Retrieval Framework Based on Semi-Supervised Ranking and Relevance Feedback
 68. Query-Adaptive Hash Code Ranking for Large-Scale Multi-View Visual Search
 69. Generalized Multiview Analysis - A discriminative latent space

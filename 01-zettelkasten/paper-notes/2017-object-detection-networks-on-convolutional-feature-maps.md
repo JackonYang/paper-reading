@@ -39,7 +39,7 @@ Most object detectors contain two important components: a feature extractor and 
 9. [Fast R-CNN](2015-fast-r-cnn)
 10. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)
 11. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](2015-semantic-image-segmentation-with-deep-convolutional-nets-and-fully-connected-crfs)
-12. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+12. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 13. Deformable part models are convolutional neural networks
 14. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
 15. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)

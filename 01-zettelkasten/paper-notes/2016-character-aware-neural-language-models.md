@@ -58,7 +58,7 @@ We describe a simple neural language model that relies only on character-level i
 29. [Efficient Estimation of Word Representations in Vector Space](2013-efficient-estimation-of-word-representations-in-vector-space)
 30. Text Understanding from Scratch
 31. Empirical Evaluation and Combination of Advanced Language Modeling Techniques
-32. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+32. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 33. Unsupervised models for morpheme segmentation and morphology learning
 34. Three new graphical models for statistical language modelling
 35. Molding CNNs for text - non-linear, non-consecutive convolutions

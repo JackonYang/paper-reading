@@ -46,7 +46,7 @@ Semantic segmentation research has recently witnessed rapid progress, but many l
 18. [Fast R-CNN](2015-fast-r-cnn)
 19. Semantic Segmentation with Second-Order Pooling
 20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
-21. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+21. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 22. [Multiscale Combinatorial Grouping](2014-multiscale-combinatorial-grouping)
 23. [Semantic contours from inverse detectors](2011-semantic-contours-from-inverse-detectors)
 24. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)

@@ -63,7 +63,7 @@ Inspired by recent work in machine translation and object detection, we introduc
 30. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
 31. Stochastic Backpropagation and Approximate Inference in Deep Generative Models
 32. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
-33. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+33. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 34. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 35. How to Construct Deep Recurrent Neural Networks
 36. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)

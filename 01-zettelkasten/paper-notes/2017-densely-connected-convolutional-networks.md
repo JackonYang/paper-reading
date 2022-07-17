@@ -28,7 +28,7 @@ Recent work has shown that convolutional networks can be substantially deeper, m
 
 1. [Striving for Simplicity - The All Convolutional Net](2015-striving-for-simplicity-the-all-convolutional-net)
 2. [Network In Network](2014-network-in-network)
-3. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+3. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 4. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 5. Deep Networks with Stochastic Depth
 6. Wide Residual Networks

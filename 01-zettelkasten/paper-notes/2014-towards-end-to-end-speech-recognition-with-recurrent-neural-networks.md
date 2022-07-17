@@ -41,7 +41,7 @@ This paper presents a speech recognition system that directly transcribes audio 
 14. [Long Short-Term Memory](1997-long-short-term-memory)
 15. Learning Precise Timing with LSTM Recurrent Networks
 16. Recognition of out-of-vocabulary words with sub-lexical language models
-17. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+17. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 18. A committee of neural networks for traffic sign classification
 19. [Reducing the Dimensionality of Data with Neural Networks](2006-reducing-the-dimensionality-of-data-with-neural-networks)
 20. Maximum mutual information estimation of hidden Markov model parameters for speech recognition

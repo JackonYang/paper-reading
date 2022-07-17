@@ -58,7 +58,7 @@ We propose a method for visual question answering which combines an internal rep
 28. [HCP - A Flexible CNN Framework for Multi-Label Image Classification](2016-hcp-a-flexible-cnn-framework-for-multi-label-image-classification)
 29. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)
 30. [Long Short-Term Memory](1997-long-short-term-memory)
-31. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+31. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 32. Verb Semantics and Lexical Selection
 33. Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation
 34. [Freebase - a collaboratively created graph database for structuring human knowledge](2008-freebase-a-collaboratively-created-graph-database-for-structuring-human-knowledge)

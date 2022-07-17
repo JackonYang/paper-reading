@@ -44,7 +44,7 @@ Models based on deep convolutional networks have dominated recent image interpre
 12. [3D Convolutional Neural Networks for Human Action Recognition](2013-3d-convolutional-neural-networks-for-human-action-recognition)
 13. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 14. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
-15. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+15. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 16. Sequence to Sequence -- Video to Text
 17. [Generating Text with Recurrent Neural Networks](2011-generating-text-with-recurrent-neural-networks)
 18. A Thousand Frames in Just a Few Words - Lingual Description of Videos through Latent Topics and Sparse Object Stitching

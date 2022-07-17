@@ -34,7 +34,7 @@ Deep convolutional neural networks (CNN) have shown their promise as a universal
 4. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 5. DenseNet - Implementing Efficient ConvNet Descriptor Pyramids
 6. [CNN Features Off-the-Shelf - An Astounding Baseline for Recognition](2014-cnn-features-off-the-shelf-an-astounding-baseline-for-recognition)
-7. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+7. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 8. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)
 9. [Building high-level features using large scale unsupervised learning](2013-building-high-level-features-using-large-scale-unsupervised-learning)
 10. Improving the Fisher Kernel for Large-Scale Image Classification

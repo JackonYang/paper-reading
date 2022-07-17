@@ -52,7 +52,7 @@ In this paper we study the problem of object detection for RGB-D images using se
 23. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)
 24. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
 25. [Contour Detection and Hierarchical Image Segmentation](2011-contour-detection-and-hierarchical-image-segmentation)
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. Object Detection in RGB-D Indoor Scenes 1
 28. [Multiscale Combinatorial Grouping](2014-multiscale-combinatorial-grouping)
 29. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)

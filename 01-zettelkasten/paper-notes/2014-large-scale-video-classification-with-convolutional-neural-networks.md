@@ -30,7 +30,7 @@ Convolutional Neural Networks (CNNs) have been established as a powerful class o
 ## Paper References
 
 1. [3D Convolutional Neural Networks for Human Action Recognition](2013-3d-convolutional-neural-networks-for-human-action-recognition)
-2. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+2. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 3. Temporal Dropout of Changes Approach to Convolutional Learning of Spatio-Temporal Features
 4. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 5. [Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis](2011-learning-hierarchical-invariant-spatio-temporal-features-for-action-recognition-with-independent-subspace-analysis)

@@ -33,7 +33,7 @@ Optical Character Recognition (OCR) aims to recognize text in natural images. In
 6. Deep Features for Text Spotting
 7. [An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition](2017-an-end-to-end-trainable-neural-network-for-image-based-sequence-recognition-and-its-application-to-scene-text-recognition)
 8. Recurrent convolutional neural network for speech processing
-9. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+9. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 10. End-to-end text recognition with convolutional neural networks
 11. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition
 12. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

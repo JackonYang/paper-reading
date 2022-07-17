@@ -80,7 +80,7 @@ In this work we address the task of semantic image segmentation with Deep Learni
 50. ParseNet - Looking Wider to See Better
 51. Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
 52. Feedforward semantic segmentation with zoom-out features
-53. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+53. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 54. Combining the Best of Graphical Models and ConvNets for Semantic Segmentation
 55. Optical Flow with Semantic Segmentation and Localized Layers
 56. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

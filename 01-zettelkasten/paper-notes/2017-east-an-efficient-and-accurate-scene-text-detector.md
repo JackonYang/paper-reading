@@ -75,7 +75,7 @@ Previous approaches for scene text detection have already achieved promising per
 43. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
 44. ICDAR 2013 Robust Reading Competition
 45. Detecting text in natural scenes with stroke width transform
-46. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+46. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 47. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
 48. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 49. The Text Recognition Algorithm Independent Evaluation (TRAIT)

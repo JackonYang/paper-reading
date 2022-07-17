@@ -69,7 +69,7 @@ Artificial neural networks are remarkably adept at sensory processing, sequence 
 24. The Algebraic Mind - Integrating Connectionism and Cognitive Science
 25. [DRAW - A Recurrent Neural Network For Image Generation](2015-draw-a-recurrent-neural-network-for-image-generation)
 26. Cascade Models of Synaptically Stored Memories
-27. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+27. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 28. A distributed representation of temporal context
 29. Search-based structured prediction
 30. Paradox of pattern separation and adult neurogenesis - A dual role for new neurons balancing memory resolution and robustness

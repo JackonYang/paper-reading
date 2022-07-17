@@ -46,7 +46,7 @@ The field of object detection has made significant advances riding on the wave o
 18. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 19. Integral Channel Features
 20. Unsupervised Discovery of Mid-Level Discriminative Patches
-21. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+21. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 22. [Fast R-CNN](2015-fast-r-cnn)
 23. [Histograms of oriented gradients for human detection](2005-histograms-of-oriented-gradients-for-human-detection)
 24. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)

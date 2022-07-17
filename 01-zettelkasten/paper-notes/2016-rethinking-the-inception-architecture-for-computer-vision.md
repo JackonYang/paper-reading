@@ -33,7 +33,7 @@ Convolutional networks are at the core of most state of-the-art computer vision 
 3. [Large-Scale Video Classification with Convolutional Neural Networks](2014-large-scale-video-classification-with-convolutional-neural-networks)
 4. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 5. [Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification](2015-delving-deep-into-rectifiers-surpassing-human-level-performance-on-imagenet-classification)
-6. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+6. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 7. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 8. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 9. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)

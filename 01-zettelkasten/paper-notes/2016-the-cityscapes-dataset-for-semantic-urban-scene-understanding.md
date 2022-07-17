@@ -99,7 +99,7 @@ Visual understanding of complex urban street scenes is an enabling factor for a 
 64. Multi-instance object segmentation with occlusion handling
 65. Fully Connected Deep Structured Networks
 66. Displets - Resolving stereo ambiguities using object knowledge
-67. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+67. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 68. Exploiting the Power of Stereo Confidences
 69. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)
 70. Object detection and segmentation from joint embedding of parts and pixels

@@ -26,7 +26,7 @@ We propose a novel deep network structure called "Network In Network" (NIN) to e
 
 ## Paper References
 
-1. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+1. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 2. Learnable Pooling Regions for Image Classification
 3. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
 4. Discriminative Transfer Learning with Tree-based Priors

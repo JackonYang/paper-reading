@@ -59,7 +59,7 @@ The goal of this paper is to serve as a guide for selecting a detection architec
 23. [Deep Neural Networks for Object Detection](2013-deep-neural-networks-for-object-detection)
 24. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
 25. MobileNets - Efficient Convolutional Neural Networks for Mobile Vision Applications
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
 28. Contextual Priming and Feedback for Faster R-CNN
 29. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)

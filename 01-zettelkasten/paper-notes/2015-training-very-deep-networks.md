@@ -45,7 +45,7 @@ Theoretical and empirical evidence indicates that the depth of neural networks i
 17. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 18. [Maxout Networks](2013-maxout-networks)
 19. [Striving for Simplicity - The All Convolutional Net](2015-striving-for-simplicity-the-all-convolutional-net)
-20. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+20. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 21. [Multi-column deep neural networks for image classification](2012-multi-column-deep-neural-networks-for-image-classification)
 22. Learning Complex, Extended Sequences Using the Principle of History Compression
 23. Grid Long Short-Term Memory

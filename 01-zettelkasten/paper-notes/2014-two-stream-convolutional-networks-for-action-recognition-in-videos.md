@@ -39,7 +39,7 @@ Our contribution is three-fold. First, we propose a two-stream ConvNet architect
 10. Deep Learning of Invariant Spatio-Temporal Features from Video
 11. Evaluation of Local Spatio-temporal Features for Action Recognition
 12. HMDB - A large video database for human motion recognition
-13. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+13. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 14. Better Exploiting Motion for Better Action Recognition
 15. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 16. Improving the Fisher Kernel for Large-Scale Image Classification

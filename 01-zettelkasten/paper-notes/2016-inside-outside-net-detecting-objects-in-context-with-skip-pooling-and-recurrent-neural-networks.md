@@ -46,7 +46,7 @@ It is well known that contextual and multi-scale representations are important f
 17. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 18. Visualizing and Understanding Recurrent Networks
 19. Exploring Tiny Images - The Roles of Appearance and Contextual Information for Machine and Human Object Recognition
-20. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+20. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 21. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
 22. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
 23. Bidirectional recurrent neural networks

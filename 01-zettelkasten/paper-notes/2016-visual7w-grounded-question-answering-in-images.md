@@ -66,7 +66,7 @@ We have seen great progress in basic perceptual tasks such as object recognition
 37. Joint Video and Text Parsing for Understanding Events and Answering Queries
 38. [DRAW - A Recurrent Neural Network For Image Generation](2015-draw-a-recurrent-neural-network-for-image-generation)
 39. Where to Buy It - Matching Street Clothing Photos in Online Shops
-40. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+40. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 41. [DeepPose - Human Pose Estimation via Deep Neural Networks](2014-deeppose-human-pose-estimation-via-deep-neural-networks)
 42. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
 43. SUN attribute database - Discovering, annotating, and recognizing scene attributes

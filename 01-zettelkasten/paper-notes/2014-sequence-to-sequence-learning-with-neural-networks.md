@@ -40,7 +40,7 @@ Deep Neural Networks (DNNs) are powerful models that have achieved excellent per
 12. Multilingual Distributed Representations without Word Alignment
 13. [Long Short-Term Memory](1997-long-short-term-memory)
 14. [Recurrent Continuous Translation Models](2013-recurrent-continuous-translation-models)
-15. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+15. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 16. [Efficient Estimation of Word Representations in Vector Space](2013-efficient-estimation-of-word-representations-in-vector-space)
 17. [Building high-level features using large scale unsupervised learning](2013-building-high-level-features-using-large-scale-unsupervised-learning)
 18. [Generating Sequences With Recurrent Neural Networks](2013-generating-sequences-with-recurrent-neural-networks)

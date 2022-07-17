@@ -40,7 +40,7 @@ Modern visual recognition systems are often limited in their ability to scale to
 8. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
 9. Label Embedding Trees for Large Multi-Class Tasks
 10. The Importance of Encoding Versus Training with Sparse Coding and Vector Quantization
-11. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+11. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 12. [Large Scale Distributed Deep Networks](2012-large-scale-distributed-deep-networks)
 13. A Neural Probabilistic Language Model
 14. [Distributed Representations of Words and Phrases and their Compositionality](2013-distributed-representations-of-words-and-phrases-and-their-compositionality)

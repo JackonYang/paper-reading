@@ -29,7 +29,7 @@ We introduce YOLO9000, a state-of-the-art, real-time object detection system tha
 2. [SSD - Single Shot MultiBox Detector](2016-ssd-single-shot-multibox-detector)
 3. [Fast R-CNN](2015-fast-r-cnn)
 4. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](2017-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning)
-5. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+5. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 6. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
 7. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 8. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)

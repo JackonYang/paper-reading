@@ -32,7 +32,7 @@ Caffe provides multimedia scientists and practitioners with a clean and modifiab
 ## Paper References
 
 1. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
-2. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+2. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 3. PANDA - Pose Aligned Networks for Deep Attribute Modeling
 4. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 5. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

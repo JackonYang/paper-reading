@@ -71,7 +71,7 @@ Existing methods for visual reasoning attempt to directly map inputs to outputs 
 39. [Making the V in VQA Matter - Elevating the Role of Image Understanding in Visual Question Answering](2017-making-the-v-in-vqa-matter-elevating-the-role-of-image-understanding-in-visual-question-answering)
 40. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
 41. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
-42. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+42. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 43. [Long Short-Term Memory](1997-long-short-term-memory)
 44. MovieQA - Understanding Stories in Movies through Question-Answering
 45. [Compact Bilinear Pooling](2016-compact-bilinear-pooling)

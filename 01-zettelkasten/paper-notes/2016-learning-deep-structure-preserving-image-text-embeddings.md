@@ -56,7 +56,7 @@ This paper proposes a method for learning joint embeddings of images and text us
 28. [Multimodal learning with deep Boltzmann machines](2012-multimodal-learning-with-deep-boltzmann-machines)
 29. Multimodal Neural Language Models
 30. Improving the Fisher Kernel for Large-Scale Image Classification
-31. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+31. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 32. Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
 33. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
 34. [Multimodal Deep Learning](2011-multimodal-deep-learning)

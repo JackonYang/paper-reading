@@ -27,7 +27,7 @@ This paper addresses the visualisation of image classification models, learnt us
 ## Paper References
 
 1. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
-2. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+2. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 3. Visualizing Higher-Layer Features of a Deep Network
 4. Improving the Fisher Kernel for Large-Scale Image Classification
 5. [Multi-column deep neural networks for image classification](2012-multi-column-deep-neural-networks-for-image-classification)

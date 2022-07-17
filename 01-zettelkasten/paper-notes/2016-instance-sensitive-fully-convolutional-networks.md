@@ -39,7 +39,7 @@ Fully convolutional networks (FCNs) have been proven very successful for semanti
 9. [Hypercolumns for object segmentation and fine-grained localization](2015-hypercolumns-for-object-segmentation-and-fine-grained-localization)
 10. Deformable part models are convolutional neural networks
 11. Learning a Deep Convolutional Network for Image Super-Resolution
-12. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+12. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 13. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 14. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 15. RIGOR - Reusing Inference in Graph Cuts for Generating Object Regions

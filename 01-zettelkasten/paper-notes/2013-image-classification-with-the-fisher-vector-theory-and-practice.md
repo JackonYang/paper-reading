@@ -71,7 +71,7 @@ A standard approach to describe an image for classification and retrieval purpos
 42. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
 43. Learning image similarity from Flickr groups using Stochastic Intersection Kernel MAchines
 44. [Product Quantization for Nearest Neighbor Search](2011-product-quantization-for-nearest-neighbor-search)
-45. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+45. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 46. [Video Google - a text retrieval approach to object matching in videos](2003-video-google-a-text-retrieval-approach-to-object-matching-in-videos)
 47. SUN database - Large-scale scene recognition from abbey to zoo
 48. [Unbiased look at dataset bias](2011-unbiased-look-at-dataset-bias)

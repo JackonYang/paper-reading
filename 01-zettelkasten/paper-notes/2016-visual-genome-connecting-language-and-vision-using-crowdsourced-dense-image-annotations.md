@@ -108,7 +108,7 @@ Despite progress in perceptual tasks such as image classification, computers sti
 71. The Caltech-UCSD Birds-200-2011 Dataset
 72. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 73. Relation Classification via Convolutional Deep Neural Network
-74. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+74. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 75. The Berkeley FrameNet Project
 76. [Fast R-CNN](2015-fast-r-cnn)
 77. [Semantic Compositionality through Recursive Matrix-Vector Spaces](2012-semantic-compositionality-through-recursive-matrix-vector-spaces)

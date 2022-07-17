@@ -33,7 +33,7 @@ The latest generation of Convolutional Neural Networks (CNN) have achieved impre
 4. The devil is in the details - an evaluation of recent feature encoding methods
 5. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
 6. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
-7. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+7. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 8. CNN - Single-label to Multi-label
 9. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 10. Improving the Fisher Kernel for Large-Scale Image Classification

@@ -62,7 +62,7 @@ This paper introduces the Multi-Genre Natural Language Inference (MultiNLI) corp
 34. Semantics in generative grammar
 35. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 36. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
-37. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+37. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 38. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
 39. Quantification
 40. Using the Framework

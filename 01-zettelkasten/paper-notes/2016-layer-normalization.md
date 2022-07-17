@@ -29,7 +29,7 @@ Training state-of-the-art, deep neural networks is computationally expensive. On
 1. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
 2. Batch normalized recurrent neural networks
 3. [Weight Normalization - A Simple Reparameterization to Accelerate Training of Deep Neural Networks](2016-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks)
-4. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+4. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 5. Recurrent Batch Normalization
 6. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 7. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)

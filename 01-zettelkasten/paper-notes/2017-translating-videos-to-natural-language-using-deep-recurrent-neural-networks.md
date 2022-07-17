@@ -46,7 +46,7 @@ Solving the visual symbol grounding problem has long been a goal of artificial i
 17. [On the Properties of Neural Machine Translation - Encoder-Decoder Approaches](2014-on-the-properties-of-neural-machine-translation-encoder-decoder-approaches)
 18. [Towards End-To-End Speech Recognition with Recurrent Neural Networks](2014-towards-end-to-end-speech-recognition-with-recurrent-neural-networks)
 19. Grounded Language Learning from Video Described with Sentences
-20. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+20. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 21. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 22. Translating related words to videos and back through latent topics
 23. Natural Language Description of Human Activities from Video Images Based on Concept Hierarchy of Actions

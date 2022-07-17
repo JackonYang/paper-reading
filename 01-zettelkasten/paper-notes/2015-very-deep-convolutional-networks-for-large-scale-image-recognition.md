@@ -28,7 +28,7 @@ In this work we investigate the effect of the convolutional network depth on its
 1. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 2. [Return of the Devil in the Details - Delving Deep into Convolutional Nets](2014-return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets)
 3. Some Improvements on Deep Convolutional Neural Network Based Image Classification
-4. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+4. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 5. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
 6. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
 7. [Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks](2014-learning-and-transferring-mid-level-image-representations-using-convolutional-neural-networks)

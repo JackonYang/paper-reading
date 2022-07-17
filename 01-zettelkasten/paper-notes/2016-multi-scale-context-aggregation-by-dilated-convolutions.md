@@ -41,7 +41,7 @@ State-of-the-art models for semantic segmentation are based on adaptations of co
 14. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 15. Superparsing - Scalable Nonparametric Image Parsing with Superpixels
 16. TextonBoost for Image Understanding - Multi-Class Object Recognition and Segmentation by Jointly Modeling Texture, Layout, and Context
-17. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+17. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 18. Multiscale conditional random fields for image labeling
 19. Feature Space Optimization for Semantic Video Segmentation
 20. [The Cityscapes Dataset for Semantic Urban Scene Understanding](2016-the-cityscapes-dataset-for-semantic-urban-scene-understanding)

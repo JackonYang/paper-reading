@@ -37,7 +37,7 @@ We consider the problem of designing models to leverage a recently introduced ap
 7. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
 8. [Practical Bayesian Optimization of Machine Learning Algorithms](2012-practical-bayesian-optimization-of-machine-learning-algorithms)
 9. Deep Boltzmann Machines
-10. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+10. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 11. The Manifold Tangent Classifier
 12. Convolutional neural networks applied to house numbers digit classification
 13. Bagging Predictors

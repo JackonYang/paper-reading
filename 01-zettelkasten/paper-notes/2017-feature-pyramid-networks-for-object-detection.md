@@ -52,7 +52,7 @@ Feature pyramids are a basic component in recognition systems for detecting obje
 21. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
 22. [Fast R-CNN](2015-fast-r-cnn)
 23. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
-24. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+24. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 25. ParseNet - Looking Wider to See Better
 26. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 27. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)

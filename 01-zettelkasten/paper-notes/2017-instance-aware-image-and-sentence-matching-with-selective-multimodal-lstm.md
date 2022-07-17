@@ -55,7 +55,7 @@ Effective image and sentence matching depends on how to well measure their globa
 27. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 28. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 29. Simulating human saccadic scanpaths on natural images
-30. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+30. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 31. RNN Fisher Vectors for Action Recognition and Image Annotation
 32. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
 33. [Long Short-Term Memory](1997-long-short-term-memory)

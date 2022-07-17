@@ -45,7 +45,7 @@ State-of-the-art object detection networks depend on region proposal algorithms 
 16. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 17. [Deep Neural Networks for Object Detection](2013-deep-neural-networks-for-object-detection)
 18. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
-19. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+19. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 20. Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images
 21. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 22. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)

@@ -33,7 +33,7 @@ We evaluate whether features extracted from the activation of a deep convolution
 1. [Building high-level features using large scale unsupervised learning](2013-building-high-level-features-using-large-scale-unsupervised-learning)
 2. [Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis](2011-learning-hierarchical-invariant-spatio-temporal-features-for-action-recognition-with-independent-subspace-analysis)
 3. Unsupervised and Transfer Learning Challenge - a Deep Learning Approach
-4. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+4. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 5. DLID - Deep Learning for Domain Adaptation by Interpolating between Domains
 6. Adapting Visual Category Models to New Domains
 7. Transfer learning for image classification with sparse prototype representations

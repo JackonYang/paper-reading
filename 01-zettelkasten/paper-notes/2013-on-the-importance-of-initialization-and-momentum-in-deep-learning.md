@@ -37,7 +37,7 @@ Our success training these models suggests that previous attempts to train deep 
 6. Deep Learning Made Easier by Linear Transformations in Perceptrons
 7. Learning long-term dependencies with gradient descent is difficult
 8. Stochastic dynamics of learning with momentum in neural networks
-9. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+9. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 10. Dynamics and algorithms for stochastic search
 11. [A Fast Learning Algorithm for Deep Belief Nets](2006-a-fast-learning-algorithm-for-deep-belief-nets)
 12. [Long Short-Term Memory](1997-long-short-term-memory)

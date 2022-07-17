@@ -48,7 +48,7 @@ Image-based sequence recognition has been a long-standing research topic in comp
 20. [GradientBased Learning Applied to Document Recognition](2001-gradientbased-learning-applied-to-document-recognition)
 21. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 22. PhotoOCR - Reading Text in Uncontrolled Conditions
-23. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+23. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 24. [Speech recognition with deep recurrent neural networks](2013-speech-recognition-with-deep-recurrent-neural-networks)
 25. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 26. Convolutional recurrent neural networks - Learning spatial dependencies for image representation

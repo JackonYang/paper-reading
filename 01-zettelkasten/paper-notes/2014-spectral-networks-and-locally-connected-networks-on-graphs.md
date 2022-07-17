@@ -32,7 +32,7 @@ Convolutional Neural Networks are extremely efficient architectures in image and
 3. Tiled convolutional neural networks
 4. Wavelets on Graphs via Deep Learning
 5. Emergence of Complex-Like Cells in a Temporal Product Network with Local Receptive Fields
-6. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+6. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 7. Beyond spatial pyramids - Receptive field learning for pooled image features
 8. [Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis](2011-learning-hierarchical-invariant-spatio-temporal-features-for-action-recognition-with-independent-subspace-analysis)
 9. Convolutional neural networks applied to house numbers digit classification

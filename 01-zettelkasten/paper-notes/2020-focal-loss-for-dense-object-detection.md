@@ -53,7 +53,7 @@ The highest accuracy object detectors to date are based on a two-stage approach 
 23. [Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks](2016-inside-outside-net-detecting-objects-in-context-with-skip-pooling-and-recurrent-neural-networks)
 24. [The Pascal Visual Object Classes (VOC) Challenge](2009-the-pascal-visual-object-classes-voc-challenge)
 25. Learning and example selection for object and pattern detection
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. Cascade object detection with deformable part models
 28. Integral Channel Features
 29. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)

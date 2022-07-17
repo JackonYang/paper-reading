@@ -76,7 +76,7 @@ The ImageNet Large Scale Visual Recognition Challenge is a benchmark in object c
 39. Combining randomization and discrimination for fine-grained image categorization
 40. DeepID-Net - multi-stage and deformable deep convolutional neural networks for object detection
 41. Three things everyone should know to improve object retrieval
-42. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+42. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 43. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)
 44. [Return of the Devil in the Details - Delving Deep into Convolutional Nets](2014-return-of-the-devil-in-the-details-delving-deep-into-convolutional-nets)
 45. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)

@@ -51,7 +51,7 @@ We introduce the dense captioning task, which requires a computer vision system 
 23. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 24. Grounded Compositional Semantics for Finding and Describing Images with Sentences
 25. [CIDEr - Consensus-based image description evaluation](2015-cider-consensus-based-image-description-evaluation)
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 28. [Spatial Transformer Networks](2015-spatial-transformer-networks)
 29. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)

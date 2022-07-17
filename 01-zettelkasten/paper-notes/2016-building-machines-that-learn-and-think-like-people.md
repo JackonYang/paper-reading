@@ -182,7 +182,7 @@ Abstract Recent progress in artificial intelligence has renewed interest in buil
 153. Parallel distributed processing - explorations in the microstructure of cognition, vol. 1 - foundations
 154. Adaptive pattern classification and universal recoding - II. Feedback, expectation, olfaction, illusions
 155. Q-learning
-156. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+156. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 157. Memory and Information Processing in Neuromorphic Systems
 158. Towards a Learning Theory of Cause-Effect Inference
 159. Perceived physical and social causality in animated motions - spontaneous reports and ratings.

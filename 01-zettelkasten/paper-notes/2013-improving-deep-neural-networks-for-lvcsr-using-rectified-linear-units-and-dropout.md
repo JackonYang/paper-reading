@@ -32,7 +32,7 @@ Recently, pre-trained deep neural networks (DNNs) have outperformed traditional 
 4. Making Deep Belief Networks effective for large vocabulary continuous speech recognition
 5. [Acoustic Modeling Using Deep Belief Networks](2012-acoustic-modeling-using-deep-belief-networks)
 6. Auto-encoder bottleneck features using deep belief networks
-7. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+7. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 8. [Improving neural networks by preventing co-adaptation of feature detectors](2012-improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors)
 9. Learning a better representation of speech soundwaves using restricted boltzmann machines
 10. [Extracting and composing robust features with denoising autoencoders](2008-extracting-and-composing-robust-features-with-denoising-autoencoders)

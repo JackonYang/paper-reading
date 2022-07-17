@@ -132,7 +132,7 @@ The following is part position paper, part review, and part unification. We argu
 79. Knowledge Transfer for Out-of-Knowledge-Base Entities - A Graph Neural Network Approach
 80. Knowledge Transfer for Out-of-Knowledge-Base Entities - A Graph Neural Network Approach
 81. graph2vec - Learning Distributed Representations of Graphs
-82. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+82. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 83. The discovery of structural form
 84. Mastering the game of Go with deep neural networks and tree search
 85. [Recurrent Models of Visual Attention](2014-recurrent-models-of-visual-attention)

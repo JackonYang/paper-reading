@@ -161,7 +161,7 @@ The success of machine learning algorithms generally depends on data representat
 133. A Practical Guide to Training Restricted Boltzmann Machines
 134. Slow Feature Analysis - Unsupervised Learning of Invariances
 135. Fast Inference in Sparse Coding Algorithms with Applications to Object Recognition
-136. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+136. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 137. Tempered Markov Chain Monte Carlo for training of Restricted Boltzmann Machines
 138. From machine learning to machine reasoning
 139. Neural Networks - Tricks of the Trade

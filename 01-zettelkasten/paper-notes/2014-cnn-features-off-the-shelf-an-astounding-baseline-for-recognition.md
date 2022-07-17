@@ -30,7 +30,7 @@ Recent results indicate that the generic descriptors extracted from the convolut
 1. [DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition](2014-decaf-a-deep-convolutional-activation-feature-for-generic-visual-recognition)
 2. [Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks](2014-learning-and-transferring-mid-level-image-representations-using-convolutional-neural-networks)
 3. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
-4. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+4. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 5. Lost in quantization - Improving particular object retrieval in large scale image databases
 6. [Multi-scale Orderless Pooling of Deep Convolutional Activation Features](2014-multi-scale-orderless-pooling-of-deep-convolutional-activation-features)
 7. All About VLAD

@@ -28,7 +28,7 @@ Most modern convolutional neural networks (CNNs) used for object recognition are
 ## Paper References
 
 1. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
-2. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+2. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 3. [Network In Network](2014-network-in-network)
 4. [Deeply-Supervised Nets](2015-deeply-supervised-nets)
 5. [Going deeper with convolutions](2015-going-deeper-with-convolutions)

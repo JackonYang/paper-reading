@@ -49,7 +49,7 @@ We introduce a novel type of text representation that preserves the 2D layout of
 17. [Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification](2015-delving-deep-into-rectifiers-surpassing-human-level-performance-on-imagenet-classification)
 18. [Focal Loss for Dense Object Detection](2020-focal-loss-for-dense-object-detection)
 19. Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks
-20. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+20. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 21. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 22. [Gradient-based learning applied to document recognition](1998-lenet5.md)
 23. CloudScan - A Configuration-Free Invoice Analysis System Using Recurrent Neural Networks

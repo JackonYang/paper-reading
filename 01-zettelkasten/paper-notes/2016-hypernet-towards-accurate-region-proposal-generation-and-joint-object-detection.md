@@ -57,7 +57,7 @@ Almost all of the current top-performing object detection networks employ region
 28. [Multiscale Combinatorial Grouping](2014-multiscale-combinatorial-grouping)
 29. [The Pascal Visual Object Classes Challenge - A Retrospective](2014-the-pascal-visual-object-classes-challenge-a-retrospective)
 30. Occlusion Patterns for Object Class Detection
-31. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+31. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 32. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 33. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 34. [Histograms of oriented gradients for human detection](2005-histograms-of-oriented-gradients-for-human-detection)

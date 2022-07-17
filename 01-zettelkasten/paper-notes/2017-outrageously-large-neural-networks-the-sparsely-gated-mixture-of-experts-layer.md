@@ -40,7 +40,7 @@ The capacity of a neural network to absorb information is limited by its number 
 8. [Building high-level features using large scale unsupervised learning](2013-building-high-level-features-using-large-scale-unsupervised-learning)
 9. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks)
 10. [Exploring the Limits of Language Modeling](2016-exploring-the-limits-of-language-modeling)
-11. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+11. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 12. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 13. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition)
 14. Long short-term memory recurrent neural network architectures for large scale acoustic modeling

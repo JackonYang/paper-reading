@@ -39,7 +39,7 @@ Recognition algorithms based on convolutional networks (CNNs) typically use the 
 10. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 11. Volumetric Semantic Segmentation Using Pyramid Context Features
 12. Pedestrian Parsing via Deep Decompositional Network
-13. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+13. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 14. Layered Object Models for Image Segmentation
 15. Towards Unified Object Detection and Semantic Segmentation
 16. Class-Specific, Top-Down Segmentation

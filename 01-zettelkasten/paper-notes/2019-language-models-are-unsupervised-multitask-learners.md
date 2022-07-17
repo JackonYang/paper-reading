@@ -90,7 +90,7 @@ Natural language processing tasks, such as question answering, machine translati
 59. Neural Word Embedding as Implicit Matrix Factorization
 60. Towards Principled Unsupervised Learning
 61. Improving Neural Language Models with a Continuous Cache
-62. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+62. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 63. [Identity Mappings in Deep Residual Networks](2016-identity-mappings-in-deep-residual-networks)
 64. The Winograd Schema Challenge
 65. The Natural Language Decathlon - Multitask Learning as Question Answering

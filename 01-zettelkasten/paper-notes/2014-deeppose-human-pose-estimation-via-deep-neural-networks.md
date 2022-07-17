@@ -41,7 +41,7 @@ We propose a method for human pose estimation based on Deep Neural Networks (DNN
 14. Better Appearance Models for Pictorial Structures
 15. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 16. Fast pose estimation with parameter-sensitive hashing
-17. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+17. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 18. Estimating Human Body Configurations Using Shape Context Matching
 19. Pictorial Structures for Object Recognition
 20. [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](2010-adaptive-subgradient-methods-for-online-learning-and-stochastic-optimization)

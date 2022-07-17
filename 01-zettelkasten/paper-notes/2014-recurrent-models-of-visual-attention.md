@@ -27,7 +27,7 @@ Applying convolutional neural networks to large images is computationally expens
 
 ## Paper References
 
-1. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+1. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 2. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)
 3. Learning Where to Attend with Deep Architectures for Image Tracking
 4. Learning to combine foveal glimpses with a third-order Boltzmann machine

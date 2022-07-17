@@ -56,7 +56,7 @@ Automatically generating a natural language description of an image has attracte
 26. [DRAW - A Recurrent Neural Network For Image Generation](2015-draw-a-recurrent-neural-network-for-image-generation)
 27. [Distributed Representations of Words and Phrases and their Compositionality](2013-distributed-representations-of-words-and-phrases-and-their-compositionality)
 28. Learning Generative Models with Visual Attention
-29. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+29. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 30. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 31. Learning to combine foveal glimpses with a third-order Boltzmann machine
 32. Learning Where to Attend with Deep Architectures for Image Tracking

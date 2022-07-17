@@ -30,7 +30,7 @@ Deep neural network acoustic models produce substantial gains in large vocabular
 4. Feature Learning in Deep Neural Networks - Studies on Speech Recognition Tasks.
 5. [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](2012-context-dependent-pre-trained-deep-neural-networks-for-large-vocabulary-speech-recognition)
 6. Learning long-term dependencies with gradient descent is difficult
-7. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+7. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 8. Sequence-discriminative training of deep neural networks
 9. [The Kaldi Speech Recognition Toolkit](2011-the-kaldi-speech-recognition-toolkit)
 10. The Importance of Encoding Versus Training with Sparse Coding and Vector Quantization

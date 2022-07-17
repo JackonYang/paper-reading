@@ -53,7 +53,7 @@ Supervised learning on molecules has incredible potential to be useful in chemis
 23. [Semi-Supervised Classification with Graph Convolutional Networks](2017-semi-supervised-classification-with-graph-convolutional-networks)
 24. Generalized neural-network representation of high-dimensional potential-energy surfaces.
 25. [Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation](2016-google-s-neural-machine-translation-system-bridging-the-gap-between-human-and-machine-translation)
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. [On the Properties of Neural Machine Translation - Encoder-Decoder Approaches](2014-on-the-properties-of-neural-machine-translation-encoder-decoder-approaches)
 28. Density-functional thermochemistry. III. The role of exact exchange
 29. Extended-Connectivity Fingerprints

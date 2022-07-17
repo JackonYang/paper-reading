@@ -51,7 +51,7 @@ In this paper we introduce a new method for text detection in natural images. Th
 23. ICDAR 2013 Robust Reading Competition
 24. [Indoor Segmentation and Support Inference from RGBD Images](2012-indoor-segmentation-and-support-inference-from-rgbd-images)
 25. Combined Object Categorization and Segmentation With an Implicit Shape Model
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. [Fast R-CNN](2015-fast-r-cnn)
 28. Inverting Visual Representations with Convolutional Networks
 29. [Fast Feature Pyramids for Object Detection](2014-fast-feature-pyramids-for-object-detection)

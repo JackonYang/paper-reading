@@ -49,7 +49,7 @@ We present a new dataset of image caption annotations, Conceptual Captions, whic
 19. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](2017-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning)
 20. [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](2017-speed-accuracy-trade-offs-for-modern-convolutional-object-detectors)
 21. [Attention is All you Need](2017-attention-is-all-you-need)
-22. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+22. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 23. [Neural Machine Translation by Jointly Learning to Align and Translate](2015-neural-machine-translation-by-jointly-learning-to-align-and-translate)
 24. Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics
 25. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](2014-empirical-evaluation-of-gated-recurrent-neural-networks-on-sequence-modeling)

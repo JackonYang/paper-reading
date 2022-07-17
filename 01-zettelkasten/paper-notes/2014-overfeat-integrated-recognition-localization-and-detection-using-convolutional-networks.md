@@ -30,7 +30,7 @@ We present an integrated framework for using Convolutional Networks for classifi
 ## Paper References
 
 1. Transforming Auto-Encoders
-2. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+2. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 3. Object Recognition by Sequential Figure-Ground Ranking
 4. Traffic sign recognition with multi-scale Convolutional Networks
 5. Convolutional face finder - a neural architecture for fast and robust face detection

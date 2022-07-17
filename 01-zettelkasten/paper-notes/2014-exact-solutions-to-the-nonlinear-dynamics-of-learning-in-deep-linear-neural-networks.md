@@ -39,7 +39,7 @@ Despite the widespread practical success of deep learning methods, our theoretic
 11. Scaling learning algorithms towards AI
 12. Learning long-term dependencies with gradient descent is difficult
 13. [Reducing the Dimensionality of Data with Neural Networks](2006-reducing-the-dimensionality-of-data-with-neural-networks)
-14. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+14. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 15. Big Neural Networks Waste Capacity
 16. [Acoustic Modeling Using Deep Belief Networks](2012-acoustic-modeling-using-deep-belief-networks)
 17. Deep learning via Hessian-free optimization

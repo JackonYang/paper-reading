@@ -69,7 +69,7 @@ We introduce a new pre-trainable generic representation for visual-linguistic ta
 37. BERT has a Mouth, and It Must Speak - BERT as a Markov Random Field Language Model
 38. Learning Video Representations using Contrastive Bidirectional Transformer
 39. Relation Networks for Object Detection
-40. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+40. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 41. ReferItGame - Referring to Objects in Photographs of Natural Scenes
 42. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 43. [Fast R-CNN](2015-fast-r-cnn)

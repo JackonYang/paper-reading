@@ -41,7 +41,7 @@ Pixel-level labelling tasks, such as semantic segmentation, play a central role 
 8. Supervised Learning of Image Restoration with Convolutional Networks
 9. Fully Connected Deep Structured Networks
 10. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
-11. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+11. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 12. Deformable part models are convolutional neural networks
 13. Deep Structured Output Learning for Unconstrained Text Recognition
 14. [Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials](2011-efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials)

@@ -77,7 +77,7 @@ We present Open Images V4, a dataset of 9.2M images with unified annotations for
 40. iCAN - Instance-Centric Attention Network for Human-Object Interaction Detection
 41. Cascade object detection with deformable part models
 42. Weakly Supervised Learning of Interactions between Humans and Objects
-43. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+43. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 44. [YOLO9000 - Better, Faster, Stronger](2017-yolo9000-better-faster-stronger)
 45. [Fast R-CNN](2015-fast-r-cnn)
 46. Observing Human-Object Interactions - Using Spatial and Functional Compatibility for Recognition

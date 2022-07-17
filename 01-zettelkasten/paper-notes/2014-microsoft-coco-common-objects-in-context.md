@@ -70,7 +70,7 @@ We present a new dataset with the goal of advancing the state-of-the-art in obje
 37. [Contour Detection and Hierarchical Image Segmentation](2011-contour-detection-and-hierarchical-image-segmentation)
 38. Scalable multi-label annotation
 39. A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms
-40. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+40. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 41. Caltech-UCSD Birds 200
 42. [The mnist database of handwritten digits](2005-the-mnist-database-of-handwritten-digits)
 43. Caltech-256 Object Category Dataset

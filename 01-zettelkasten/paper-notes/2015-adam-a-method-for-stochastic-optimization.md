@@ -36,7 +36,7 @@ We introduce Adam, an algorithm for first-order gradient-based optimization of s
 9. On the momentum term in gradient descent learning algorithms
 10. Fast dropout training
 11. [ADADELTA - An Adaptive Learning Rate Method](2012-adadelta-an-adaptive-learning-rate-method)
-12. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+12. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 13. [Speech recognition with deep recurrent neural networks](2013-speech-recognition-with-deep-recurrent-neural-networks)
 14. An overview of gradient descent optimization algorithms
 15. [Improving neural networks by preventing co-adaptation of feature detectors](2012-improving-neural-networks-by-preventing-co-adaptation-of-feature-detectors)

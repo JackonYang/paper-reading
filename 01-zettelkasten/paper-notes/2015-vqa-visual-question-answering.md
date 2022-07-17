@@ -75,7 +75,7 @@ We propose the task of free-form and open-ended Visual Question Answering (VQA).
 43. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 44. Midge - Generating Image Descriptions From Computer Vision Detections
 45. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
-46. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+46. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 47. [Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network](2003-feature-rich-part-of-speech-tagging-with-a-cyclic-dependency-network)
 48. [Microsoft COCO Captions - Data Collection and Evaluation Server](2015-microsoft-coco-captions-data-collection-and-evaluation-server)
 49. Building Large Knowledge-Based Systems - Representation and Inference in the Cyc Project

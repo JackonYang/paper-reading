@@ -31,7 +31,7 @@ Deep neural nets with a large number of parameters are very powerful machine lea
 1. Improving Neural Networks with Dropout
 2. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
 3. Fast dropout training
-4. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+4. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 5. [A Fast Learning Algorithm for Deep Belief Nets](2006-a-fast-learning-algorithm-for-deep-belief-nets)
 6. Learning with Marginalized Corrupted Features
 7. Simplifying Neural Networks by Soft Weight-Sharing

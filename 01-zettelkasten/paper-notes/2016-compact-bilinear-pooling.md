@@ -38,7 +38,7 @@ Bilinear models has been shown to achieve impressive performance on a wide range
 9. Aggregating local descriptors into a compact image representation
 10. Describing Textures in the Wild
 11. Fine-grained recognition without part annotations
-12. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+12. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 13. Generalized RBF feature maps for Efficient Detection
 14. [Network In Network](2014-network-in-network)
 15. [Beyond Bags of Features - Spatial Pyramid Matching for Recognizing Natural Scene Categories](2006-beyond-bags-of-features-spatial-pyramid-matching-for-recognizing-natural-scene-categories)

@@ -51,7 +51,7 @@ Convolutional networks are powerful visual models that yield hierarchies of feat
 23. [Visualizing and Understanding Convolutional Networks](2014-visualizing-and-understanding-convolutional-networks)
 24. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
 25. FlowNet - Learning Optical Flow with Convolutional Networks
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. Part-Based R-CNNs for Fine-Grained Category Detection
 28. [Learning Rich Features from RGB-D Images for Object Detection and Segmentation](2014-learning-rich-features-from-rgb-d-images-for-object-detection-and-segmentation)
 29. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)

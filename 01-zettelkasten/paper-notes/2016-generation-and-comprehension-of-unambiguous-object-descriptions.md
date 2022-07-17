@@ -74,7 +74,7 @@ We propose a method that can generate an unambiguous description (known as a ref
 43. Robot Language Learning, Generation, and Comprehension
 44. Exploring Nearest Neighbor Approaches for Image Captioning
 45. A Game-Theoretic Approach to Generating Spatial Descriptions
-46. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+46. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 47. [LSTM - A Search Space Odyssey](2017-lstm-a-search-space-odyssey)
 48. Probabilistic Semantics and Pragmatics - Uncertainty in Language and Thought
 49. Understanding natural language

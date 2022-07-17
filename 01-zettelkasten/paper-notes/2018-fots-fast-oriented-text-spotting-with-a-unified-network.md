@@ -73,7 +73,7 @@ Incidental scene text spotting is considered one of the most difficult and valua
 42. Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
 43. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 44. [Effective Approaches to Attention-based Neural Machine Translation](2015-effective-approaches-to-attention-based-neural-machine-translation)
-45. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+45. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 46. [Spatial Transformer Networks](2015-spatial-transformer-networks)
 47. [Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks](2006-connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks)
 48. Texture-Based Approach for Text Detection in Images Using Support Vector Machines and Continuously Adaptive Mean Shift Algorithm

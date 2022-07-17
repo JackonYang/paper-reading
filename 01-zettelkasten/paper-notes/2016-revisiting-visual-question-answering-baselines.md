@@ -51,7 +51,7 @@ Visual question answering (VQA) is an interesting learning setting for evaluatin
 23. Learning Visual Features from Large Weakly Supervised Data
 24. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 25. [Going deeper with convolutions](2015-going-deeper-with-convolutions)
-26. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+26. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 27. [Dropout - a simple way to prevent neural networks from overfitting](2014-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting)
 28. [Efficient Estimation of Word Representations in Vector Space](2013-efficient-estimation-of-word-representations-in-vector-space)
 29. [Long Short-Term Memory](1997-long-short-term-memory)

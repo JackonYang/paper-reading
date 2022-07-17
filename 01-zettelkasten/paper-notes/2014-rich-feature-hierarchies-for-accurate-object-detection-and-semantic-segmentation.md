@@ -48,7 +48,7 @@ Object detection performance, as measured on the canonical PASCAL VOC dataset, h
 19. [Adaptive deconvolutional networks for mid and high level feature learning](2011-adaptive-deconvolutional-networks-for-mid-and-high-level-feature-learning)
 20. Semantic Segmentation with Second-Order Pooling
 21. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
-22. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+22. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 23. Pedestrian Detection with Unsupervised Multi-stage Feature Learning
 24. [Multiscale Combinatorial Grouping](2014-multiscale-combinatorial-grouping)
 25. [Semantic contours from inverse detectors](2011-semantic-contours-from-inverse-detectors)

@@ -61,7 +61,7 @@ Recent deep learning models have demonstrated strong capabilities for classifyin
 32. On Combining Multiple Segmentations in Scene Text Recognition
 33. ICDAR 2011 Robust Reading Competition Challenge 2 - Reading Text in Scene Images
 34. Text Detection and Recognition in Imagery - A Survey
-35. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+35. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 36. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2015-very-deep-convolutional-networks-for-large-scale-image-recognition)
 37. Texture-Based Approach for Text Detection in Images Using Support Vector Machines and Continuously Adaptive Mean Shift Algorithm
 38. Detecting text in natural scenes with stroke width transform

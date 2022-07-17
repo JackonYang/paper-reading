@@ -46,7 +46,7 @@ In modern face recognition, the conventional pipeline consists of four stages: d
 17. Volume structured ordinal features with background similarity measure for video face recognition
 18. Towards Pose Robust Face Recognition
 19. Viewing Real-World Faces in 3D
-20. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+20. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 21. The SVM-Minus Similarity Score for Video Face Recognition
 22. Blessing of Dimensionality - High-Dimensional Feature and Its Efficient Compression for Face Verification
 23. Bayesian Face Revisited - A Joint Formulation

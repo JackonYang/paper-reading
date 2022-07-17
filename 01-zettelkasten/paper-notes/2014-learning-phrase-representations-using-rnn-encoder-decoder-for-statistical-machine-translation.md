@@ -54,7 +54,7 @@ In this paper, we propose a novel neural network model called RNN Encoder‐ Dec
 22. A Phrase-Based, Joint Probability Model for Statistical Machine Translation
 23. Europarl - A Parallel Corpus for Statistical Machine Translation
 24. [Theano - new features and speed improvements](2012-theano-new-features-and-speed-improvements)
-25. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+25. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 26. [Maxout Networks](2013-maxout-networks)
 27. [ADADELTA - An Adaptive Learning Rate Method](2012-adadelta-an-adaptive-learning-rate-method)
 28. [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](2014-exact-solutions-to-the-nonlinear-dynamics-of-learning-in-deep-linear-neural-networks)

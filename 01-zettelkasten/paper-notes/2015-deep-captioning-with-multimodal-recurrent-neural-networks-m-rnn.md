@@ -37,7 +37,7 @@ In this paper, we present a multimodal Recurrent Neural Network (m-RNN) model fo
 7. [Deep Visual-Semantic Alignments for Generating Image Descriptions](2017-deep-visual-semantic-alignments-for-generating-image-descriptions)
 8. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
 9. [From captions to visual concepts and back](2015-from-captions-to-visual-concepts-and-back)
-10. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+10. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 11. Grounded Compositional Semantics for Finding and Describing Images with Sentences
 12. Multimodal Neural Language Models
 13. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](2014-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation)

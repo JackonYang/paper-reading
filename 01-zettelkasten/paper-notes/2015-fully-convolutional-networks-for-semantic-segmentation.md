@@ -31,7 +31,7 @@ Convolutional networks are powerful visual models that yield hierarchies of feat
 3. Recurrent Convolutional Neural Networks for Scene Labeling
 4. Toward automatic phenotyping of developing embryos from videos
 5. [Learning Hierarchical Features for Scene Labeling](2013-learning-hierarchical-features-for-scene-labeling)
-6. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+6. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 7. [Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images](2012-deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images)
 8. [Learning Rich Features from RGB-D Images for Object Detection and Segmentation](2014-learning-rich-features-from-rgb-d-images-for-object-detection-and-segmentation)
 9. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

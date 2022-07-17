@@ -67,7 +67,7 @@ In this paper we describe the Microsoft COCO Caption dataset and evaluation serv
 35. [From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions](2014-from-image-descriptions-to-visual-denotations-new-similarity-metrics-for-semantic-inference-over-event-descriptions)
 36. [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](2014-unifying-visual-semantic-embeddings-with-multimodal-neural-language-models)
 37. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)
-38. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+38. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 39. Learning the semantics of words and pictures
 40. [Long Short-Term Memory](1997-long-short-term-memory)
 41. Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world

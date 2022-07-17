@@ -41,7 +41,7 @@ We introduce the "exponential linear unit" (ELU) which speeds up learning in dee
 13. Revisiting Natural Gradient for Deep Networks
 14. Neural Networks - Tricks of the Trade
 15. [Rectifier Nonlinearities Improve Neural Network Acoustic Models](2013-rectifier-nonlinearities-improve-neural-network-acoustic-models)
-16. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+16. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 17. Natural Neural Networks
 18. Centering Neural Network Gradient Factors
 19. Training Neural Networks with Stochastic Hessian-Free Optimization

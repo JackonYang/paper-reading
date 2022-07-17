@@ -33,7 +33,7 @@ Large Convolutional Network models have recently demonstrated impressive classif
 6. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 7. Efficient learning of sparse, distributed, convolutional feature representations for object recognition
 8. [Adaptive deconvolutional networks for mid and high level feature learning](2011-adaptive-deconvolutional-networks-for-mid-and-high-level-feature-learning)
-9. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+9. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 10. [Extracting and composing robust features with denoising autoencoders](2008-extracting-and-composing-robust-features-with-denoising-autoencoders)
 11. [Multi-column deep neural networks for image classification](2012-multi-column-deep-neural-networks-for-image-classification)
 12. [Unbiased look at dataset bias](2011-unbiased-look-at-dataset-bias)

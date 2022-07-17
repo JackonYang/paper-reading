@@ -64,7 +64,7 @@ Much recent progress in Vision-to-Language (V2L) problems has been achieved thro
 34. A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input
 35. Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collections
 36. BabyTalk - Understanding and Generating Simple Image Descriptions
-37. [ImageNet classification with deep convolutional neural networks](2012-imagenet-classification-with-deep-convolutional-neural-networks)
+37. [ImageNet classification with deep convolutional neural networks](2012-alexnet.md)
 38. Every Picture Tells a Story - Generating Sentences from Images
 39. [HCP - A Flexible CNN Framework for Multi-Label Image Classification](2016-hcp-a-flexible-cnn-framework-for-multi-label-image-classification)
 40. Corpus-Guided Sentence Generation of Natural Images
