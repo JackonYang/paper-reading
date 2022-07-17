@@ -1,0 +1,147 @@
+---
+title: Gradient-based learning applied to document recognition
+authors:
+- Yann LeCun
+- L. Bottou
+- Yoshua Bengio
+- P. Haffner
+fieldsOfStudy:
+- Computer Science
+meta_key: 1998-gradient-based-learning-applied-to-document-recognition
+numCitedBy: 35423
+reading_status: TBD
+ref_count: 246
+tags:
+- gen-from-ref
+- paper
+venue: Proc. IEEE
+year: 1998
+---
+
+# Gradient-based learning applied to document recognition
+
+## Abstract
+
+Multilayer neural networks trained with the back-propagation algorithm constitute the best example of a successful gradient based learning technique. Given an appropriate network architecture, gradient-based learning algorithms can be used to synthesize a complex decision surface that can classify high-dimensional patterns, such as handwritten characters, with minimal preprocessing. This paper reviews various methods applied to handwritten character recognition and compares them on a standard handwritten digit recognition task. Convolutional neural networks, which are specifically designed to deal with the variability of 2D shapes, are shown to outperform all other techniques. Real-life document recognition systems are composed of multiple modules including field extraction, segmentation recognition, and language modeling. A new learning paradigm, called graph transformer networks (GTN), allows such multimodule systems to be trained globally using gradient-based methods so as to minimize an overall performance measure. Two systems for online handwriting recognition are described. Experiments demonstrate the advantage of global training, and the flexibility of graph transformer networks. A graph transformer network for reading a bank cheque is also described. It uses convolutional neural network character recognizers combined with global training techniques to provide record accuracy on business and personal cheques. It is deployed commercially and reads several million cheques per day.
+
+## Paper References
+
+1. Handwritten Digit Recognition Using K Nearest-Neighbor, Radial-Basis Function, and Backpropagation Neural Networks
+2. Comparing different neural network architectures for classifying handwritten digits
+3. Connectionist architectural learning for high performance character and speech recognition
+4. A system for the off-line recognition of handwritten text
+5. Distortion Invariant Object Recognition in the Dynamic Link Architecture
+6. Face recognition - a convolutional neural-network approach
+7. A connectionist recognizer for on-line cursive handwriting recognition
+8. Neural networks for speech and sequence recognition
+9. Multi-Digit Recognition Using a Space Displacement Neural Network
+10. Shortest path segmentation - a method for training a neural network to recognize character strings
+11. Integrated Segmentation and Recognition of Hand-Printed Numerals
+12. Connectionist Speech Recognition - A Hybrid Approach
+13. Speaker-independent isolated digit recognition - Multilayer perceptrons vs. Dynamic time warping
+14. Improving Performance in Neural Networks Using a Boosting Algorithm
+15. Reading handwritten digits - a ZIP code recognition system
+16. Phoneme recognition using time-delay neural networks
+17. Handwritten Digit Recognition with a Back-Propagation Network
+18. Efficient Pattern Recognition Using a New Transformation Distance
+19. Training support vector machines - an application to face detection
+20. Image Segmentation and Recognition
+21. Backpropagation Applied to Handwritten Zip Code Recognition
+22. Recognition-Based Segmentation of On-Line Hand-Printed Words
+23. Centered-Object Integrated Segmentation and Recognition of Overlapping Handprinted Characters
+24. Discriminative feature and model design for automatic speech recognition
+25. Speaker-independent word recognition using dynamic programming neural networks
+26. Design of a neural network character recognizer for a touch terminal
+27. LeRec - A NN/HMM Hybrid for On-Line Handwriting Recognition
+28. Combining TDNN and HMM in a hybrid system for improved continuous-speech recognition
+29. Comparison of learning algorithms for handwritten digit recognition
+30. Improving the Accuracy and Speed of Support Vector Machines
+31. [A training algorithm for optimal margin classifiers](1992-a-training-algorithm-for-optimal-margin-classifiers)
+32. Discriminative utterance verification for connected digits recognition
+33. Solving Multiclass Learning Problems via Error-Correcting Output Codes
+34. Discriminative learning for minimum error classification [pattern recognition
+35. Links Between Markov Models and Multilayer Perceptrons
+36. High-Performance Reading Machines
+37. Connectionist Viterbi training - a new hybrid method for continuous speech recognition
+38. Input-output HMMs for sequence processing
+39. Efficient Training of Feed-Forward Neural Networks
+40. Neural network-based face detection
+41. Learning Process in an Asymmetric Threshold Network
+42. Local Learning Algorithms
+43. Combining hidden Markov model and neural network classifiers
+44. An analog neural network processor with programmable topology
+45. Speech recognition with continuous-parameter hidden Markov models
+46. Word normalization for online handwritten word recognition
+47. Word normalization for on-line handwritten word recognition
+48. Multiresolution neural networks for omnifont character recognition
+49. Global optimization of a neural network-hidden Markov model hybrid
+50. Alpha-nets - A recurrent 'neural' network architecture with a hidden Markov model interpretation
+51. An original approach for the localization of objects in images
+52. A Rational Design for a Weighted Finite-State Transducer Library
+53. Learning long-term dependencies with gradient descent is difficult
+54. A Multifont Word Recognition System for Postal Address Reading
+55. Efficient Parallel Learning Algorithms for Neural Networks
+56. Neural Network - Gaussian Mixture Hybrid for Speech Recognition or Density Estimation
+57. A Learning Algorithm for Boltzmann Machines
+58. Signature Verification Using A Siamese Time Delay Neural Network
+59. The State of the Art in Online Handwriting Recognition
+60. A Theory of Adaptive Pattern Classifiers
+61. Multi-State Time Delay Neural Networks for Continuous Speech Recognition
+62. An EM Algorithm for Asynchronous Input/Output Hidden Markov Models
+63. Application of the ANNA neural network chip to high-speed character recognition
+64. Cursive script recognition applied to the processing of bank cheques
+65. Multi-State Time Delay Networks for Continuous Speech Recognition
+66. Speech Recognition by Composition of Weighted Finite Automata
+67. A Convolutional Neural Network Hand Tracker
+68. First- and Second-Order Methods for Learning - Between Steepest Descent and Newton's Method
+69. Postal Address Block Location Using a Convolutional Locator Network
+70. Statistical mechanics of learning from examples.
+71. Weighted Rational Transductions and their Application to Human Language Processing
+72. Learning Curves - Asymptotic Values and Rate of Convergence
+73. Neocognitron - A new algorithm for pattern recognition tolerant of deformations and shifts in position
+74. Perception of multiple objects - a connectionist approach
+75. Finite-State Transducers in Language and Speech Processing
+76. Fast neural net simulation with a DSP processor array
+77. Approximation by superpositions of a sigmoidal function
+78. Measuring the VC-Dimension of a Learning Machine
+79. Numerical Recipes in C - The Art of Sci-entific Computing
+80. Eigenvalues of covariance matrices - Application to neural-network learning.
+81. Pattern classification and scene analysis
+82. Numerical Recipes - The Art of Scientific Computing
+83. Receptive fields, binocular interaction and functional architecture in the cat's visual cortex
+84. An Input Output HMM Architecture
+85. Original approach for the localisation of objects in images
+86. Automatic processing of information on cheques
+87. Error bounds for convolutional codes and an asymptotically optimum decoding algorithm
+88. Dynamics of On-Line Gradient Descent Learning for Multilayer Neural Networks
+89. [Statistical learning theory](1998-statistical-learning-theory)
+90. Maximum mutual information estimation of hidden Markov model parameters for speech recognition
+91. Learning and relearning in Boltzmann machines
+92. A Framework for the Cooperation of Learning Algorithms
+93. A Tutorial on Hidden Markov Models and Selected Applications
+94. Speech recognition
+95. The Nature Of Statistical Learning Theory
+96. Foundations of the theory of learning systems
+97. Overview and Synthesis
+98. Adaptation and learning in automatic systems
+99. A tutorial on Hidden Markov Models
+100. Handwritten Digit Recognition - Applications of Neural Net Chips and Automatic Learning
+101. PhD thesis - Modeles connexionnistes de l'apprentissage (connectionist learning models)
+102. Learning processes in an asymmetric threshold network
+103. Une procedure d'apprentissage pour reseau a seuil asymmetrique (A learning scheme for asymmetric threshold networks)
+104. A theoretical framework for back-propagation
+105. A time delay neural network architecture for speech recognition
+106. Generalization and network design strategies
+107. Probabilistic Interpretation of Feedforward Classification Network Outputs, with Relationships to Statistical Pattern Recognition
+108. OVERVIEW AND SYNTHESIS OF ON-LINE CURSIVE HANDWRITING RECOGNITION TECHNIQUES
+109. On-line handwriting recognition with neural networks - Spatial representation versus temporal representation
+110. Improving the convergence of back-propagation learning with second-order methods
+111. Applied optimal control
+112. Time-delay neural networks embedding time alignment - a performance analysis
+113. Connectionist speech recognition with a global MMI algorithm
+114. Off Line Recognition of Handwritten Postal Words Using Neural Networks
+115. Learning internal representations by error propagation
+116. Statistical pattern recognition with neural networks - benchmarking studies
+117. The State of the Art in On-Line Handwriting Recognition
+118. State of the Art
+119. A Theoretical Framework for Back-Propagation
