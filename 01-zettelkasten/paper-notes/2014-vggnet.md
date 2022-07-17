@@ -14,8 +14,8 @@ pdf_relpath: paper-repo/pdfs/2014-VggNet.pdf
 reading_status: TBD
 ref_count: 57
 tags:
-- gen-from-ref
 - deep-learning-model
+- gen-from-ref
 - paper
 url_slug: 2014-VggNet
 venue: ICLR

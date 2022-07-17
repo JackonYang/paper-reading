@@ -6,8 +6,8 @@ meta_relpath: paper-extra-data/pdf-meta/dragon-book-compiles.yaml
 pdf_relpath: paper-repo/pdfs/dragon-book-compiles.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- compiler
 url_slug: dragon-book-compiles
 ---
 

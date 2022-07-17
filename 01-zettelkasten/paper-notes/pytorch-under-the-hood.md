@@ -6,14 +6,14 @@ meta_relpath: paper-extra-data/pdf-meta/pytorch-under-the-hood.yaml
 pdf_relpath: paper-repo/pdfs/PyTorch%20under%20the%20hood.pdf
 reading_status: TBD
 tags:
-- pytorch
 - paper
+- pytorch
 url_slug: PyTorch%20under%20the%20hood
 ---
 
 [pdf(local)](../../paper-repo/pdfs/PyTorch%20under%20the%20hood.pdf)
 
-# PyTorch Under the Hood
+# Pytorch Under The Hood
 
 Created: 2022-06-22 00:46
 

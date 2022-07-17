@@ -6,8 +6,8 @@ meta_relpath: paper-extra-data/pdf-meta/llvm-cookbook.yaml
 pdf_relpath: paper-repo/pdfs/LLVM%20Cookbook.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- compiler
 url_slug: LLVM%20Cookbook
 ---
 
