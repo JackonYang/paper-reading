@@ -11,19 +11,30 @@ authors:
 - Hwalsuk Lee
 fieldsOfStudy:
 - Computer Science
+filesize_readable: 1.3 MB
 meta_key: 2019-what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis
+meta_relpath: paper-extra-data/pdf-meta/what-is-wrong-with-scene-text-recognition-model-comparisons.yaml
 numCitedBy: 202
+pdf_relpath: paper-repo/pdfs/What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons.pdf
 reading_status: TBD
 ref_count: 34
 tags:
 - gen-from-ref
 - other-default
 - paper
+url_slug: What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons
 venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---
 
+[pdf(local)](../../paper-repo/pdfs/What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons.pdf)
+
 # What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis
+
+## Notes
+
+code: https://github.com/clovaai/deep-text-recognition-benchmark
+related paper:  [ctc-loss](Connectionist%20Temporal%20Classification%20-%20Labelling%20Unsegmented%20Sequence%20Data%20with%20Recurrent%20Neural%20Networks.md)
 
 ## Abstract
 
