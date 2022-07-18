@@ -2,6 +2,7 @@
 tags:
 - book
 - computer-system
+- hpc
 ---
 
 # Computer Architecture - A Quantitative Approach
