@@ -14,4 +14,4 @@ tags:
 
 - [llvm-cookbook](../paper-notes/llvm-cookbook.md)
 - [2008-essentials-of-programming-languages](../paper-notes/2008-essentials-of-programming-languages.md)
-- [Writing Great Machine Schedulers](../02-References/Writing%20Great%20Machine%20Schedulers.md)
+- [writing-great-machine-schedulers](../note-blocks/writing-great-machine-schedulers.md)
