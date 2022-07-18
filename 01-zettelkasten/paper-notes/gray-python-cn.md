@@ -7,8 +7,9 @@ meta_relpath: paper-extra-data/pdf-meta/gray-python-cn.yaml
 pdf_relpath: paper-repo/pdfs/Gray%20Python-cn.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- python
+- white-hat
 url_slug: Gray%20Python-cn
 ---
 

@@ -6,8 +6,9 @@ meta_relpath: paper-extra-data/pdf-meta/black-hat-python.yaml
 pdf_relpath: paper-repo/pdfs/Black%20Hat%20Python.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- python
+- white-hat
 url_slug: Black%20Hat%20Python
 ---
 

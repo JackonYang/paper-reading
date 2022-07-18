@@ -7,8 +7,8 @@ meta_relpath: paper-extra-data/pdf-meta/debug-hacks-cn.yaml
 pdf_relpath: paper-repo/pdfs/Debug%20Hacks-cn.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- white-hat
 url_slug: Debug%20Hacks-cn
 ---
 

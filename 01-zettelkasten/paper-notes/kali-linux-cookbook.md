@@ -6,8 +6,9 @@ meta_relpath: paper-extra-data/pdf-meta/kali-linux-cookbook.yaml
 pdf_relpath: paper-repo/pdfs/Kali%20Linux%20Cookbook.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- linux
+- white-hat
 url_slug: Kali%20Linux%20Cookbook
 ---
 
