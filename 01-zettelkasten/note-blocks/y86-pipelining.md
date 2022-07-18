@@ -1,6 +1,6 @@
 ---
 tags:
-- computer-system
+- y86
 ---
 
 # Y86 Pipelining

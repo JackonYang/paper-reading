@@ -6,8 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/guide-to-y86-processor-simulators.yaml
 pdf_relpath: paper-repo/pdfs/Guide%20to%20Y86%20Processor%20Simulators.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- y86
 url_slug: Guide%20to%20Y86%20Processor%20Simulators
 ---
 

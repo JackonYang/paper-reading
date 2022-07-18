@@ -6,8 +6,9 @@ meta_relpath: paper-extra-data/pdf-meta/csapp-talk-3e.yaml
 pdf_relpath: paper-repo/pdfs/csapp-talk-3e.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- computer-system
+- reading-notes
+- y86
 url_slug: csapp-talk-3e
 ---
 

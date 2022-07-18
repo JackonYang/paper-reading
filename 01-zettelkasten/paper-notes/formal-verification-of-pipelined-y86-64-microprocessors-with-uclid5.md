@@ -6,8 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/formal-verification-of-pipelined-y86-64-
 pdf_relpath: paper-repo/pdfs/Formal%20Verification%20of%20Pipelined%20Y86-64%20Microprocessors%20with%20UCLID5.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- y86
 url_slug: Formal%20Verification%20of%20Pipelined%20Y86-64%20Microprocessors%20with%20UCLID5
 ---
 

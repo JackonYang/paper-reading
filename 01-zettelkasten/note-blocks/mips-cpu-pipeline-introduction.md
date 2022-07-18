@@ -1,11 +1,15 @@
 ---
 tags:
 - computer-system
+- reading-notes
+- y86
 ---
 
 # MIPS CPU 流水线基础与中级概念
 
 Created: 2022-05-05 01:41
+
+阅读笔记 [computer-architecture-a-quantitative-approach](computer-architecture-a-quantitative-approach.md)
 
 前置介绍 [sequential-y86-64-implementation](../paper-notes/sequential-y86-64-implementation.md)
 
