@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Caffe:-Convolutional-Architecture-for-Fast-Feature-Jia-Shelhamer/6bdb186ec4726e00a8051119636d4df3b94043b5?sort=total-citations
 venue: ACM Multimedia
 year: 2014
 ---

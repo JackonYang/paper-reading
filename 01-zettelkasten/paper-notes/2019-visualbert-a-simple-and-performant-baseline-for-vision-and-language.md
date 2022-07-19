@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/VisualBERT:-A-Simple-and-Performant-Baseline-for-Li-Yatskar/5aec474c31a2f4b74703c6f786c0a8ff85c450da?sort=total-citations
 venue: ArXiv
 year: 2019
 ---

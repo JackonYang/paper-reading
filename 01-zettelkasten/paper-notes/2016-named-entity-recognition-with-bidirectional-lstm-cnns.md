@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Named-Entity-Recognition-with-Bidirectional-Chiu-Nichols/10a4db59e81d26b2e0e896d3186ef81b4458b93f?sort=total-citations
 venue: TACL
 year: 2016
 ---

@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Thumbs-up-Sentiment-Classification-using-Machine-Pang-Lee/12d0353ce8b41b7e5409e5a4a611110aee33c7bc?sort=total-citations
 venue: EMNLP
 year: 2002
 ---

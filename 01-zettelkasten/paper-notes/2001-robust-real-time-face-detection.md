@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Robust-Real-Time-Face-Detection-Viola-Jones/b09ec0b350f8352bce46a2f5bf7ae97c83a7b9ca?sort=total-citations
 venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001
 year: 2001
 ---

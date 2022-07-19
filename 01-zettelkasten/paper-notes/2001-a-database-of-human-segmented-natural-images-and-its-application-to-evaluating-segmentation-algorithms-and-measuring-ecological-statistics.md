@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-database-of-human-segmented-natural-images-and-to-Martin-Fowlkes/9a1ed876196ec9733acb1daa6d65e35ff0414291?sort=total-citations
 venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001
 year: 2001
 ---

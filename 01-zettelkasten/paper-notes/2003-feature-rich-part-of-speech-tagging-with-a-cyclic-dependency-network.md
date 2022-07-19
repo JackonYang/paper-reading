@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Feature-Rich-Part-of-Speech-Tagging-with-a-Cyclic-Toutanova-Klein/eb42a490cf4f186d3383c92963817d100afd81e2?sort=total-citations
 venue: NAACL
 year: 2003
 ---

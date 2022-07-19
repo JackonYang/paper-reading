@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Objects365:-A-Large-Scale,-High-Quality-Dataset-for-Shao-Li/c5ff974a69fd0c760b4855b819e61e89f31cfffe?sort=total-citations
 venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---

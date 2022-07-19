@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/On-the-Properties-of-Neural-Machine-Translation:-Cho-Merrienboer/1eb09fecd75eb27825dce4f964b97f4f5cc399d7?sort=total-citations
 venue: SSST@EMNLP
 year: 2014
 ---

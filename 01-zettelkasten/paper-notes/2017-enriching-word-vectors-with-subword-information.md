@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Enriching-Word-Vectors-with-Subword-Information-Bojanowski-Grave/e2dba792360873aef125572812f3673b1a85d850?sort=total-citations
 venue: Transactions of the Association for Computational Linguistics
 year: 2017
 ---

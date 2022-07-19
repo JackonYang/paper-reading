@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Baselines-and-Bigrams:-Simple,-Good-Sentiment-and-Wang-Manning/dc0975ae518a5b30e60fde23a41c74bafd7c6f8c?sort=total-citations
 venue: ACL
 year: 2012
 ---

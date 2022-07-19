@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Articulated-pose-estimation-with-flexible-Yang-Ramanan/bf49f2789c72a8301c4dfbb5eabca76c92ed35ef?sort=total-citations
 venue: CVPR 2011
 year: 2011
 ---

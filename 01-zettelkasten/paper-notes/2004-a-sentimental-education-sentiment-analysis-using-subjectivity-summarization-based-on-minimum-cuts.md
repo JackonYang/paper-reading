@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-Sentimental-Education:-Sentiment-Analysis-Using-Pang-Lee/167e1359943b96b9e92ee73db1df69a1f65d731d?sort=total-citations
 venue: ACL
 year: 2004
 ---

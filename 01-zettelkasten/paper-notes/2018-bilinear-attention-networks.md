@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Bilinear-Attention-Networks-Kim-Jun/a5d10341717c0519cf63151b496a6d2ed67aa05f?sort=total-citations
 venue: NeurIPS
 year: 2018
 ---

@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/VSE++:-Improving-Visual-Semantic-Embeddings-with-Faghri-Fleet/f7ab6c52be9351ac3f6cf8fe6ad5efba1c1595e8?sort=total-citations
 venue: BMVC
 year: 2018
 ---

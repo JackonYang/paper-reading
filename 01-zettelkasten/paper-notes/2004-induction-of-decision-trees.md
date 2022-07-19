@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Induction-of-Decision-Trees-Quinlan/bcee7c85d237b79491a773ef51e746bbbcf48e35?sort=total-citations
 venue: Machine Learning
 year: 2004
 ---

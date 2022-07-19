@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Spectral-Networks-and-Locally-Connected-Networks-on-Bruna-Zaremba/5e925a9f1e20df61d1e860a7aa71894b35a1c186?sort=total-citations
 venue: ICLR
 year: 2014
 ---

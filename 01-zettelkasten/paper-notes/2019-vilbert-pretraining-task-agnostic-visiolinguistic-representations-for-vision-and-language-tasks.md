@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/ViLBERT:-Pretraining-Task-Agnostic-Visiolinguistic-Lu-Batra/65a9c7b0800c86a196bc14e7621ff895cc6ab287?sort=total-citations
 venue: NeurIPS
 year: 2019
 ---

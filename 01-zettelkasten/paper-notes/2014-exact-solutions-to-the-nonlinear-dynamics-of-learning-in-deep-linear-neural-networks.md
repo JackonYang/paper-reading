@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Exact-solutions-to-the-nonlinear-dynamics-of-in-Saxe-McClelland/99c970348b8f70ce23d6641e201904ea49266b6e?sort=total-citations
 venue: ICLR
 year: 2014
 ---

@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Robust-Wide-Baseline-Stereo-from-Maximally-Stable-Matas-Chum/9d5ea177c7fcaf88ec6f56cbeb3e9b74c08e98a3?sort=total-citations
 venue: BMVC
 year: 2002
 ---

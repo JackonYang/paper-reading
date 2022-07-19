@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Focal-Loss-for-Dense-Object-Detection-Lin-Goyal/72564a69bf339ff1d16a639c86a764db2321caab?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2020
 ---

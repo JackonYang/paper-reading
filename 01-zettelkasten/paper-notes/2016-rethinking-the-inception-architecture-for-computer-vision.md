@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Rethinking-the-Inception-Architecture-for-Computer-Szegedy-Vanhoucke/23ffaa0fe06eae05817f527a47ac3291077f9e58?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

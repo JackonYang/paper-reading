@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Total-Text:-A-Comprehensive-Dataset-for-Scene-Text-Chng-Chan/729f20fa5928514768f4e0d848e74e5eecc33174?sort=total-citations
 venue: 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)
 year: 2017
 ---

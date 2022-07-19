@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Exploring-the-Limits-of-Language-Modeling-J\xF3zefowicz-Vinyals/2f2d8f8072e5cc9b296fad551f65f183bdbff7aa?sort=total-citations"
 venue: ArXiv
 year: 2016
 ---

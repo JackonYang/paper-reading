@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Distributed-Representations-of-Sentences-and-Le-Mikolov/f527bcfb09f32e6a4a8afc0b37504941c1ba2cee?sort=total-citations
 venue: ICML
 year: 2014
 ---

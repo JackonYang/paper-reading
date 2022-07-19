@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Multi-column-deep-neural-networks-for-image-Ciresan-Meier/398c296d0cc7f9d180f84969f8937e6d3a413796?sort=total-citations
 venue: 2012 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2012
 ---

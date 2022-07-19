@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Character-level-Convolutional-Networks-for-Text-Zhang-Zhao/51a55df1f023571a7e07e338ee45a3e3d66ef73e?sort=total-citations
 venue: NIPS
 year: 2015
 ---

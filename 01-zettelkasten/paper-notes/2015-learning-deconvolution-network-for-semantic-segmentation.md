@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Deconvolution-Network-for-Semantic-Noh-Hong/cf986bfe13a24d4739f95df3a856a3c6e4ed4c1c?sort=total-citations
 venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---

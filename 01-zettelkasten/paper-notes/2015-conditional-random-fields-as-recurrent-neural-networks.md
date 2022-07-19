@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Conditional-Random-Fields-as-Recurrent-Neural-Zheng-Jayasumana/ca5c766b2d31a1f5ce8896a0a42b40a2bff9323a?sort=total-citations
 venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---

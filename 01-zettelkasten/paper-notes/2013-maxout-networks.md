@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Maxout-Networks-Goodfellow-Warde-Farley/b7b915d508987b73b61eccd2b237e7ed099a2d29?sort=total-citations
 venue: ICML
 year: 2013
 ---

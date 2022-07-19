@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Statistical-Phrase-Based-Translation-Koehn-Och/a4b828609b60b06e61bea7a4029cc9e1cad5df87?sort=total-citations
 venue: NAACL
 year: 2003
 ---

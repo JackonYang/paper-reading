@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Practical-Bayesian-Optimization-of-Machine-Learning-Snoek-Larochelle/2e2089ae76fe914706e6fa90081a79c8fe01611e?sort=total-citations
 venue: NIPS
 year: 2012
 ---

@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Accurate-Unlexicalized-Parsing-Klein-Manning/a600850ac0120cb09a0b7de7da80bb6a7a76de06?sort=total-citations
 venue: ACL
 year: 2003
 ---

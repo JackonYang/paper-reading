@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Hierarchical-Features-for-Scene-Labeling-Farabet-Couprie/237a04dd8291cbdb59b6dc4b53e689af743fe2a3?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2013
 ---

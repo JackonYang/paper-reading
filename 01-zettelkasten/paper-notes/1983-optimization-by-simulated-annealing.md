@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Optimization-by-Simulated-Annealing-Kirkpatrick-Gelatt/dd5061631a4d11fa394f4421700ebf7e78dcbc59?sort=total-citations
 venue: Science
 year: 1983
 ---

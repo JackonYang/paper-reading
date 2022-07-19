@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Microsoft-COCO-Captions:-Data-Collection-and-Server-Chen-Fang/696ca58d93f6404fea0fc75c62d1d7b378f47628?sort=total-citations
 venue: ArXiv
 year: 2015
 ---

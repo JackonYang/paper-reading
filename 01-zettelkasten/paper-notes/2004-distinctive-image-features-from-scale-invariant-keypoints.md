@@ -12,6 +12,9 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Distinctive-Image-Features-from-Scale-Invariant-Lowe/8c04f169203f9e55056a6f7f956695babe622a38?sort=total-citations
+- https://www.semanticscholar.org/paper/Distinctive-Image-Features-from-Scale-Invariant-LoweDavid/4cab9c4b571761203ed4c3a4c5a07dd615f57a91?sort=total-citations
 venue: ''
 year: 2004
 ---

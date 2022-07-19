@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Visual-categorization-with-bags-of-keypoints-Csurka/b91180d8853d00e8f2df7ee3532e07d3d0cce2af?sort=total-citations
 venue: eccv 2004
 year: 2004
 ---

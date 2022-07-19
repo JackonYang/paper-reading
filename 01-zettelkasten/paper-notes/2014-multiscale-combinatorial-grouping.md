@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Multiscale-Combinatorial-Grouping-Arbel\xE1ez-Pont-Tuset/83d1118c2b2995a3e0cf9b6159e4c59e85cabb7e?sort=total-citations"
 venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2014
 ---

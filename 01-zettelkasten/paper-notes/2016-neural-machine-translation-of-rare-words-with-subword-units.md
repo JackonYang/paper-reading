@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Neural-Machine-Translation-of-Rare-Words-with-Units-Sennrich-Haddow/1af68821518f03568f913ab03fc02080247a27ff?sort=total-citations
 venue: ACL
 year: 2016
 ---

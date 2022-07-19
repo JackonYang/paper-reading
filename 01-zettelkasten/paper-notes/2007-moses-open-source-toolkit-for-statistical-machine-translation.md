@@ -25,6 +25,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Moses:-Open-Source-Toolkit-for-Statistical-Machine-Koehn-Hoang/4ee2eab4c298c1824a9fb8799ad8eed21be38d21?sort=total-citations
 venue: ACL
 year: 2007
 ---

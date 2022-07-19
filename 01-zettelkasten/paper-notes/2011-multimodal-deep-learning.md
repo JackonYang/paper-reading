@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Multimodal-Deep-Learning-Ngiam-Khosla/80e9e3fc3670482c1fee16b2542061b779f47c4f?sort=total-citations
 venue: ICML
 year: 2011
 ---

@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Multiresolution-Gray-Scale-and-Rotation-Invariant-Ojala-Pietik\xE4inen/f11a7136b6b7854bd0998ef463ffa8e907c411a2?sort=total-citations"
 venue: IEEE Trans. Pattern Anal. Mach. Intell.
 year: 2002
 ---

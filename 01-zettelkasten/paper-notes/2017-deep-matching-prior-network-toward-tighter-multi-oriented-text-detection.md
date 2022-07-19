@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Matching-Prior-Network:-Toward-Tighter-Text-Liu-Jin/1b2293cb53ffb2d4b4a0799bd3c3b3718a2f5af2?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

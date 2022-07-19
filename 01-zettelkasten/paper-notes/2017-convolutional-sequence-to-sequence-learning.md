@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Convolutional-Sequence-to-Sequence-Learning-Gehring-Auli/43428880d75b3a14257c3ee9bda054e61eb869c0?sort=total-citations
 venue: ICML
 year: 2017
 ---

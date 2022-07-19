@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/VQA:-Visual-Question-Answering-Agrawal-Lu/97ad70a9fa3f99adf18030e5e38ebe3d90daa2db?sort=total-citations
 venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---

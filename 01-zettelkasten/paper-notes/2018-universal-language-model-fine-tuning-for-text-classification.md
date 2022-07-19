@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Universal-Language-Model-Fine-tuning-for-Text-Howard-Ruder/1e077413b25c4d34945cc2707e17e46ed4fe784a?sort=total-citations
 venue: ACL
 year: 2018
 ---

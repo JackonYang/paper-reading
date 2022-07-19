@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Dual-Attention-Networks-for-Multimodal-Reasoning-Nam-Ha/f651593fa6c83d717fc961482696a53b6fca5ab5?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

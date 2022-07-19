@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Bidirectional-Attention-Flow-for-Machine-Seo-Kembhavi/3a7b63b50c64f4ec3358477790e84cbd6be2a0b4?sort=total-citations
 venue: ICLR
 year: 2017
 ---

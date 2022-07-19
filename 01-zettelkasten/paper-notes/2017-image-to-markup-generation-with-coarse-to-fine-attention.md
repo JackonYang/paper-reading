@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Image-to-Markup-Generation-with-Coarse-to-Fine-Deng-Kanervisto/071c0b3ec700758dd9b4164ede08b714ea7e3c38?sort=total-citations
 venue: ICML
 year: 2017
 ---

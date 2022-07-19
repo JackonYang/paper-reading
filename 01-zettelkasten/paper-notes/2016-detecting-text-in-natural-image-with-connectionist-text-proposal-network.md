@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Detecting-Text-in-Natural-Image-with-Connectionist-Tian-Huang/b620548e06b03e3cc2e9e775c39f5b3d5a4eb19a?sort=total-citations
 venue: ECCV
 year: 2016
 ---

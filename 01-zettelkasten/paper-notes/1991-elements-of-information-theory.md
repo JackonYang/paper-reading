@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Elements-of-Information-Theory-Cover-Thomas/7dbdb4209626fd92d2436a058663206216036e68?sort=total-citations
 venue: ''
 year: 1991
 ---

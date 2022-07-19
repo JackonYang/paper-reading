@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/LSTM:-A-Search-Space-Odyssey-Greff-Srivastava/a7976c2bacfbb194ddbe7fd10c2e50a545cf4081?sort=total-citations
 venue: IEEE Transactions on Neural Networks and Learning Systems
 year: 2017
 ---

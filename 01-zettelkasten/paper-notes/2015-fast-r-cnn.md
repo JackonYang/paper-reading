@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Fast-R-CNN-Girshick/7ffdbc358b63378f07311e883dddacc9faeeaf4b?sort=total-citations
 venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---

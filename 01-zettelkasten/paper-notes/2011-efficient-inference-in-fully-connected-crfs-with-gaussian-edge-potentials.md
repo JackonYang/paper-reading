@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Efficient-Inference-in-Fully-Connected-CRFs-with-Kr\xE4henb\xFChl-Koltun/c81c20109c809cfc47565a9477c04ee005d424bf?sort=total-citations"
 venue: NIPS
 year: 2011
 ---

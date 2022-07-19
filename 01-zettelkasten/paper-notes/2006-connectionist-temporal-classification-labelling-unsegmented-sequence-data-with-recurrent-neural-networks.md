@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Connectionist-temporal-classification:-labelling-Graves-Fern\xE1ndez/96494e722f58705fa20302fe6179d483f52705b4?sort=total-citations"
 venue: ICML
 year: 2006
 ---

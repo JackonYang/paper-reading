@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Phrase-Representations-using-RNN-for-Cho-Merrienboer/0b544dfe355a5070b60986319a3f51fb45d1348e?sort=total-citations
 venue: EMNLP
 year: 2014
 ---

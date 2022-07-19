@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Predicting-Depth,-Surface-Normals-and-Semantic-with-Eigen-Fergus/67711d42b77a13a04822ae00620660cef3abf8c4?sort=total-citations
 venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---

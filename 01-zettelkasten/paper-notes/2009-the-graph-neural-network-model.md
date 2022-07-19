@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Graph-Neural-Network-Model-Scarselli-Gori/3efd851140aa28e95221b55fcc5659eea97b172d?sort=total-citations
 venue: IEEE Transactions on Neural Networks
 year: 2009
 ---

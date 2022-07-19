@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/SpanBERT:-Improving-Pre-training-by-Representing-Joshi-Chen/81f5810fbbab9b7203b9556f4ce3c741875407bc?sort=total-citations
 venue: TACL
 year: 2020
 ---

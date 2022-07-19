@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Unified-Vision-Language-Pre-Training-for-Image-and-Zhou-Palangi/6648b4db5f12c30941ea78c695e77aded19672bb?sort=total-citations
 venue: AAAI
 year: 2020
 ---

@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Ask,-Attend-and-Answer:-Exploring-Question-Guided-Xu-Saenko/1cf6bc0866226c1f8e282463adc8b75d92fba9bb?sort=total-citations
 venue: ECCV
 year: 2016
 ---

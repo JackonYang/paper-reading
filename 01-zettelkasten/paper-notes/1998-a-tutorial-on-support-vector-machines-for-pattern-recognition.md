@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-Tutorial-on-Support-Vector-Machines-for-Pattern-BurgesChristopher/6716697767fc601efc7690f40820d9ea7a7bf57c?sort=total-citations
 venue: ''
 year: 1998
 ---

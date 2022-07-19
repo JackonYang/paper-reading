@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Video-Google:-a-text-retrieval-approach-to-object-Sivic-Zisserman/642e328cae81c5adb30069b680cf60ba6b475153?sort=total-citations
 venue: Proceedings Ninth IEEE International Conference on Computer Vision
 year: 2003
 ---

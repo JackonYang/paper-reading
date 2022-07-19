@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Stacked-Cross-Attention-for-Image-Text-Matching-Lee-Chen/45dd2a3cd7c27f2e9509b023d702408f5ac11c9d?sort=total-citations
 venue: ECCV
 year: 2018
 ---

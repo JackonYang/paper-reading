@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/SRILM-an-extensible-language-modeling-toolkit-Stolcke/399da68d3b97218b6c80262df7963baa89dcc71b?sort=total-citations
 venue: INTERSPEECH
 year: 2002
 ---

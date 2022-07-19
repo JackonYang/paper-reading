@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Neural-Networks-for-Pattern-Recognition-Kothari-Oh/dbc0a468ab103ae29717703d4aa9f682f6a2b664?sort=total-citations
 venue: Adv. Comput.
 year: 1993
 ---

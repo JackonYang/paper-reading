@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-hierarchical-invariant-spatio-temporal-for-Le-Zou/42269d0438c0ae4ca892334946ed779999691074?sort=total-citations
 venue: CVPR 2011
 year: 2011
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Ten-Lectures-on-Wavelets-Daubechies/7e63bf9af3f70abd5771c06d459a0d3fbfbb2909?sort=total-citations
 venue: ''
 year: 1992
 ---

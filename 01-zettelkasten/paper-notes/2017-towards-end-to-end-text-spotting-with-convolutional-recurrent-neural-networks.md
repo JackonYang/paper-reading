@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Towards-End-to-End-Text-Spotting-with-Convolutional-Li-Wang/3470684522ba013135a61fd6644a102e2f14cc7c?sort=total-citations
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Bagging-predictors-Breiman/d1ee87290fa827f1217b8fa2bccb3485da1a300e?sort=total-citations
 venue: Machine Learning
 year: 2004
 ---

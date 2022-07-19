@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Image-retrieval:-Ideas,-influences,-and-trends-of-Datta-Joshi/0dfa5679a15d0125ecec8539b79e8ba0babb8f73?sort=total-citations
 venue: CSUR
 year: 2008
 ---

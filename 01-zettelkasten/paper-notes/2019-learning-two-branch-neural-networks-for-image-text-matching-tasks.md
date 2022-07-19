@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Two-Branch-Neural-Networks-for-Image-Text-Wang-Li/f865268b81eeb29d94775f22c6bc24dcc5e1b2e9?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2019
 ---

@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Graph-Attention-Networks-Velickovic-Cucurull/33998aff64ce51df8dee45989cdca4b6b1329ec4?sort=total-citations
 venue: ICLR
 year: 2018
 ---

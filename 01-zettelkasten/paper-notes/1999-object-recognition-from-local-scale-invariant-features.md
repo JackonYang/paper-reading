@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Object-recognition-from-local-scale-invariant-Lowe/f9f836d28f52ad260213d32224a6d227f8e8849a?sort=total-citations
 venue: Proceedings of the Seventh IEEE International Conference on Computer Vision
 year: 1999
 ---

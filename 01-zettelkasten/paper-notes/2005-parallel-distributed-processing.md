@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Parallel-&-distributed-processing-Slusallek-Shirley/cf7d7684600d3ebe916ca093eda123a9dad41459?sort=total-citations
 venue: SIGGRAPH Courses
 year: 2005
 ---

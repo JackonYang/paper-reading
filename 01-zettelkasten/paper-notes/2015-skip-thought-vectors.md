@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Skip-Thought-Vectors-Kiros-Zhu/6e795c6e9916174ae12349f5dc3f516570c17ce8?sort=total-citations
 venue: NIPS
 year: 2015
 ---

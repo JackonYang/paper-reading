@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Object-Detection-Networks-on-Convolutional-Feature-Ren-He/f075f89b4f4026748cbf2fb9f989a9934c42ee8f?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2017
 ---

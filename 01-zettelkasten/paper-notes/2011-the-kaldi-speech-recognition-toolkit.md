@@ -24,6 +24,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Kaldi-Speech-Recognition-Toolkit-Povey-Ghoshal/3a1a2cff2b70fb84a7ca7d97f8adcc5855851795?sort=total-citations
 venue: ''
 year: 2011
 ---

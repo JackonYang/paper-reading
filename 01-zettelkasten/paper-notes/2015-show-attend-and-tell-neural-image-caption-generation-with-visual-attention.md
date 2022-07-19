@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Show,-Attend-and-Tell:-Neural-Image-Caption-with-Xu-Ba/4d8f2d14af5991d4f0d050d22216825cac3157bd?sort=total-citations
 venue: ICML
 year: 2015
 ---

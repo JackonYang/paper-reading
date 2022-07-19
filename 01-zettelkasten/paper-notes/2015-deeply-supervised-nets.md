@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deeply-Supervised-Nets-Lee-Xie/fb91db6aa4f710814f8aec28a7f3ecbc4e5ad4fd?sort=total-citations
 venue: AISTATS
 year: 2015
 ---

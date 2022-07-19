@@ -22,6 +22,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Speed/Accuracy-Trade-Offs-for-Modern-Convolutional-Huang-Rathod/a312a573ef81793d56401e932ef6c9498791a3d1?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

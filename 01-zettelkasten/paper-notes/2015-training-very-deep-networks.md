@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Training-Very-Deep-Networks-Srivastava-Greff/b92aa7024b87f50737b372e5df31ef091ab54e62?sort=total-citations
 venue: NIPS
 year: 2015
 ---

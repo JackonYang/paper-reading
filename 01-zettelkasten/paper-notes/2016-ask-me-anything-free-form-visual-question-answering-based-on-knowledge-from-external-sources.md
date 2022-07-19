@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Ask-Me-Anything:-Free-Form-Visual-Question-Based-on-Wu-Wang/20dbdf02497aa84510970d0f5e8b599073bca1bc?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

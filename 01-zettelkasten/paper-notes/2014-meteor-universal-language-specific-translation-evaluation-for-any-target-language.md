@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Meteor-Universal:-Language-Specific-Translation-for-Denkowski-Lavie/26adb749fc5d80502a6d889966e50b31391560d3?sort=total-citations
 venue: WMT@ACL
 year: 2014
 ---

@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/GradientBased-Learning-Applied-to-Document-Haykin-Kosko/f42b865e20e61a954239f421b42007236e671f19?sort=total-citations
 venue: ''
 year: 2001
 ---

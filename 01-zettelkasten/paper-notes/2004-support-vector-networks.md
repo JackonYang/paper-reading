@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Support-Vector-Networks-Cortes-Vapnik/52b7bf3ba59b31f362aa07f957f1543a29a4279e?sort=total-citations
 venue: Machine Learning
 year: 2004
 ---

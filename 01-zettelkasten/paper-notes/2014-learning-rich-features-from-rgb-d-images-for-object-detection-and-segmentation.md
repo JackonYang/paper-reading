@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Rich-Features-from-RGB-D-Images-for-Object-Gupta-Girshick/2c0b510ebf995ef172cb64ed7ce24aa7903dced8?sort=total-citations
 venue: ECCV
 year: 2014
 ---

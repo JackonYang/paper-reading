@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Pattern-Recognition-and-Machine-Learning-Science-Bishop/932a106c21a1db1e1876459c1521d27fd152caac?sort=total-citations
 venue: ''
 year: 2006
 ---

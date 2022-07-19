@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Recursive-Deep-Models-for-Semantic-Compositionality-Socher-Perelygin/687bac2d3320083eb4530bf18bb8f8f721477600?sort=total-citations
 venue: EMNLP
 year: 2013
 ---

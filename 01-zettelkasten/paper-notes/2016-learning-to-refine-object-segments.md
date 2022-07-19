@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-to-Refine-Object-Segments-Pinheiro-Lin/361b19d2c00d086fa8ef860374f5e1d862fd2f30?sort=total-citations
 venue: ECCV
 year: 2016
 ---

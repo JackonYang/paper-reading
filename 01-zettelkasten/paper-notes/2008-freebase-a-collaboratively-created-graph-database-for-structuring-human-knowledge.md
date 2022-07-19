@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Freebase:-a-collaboratively-created-graph-database-Bollacker-Evans/1976c9eeccc7115d18a04f1e7fb5145db6b96002?sort=total-citations
 venue: SIGMOD Conference
 year: 2008
 ---

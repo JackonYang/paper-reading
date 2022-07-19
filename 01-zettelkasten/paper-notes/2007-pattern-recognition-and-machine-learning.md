@@ -13,6 +13,9 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Pattern-Recognition-and-Machine-Learning-Bishop-Nasrabadi/668b1277fbece28c4841eeab1c97e4ebd0079700?sort=total-citations
+- https://www.semanticscholar.org/paper/Pattern-Recognition-and-Machine-Learning-Neal/3bb5a439a0d610a7eac68f73068cdd278b8c9775?sort=total-citations
 venue: J. Electronic Imaging
 year: 2007
 ---

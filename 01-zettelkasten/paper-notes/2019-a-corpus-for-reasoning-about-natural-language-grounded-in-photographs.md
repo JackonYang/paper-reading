@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-Corpus-for-Reasoning-about-Natural-Language-in-Suhr-Zhou/cf336d272a30d6ad6141db67faa64deb8791cd61?sort=total-citations
 venue: ACL
 year: 2019
 ---

@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Teaching-Machines-to-Read-and-Comprehend-Hermann-Kocisk\xFD/d1505c6123c102e53eb19dff312cb25cea840b72?sort=total-citations"
 venue: NIPS
 year: 2015
 ---

@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learned-in-Translation:-Contextualized-Word-Vectors-McCann-Bradbury/bc8fa64625d9189f5801837e7b133e7fe3c581f7?sort=total-citations
 venue: NIPS
 year: 2017
 ---

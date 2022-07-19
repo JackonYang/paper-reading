@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Self-Attention-with-Relative-Position-Shaw-Uszkoreit/c8efcc854d97dfc2a42b83316a2109f9d166e43f?sort=total-citations
 venue: NAACL
 year: 2018
 ---

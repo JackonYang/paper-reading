@@ -23,6 +23,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Open-Images-Dataset-V4-Kuznetsova-Rom/5ac18d505ed6d10e8692cbb7d33f6852e6782692?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2020
 ---

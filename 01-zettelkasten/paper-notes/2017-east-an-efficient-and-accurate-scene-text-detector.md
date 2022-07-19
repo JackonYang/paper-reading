@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/EAST:-An-Efficient-and-Accurate-Scene-Text-Detector-Zhou-Yao/5f1630b4485027eb99ae59b745372ef1f3699c16?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

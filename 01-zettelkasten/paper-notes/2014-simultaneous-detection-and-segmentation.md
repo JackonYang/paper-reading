@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Simultaneous-Detection-and-Segmentation-Hariharan-Arbel\xE1ez/342786659379879f58bf5c4ff43c84c83a6a7389?sort=total-citations"
 venue: ECCV
 year: 2014
 ---

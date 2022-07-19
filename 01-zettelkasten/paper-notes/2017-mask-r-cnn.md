@@ -20,6 +20,8 @@ tags:
 - gen-from-ref
 - paper
 url_slug: 2017-mask-rcnn
+urls:
+- https://www.semanticscholar.org/paper/Mask-R-CNN-He-Gkioxari/ea99a5535388196d0d44be5b4d7dd02029a43bb2?sort=total-citations
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---

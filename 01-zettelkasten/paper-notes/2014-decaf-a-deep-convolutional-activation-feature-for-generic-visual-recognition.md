@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/DeCAF:-A-Deep-Convolutional-Activation-Feature-for-Donahue-Jia/b8de958fead0d8a9619b55c7299df3257c624a96?sort=total-citations
 venue: ICML
 year: 2014
 ---

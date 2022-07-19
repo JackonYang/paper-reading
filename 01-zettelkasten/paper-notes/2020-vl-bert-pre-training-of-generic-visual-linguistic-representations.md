@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/VL-BERT:-Pre-training-of-Generic-Visual-Linguistic-Su-Zhu/2527626c11a84f15709e943fbfa2356e19930e3b?sort=total-citations
 venue: ICLR
 year: 2020
 ---

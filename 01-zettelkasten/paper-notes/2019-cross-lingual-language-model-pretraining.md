@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Cross-lingual-Language-Model-Pretraining-Lample-Conneau/ec4eba83f6b3266d9ae7cabb2b2cb1518f727edc?sort=total-citations
 venue: NeurIPS
 year: 2019
 ---

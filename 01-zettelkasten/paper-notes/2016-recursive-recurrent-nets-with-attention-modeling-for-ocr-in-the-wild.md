@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Recursive-Recurrent-Nets-with-Attention-Modeling-in-Lee-Osindero/a8c9d85147039ca54b0439cde05ef8c33efecf00?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

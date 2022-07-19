@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Semantic-Image-Segmentation-with-Deep-Convolutional-Chen-Papandreou/39ad6c911f3351a3b390130a6e4265355b4d593b?sort=total-citations
 venue: ICLR
 year: 2015
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Random-Forests-Breiman/13d4c2f76a7c1a4d0a71204e1d5d263a3f5a7986?sort=total-citations
 venue: Machine Learning
 year: 2004
 ---

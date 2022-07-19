@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Interactive-graph-cuts-for-optimal-boundary-&-of-in-Boykov-Jolly/0d3b177e8d027d44c191e739a3a70ccacc2eac82?sort=total-citations
 venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001
 year: 2001
 ---

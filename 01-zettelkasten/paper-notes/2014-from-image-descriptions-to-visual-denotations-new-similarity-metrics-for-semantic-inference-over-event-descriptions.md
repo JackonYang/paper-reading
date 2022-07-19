@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/From-image-descriptions-to-visual-denotations:-New-Young-Lai/44040913380206991b1991daf1192942e038fe31?sort=total-citations
 venue: TACL
 year: 2014
 ---

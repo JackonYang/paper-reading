@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/TextBoxes++:-A-Single-Shot-Oriented-Scene-Text-Liao-Shi/4a674c0a7d8b741f808155a0762cc785406f6e24?sort=total-citations
 venue: IEEE Transactions on Image Processing
 year: 2018
 ---

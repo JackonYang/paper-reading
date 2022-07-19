@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Artificial-Intelligence:-A-Modern-Approach-Russell-Norvig/3524cdf7cf8344e7eb74886f71fcbb5c6732c337?sort=total-citations
 venue: ''
 year: 1995
 ---

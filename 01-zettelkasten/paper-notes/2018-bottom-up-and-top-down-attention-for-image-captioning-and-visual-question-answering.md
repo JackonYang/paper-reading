@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Bottom-Up-and-Top-Down-Attention-for-Image-and-Anderson-He/a82c1d1ccaa3a3d1d6ee6677de0eed2e93ddb6e8?sort=total-citations
 venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---

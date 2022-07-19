@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Direct-Regression-for-Multi-oriented-Scene-He-Zhang/d54fdff853f8b16324b0649f9cf999b31d9370b0?sort=total-citations
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---

@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Neural-Networks-Segment-Neuronal-Membranes-in-Ciresan-Giusti/09193e19b59fc8f05bee9d6efbfb1607ca5b6501?sort=total-citations
 venue: NIPS
 year: 2012
 ---

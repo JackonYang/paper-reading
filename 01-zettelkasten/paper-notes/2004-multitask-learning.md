@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Multitask-Learning-Caruana/161ffb54a3fdf0715b198bb57bd22f910242eb49?sort=total-citations
 venue: Machine Learning
 year: 2004
 ---

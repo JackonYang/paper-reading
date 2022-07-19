@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Real-Time-Lexicon-Free-Scene-Text-Localization-and-Neumann-Matas/27fbffed698729ed309dbc4fa3ba9562c023b9ef?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2016
 ---

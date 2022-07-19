@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Pedestrian-Detection:-An-Evaluation-of-the-State-of-Doll\xE1r-Wojek/34e0ba2daabfa4d3d22913ade8265aff50b5f917?sort=total-citations"
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---

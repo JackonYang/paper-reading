@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Introduction-to-Information-Retrieval-Larson/5f3b50c6c826ad105163b09d53e1eb498a4b3994?sort=total-citations
 venue: J. Assoc. Inf. Sci. Technol.
 year: 2010
 ---

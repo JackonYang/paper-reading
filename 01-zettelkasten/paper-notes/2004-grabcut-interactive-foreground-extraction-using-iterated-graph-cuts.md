@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/"GrabCut":-interactive-foreground-extraction-using-Rother-Kolmogorov/7a953aaf29ef67ee094943d4be50d753b3744573?sort=total-citations
 venue: ACM Trans. Graph.
 year: 2004
 ---

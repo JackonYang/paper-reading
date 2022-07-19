@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Maximum-likelihood-from-incomplete-data-via-the-EM-Dempster-Laird/d36efb9ad91e00faa334b549ce989bfae7e2907a?sort=total-citations
 venue: ''
 year: 1977
 ---

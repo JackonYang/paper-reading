@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/TextProposals:-A-text-specific-selective-search-for-Bigorda-Karatzas/75728ff4279e50258242115017c2c734b55f9602?sort=total-citations
 venue: Pattern Recognit.
 year: 2017
 ---

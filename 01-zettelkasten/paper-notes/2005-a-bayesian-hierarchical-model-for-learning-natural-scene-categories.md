@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-Bayesian-hierarchical-model-for-learning-natural-Fei-Fei-Perona/7a2252ccce2b65abc3759149b5c06587cc318e2f?sort=total-citations
 venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)
 year: 2005
 ---

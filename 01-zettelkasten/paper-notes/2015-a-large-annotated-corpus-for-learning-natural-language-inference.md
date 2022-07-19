@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-large-annotated-corpus-for-learning-natural-Bowman-Angeli/f04df4e20a18358ea2f689b4c129781628ef7fc1?sort=total-citations
 venue: EMNLP
 year: 2015
 ---

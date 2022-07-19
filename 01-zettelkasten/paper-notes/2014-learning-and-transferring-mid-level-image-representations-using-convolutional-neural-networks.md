@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-and-Transferring-Mid-level-Image-Using-Oquab-Bottou/c08f5fa876181fc040d76c75fe2433eee3c9b001?sort=total-citations
 venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2014
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/C4.5:-Programs-for-Machine-Learning-Quinlan/807c1f19047f96083e13614f7ce20f2ac98c239a?sort=total-citations
 venue: ''
 year: 1992
 ---

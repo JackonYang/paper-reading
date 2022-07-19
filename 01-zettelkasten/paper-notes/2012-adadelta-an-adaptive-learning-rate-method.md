@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/ADADELTA:-An-Adaptive-Learning-Rate-Method-Zeiler/8729441d734782c3ed532a7d2d9611b438c0a09a?sort=total-citations
 venue: ArXiv
 year: 2012
 ---

@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Bridging-Nonlinearities-and-Stochastic-Regularizers-Hendrycks-Gimpel/4361e64f2d12d63476fdc88faf72a0f70d9a2ffb?sort=total-citations
 venue: ArXiv
 year: 2016
 ---

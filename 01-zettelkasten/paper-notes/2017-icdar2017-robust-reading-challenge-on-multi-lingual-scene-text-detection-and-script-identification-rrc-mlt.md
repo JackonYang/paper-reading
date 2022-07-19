@@ -26,6 +26,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/ICDAR2017-Robust-Reading-Challenge-on-Multi-Lingual-Nayef-Yin/d899525e35ef784afd2aeeac977d7bb361fd7092?sort=total-citations
 venue: 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)
 year: 2017
 ---

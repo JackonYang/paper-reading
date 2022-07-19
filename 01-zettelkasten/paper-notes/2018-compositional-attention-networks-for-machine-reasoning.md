@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Compositional-Attention-Networks-for-Machine-Hudson-Manning/289fb3709475f5c87df8d97f129af54029d27fee?sort=total-citations
 venue: ICLR
 year: 2018
 ---

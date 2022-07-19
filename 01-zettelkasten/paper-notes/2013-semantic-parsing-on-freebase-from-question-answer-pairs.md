@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Semantic-Parsing-on-Freebase-from-Question-Answer-Berant-Chou/b29447ba499507a259ae9d8f685d60cc1597d7d3?sort=total-citations
 venue: EMNLP
 year: 2013
 ---

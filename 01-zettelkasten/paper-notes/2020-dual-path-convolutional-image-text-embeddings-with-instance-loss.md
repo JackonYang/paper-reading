@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Dual-path-Convolutional-Image-Text-Embeddings-with-Zheng-Zheng/58555c7d168d1f50422ed9435d31ecd28d66eaa8?sort=total-citations
 venue: ACM Trans. Multim. Comput. Commun. Appl.
 year: 2020
 ---

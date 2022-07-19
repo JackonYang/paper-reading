@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Deep-Features-for-Scene-Recognition-using-Zhou-Lapedriza/9667f8264745b626c6173b1310e2ff0298b09cfc?sort=total-citations
 venue: NIPS
 year: 2014
 ---

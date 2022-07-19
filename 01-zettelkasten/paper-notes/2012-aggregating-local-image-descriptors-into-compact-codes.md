@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Aggregating-Local-Image-Descriptors-into-Compact-J\xE9gou-Perronnin/5183230b706b72f6f6c19415c423d93c79ddde53?sort=total-citations"
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Nature-of-Statistical-Learning-Theory-Vapnik/8213dbed4db44e113af3ed17d6dad57471a0c048?sort=total-citations
 venue: Statistics for Engineering and Information Science
 year: 2000
 ---

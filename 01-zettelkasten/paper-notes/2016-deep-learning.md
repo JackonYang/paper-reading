@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Learning-Hao-Zhang/4f8d648c52edf74e41b0996128aa536e13cc7e82?sort=total-citations
 venue: Int. J. Semantic Comput.
 year: 2016
 ---

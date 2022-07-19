@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Focal-Loss-for-Dense-Object-Detection-Lin-Goyal/79cfb51a51fc093f66aac8e858afe2e14d4a1f20?sort=total-citations
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---

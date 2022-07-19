@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Framewise-phoneme-classification-with-bidirectional-Graves-Schmidhuber/2f83f6e1afadf0963153974968af6b8342775d82?sort=total-citations
 venue: Neural Networks
 year: 2005
 ---

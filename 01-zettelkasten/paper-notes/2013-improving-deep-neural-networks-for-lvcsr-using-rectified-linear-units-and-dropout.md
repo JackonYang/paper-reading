@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Improving-deep-neural-networks-for-LVCSR-using-and-Dahl-Sainath/1a3c74c7b11ad5635570932577cdde2a3f7a6a5c?sort=total-citations
 venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
 year: 2013
 ---

@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Generation-and-Comprehension-of-Unambiguous-Object-Mao-Huang/e65142010431ffc089b272a1174214e00693e503?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

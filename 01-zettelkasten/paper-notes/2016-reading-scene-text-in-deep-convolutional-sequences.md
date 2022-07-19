@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Reading-Scene-Text-in-Deep-Convolutional-Sequences-He-Huang/8cab92de27a754ee2420fb807ade97969fcd251f?sort=total-citations
 venue: AAAI
 year: 2016
 ---

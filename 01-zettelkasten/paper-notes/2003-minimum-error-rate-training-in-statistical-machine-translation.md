@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Minimum-Error-Rate-Training-in-Statistical-Machine-Och/1f12451245667a85d0ee225a80880fc93c71cc8b?sort=total-citations
 venue: ACL
 year: 2003
 ---

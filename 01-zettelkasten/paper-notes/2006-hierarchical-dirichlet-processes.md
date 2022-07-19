@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Hierarchical-Dirichlet-Processes-Teh-Jordan/b90d922ff07d0eb8d77b8687aba7f55bd3926436?sort=total-citations
 venue: ''
 year: 2006
 ---

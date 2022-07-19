@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Eigenfaces-vs.-Fisherfaces:-Recognition-Using-Class-Belhumeur-Hespanha/be86da00efdd8c2a7fdeb2334605796c24b370f0?sort=total-citations
 venue: ECCV
 year: 1996
 ---

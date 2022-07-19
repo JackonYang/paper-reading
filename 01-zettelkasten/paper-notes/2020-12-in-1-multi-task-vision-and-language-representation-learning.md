@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/12-in-1:-Multi-Task-Vision-and-Language-Learning-Lu-Goswami/6548a60a6bcdf6c402d9de1c05ba7afe4f49fee9?sort=total-citations
 venue: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2020
 ---

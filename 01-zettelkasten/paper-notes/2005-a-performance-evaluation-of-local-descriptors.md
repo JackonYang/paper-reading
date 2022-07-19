@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-performance-evaluation-of-local-descriptors-Mikolajczyk-Schmid/69401bfdafab7cde00bb8e5b2f6c28e9d72d8cfb?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2005
 ---

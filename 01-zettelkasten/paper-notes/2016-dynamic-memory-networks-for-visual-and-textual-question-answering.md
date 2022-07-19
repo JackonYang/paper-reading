@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Dynamic-Memory-Networks-for-Visual-and-Textual-Xiong-Merity/f96898d15a1bf1fa8925b1280d0e07a7a8e72194?sort=total-citations
 venue: ICML
 year: 2016
 ---

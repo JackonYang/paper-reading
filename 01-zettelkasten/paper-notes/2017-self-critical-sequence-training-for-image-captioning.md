@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Self-Critical-Sequence-Training-for-Image-Rennie-Marcheret/6c8353697cdbb98dfba4f493875778c4286d3e3a?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

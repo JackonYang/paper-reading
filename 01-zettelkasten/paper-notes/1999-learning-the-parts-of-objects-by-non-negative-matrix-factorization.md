@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-the-parts-of-objects-by-non-negative-Lee-Seung/29bae9472203546847ec1352a604566d0f602728?sort=total-citations
 venue: Nature
 year: 1999
 ---

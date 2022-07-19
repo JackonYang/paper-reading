@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Language-Modeling-with-Gated-Convolutional-Networks-Dauphin-Fan/88caa4a0253a8b0076176745ebc072864eab66e1?sort=total-citations
 venue: ICML
 year: 2017
 ---

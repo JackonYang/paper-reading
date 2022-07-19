@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Stacked-Hourglass-Networks-for-Human-Pose-Newell-Yang/848938e6199bad08f1db6f3239b260cfa901e95f?sort=total-citations
 venue: ECCV
 year: 2016
 ---

@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Neural-Baby-Talk-Lu-Yang/3bf09b2e2639add154a9fe6ff98cc373d3e90e4e?sort=total-citations
 venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---

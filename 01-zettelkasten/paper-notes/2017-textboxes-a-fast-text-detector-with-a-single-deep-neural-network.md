@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - ocr
 - paper
+urls:
+- https://www.semanticscholar.org/paper/TextBoxes:-A-Fast-Text-Detector-with-a-Single-Deep-Liao-Shi/2883e50279d034e4fe8416734c7393f7c7a8f2e4?sort=total-citations
 venue: AAAI
 year: 2017
 ---

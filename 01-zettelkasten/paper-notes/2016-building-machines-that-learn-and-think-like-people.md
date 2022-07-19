@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Building-machines-that-learn-and-think-like-people-Lake-Ullman/7260c0692f8d265e11c4e9c4c8ef4c185bd587ad?sort=total-citations
 venue: Behavioral and Brain Sciences
 year: 2016
 ---

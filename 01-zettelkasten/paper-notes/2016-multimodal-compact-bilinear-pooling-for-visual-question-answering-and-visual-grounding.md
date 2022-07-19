@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Multimodal-Compact-Bilinear-Pooling-for-Visual-and-Fukui-Park/fddc15480d086629b960be5bff96232f967f2252?sort=total-citations
 venue: EMNLP
 year: 2016
 ---

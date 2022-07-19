@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/LabelMe:-A-Database-and-Web-Based-Tool-for-Image-Russell-Torralba/092c275005ae49dc1303214f6d02d134457c7053?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2007
 ---

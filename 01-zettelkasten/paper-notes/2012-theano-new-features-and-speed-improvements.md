@@ -20,6 +20,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Theano:-new-features-and-speed-improvements-Bastien-Lamblin/855d0f722d75cc56a66a00ede18ace96bafee6bd?sort=total-citations
 venue: ArXiv
 year: 2012
 ---

@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Instance-Aware-Semantic-Segmentation-via-Multi-task-Dai-He/1e9b1f6061ef779e3ad0819c2832a29168eaeb9d?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

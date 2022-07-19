@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Return-of-the-Devil-in-the-Details:-Delving-Deep-Chatfield-Simonyan/14d9be7962a4ec5a6e55755f4c7588ea00793652?sort=total-citations
 venue: BMVC
 year: 2014
 ---

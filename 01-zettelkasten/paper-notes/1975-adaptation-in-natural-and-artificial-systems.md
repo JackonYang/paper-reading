@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Adaptation-in-natural-and-artificial-systems-Holland/4b4279db68b16e20fbc56f9d41980a950191d30a?sort=total-citations
 venue: ''
 year: 1975
 ---

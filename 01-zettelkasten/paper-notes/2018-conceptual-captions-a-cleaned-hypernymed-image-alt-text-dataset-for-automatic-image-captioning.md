@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Conceptual-Captions:-A-Cleaned,-Hypernymed,-Image-Sharma-Ding/b4df354db88a70183a64dbc9e56cf14e7669a6c0?sort=total-citations
 venue: ACL
 year: 2018
 ---

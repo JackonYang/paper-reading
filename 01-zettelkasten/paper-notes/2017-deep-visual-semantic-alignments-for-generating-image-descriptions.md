@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Visual-Semantic-Alignments-for-Generating-Karpathy-Fei-Fei/55e022fb7581bb9e1fce678d21fb25ffbb3fbb88?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2017
 ---

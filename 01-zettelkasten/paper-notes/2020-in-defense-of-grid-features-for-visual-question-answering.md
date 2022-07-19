@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/In-Defense-of-Grid-Features-for-Visual-Question-Jiang-Misra/3e92f6ad7b1a0d59d5ffa30fc6e617e885f7be1a?sort=total-citations
 venue: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2020
 ---

@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Improving-neural-networks-by-preventing-of-feature-Hinton-Srivastava/1366de5bb112746a555e9c0cd00de3ad8628aea8?sort=total-citations
 venue: ArXiv
 year: 2012
 ---

@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Fast-and-Accurate-Deep-Network-Learning-by-Linear-Clevert-Unterthiner/f63e917638553414526a0cc8550de4ad2d83fe7a?sort=total-citations
 venue: ICLR
 year: 2016
 ---

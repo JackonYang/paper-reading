@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/GQA:-A-New-Dataset-for-Real-World-Visual-Reasoning-Hudson-Manning/1ab7f7c1d328589f25c79515b9a5d824d7ffbbd1?sort=total-citations
 venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2019
 ---

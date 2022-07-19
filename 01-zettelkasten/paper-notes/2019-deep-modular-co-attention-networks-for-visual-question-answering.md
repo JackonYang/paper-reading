@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Modular-Co-Attention-Networks-for-Visual-Yu-Yu/8a1744da011375d711ed75fc2d160c6fdca2cf89?sort=total-citations
 venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2019
 ---

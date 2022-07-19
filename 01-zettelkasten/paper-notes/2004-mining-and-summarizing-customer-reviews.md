@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Mining-and-summarizing-customer-reviews-Hu-Liu/cdcf7cb29f37ac0546961ea8a076075b9cc1f992?sort=total-citations
 venue: KDD
 year: 2004
 ---

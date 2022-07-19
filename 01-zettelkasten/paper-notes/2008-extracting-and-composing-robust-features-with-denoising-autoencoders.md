@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Extracting-and-composing-robust-features-with-Vincent-Larochelle/843959ffdccf31c6694d135fad07425924f785b1?sort=total-citations
 venue: ICML '08
 year: 2008
 ---

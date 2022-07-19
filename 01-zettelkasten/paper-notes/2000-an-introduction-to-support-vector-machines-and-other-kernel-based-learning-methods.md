@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/An-Introduction-to-Support-Vector-Machines-and-Cristianini-Shawe-Taylor/5c04f8002e24a8c09bfbfedca3c6c346fe1e5d53?sort=total-citations
 venue: ''
 year: 2000
 ---

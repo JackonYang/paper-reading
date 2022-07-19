@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Nonlinear-dimensionality-reduction-by-locally-Roweis-Saul/afcd6da7637ddeef6715109aca248da7a24b1c65?sort=total-citations
 venue: Science
 year: 2000
 ---

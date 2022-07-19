@@ -20,6 +20,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Ask-Me-Anything:-Dynamic-Memory-Networks-for-Kumar-Irsoy/452059171226626718eb677358836328f884298e?sort=total-citations
 venue: ICML
 year: 2016
 ---

@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Unbiased-look-at-dataset-bias-Torralba-Efros/0302bb2d5476540cfb21467473f5eca843caf90b?sort=total-citations
 venue: CVPR 2011
 year: 2011
 ---

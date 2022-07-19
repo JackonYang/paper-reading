@@ -23,6 +23,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/From-captions-to-visual-concepts-and-back-Fang-Gupta/15f102c3c9f4d4fe6ba105e221df48c6e8902b3b?sort=total-citations
 venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---

@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/DSSD-:-Deconvolutional-Single-Shot-Detector-Fu-Liu/e94183191183a368bf07eb544654bae4b3cbf407?sort=total-citations
 venue: ArXiv
 year: 2017
 ---

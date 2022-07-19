@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Neural-Networks-for-Object-Detection-Szegedy-Toshev/713f73ce5c3013d9fb796c21b981dc6629af0bd5?sort=total-citations
 venue: NIPS
 year: 2013
 ---

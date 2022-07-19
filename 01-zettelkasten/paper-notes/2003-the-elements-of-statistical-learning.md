@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Elements-of-Statistical-Learning-Ziegel/e41ba5dc12c79a64dfa905c0328f95976252ffe0?sort=total-citations
 venue: Technometrics
 year: 2003
 ---

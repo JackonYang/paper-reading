@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Image-Denoising-Via-Sparse-and-Redundant-Over-Elad-Aharon/e07416eabd4ba6c69fa473756bb04ae7161177be?sort=total-citations
 venue: IEEE Transactions on Image Processing
 year: 2006
 ---

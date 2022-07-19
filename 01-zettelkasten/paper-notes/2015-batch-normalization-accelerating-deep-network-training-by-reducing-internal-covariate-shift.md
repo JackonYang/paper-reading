@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Batch-Normalization:-Accelerating-Deep-Network-by-Ioffe-Szegedy/4d376d6978dad0374edfa6709c9556b42d3594d3?sort=total-citations
 venue: ICML
 year: 2015
 ---

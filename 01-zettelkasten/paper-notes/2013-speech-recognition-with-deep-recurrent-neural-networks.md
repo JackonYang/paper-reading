@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Speech-recognition-with-deep-recurrent-neural-Graves-Mohamed/4177ec52d1b80ed57f2e72b0f9a42365f1a8598d?sort=total-citations
 venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
 year: 2013
 ---

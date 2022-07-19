@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Recurrent-Models-of-Visual-Attention-Mnih-Heess/8a756d4d25511d92a45d0f4545fa819de993851d?sort=total-citations
 venue: NIPS
 year: 2014
 ---

@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Measuring-the-Objectness-of-Image-Windows-Alexe-Deselaers/2eb6caace8296fd4dfd4947efa4fe911c8e133b2?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---

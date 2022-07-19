@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Faster-R-CNN:-Towards-Real-Time-Object-Detection-Ren-He/424561d8585ff8ebce7d5d07de8dbf7aae5e7270?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2015
 ---

@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Linguistic-Regularities-in-Continuous-Space-Word-Mikolov-Yih/c4fd9c86b2b41df51a6fe212406dda81b1997fd4?sort=total-citations
 venue: NAACL
 year: 2013
 ---

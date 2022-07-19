@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Fusion-of-Detected-Objects-in-Text-for-Visual-Alberti-Ling/b82153bf85d5d1edd3f170aace830e5328ca9ed0?sort=total-citations
 venue: EMNLP
 year: 2019
 ---

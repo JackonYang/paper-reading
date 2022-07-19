@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Detecting-Oriented-Text-in-Natural-Images-by-Shi-Bai/0016d247423bede7f66224044ccc08f21d49fd39?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

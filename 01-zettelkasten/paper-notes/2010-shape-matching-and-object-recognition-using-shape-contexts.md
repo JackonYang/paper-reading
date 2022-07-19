@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Shape-matching-and-object-recognition-using-shape-Belongie-Malik/faf8444bad76e8aa727c8b2df42fefe7b8242957?sort=total-citations
 venue: 2010 3rd International Conference on Computer Science and Information Technology
 year: 2010
 ---

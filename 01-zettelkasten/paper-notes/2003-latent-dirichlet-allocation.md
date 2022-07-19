@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Latent-Dirichlet-Allocation-Blei-Ng/f198043a866e9187925a8d8db9a55e3bfdd47f2c?sort=total-citations
 venue: J. Mach. Learn. Res.
 year: 2003
 ---

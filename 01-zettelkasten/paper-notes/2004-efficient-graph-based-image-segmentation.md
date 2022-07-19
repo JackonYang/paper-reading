@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Efficient-Graph-Based-Image-Segmentation-Felzenszwalb-Huttenlocher/aeeffe327e6c93e9010c7b1e401caa9113723851?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2004
 ---

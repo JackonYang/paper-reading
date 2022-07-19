@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Laplacian-Eigenmaps-for-Dimensionality-Reduction-Belkin-Niyogi/88816ae492956f3004daa41357166f1181c0c1bf?sort=total-citations
 venue: Neural Computation
 year: 2003
 ---

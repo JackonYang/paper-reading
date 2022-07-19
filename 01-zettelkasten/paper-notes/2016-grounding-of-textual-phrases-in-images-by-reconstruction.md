@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Grounding-of-Textual-Phrases-in-Images-by-Rohrbach-Rohrbach/14c2321851fb5ae580a19726dd2753a525d6ad76?sort=total-citations
 venue: ECCV
 year: 2016
 ---

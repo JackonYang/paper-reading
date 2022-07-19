@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Show-and-tell:-A-neural-image-caption-generator-Vinyals-Toshev/d4dc1012d780e8e2547237eb5a6dc7b1bf47d2f0?sort=total-citations
 venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---

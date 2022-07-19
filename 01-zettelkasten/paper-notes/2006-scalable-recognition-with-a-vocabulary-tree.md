@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Scalable-Recognition-with-a-Vocabulary-Tree-Nist\xE9r-Stew\xE9nius/b3e7d3e37e67af7f4546b46051063bea1b62dbae?sort=total-citations"
 venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)
 year: 2006
 ---

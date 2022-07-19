@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Machine-learning-Dietterich/aab43c9c33af00b718cf2ae374b861d49862a563?sort=total-citations
 venue: CSUR
 year: 1996
 ---

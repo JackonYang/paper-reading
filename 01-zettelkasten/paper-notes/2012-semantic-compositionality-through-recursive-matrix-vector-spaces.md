@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Semantic-Compositionality-through-Recursive-Spaces-Socher-Huval/27e38351e48fe4b7da2775bf94341738bc4da07e?sort=total-citations
 venue: EMNLP
 year: 2012
 ---

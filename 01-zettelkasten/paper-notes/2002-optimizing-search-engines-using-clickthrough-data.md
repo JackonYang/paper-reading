@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Optimizing-search-engines-using-clickthrough-data-Joachims/cfd4259d305a00f13d5f08841230389f61322422?sort=total-citations
 venue: KDD
 year: 2002
 ---

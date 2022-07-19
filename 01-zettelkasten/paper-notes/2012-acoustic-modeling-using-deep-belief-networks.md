@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Acoustic-Modeling-Using-Deep-Belief-Networks-Mohamed-Dahl/d2b62f77cb2864e465aa60bca6c26bb1d2f84963?sort=total-citations
 venue: IEEE Transactions on Audio, Speech, and Language Processing
 year: 2012
 ---

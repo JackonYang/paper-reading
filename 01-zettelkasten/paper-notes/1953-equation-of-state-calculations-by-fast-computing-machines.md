@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Equation-of-state-calculations-by-fast-computing-Metropolis-Rosenbluth/f6a13f116e270dde9d67848495f801cdb8efa25d?sort=total-citations
 venue: ''
 year: 1953
 ---

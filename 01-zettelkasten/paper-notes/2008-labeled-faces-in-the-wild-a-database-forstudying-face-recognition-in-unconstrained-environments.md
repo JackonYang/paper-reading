@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Labeled-Faces-in-the-Wild:-A-Database-forStudying-Huang-Mattar/c6b3ca4f939e36a9679a70e14ce8b1bbbc5618f3?sort=total-citations
 venue: ''
 year: 2008
 ---

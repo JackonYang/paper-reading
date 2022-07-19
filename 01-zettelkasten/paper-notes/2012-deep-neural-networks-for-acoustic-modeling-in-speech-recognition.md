@@ -22,6 +22,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Deep-Neural-Networks-for-Acoustic-Modeling-in-Hinton-Deng/e33cbb25a8c7390aec6a398e36381f4f7770c283?sort=total-citations
 venue: ''
 year: 2012
 ---

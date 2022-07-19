@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Text-Attentional-Convolutional-Neural-Networks-for-He-Huang/a70db351b700a95033b55a93e9be5ad8e186d335?sort=total-citations
 venue: 'IEEE transactions on image processing : a publication of the IEEE Signal Processing Society'
 year: 2016
 ---

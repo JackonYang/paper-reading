@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Convolutional-Neural-Networks-on-Graphs-with-Fast-Defferrard-Bresson/c41eb895616e453dcba1a70c9b942c5063cc656c?sort=total-citations
 venue: NIPS
 year: 2016
 ---

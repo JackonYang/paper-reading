@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Distributed-Representations-of-Sentences-Hill-Cho/26e743d5bd465f49b9538deaf116c15e61b7951f?sort=total-citations
 venue: NAACL
 year: 2016
 ---

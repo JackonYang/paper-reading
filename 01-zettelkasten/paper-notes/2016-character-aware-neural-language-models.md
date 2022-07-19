@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Character-Aware-Neural-Language-Models-Kim-Jernite/891ce1687e2befddd19f54e4eef1d3f39c8dbaf7?sort=total-citations
 venue: AAAI
 year: 2016
 ---

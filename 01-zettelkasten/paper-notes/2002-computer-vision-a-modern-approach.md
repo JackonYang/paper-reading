@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Computer-Vision:-A-Modern-Approach-Forsyth-Ponce/787827850b614135f6b432603afc90b58a8cc665?sort=total-citations
 venue: ''
 year: 2002
 ---

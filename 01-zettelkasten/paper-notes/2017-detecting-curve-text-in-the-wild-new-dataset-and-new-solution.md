@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Detecting-Curve-Text-in-the-Wild:-New-Dataset-and-Liu-Jin/fcdf5055c902ec2d1570e598121f980a71fb90ca?sort=total-citations
 venue: ArXiv
 year: 2017
 ---

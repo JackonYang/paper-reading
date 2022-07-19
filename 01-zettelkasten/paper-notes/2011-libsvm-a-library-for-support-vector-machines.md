@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/LIBSVM:-A-library-for-support-vector-machines-Chang-Lin/273dfbcb68080251f5e9ff38b4413d7bd84b10a1?sort=total-citations
 venue: TIST
 year: 2011
 ---

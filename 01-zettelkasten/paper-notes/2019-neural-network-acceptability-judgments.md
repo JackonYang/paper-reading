@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Neural-Network-Acceptability-Judgments-Warstadt-Singh/cb0f3ee1e98faf92429d601cdcd76c69c1e484eb?sort=total-citations
 venue: Transactions of the Association for Computational Linguistics
 year: 2019
 ---

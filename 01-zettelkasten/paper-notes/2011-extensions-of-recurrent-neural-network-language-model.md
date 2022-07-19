@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Extensions-of-recurrent-neural-network-language-Mikolov-Kombrink/07ca885cb5cc4328895bfaec9ab752d5801b14cd?sort=total-citations
 venue: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 year: 2011
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Practical-Variational-Inference-for-Neural-Networks-Graves/5a9ef216bf11f222438fff130c778267d39a9564?sort=total-citations
 venue: NIPS
 year: 2011
 ---

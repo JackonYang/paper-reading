@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/COCO-Text:-Dataset-and-Benchmark-for-Text-Detection-Veit-Matera/b7325b788320f96f7b152768226f16e390ab6475?sort=total-citations
 venue: ArXiv
 year: 2016
 ---

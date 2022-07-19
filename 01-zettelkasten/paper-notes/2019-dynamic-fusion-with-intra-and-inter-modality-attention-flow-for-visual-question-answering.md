@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Dynamic-Fusion-With-Intra-and-Inter-Modality-Flow-Gao-Li/e9b13731027418ed38103d1dfc8a70f6881bc684?sort=total-citations
 venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2019
 ---

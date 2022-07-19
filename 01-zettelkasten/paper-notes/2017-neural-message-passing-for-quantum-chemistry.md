@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Neural-Message-Passing-for-Quantum-Chemistry-Gilmer-Schoenholz/e24cdf73b3e7e590c2fe5ecac9ae8aa983801367?sort=total-citations
 venue: ICML
 year: 2017
 ---

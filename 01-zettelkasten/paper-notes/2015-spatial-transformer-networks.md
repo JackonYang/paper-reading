@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Spatial-Transformer-Networks-Jaderberg-Simonyan/fe87ea16d5eb1c7509da9a0314bbf4c7b0676506?sort=total-citations
 venue: NIPS
 year: 2015
 ---

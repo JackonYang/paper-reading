@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Empirical-Evaluation-of-Gated-Recurrent-Neural-on-Chung-G\xFCl\xE7ehre/adfcf065e15fd3bc9badf6145034c84dfb08f204?sort=total-citations"
 venue: ArXiv
 year: 2014
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Statistical-learning-theory-Vapnik/385197d4c02593e2823c71e4f90a0993b703620e?sort=total-citations
 venue: ''
 year: 1998
 ---

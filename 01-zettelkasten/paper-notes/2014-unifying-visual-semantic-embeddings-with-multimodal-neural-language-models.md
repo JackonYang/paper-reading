@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Unifying-Visual-Semantic-Embeddings-with-Multimodal-Kiros-Salakhutdinov/2e36ea91a3c8fbff92be2989325531b4002e2afc?sort=total-citations
 venue: ArXiv
 year: 2014
 ---

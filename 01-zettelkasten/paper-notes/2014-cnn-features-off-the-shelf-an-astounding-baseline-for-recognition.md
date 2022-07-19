@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/CNN-Features-Off-the-Shelf:-An-Astounding-Baseline-Razavian-Azizpour/6270baedeba28001cd1b563a199335720d6e0fe0?sort=total-citations
 venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 year: 2014
 ---

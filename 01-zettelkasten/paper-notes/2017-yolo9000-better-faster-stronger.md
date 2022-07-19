@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/YOLO9000:-Better,-Faster,-Stronger-Redmon-Farhadi/7d39d69b23424446f0400ef603b2e3e22d0309d6?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

@@ -23,6 +23,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Oscar:-Object-Semantics-Aligned-Pre-training-for-Li-Yin/818e5cbc337e4e1b98e65a2d7c2d6d2a0318cd57?sort=total-citations
 venue: ECCV
 year: 2020
 ---

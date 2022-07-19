@@ -23,6 +23,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Large-Scale-Distributed-Deep-Networks-Dean-Corrado/3127190433230b3dc1abd0680bb58dced4bcd90e?sort=total-citations
 venue: NIPS
 year: 2012
 ---

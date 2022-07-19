@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Hypercolumns-for-object-segmentation-and-Hariharan-Arbel\xE1ez/428db42e86f6d51292e23fa57797e35cecd0e2ee?sort=total-citations"
 venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---

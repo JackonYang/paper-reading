@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/RACE:-Large-scale-ReAding-Comprehension-Dataset-Lai-Xie/636a79420d838eabe4af7fb25d6437de45ab64e8?sort=total-citations
 venue: EMNLP
 year: 2017
 ---

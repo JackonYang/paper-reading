@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-to-Extract-Semantic-Structure-from-Using-Yang-Yumer/9baae0bdc2884bcf0aa4063914b87d60952cb678?sort=total-citations
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

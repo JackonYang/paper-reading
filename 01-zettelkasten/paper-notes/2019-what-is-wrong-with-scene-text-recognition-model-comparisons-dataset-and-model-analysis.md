@@ -23,6 +23,8 @@ tags:
 - other-default
 - paper
 url_slug: What%20Is%20Wrong%20With%20Scene%20Text%20Recognition%20Model%20Comparisons
+urls:
+- https://www.semanticscholar.org/paper/What-Is-Wrong-With-Scene-Text-Recognition-Model-and-Baek-Kim/9387ffc038bc744e5eb335fe54b4f3f184202d77?sort=total-citations
 venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---

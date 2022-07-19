@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-Comparison-of-Affine-Region-Detectors-Mikolajczyk-Tuytelaars/514b8c50a5b427e2aae75f877454ec9ab3cb4e99?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2005
 ---

@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/LayoutLM:-Pre-training-of-Text-and-Layout-for-Image-Xu-Li/3465c06c872d8c48d628c5fc2d484087719351b6?sort=total-citations
 venue: KDD
 year: 2020
 ---

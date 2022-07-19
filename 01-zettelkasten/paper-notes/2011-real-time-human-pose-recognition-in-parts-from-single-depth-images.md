@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Real-time-human-pose-recognition-in-parts-from-Shotton-Sharp/2915510a39448503ee873f9693cd3808ca74bd81?sort=total-citations
 venue: CVPR 2011
 year: 2011
 ---

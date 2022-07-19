@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/ERNIE-ViL:-Knowledge-Enhanced-Vision-Language-Scene-Yu-Tang/bc996a4dbf9d4234eacdd0b930a94de1d158e256?sort=total-citations
 venue: AAAI
 year: 2021
 ---

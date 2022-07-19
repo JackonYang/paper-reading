@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Gated-Recurrent-Convolution-Neural-Network-for-OCR-Wang-Hu/d3fed1270db532f3a4c51e969422626ea95f8ef3?sort=total-citations
 venue: NIPS
 year: 2017
 ---

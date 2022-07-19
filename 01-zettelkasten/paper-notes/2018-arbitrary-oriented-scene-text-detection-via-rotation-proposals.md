@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Arbitrary-Oriented-Scene-Text-Detection-via-Ma-Shao/57e2dee73b4fc2efe28bbca3428cfe6718fcef40?sort=total-citations
 venue: IEEE Transactions on Multimedia
 year: 2018
 ---

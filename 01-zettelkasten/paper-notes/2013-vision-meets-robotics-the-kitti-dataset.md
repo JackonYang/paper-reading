@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Vision-meets-robotics:-The-KITTI-dataset-Geiger-Lenz/79b949d9b35c3f51dd20fb5c746cc81fc87147eb?sort=total-citations
 venue: Int. J. Robotics Res.
 year: 2013
 ---

@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/IEEE-Transactions-on-Pattern-Analysis-and-Machine-Fu/bb66ae5f36bc84243979c522d8e3f93539cb6a9f?sort=total-citations
 venue: ''
 year: 2004
 ---

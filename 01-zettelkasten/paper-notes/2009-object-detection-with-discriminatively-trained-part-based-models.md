@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Object-Detection-with-Discriminatively-Trained-Part-Felzenszwalb-Girshick/e79272fe3d65197100eae8be9fec6469107969ae?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2009
 ---

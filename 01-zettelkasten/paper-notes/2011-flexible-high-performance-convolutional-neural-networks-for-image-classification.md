@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Flexible,-High-Performance-Convolutional-Neural-for-Ciresan-Meier/5a47ba057a858f8c024d2518cc3731fc7eb40de1?sort=total-citations
 venue: IJCAI
 year: 2011
 ---

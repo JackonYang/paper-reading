@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Multi-scale-Orderless-Pooling-of-Deep-Convolutional-Gong-Wang/a99add9d76d849a8d47b93532703e4ca0f683b92?sort=total-citations
 venue: ECCV
 year: 2014
 ---

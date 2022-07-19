@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Zero-Shot-Learning-Through-Cross-Modal-Transfer-Socher-Ganjoo/755e9f43ce398ae8737366720c5f82685b0c253e?sort=total-citations
 venue: NIPS
 year: 2013
 ---

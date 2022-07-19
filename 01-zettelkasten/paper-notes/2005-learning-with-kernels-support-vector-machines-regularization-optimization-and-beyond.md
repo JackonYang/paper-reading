@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-with-Kernels:-Support-Vector-Machines,-and-Atiya/8ff61b8e097ccdb784a35b466ba9e130c2502513?sort=total-citations
 venue: IEEE Transactions on Neural Networks
 year: 2005
 ---

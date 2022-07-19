@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/ALBERT:-A-Lite-BERT-for-Self-supervised-Learning-of-Lan-Chen/7a064df1aeada7e69e5173f7d4c8606f4470365b?sort=total-citations
 venue: ICLR
 year: 2020
 ---

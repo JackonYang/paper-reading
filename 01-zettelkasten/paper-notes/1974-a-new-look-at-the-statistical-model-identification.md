@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-new-look-at-the-statistical-model-identification-Akaike/50a42ed2f81b9fe150883a6c89194c88a9647106?sort=total-citations
 venue: ''
 year: 1974
 ---

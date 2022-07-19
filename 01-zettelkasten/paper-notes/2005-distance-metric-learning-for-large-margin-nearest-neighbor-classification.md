@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Distance-Metric-Learning-for-Large-Margin-Nearest-Weinberger-Saul/78947497cbbffc691aac3f590d972130259af9ce?sort=total-citations
 venue: NIPS
 year: 2005
 ---

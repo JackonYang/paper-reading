@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Distinctive-Image-Features-from-Scale-Invariant-Dorst/bcae70dce393c1796d4f15c7b8bbf0ed6f468be1?sort=total-citations
 venue: ''
 year: 2011
 ---

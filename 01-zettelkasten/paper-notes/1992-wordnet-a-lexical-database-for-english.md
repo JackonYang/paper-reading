@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/WordNet:-A-Lexical-Database-for-English-Miller/68c03788224000794d5491ab459be0b2a2c38677?sort=total-citations
 venue: HLT
 year: 1992
 ---

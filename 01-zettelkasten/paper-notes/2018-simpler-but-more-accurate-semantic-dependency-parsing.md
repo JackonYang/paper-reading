@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Simpler-but-More-Accurate-Semantic-Dependency-Dozat-Manning/c267b4a64066b56c8eef053de391c3cbe58c9eb3?sort=total-citations
 venue: ACL
 year: 2018
 ---

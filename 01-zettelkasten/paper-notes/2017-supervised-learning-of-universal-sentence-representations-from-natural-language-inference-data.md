@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Supervised-Learning-of-Universal-Sentence-from-Data-Conneau-Kiela/ee7b883e35d754ae4f71c21bb71f9f03e4ffbb2c?sort=total-citations
 venue: EMNLP
 year: 2017
 ---

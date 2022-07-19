@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Attention-Based-Models-for-Speech-Recognition-Chorowski-Bahdanau/b624504240fa52ab76167acfe3156150ca01cf3b?sort=total-citations
 venue: NIPS
 year: 2015
 ---

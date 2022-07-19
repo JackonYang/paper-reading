@@ -21,6 +21,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Cityscapes-Dataset-for-Semantic-Urban-Scene-Cordts-Omran/c8c494ee5488fe20e0aa01bddf3fc4632086d654?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

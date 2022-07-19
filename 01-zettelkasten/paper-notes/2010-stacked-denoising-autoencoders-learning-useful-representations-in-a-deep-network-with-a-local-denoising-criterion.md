@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Stacked-Denoising-Autoencoders:-Learning-Useful-in-Vincent-Larochelle/e2b7f37cd97a7907b1b8a41138721ed06a0b76cd?sort=total-citations
 venue: J. Mach. Learn. Res.
 year: 2010
 ---

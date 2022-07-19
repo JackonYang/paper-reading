@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Review-Networks-for-Caption-Generation-Yang-Yuan/61d2dda8d96a10a714636475c7589bd149bda053?sort=total-citations
 venue: NIPS
 year: 2016
 ---

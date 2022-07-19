@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/UNITER:-UNiversal-Image-TExt-Representation-Chen-Li/d8a305b9366608d54452ac30459ee57b4f5cf1c9?sort=total-citations
 venue: ECCV
 year: 2020
 ---

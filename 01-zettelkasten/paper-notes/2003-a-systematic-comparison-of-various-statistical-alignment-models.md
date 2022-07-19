@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-Systematic-Comparison-of-Various-Statistical-Och-Ney/de2df29b0a0312de7270c3f5a0af6af5645cf91a?sort=total-citations
 venue: CL
 year: 2003
 ---

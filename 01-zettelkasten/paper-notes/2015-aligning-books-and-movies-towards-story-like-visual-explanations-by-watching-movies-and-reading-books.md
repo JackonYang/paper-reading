@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Aligning-Books-and-Movies:-Towards-Story-Like-by-Zhu-Kiros/0e6824e137847be0599bb0032e37042ed2ef5045?sort=total-citations
 venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---

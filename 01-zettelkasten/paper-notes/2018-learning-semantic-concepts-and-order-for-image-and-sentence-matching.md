@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Semantic-Concepts-and-Order-for-Image-and-Huang-Wu/f322eef6a4c965910e03f6997b1bc2acd413e273?sort=total-citations
 venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---

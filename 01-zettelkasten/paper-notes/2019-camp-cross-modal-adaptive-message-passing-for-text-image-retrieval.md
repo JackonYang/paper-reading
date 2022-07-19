@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/CAMP:-Cross-Modal-Adaptive-Message-Passing-for-Wang-Liu/19c630ad5a9de227f6357479fc95c62667be17f6?sort=total-citations
 venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---

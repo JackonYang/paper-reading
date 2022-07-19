@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Boosting-Image-Captioning-with-Attributes-Yao-Pan/5785466bc14529e94e54baa4ed051f7037f3b1d3?sort=total-citations
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---

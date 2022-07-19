@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Computers-and-Intractability:-A-Guide-to-the-Theory-Garey-Johnson/bdede1e17c947540b50e6e2db9e8467ddc6e7336?sort=total-citations
 venue: ''
 year: 1978
 ---

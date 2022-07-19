@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Adaptive-deconvolutional-networks-for-mid-and-high-Zeiler-Taylor/d743430cb2329caa5d446c17fc9ec07f5e916ab0?sort=total-citations
 venue: 2011 International Conference on Computer Vision
 year: 2011
 ---

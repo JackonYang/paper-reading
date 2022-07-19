@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Modeling-Context-in-Referring-Expressions-Yu-Poirson/29efbe391950ae438c63d86ad5c82b2942efb0b4?sort=total-citations
 venue: ECCV
 year: 2016
 ---

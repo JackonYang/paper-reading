@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Beyond-Bags-of-Features:-Spatial-Pyramid-Matching-Lazebnik-Schmid/6dbaff29d3898cf60f63f5a34cb9610ebb75220c?sort=total-citations
 venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)
 year: 2006
 ---

@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Representation-Learning:-A-Review-and-New-Bengio-Courville/184ac0766262312ba76bbdece4e7ffad0aa8180b?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2013
 ---

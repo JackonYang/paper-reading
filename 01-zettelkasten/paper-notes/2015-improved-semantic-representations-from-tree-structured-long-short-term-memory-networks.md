@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Improved-Semantic-Representations-From-Long-Memory-Tai-Socher/32de44f01a96d4473d21099d15e25bc2b9f08e2f?sort=total-citations
 venue: ACL
 year: 2015
 ---

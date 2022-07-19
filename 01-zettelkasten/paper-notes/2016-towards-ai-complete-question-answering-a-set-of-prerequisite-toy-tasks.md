@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Towards-AI-Complete-Question-Answering:-A-Set-of-Weston-Bordes/abb33d75dc297993fcc3fb75e0f4498f413eb4f6?sort=total-citations
 venue: ICLR
 year: 2016
 ---

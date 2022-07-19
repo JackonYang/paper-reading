@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Indoor-Segmentation-and-Support-Inference-from-RGBD-Silberman-Hoiem/c1994ba5946456fc70948c549daf62363f13fa2d?sort=total-citations
 venue: ECCV
 year: 2012
 ---

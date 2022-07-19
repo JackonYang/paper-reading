@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Focusing-Attention:-Towards-Accurate-Text-in-Images-Cheng-Bai/45524d7a40435d989579b88b70d25e4d65ac9e3c?sort=total-citations
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---

@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Robust-Real-time-Object-Detection-Viola-Jones/4cb4d685b47001652b29dc41c1b3e786277e7647?sort=total-citations
 venue: ''
 year: 2001
 ---

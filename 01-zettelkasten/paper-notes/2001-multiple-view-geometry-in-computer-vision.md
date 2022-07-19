@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Multiple-View-Geometry-in-Computer-Vision-Wrobel/339093c7ed71919ce59a7e78979a77abd25bad0c?sort=total-citations
 venue: "K\xFCnstliche Intell."
 year: 2001
 ---

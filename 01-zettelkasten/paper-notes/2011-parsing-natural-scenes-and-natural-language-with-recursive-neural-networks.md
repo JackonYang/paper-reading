@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Parsing-Natural-Scenes-and-Natural-Language-with-Socher-Lin/9c0ddf74f87d154db88d79c640578c1610451eec?sort=total-citations
 venue: ICML
 year: 2011
 ---

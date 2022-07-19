@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Semi-Supervised-Learning-Using-Gaussian-Fields-and-Zhu-Ghahramani/125842668eab7decac136db8a59d392dc5e4e395?sort=total-citations
 venue: ICML
 year: 2003
 ---

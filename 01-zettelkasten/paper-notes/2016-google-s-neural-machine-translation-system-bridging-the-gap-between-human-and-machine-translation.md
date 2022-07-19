@@ -42,6 +42,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Google's-Neural-Machine-Translation-System:-the-Gap-Wu-Schuster/dbde7dfa6cae81df8ac19ef500c42db96c3d1edd?sort=total-citations
 venue: ArXiv
 year: 2016
 ---

@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/HCP:-A-Flexible-CNN-Framework-for-Multi-Label-Image-Wei-Xia/32d850e556f39f6bbedcdef0e38f5cd295a6144f?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2016
 ---

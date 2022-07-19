@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-realistic-human-actions-from-movies-Laptev-Marszalek/0f86767732f76f478d5845f2e59f99ba106e9265?sort=total-citations
 venue: 2008 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2008
 ---

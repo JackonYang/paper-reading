@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/An-End-to-End-TextSpotter-with-Explicit-Alignment-He-Tian/89642d3bacccbe543e224ea139b69986048915ef?sort=total-citations
 venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---

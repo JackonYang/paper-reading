@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Thumbs-Up-or-Thumbs-Down-Semantic-Orientation-to-of-Turney/9e7c7853a16a378cc24a082153b282257a9675b7?sort=total-citations
 venue: ACL
 year: 2002
 ---

@@ -31,6 +31,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Hybrid-computing-using-a-neural-network-with-memory-Graves-Wayne/784ee73d5363c711118f784428d1ab89f019daa5?sort=total-citations
 venue: Nature
 year: 2016
 ---

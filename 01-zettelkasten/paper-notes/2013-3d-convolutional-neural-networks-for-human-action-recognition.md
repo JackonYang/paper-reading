@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/3D-Convolutional-Neural-Networks-for-Human-Action-Ji-Xu/80bfcf1be2bf1b95cc6f36d229665cdf22d76190?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2013
 ---

@@ -23,6 +23,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Visual-Genome:-Connecting-Language-and-Vision-Using-Krishna-Zhu/afcf4dbd2ef300e5c4b35043d4fbe516807cdf7d?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2016
 ---

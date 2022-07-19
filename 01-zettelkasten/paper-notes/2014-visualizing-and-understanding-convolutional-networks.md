@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Visualizing-and-Understanding-Convolutional-Zeiler-Fergus/1a2a770d23b4a171fa81de62a78a3deb0588f238?sort=total-citations
 venue: ECCV
 year: 2014
 ---

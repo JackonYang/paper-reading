@@ -22,6 +22,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Transformers:-State-of-the-Art-Natural-Language-Wolf-Debut/af3f67b6639a50fd094e1467a2f3b6b8fef7c7c2?sort=total-citations
 venue: EMNLP
 year: 2020
 ---

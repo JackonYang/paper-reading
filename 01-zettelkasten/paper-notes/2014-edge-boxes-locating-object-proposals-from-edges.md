@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Edge-Boxes:-Locating-Object-Proposals-from-Edges-Zitnick-Doll\xE1r/b183947ee15718b45546eda6b01e179b9a95421f?sort=total-citations"
 venue: ECCV
 year: 2014
 ---

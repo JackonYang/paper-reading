@@ -23,6 +23,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/ImageNet-Large-Scale-Visual-Recognition-Challenge-Russakovsky-Deng/e74f9b7f8eec6ba4704c206b93bc8079af3da4bd?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2015
 ---

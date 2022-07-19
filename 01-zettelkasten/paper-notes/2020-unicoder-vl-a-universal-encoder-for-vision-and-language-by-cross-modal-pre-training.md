@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Unicoder-VL:-A-Universal-Encoder-for-Vision-and-by-Li-Duan/2bc1c8bd00bbf7401afcb5460277840fd8bab029?sort=total-citations
 venue: AAAI
 year: 2020
 ---

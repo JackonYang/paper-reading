@@ -22,6 +22,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/UniLMv2:-Pseudo-Masked-Language-Models-for-Unified-Bao-Dong/f64e1d6bc13aae99aab5449fc9ae742a9ba7761e?sort=total-citations
 venue: ICML
 year: 2020
 ---

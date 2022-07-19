@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/OverFeat:-Integrated-Recognition,-Localization-and-Sermanet-Eigen/1109b663453e78a59e4f66446d71720ac58cec25?sort=total-citations
 venue: ICLR
 year: 2014
 ---

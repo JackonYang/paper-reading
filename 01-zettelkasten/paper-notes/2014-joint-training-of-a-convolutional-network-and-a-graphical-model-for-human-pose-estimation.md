@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Joint-Training-of-a-Convolutional-Network-and-a-for-Tompson-Jain/12ecc2d786080f638a01b9999518e9386baa157d?sort=total-citations
 venue: NIPS
 year: 2014
 ---

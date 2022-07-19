@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Recurrent-Neural-Network-Regularization-Zaremba-Sutskever/f264e8b33c0d49a692a6ce2c4bcb28588aeb7d97?sort=total-citations
 venue: ArXiv
 year: 2014
 ---

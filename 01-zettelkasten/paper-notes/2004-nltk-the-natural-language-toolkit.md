@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/NLTK:-The-Natural-Language-Toolkit-Bird/01a660ec8aa995a88a00bfb41cb86c022047a9db?sort=total-citations
 venue: ACL
 year: 2004
 ---

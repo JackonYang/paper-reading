@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Factor-graphs-and-the-sum-product-algorithm-Kschischang-Frey/08c370eb9ba13bfb836349e7f3ea428be4697818?sort=total-citations
 venue: IEEE Trans. Inf. Theory
 year: 2001
 ---

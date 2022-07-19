@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Color-indexing-Swain-Ballard/5b1e1696564e5a3021ac3a501c9deeb6c0fbc637?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2004
 ---

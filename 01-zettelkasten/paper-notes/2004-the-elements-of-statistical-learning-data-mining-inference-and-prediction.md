@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Elements-of-Statistical-Learning:-Data-Mining,-Ruppert/5176a2f31dace77db9135dde7020d2c37f78cca0?sort=total-citations
 venue: ''
 year: 2004
 ---

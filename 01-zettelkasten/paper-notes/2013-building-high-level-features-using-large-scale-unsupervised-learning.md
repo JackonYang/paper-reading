@@ -19,6 +19,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Building-high-level-features-using-large-scale-Le-Ranzato/72e93aa6767ee683de7f001fa72f1314e40a8f35?sort=total-citations
 venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
 year: 2013
 ---

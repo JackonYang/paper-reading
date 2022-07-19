@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/What-Value-Do-Explicit-High-Level-Concepts-Have-in-Wu-Shen/00fe3d95d0fd5f1433d81405bee772c4fe9af9c6?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

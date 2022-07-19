@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/The-Goldilocks-Principle:-Reading-Children's-Books-Hill-Bordes/35b91b365ceb016fb3e022577cec96fb9b445dc5?sort=total-citations
 venue: ICLR
 year: 2016
 ---

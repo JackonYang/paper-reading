@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Multi-oriented-Scene-Text-Detection-via-Corner-and-Lyu-Yao/d2f881259d016e6b45c41dd31b5b79b42a9410f0?sort=total-citations
 venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---

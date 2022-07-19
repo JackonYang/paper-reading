@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Image-Question-Answering-Using-Convolutional-Neural-Noh-Seo/385c18cc4024a3b3206c508c512e037b9c00b8f3?sort=total-citations
 venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---

@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Convolutional-Networks-on-Graphs-for-Learning-Duvenaud-Maclaurin/5d1bfeed240709725c78bc72ea40e55410b373dc?sort=total-citations
 venue: NIPS
 year: 2015
 ---

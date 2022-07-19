@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Scale-&-Affine-Invariant-Interest-Point-Detectors-Mikolajczyk-Schmid/8b440596b28dc6683caa2b5f6fbca70963e5909e?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2004
 ---

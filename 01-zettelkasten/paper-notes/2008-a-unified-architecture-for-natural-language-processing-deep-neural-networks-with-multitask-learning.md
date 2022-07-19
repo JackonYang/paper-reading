@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-unified-architecture-for-natural-language-deep-Collobert-Weston/57458bc1cffe5caa45a885af986d70f723f406b4?sort=total-citations
 venue: ICML '08
 year: 2008
 ---

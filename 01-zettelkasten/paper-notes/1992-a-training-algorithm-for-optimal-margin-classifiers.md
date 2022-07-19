@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-training-algorithm-for-optimal-margin-classifiers-Boser-Guyon/2599131a4bc2fa957338732a37c744cfe3e17b24?sort=total-citations
 venue: COLT '92
 year: 1992
 ---

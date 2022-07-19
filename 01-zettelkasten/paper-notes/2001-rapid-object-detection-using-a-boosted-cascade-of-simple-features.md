@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Rapid-object-detection-using-a-boosted-cascade-of-Viola-Jones/dc6ea0e30e46163b706f2f8bdc9c67ca87f83d63?sort=total-citations
 venue: Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001
 year: 2001
 ---

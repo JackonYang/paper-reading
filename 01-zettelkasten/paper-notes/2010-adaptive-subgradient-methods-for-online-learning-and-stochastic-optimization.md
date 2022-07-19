@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Adaptive-Subgradient-Methods-for-Online-Learning-Duchi-Hazan/413c1142de9d91804d6d11c67ff3fed59c9fc279?sort=total-citations
 venue: J. Mach. Learn. Res.
 year: 2010
 ---

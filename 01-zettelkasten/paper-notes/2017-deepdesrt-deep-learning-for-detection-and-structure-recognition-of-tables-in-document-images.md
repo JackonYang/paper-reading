@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/DeepDeSRT%3A-Deep-Learning-for-Detection-and-of-in-Schreiber-Agne/f8bead3ae810cd3f7427d3004e45b4158da9b744
 venue: 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR)
 year: 2017
 ---

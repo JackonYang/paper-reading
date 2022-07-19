@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/A-Convolutional-Neural-Network-for-Modelling-Kalchbrenner-Grefenstette/27725a2d2a8cee9bf9fffc6c2167017103aba0fa?sort=total-citations
 venue: ACL
 year: 2014
 ---

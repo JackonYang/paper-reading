@@ -17,6 +17,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- "https://www.semanticscholar.org/paper/Feature-Pyramid-Networks-for-Object-Detection-Lin-Doll\xE1r/b9b4e05faa194e5022edd9eb9dd07e3d675c2b36?sort=total-citations"
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---

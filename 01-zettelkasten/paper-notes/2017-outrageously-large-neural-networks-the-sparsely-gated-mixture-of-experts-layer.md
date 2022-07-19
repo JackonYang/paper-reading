@@ -18,6 +18,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Outrageously-Large-Neural-Networks:-The-Layer-Shazeer-Mirhoseini/510e26733aaff585d65701b9f1be7ca9d5afc586?sort=total-citations
 venue: ICLR
 year: 2017
 ---

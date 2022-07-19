@@ -16,6 +16,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Semi-Supervised-Recursive-Autoencoders-for-Socher-Pennington/cfa2646776405d50533055ceb1b7f050e9014dcb?sort=total-citations
 venue: EMNLP
 year: 2011
 ---

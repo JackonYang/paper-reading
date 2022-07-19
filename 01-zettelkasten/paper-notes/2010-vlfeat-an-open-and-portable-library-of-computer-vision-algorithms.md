@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Vlfeat:-an-open-and-portable-library-of-computer-Vedaldi-Fulkerson/d720a95e1501922ea17ee31f299f43b2db5e15ef?sort=total-citations
 venue: ACM Multimedia
 year: 2010
 ---

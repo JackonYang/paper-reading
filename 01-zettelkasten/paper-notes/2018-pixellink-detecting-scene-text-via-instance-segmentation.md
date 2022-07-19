@@ -15,6 +15,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/PixelLink:-Detecting-Scene-Text-via-Instance-Deng-Liu/a4a88145718ec8eff1228267bf3fe9f380b9495f?sort=total-citations
 venue: AAAI
 year: 2018
 ---

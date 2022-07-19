@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/An-experimental-comparison-of-min-cut/max-flow-for-Boykov-Kolmogorov/6c62fdf1e6a520d9fee8ca9981fb588d07f2c6fa?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2004
 ---

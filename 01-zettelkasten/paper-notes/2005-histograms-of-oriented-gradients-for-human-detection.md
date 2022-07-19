@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Histograms-of-oriented-gradients-for-human-Dalal-Triggs/cec734d7097ab6b1e60d95228ffd64248eb89d66?sort=total-citations
 venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)
 year: 2005
 ---

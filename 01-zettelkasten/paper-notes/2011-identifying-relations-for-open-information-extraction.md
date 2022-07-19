@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Identifying-Relations-for-Open-Information-Fader-Soderland/d4b651d6a904f69f8fa1dcad4ebe972296af3a9a?sort=total-citations
 venue: EMNLP
 year: 2011
 ---

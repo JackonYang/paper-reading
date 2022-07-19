@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-Deep-Architectures-for-AI-Bengio/e60ff004dde5c13ec53087872cfcdd12e85beb57?sort=total-citations
 venue: Found. Trends Mach. Learn.
 year: 2007
 ---

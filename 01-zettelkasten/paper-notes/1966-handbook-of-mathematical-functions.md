@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Handbook-of-Mathematical-Functions.-Florentin-Abramowitz/b4de2c0c85c43ff9075f6eb2d247bbdaddcbdb58?sort=total-citations
 venue: ''
 year: 1966
 ---

@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Learning-by-Abstraction:-The-Neural-State-Machine-Hudson-Manning/136c05cb8dd359fb8e0dc7947172a9ecb74ccbec?sort=total-citations
 venue: NeurIPS
 year: 2019
 ---

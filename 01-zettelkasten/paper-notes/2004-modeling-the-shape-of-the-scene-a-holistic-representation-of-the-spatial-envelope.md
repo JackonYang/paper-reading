@@ -13,6 +13,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Modeling-the-Shape-of-the-Scene:-A-Holistic-of-the-Oliva-Torralba/869171b2f56cfeaa9b81b2626cb4956fea590a57?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2004
 ---

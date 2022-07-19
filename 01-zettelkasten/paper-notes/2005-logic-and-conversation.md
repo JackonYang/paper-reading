@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Logic-and-Conversation-Chapman/b25e5bca74d74abb1687315fa3c637bb9911554d?sort=total-citations
 venue: ''
 year: 2005
 ---

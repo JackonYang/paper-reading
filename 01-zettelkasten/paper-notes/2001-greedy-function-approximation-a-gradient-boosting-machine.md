@@ -12,6 +12,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Greedy-function-approximation:-A-gradient-boosting-Friedman/1679beddda3a183714d380e944fe6bf586c083cd?sort=total-citations
 venue: ''
 year: 2001
 ---

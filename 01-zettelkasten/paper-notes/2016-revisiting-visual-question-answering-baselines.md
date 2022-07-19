@@ -14,6 +14,8 @@ tags:
 - gen-from-ref
 - other-default
 - paper
+urls:
+- https://www.semanticscholar.org/paper/Revisiting-Visual-Question-Answering-Baselines-Jabri-Joulin/3c1bbd2672c11a796f1e6e6aa787257498ec8bec?sort=total-citations
 venue: ECCV
 year: 2016
 ---
