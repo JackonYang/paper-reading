@@ -3,7 +3,6 @@ authors:
 - Herb Sutter
 tags:
 - cpp
-- cppcon
 - reading-notes
 url: https://www.youtube.com/watch?v=xnqTKD8uD64
 year: 2014
