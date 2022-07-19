@@ -2,6 +2,7 @@
 tags:
 - chip
 - computer-system
+- gpu
 ---
 
 # Nvidia GPU Architecture History
