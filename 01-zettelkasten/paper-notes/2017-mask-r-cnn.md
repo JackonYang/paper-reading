@@ -1,4 +1,5 @@
 ---
+Alias: MRCNN
 title: Mask R-CNN
 authors:
 - Kaiming He
@@ -7,17 +8,23 @@ authors:
 - Ross B. Girshick
 fieldsOfStudy:
 - Computer Science
+filesize_readable: 7.4 MB
 meta_key: 2017-mask-r-cnn
+meta_relpath: paper-extra-data/pdf-meta/2017-mask-rcnn.yaml
 numCitedBy: 3477
+pdf_relpath: paper-repo/pdfs/2017-mask-rcnn.pdf
 reading_status: TBD
 ref_count: 50
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
+url_slug: 2017-mask-rcnn
 venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2017-mask-rcnn.pdf)
 
 # Mask R-CNN
 
@@ -70,6 +77,3 @@ We present a conceptually simple, flexible, and general framework for object ins
 41. Data Distillation - Towards Omni-Supervised Learning
 42. [Rectified Linear Units Improve Restricted Boltzmann Machines](2010-rectified-linear-units-improve-restricted-boltzmann-machines)
 43. Backpropagation Applied to Handwritten Zip Code Recognition
-44. Et al
-45. “A and B” - 
-46. K
