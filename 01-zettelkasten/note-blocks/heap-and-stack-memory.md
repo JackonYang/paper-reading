@@ -9,7 +9,7 @@ Created: 2022-04-29 23:15
 
 ## Notes
 
-函数不能返回 stack variable 的指针(? TODO)，但 heap memory 里的，可以。
+函数不能返回 stack variable 的指针(? #TODO)，但 heap memory 里的，可以。
 
 new 和 delete，管理 heap memory。
 
