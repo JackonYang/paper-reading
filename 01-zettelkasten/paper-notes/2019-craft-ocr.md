@@ -18,7 +18,8 @@ tags:
 - gen-from-ref
 - ocr
 - paper
-url: https://arxiv.org/pdf/1904.01941.pdf
+urls:
+- https://arxiv.org/pdf/1904.01941.pdf
 venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2019
 ---
