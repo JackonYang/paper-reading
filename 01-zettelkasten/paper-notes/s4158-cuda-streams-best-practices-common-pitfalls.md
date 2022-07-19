@@ -6,8 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/s4158-cuda-streams-best-practices-common
 pdf_relpath: paper-repo/pdfs/S4158-cuda-streams-best-practices-common-pitfalls.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- cuda
 url_slug: S4158-cuda-streams-best-practices-common-pitfalls
 ---
 

@@ -6,8 +6,8 @@ meta_relpath: paper-extra-data/pdf-meta/cuda_c_programming_guide_11_6.yaml
 pdf_relpath: paper-repo/pdfs/CUDA_C_Programming_Guide_11_6.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- cuda
 url_slug: CUDA_C_Programming_Guide_11_6
 ---
 

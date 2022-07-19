@@ -20,7 +20,7 @@ A class with the main purpose of holding objects. vector / list / map / unordere
 2. 默认推荐用 range-for loop，或 interator, begin(), end()
 3. 使用多态时，element 要用 pointer
 4. 传参时，用 reference。函数返回时用 value (默认会 move 而不是 copy)
-5. 默认推荐使用 Vector. 案例：[[Optimizing the Velodyne driver using vector]]
+5. 默认推荐使用 Vector. 案例：[optimizing-the-velodyne-driver-using-vector](optimizing-the-velodyne-driver-using-vector.md)
 
 ### 处理性能
 

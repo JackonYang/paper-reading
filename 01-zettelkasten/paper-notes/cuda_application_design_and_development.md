@@ -6,8 +6,8 @@ meta_relpath: paper-extra-data/pdf-meta/cuda_application_design_and_development.
 pdf_relpath: paper-repo/pdfs/CUDA_Application_Design_and_Development.pdf
 reading_status: TBD
 tags:
-- other-default
-- paper
+- book
+- cuda
 url_slug: CUDA_Application_Design_and_Development
 ---
 
