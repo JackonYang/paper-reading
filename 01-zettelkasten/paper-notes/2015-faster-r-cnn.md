@@ -7,19 +7,25 @@ authors:
 - Jian Sun
 fieldsOfStudy:
 - Computer Science
-meta_key: 2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks
+filesize_readable: 6.6 MB
+meta_key: 2015-faster-r-cnn
+meta_relpath: paper-extra-data/pdf-meta/2015-faster-rcnn.yaml
 numCitedBy: 32899
+pdf_relpath: paper-repo/pdfs/2015-faster-rcnn.pdf
 reading_status: TBD
 ref_count: 53
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
+url_slug: 2015-faster-rcnn
 urls:
 - https://www.semanticscholar.org/paper/Faster-R-CNN:-Towards-Real-Time-Object-Detection-Ren-He/424561d8585ff8ebce7d5d07de8dbf7aae5e7270?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2015
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2015-faster-rcnn.pdf)
 
 # Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks
 

@@ -5,19 +5,25 @@ authors:
 fieldsOfStudy:
 - Computer Science
 - Environmental Science
+filesize_readable: 714.0 KB
 meta_key: 2015-fast-r-cnn
+meta_relpath: paper-extra-data/pdf-meta/2015-fast-rcnn.yaml
 numCitedBy: 14192
+pdf_relpath: paper-repo/pdfs/2015-fast-rcnn.pdf
 reading_status: TBD
 ref_count: 35
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
+url_slug: 2015-fast-rcnn
 urls:
 - https://www.semanticscholar.org/paper/Fast-R-CNN-Girshick/7ffdbc358b63378f07311e883dddacc9faeeaf4b?sort=total-citations
 venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2015-fast-rcnn.pdf)
 
 # Fast R-CNN
 
