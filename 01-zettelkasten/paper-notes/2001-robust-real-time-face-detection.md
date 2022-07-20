@@ -10,8 +10,8 @@ numCitedBy: 11305
 reading_status: TBD
 ref_count: 39
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Robust-Real-Time-Face-Detection-Viola-Jones/b09ec0b350f8352bce46a2f5bf7ae97c83a7b9ca?sort=total-citations

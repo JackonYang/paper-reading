@@ -12,8 +12,8 @@ numCitedBy: 4771
 reading_status: TBD
 ref_count: 55
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Selective-Search-for-Object-Recognition-Uijlings-Sande/38b6540ddd5beebffd05047c78183f7575559fb2?sort=total-citations

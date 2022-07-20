@@ -12,8 +12,8 @@ numCitedBy: 9391
 reading_status: TBD
 ref_count: 54
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Object-Detection-with-Discriminatively-Trained-Part-Felzenszwalb-Girshick/e79272fe3d65197100eae8be9fec6469107969ae?sort=total-citations

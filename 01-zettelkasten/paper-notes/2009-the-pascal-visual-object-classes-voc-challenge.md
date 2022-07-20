@@ -13,8 +13,8 @@ numCitedBy: 11755
 reading_status: TBD
 ref_count: 75
 tags:
+- dataset
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/The-Pascal-Visual-Object-Classes-(VOC)-Challenge-Everingham-Gool/82635fb63640ae95f90ee9bdc07832eb461ca881?sort=total-citations

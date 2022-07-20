@@ -10,8 +10,8 @@ numCitedBy: 17922
 reading_status: TBD
 ref_count: 26
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Rapid-object-detection-using-a-boosted-cascade-of-Viola-Jones/dc6ea0e30e46163b706f2f8bdc9c67ca87f83d63?sort=total-citations

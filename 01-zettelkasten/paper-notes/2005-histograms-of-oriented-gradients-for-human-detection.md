@@ -10,8 +10,8 @@ numCitedBy: 29348
 reading_status: TBD
 ref_count: 29
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Histograms-of-oriented-gradients-for-human-Dalal-Triggs/cec734d7097ab6b1e60d95228ffd64248eb89d66?sort=total-citations

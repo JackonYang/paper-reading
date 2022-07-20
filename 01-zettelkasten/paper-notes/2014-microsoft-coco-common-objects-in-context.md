@@ -16,8 +16,8 @@ numCitedBy: 20013
 reading_status: TBD
 ref_count: 59
 tags:
+- dataset
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Microsoft-COCO:-Common-Objects-in-Context-Lin-Maire/71b7178df5d2b112d07e45038cb5637208659ff7?sort=total-citations

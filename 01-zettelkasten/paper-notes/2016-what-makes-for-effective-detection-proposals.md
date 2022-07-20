@@ -12,8 +12,8 @@ numCitedBy: 623
 reading_status: TBD
 ref_count: 81
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/What-Makes-for-Effective-Detection-Proposals-Hosang-Benenson/6c016579af5becc230fb9efc1f885f2afa65a46e?sort=total-citations

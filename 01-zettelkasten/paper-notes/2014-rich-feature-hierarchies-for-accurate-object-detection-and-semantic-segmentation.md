@@ -12,8 +12,8 @@ numCitedBy: 17223
 reading_status: TBD
 ref_count: 66
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Rich-Feature-Hierarchies-for-Accurate-Object-and-Girshick-Donahue/2f4df08d9072fc2ac181b7fced6a245315ce05c8?sort=total-citations
