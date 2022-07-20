@@ -58,6 +58,6 @@ Pre-training techniques have been verified successfully in a variety of NLP task
 25. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)
 26. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 27. Recursive X-Y cut using bounding boxes of connected components
-28. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+28. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 29. Evaluation of deep convolutional nets for document image classification and retrieval
 30. Artificial neural networks for document analysis and recognition

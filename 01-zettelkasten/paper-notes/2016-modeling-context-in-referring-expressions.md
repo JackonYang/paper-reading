@@ -60,7 +60,7 @@ Humans refer to objects in their environments all the time, especially in dialog
 28. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 29. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 30. Scalable Object Detection Using Deep Neural Networks
-31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 32. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 33. [LSTM - A Search Space Odyssey](2017-lstm-a-search-space-odyssey)
 34. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)

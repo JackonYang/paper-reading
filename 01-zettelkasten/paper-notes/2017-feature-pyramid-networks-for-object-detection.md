@@ -9,13 +9,13 @@ authors:
 - Serge J. Belongie
 fieldsOfStudy:
 - Computer Science
-meta_key: 2017-feature-pyramid-networks-for-object-detection
+meta_key: 2017-fpn-detection
 numCitedBy: 9482
 reading_status: TBD
 ref_count: 49
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - "https://www.semanticscholar.org/paper/Feature-Pyramid-Networks-for-Object-Detection-Lin-Doll\xE1r/b9b4e05faa194e5022edd9eb9dd07e3d675c2b36?sort=total-citations"
@@ -34,7 +34,7 @@ Feature pyramids are a basic component in recognition systems for detecting obje
 1. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 2. A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection
 3. [Object Detection Networks on Convolutional Feature Maps](2017-object-detection-networks-on-convolutional-feature-maps)
-4. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+4. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 5. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 6. [Learning to Refine Object Segments](2016-learning-to-refine-object-segments)
 7. A MultiPath Network for Object Detection

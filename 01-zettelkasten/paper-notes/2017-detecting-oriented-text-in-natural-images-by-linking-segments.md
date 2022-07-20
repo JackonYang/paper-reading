@@ -49,7 +49,7 @@ Most state-of-the-art text detection methods are specific to horizontal Latin te
 19. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 20. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 21. ICDAR 2015 competition on Robust Reading
-22. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+22. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 23. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 24. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 25. Efficient Scene text localization and recognition with local character refinement

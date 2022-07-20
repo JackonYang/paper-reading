@@ -68,7 +68,7 @@ Driven by deep neural networks and large scale datasets, scene text detection me
 35. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 36. Detecting text in natural scenes with stroke width transform
 37. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
-38. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+38. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 39. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 40. ICDAR 2015 competition on Robust Reading
 41. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)

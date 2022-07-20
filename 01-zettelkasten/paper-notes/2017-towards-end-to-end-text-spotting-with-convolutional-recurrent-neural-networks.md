@@ -44,7 +44,7 @@ In this work, we jointly address the problem of text detection and recognition i
 14. [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](2016-recursive-recurrent-nets-with-attention-modeling-for-ocr-in-the-wild)
 15. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition
 16. [Robust Scene Text Recognition with Automatic Rectification](2016-robust-scene-text-recognition-with-automatic-rectification)
-17. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+17. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 18. ICDAR 2015 competition on Robust Reading
 19. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 20. Symmetry-based text line detection in natural scenes

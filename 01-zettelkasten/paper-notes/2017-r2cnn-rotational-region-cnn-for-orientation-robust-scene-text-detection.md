@@ -43,7 +43,7 @@ In this paper, we propose a novel method called Rotational Region CNN (R2CNN) fo
 8. A Hybrid Approach to Detect and Localize Texts in Natural Scene Images
 9. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 10. Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees
-11. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+11. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 12. [Deep Direct Regression for Multi-oriented Scene Text Detection](2017-deep-direct-regression-for-multi-oriented-scene-text-detection)
 13. [Detecting Oriented Text in Natural Images by Linking Segments](2017-detecting-oriented-text-in-natural-images-by-linking-segments)
 14. Detecting texts of arbitrary orientations in natural images

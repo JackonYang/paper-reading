@@ -41,7 +41,7 @@ Recognizing the layout of unstructured digital documents is an important step wh
 11. Table Detection from Document Image using Vertical Arrangement of Text Blocks
 12. Geometric Layout Analysis Techniques for Document Image Understanding - a Review
 13. pdf2table - A Method to Extract Table Information from PDF Files
-14. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+14. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 15. Two Geometric Algorithms for Layout Analysis
 16. Parts that add up to a whole - a framework for the analysis of tables
 17. [Mask R-CNN](2017-mask-r-cnn.md)

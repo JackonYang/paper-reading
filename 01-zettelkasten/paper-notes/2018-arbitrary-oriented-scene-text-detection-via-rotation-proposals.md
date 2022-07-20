@@ -63,7 +63,7 @@ This paper introduces a novel rotation-based framework for arbitrary-oriented te
 29. Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees
 30. Robustly Extracting Captions in Videos Based on Stroke-Like Edges and Spatio-Temporal Analysis
 31. Text Detection and Recognition in Imagery - A Survey
-32. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+32. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 33. Text Detection, Tracking and Recognition in Video - A Comprehensive Survey
 34. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)
 35. Texture-Based Approach for Text Detection in Images Using Support Vector Machines and Continuously Adaptive Mean Shift Algorithm

@@ -44,7 +44,7 @@ Most state-of-the-art scene text detection algorithms are deep learning based me
 13. [COCO-Text - Dataset and Benchmark for Text Detection and Recognition in Natural Images](2016-coco-text-dataset-and-benchmark-for-text-detection-and-recognition-in-natural-images)
 14. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 15. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
-16. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+16. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 17. PVANET - Deep but Lightweight Neural Networks for Real-time Object Detection
 18. Fully Convolutional Instance-Aware Semantic Segmentation
 19. Detecting texts of arbitrary orientations in natural images

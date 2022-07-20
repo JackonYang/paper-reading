@@ -53,7 +53,7 @@ We present a novel single-shot text detector that directly outputs word-level bo
 20. Canny Text Detector - Fast and Robust Scene Text Localization Algorithm
 21. Text Localization in Natural Images Using Stroke Feature Transform and Text Covariance Descriptors
 22. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
-23. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+23. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 24. Real-time scene text localization and recognition
 25. [Real-Time Lexicon-Free Scene Text Localization and Recognition](2016-real-time-lexicon-free-scene-text-localization-and-recognition)
 26. [COCO-Text - Dataset and Benchmark for Text Detection and Recognition in Natural Images](2016-coco-text-dataset-and-benchmark-for-text-detection-and-recognition-in-natural-images)

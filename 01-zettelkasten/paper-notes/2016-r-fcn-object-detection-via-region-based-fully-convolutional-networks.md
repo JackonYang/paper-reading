@@ -29,7 +29,7 @@ We present region-based, fully convolutional networks for accurate and efficient
 
 ## Paper References
 
-1. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+1. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 2. R-CNN minus R
 3. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 4. [Fast R-CNN](2015-fast-r-cnn)

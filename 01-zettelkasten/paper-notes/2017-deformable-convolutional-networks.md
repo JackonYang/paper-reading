@@ -41,7 +41,7 @@ Convolutional neural networks (CNNs) are inherently limited to model geometric t
 7. [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](2015-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition)
 8. Transformation-Invariant Convolutional Jungles
 9. TI-POOLING - Transformation-Invariant Pooling for Feature Learning in Convolutional Neural Networks
-10. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+10. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 11. Harmonic Networks - Deep Translation and Rotation Equivariance
 12. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 13. Exploiting Cyclic Symmetry in Convolutional Neural Networks

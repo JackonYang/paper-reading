@@ -44,7 +44,7 @@ The goal of this paper is to serve as a guide for selecting a detection architec
 6. Scalable Object Detection Using Deep Neural Networks
 7. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 8. Scalable, High-Quality Object Detection
-9. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+9. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 10. [Very Deep Convolutional Networks for Large-Scale Image Recognition](2014-vggnet.md)
 11. CRAFT Objects from Images
 12. [Instance-Aware Semantic Segmentation via Multi-task Network Cascades](2016-instance-aware-semantic-segmentation-via-multi-task-network-cascades)

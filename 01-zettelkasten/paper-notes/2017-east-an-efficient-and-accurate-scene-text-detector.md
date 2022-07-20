@@ -54,7 +54,7 @@ Previous approaches for scene text detection have already achieved promising per
 20. UnitBox - An Advanced Object Detection Network
 21. [An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition](2017-an-end-to-end-trainable-neural-network-for-image-based-sequence-recognition-and-its-application-to-scene-text-recognition)
 22. Strokelets - A Learned Multi-scale Representation for Scene Text Recognition
-23. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+23. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 24. PVANET - Deep but Lightweight Neural Networks for Real-time Object Detection
 25. [HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection](2016-hypernet-towards-accurate-region-proposal-generation-and-joint-object-detection)
 26. ICDAR 2015 competition on Robust Reading

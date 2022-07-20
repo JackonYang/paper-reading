@@ -57,7 +57,7 @@ Text in natural images is of arbitrary orientations, requiring detection in term
 25. PhotoOCR - Reading Text in Uncontrolled Conditions
 26. Reading Text in the Wild with Convolutional Neural Networks
 27. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
-28. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+28. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 29. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 30. Deep TextSpotter - An End-to-End Trainable Scene Text Localization and Recognition Framework
 31. Rotated region based CNN for ship detection

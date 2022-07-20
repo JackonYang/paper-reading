@@ -31,7 +31,7 @@ The field of object detection has made significant advances riding on the wave o
 1. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 2. Ensemble of exemplar-SVMs for object detection and beyond
 3. [Object Detection with Discriminatively Trained Part Based Models](2009-object-detection-with-discriminatively-trained-part-based-models)
-4. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+4. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 5. [Measuring the Objectness of Image Windows](2012-measuring-the-objectness-of-image-windows)
 6. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
 7. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)

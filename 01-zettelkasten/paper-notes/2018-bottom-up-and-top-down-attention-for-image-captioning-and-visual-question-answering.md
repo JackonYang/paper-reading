@@ -57,7 +57,7 @@ Top-down visual attention mechanisms have been used extensively in image caption
 23. [Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations](2016-visual-genome-connecting-language-and-vision-using-crowdsourced-dense-image-annotations)
 24. [CIDEr - Consensus-based image description evaluation](2015-cider-consensus-based-image-description-evaluation)
 25. [SPICE - Semantic Propositional Image Caption Evaluation](2016-spice-semantic-propositional-image-caption-evaluation)
-26. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+26. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 27. [Deep Visual-Semantic Alignments for Generating Image Descriptions](2017-deep-visual-semantic-alignments-for-generating-image-descriptions)
 28. Optimization of image description metrics using policy gradient methods
 29. [Deep Residual Learning for Image Recognition](2015-resnet.md)

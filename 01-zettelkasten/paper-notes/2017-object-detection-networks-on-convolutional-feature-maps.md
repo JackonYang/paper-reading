@@ -30,7 +30,7 @@ Most object detectors contain two important components: a feature extractor and 
 
 ## Paper References
 
-1. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+1. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 2. Convolutional feature masking for joint object and stuff segmentation
 3. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 4. Improving object detection with deep convolutional networks via Bayesian optimization and structured prediction

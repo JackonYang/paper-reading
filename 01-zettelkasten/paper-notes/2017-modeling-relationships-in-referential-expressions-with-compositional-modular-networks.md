@@ -53,7 +53,7 @@ People often refer to entities in an image in terms of their relationships with 
 21. [Show, Attend and Tell - Neural Image Caption Generation with Visual Attention](2015-show-attend-and-tell-neural-image-caption-generation-with-visual-attention)
 22. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 23. Stating the Obvious - Extracting Visual Common Sense Knowledge
-24. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+24. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 25. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)
 26. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 27. Fast and Accurate Shift-Reduce Constituent Parsing

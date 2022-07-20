@@ -60,7 +60,7 @@ We present Open Images V4, a dataset of 9.2M images with unified annotations for
 21. [Learning Multiple Layers of Features from Tiny Images](2009-learning-multiple-layers-of-features-from-tiny-images)
 22. Visual Translation Embedding Network for Visual Relation Detection
 23. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
-24. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+24. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 25. [Selective Search for Object Recognition](2013-selective-search-for-object-recognition)
 26. Detecting Visual Relationships Using Box Attention
 27. [Rapid object detection using a boosted cascade of simple features](2001-rapid-object-detection-using-a-boosted-cascade-of-simple-features)

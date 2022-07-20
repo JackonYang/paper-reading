@@ -60,7 +60,7 @@ We introduce GQA, a new dataset for real-world visual reasoning and compositiona
 31. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database)
 32. Creativity - Generating Diverse Questions Using Variational Autoencoders
 33. The New Data and New Challenges in Multimedia Research
-34. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+34. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 35. [GloVe - Global Vectors for Word Representation](2014-glove-global-vectors-for-word-representation)
 36. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization)
 37. Guess Where - The Position of Correct Answers in Multiple-Choice Test Items as a Psychometric Variable

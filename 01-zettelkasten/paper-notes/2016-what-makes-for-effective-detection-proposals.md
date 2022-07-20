@@ -34,7 +34,7 @@ Current top performing object detectors employ detection proposals to guide the 
 3. Scalable, High-Quality Object Detection
 4. Learning to Segment Object Candidates
 5. Improving Spatial Support for Objects via Multiple Segmentations
-6. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+6. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 7. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)
 8. Segmentation as selective search for object recognition
 9. Regionlets for Generic Object Detection

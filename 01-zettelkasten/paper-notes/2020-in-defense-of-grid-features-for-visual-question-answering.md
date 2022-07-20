@@ -60,7 +60,7 @@ Popularized as `bottom-up' attention, bounding box (or region) based visual feat
 28. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 29. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 30. [Aggregated Residual Transformations for Deep Neural Networks](2017-aggregated-residual-transformations-for-deep-neural-networks)
-31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+31. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 32. [Bilinear Attention Networks](2018-bilinear-attention-networks)
 33. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 34. [Long-term recurrent convolutional networks for visual recognition and description](2015-long-term-recurrent-convolutional-networks-for-visual-recognition-and-description)

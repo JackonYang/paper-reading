@@ -27,7 +27,7 @@ We introduce YOLO9000, a state-of-the-art, real-time object detection system tha
 
 ## Paper References
 
-1. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+1. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 2. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
 3. [Fast R-CNN](2015-fast-r-cnn)
 4. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](2017-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning)

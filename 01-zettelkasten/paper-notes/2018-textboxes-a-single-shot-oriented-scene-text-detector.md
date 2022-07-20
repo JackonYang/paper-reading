@@ -72,7 +72,7 @@ Scene text detection is an important step of scene text recognition system and a
 42. Text Detection and Recognition in Imagery - A Survey
 43. End-to-End Text Recognition with Hybrid HMM Maxout Models
 44. ICDAR 2015 competition on Robust Reading
-45. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+45. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 46. SReN - Shape Regression Network for Comic Storyboard Extraction
 47. PVANET - Deep but Lightweight Neural Networks for Real-time Object Detection
 48. Text detection in stores using a repetition prior

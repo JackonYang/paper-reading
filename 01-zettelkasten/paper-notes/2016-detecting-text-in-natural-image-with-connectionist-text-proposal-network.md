@@ -46,7 +46,7 @@ We propose a novel Connectionist Text Proposal Network (CTPN) that accurately lo
 14. Scale based region growing for scene text detection
 15. End-to-end scene text recognition
 16. A Unified Framework for Multioriented Text Detection and Recognition
-17. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+17. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 18. [Real-Time Lexicon-Free Scene Text Localization and Recognition](2016-real-time-lexicon-free-scene-text-localization-and-recognition)
 19. FASText - Efficient Unconstrained Scene Text Detector
 20. Snoopertext - A multiresolution system for text detection in complex visual scenes

@@ -46,7 +46,7 @@ In this paper we present a deployed, scalable optical character recognition (OCR
 16. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 17. ShuffleNet - An Extremely Efficient Convolutional Neural Network for Mobile Devices
 18. Soft-NMS - Improving Object Detection with One Line of Code
-19. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+19. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 20. Accurate, Large Minibatch SGD - Training ImageNet in 1 Hour
 21. [Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks](2006-connectionist-temporal-classification-labelling-unsegmented-sequence-data-with-recurrent-neural-networks)
 22. [Fast Feature Pyramids for Object Detection](2014-fast-feature-pyramids-for-object-detection)

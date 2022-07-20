@@ -41,7 +41,7 @@ Linking two data sources is a basic building block in numerous computer vision p
 12. Canonical Correlation Analysis of Video Volume Tensors for Action Categorization and Detection
 13. On Deep Multi-View Representation Learning
 14. [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](2015-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift)
-15. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+15. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 16. Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition
 17. [Microsoft COCO - Common Objects in Context](2014-microsoft-coco-common-objects-in-context)
 18. [Dropout - a simple way to prevent neural networks from overfitting](2014-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting)

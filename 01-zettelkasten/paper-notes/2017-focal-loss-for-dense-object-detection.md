@@ -13,8 +13,8 @@ numCitedBy: 3944
 reading_status: TBD
 ref_count: 49
 tags:
+- detection
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Focal-Loss-for-Dense-Object-Detection-Lin-Goyal/79cfb51a51fc093f66aac8e858afe2e14d4a1f20?sort=total-citations
@@ -35,7 +35,7 @@ The highest accuracy object detectors to date are based on a two-stage approach 
 3. Learning to Segment Object Candidates
 4. [Training Region-Based Object Detectors with Online Hard Example Mining](2016-training-region-based-object-detectors-with-online-hard-example-mining)
 5. [SSD - Single Shot MultiBox Detector](2016-ssd-net.md)
-6. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+6. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 7. [Feature Pyramid Networks for Object Detection](2017-feature-pyramid-networks-for-object-detection)
 8. Scalable Object Detection Using Deep Neural Networks
 9. [Rapid object detection using a boosted cascade of simple features](2001-rapid-object-detection-using-a-boosted-cascade-of-simple-features)

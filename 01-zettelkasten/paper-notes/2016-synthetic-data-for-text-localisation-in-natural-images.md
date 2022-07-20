@@ -42,7 +42,7 @@ In this paper we introduce a new method for text detection in natural images. Th
 12. Scene Text Localization and Recognition with Oriented Stroke Detection
 13. ICDAR 2011 Robust Reading Competition Challenge 2 - Reading Text in Scene Images
 14. ICDAR 2015 competition on Robust Reading
-15. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+15. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 16. Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
 17. [Fully Convolutional Networks for Semantic Segmentation](2017-fully-convolutional-networks-for-semantic-segmentation)
 18. Word Spotting in the Wild

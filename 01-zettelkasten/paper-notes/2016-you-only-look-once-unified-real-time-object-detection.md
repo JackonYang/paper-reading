@@ -32,7 +32,7 @@ We present YOLO, a new approach to object detection. Prior work on object detect
 1. [Simultaneous Detection and Segmentation](2014-simultaneous-detection-and-segmentation)
 2. [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](2014-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation)
 3. Scalable Object Detection Using Deep Neural Networks
-4. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+4. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 5. [Robust Real-time Object Detection](2001-robust-real-time-object-detection)
 6. Learning to Localize Objects with Structured Output Regression
 7. [OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks](2014-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks)

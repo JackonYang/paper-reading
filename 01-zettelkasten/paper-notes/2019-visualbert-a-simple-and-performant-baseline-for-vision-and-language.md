@@ -59,7 +59,7 @@ We propose VisualBERT, a simple and flexible framework for modeling a broad rang
 27. [Deep Residual Learning for Image Recognition](2015-resnet.md)
 28. [ImageNet Large Scale Visual Recognition Challenge](2015-imagenet-large-scale-visual-recognition-challenge)
 29. Analyzing Multi-Head Self-Attention - Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned
-30. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+30. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 31. AllenNLP - A Deep Semantic Natural Language Processing Platform
 32. Image retrieval using scene graphs
 33. Deep Biaffine Attention for Neural Dependency Parsing

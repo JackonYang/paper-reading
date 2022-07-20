@@ -35,7 +35,7 @@ Semantic segmentation research has recently witnessed rapid progress, but many l
 5. [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](2015-semantic-image-segmentation-with-deep-convolutional-nets-and-fully-connected-crfs)
 6. Convolutional feature masking for joint object and stuff segmentation
 7. [Simultaneous Detection and Segmentation](2014-simultaneous-detection-and-segmentation)
-8. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
+8. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn.md)
 9. Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation
 10. Learning to Segment Object Candidates
 11. [Conditional Random Fields as Recurrent Neural Networks](2015-conditional-random-fields-as-recurrent-neural-networks)
