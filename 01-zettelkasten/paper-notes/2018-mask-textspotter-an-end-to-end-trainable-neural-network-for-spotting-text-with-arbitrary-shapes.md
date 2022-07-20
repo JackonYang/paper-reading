@@ -119,7 +119,7 @@ Unifying text detection and text recognition in an end-to-end training fashion h
 87. [Fast R-CNN](2015-fast-r-cnn)
 88. [Long Short-Term Memory](1997-long-short-term-memory)
 89. [Edge Boxes - Locating Object Proposals from Edges](2014-edge-boxes-locating-object-proposals-from-edges)
-90. [Mask R-CNN](2020-mask-r-cnn)
+90. [Mask R-CNN](2017-mask-r-cnn.md)
 91. [TextBoxes - A Fast Text Detector with a Single Deep Neural Network](2017-textboxes-a-fast-text-detector-with-a-single-deep-neural-network)
 92. [Fully convolutional networks for semantic segmentation](2015-fully-convolutional-networks-for-semantic-segmentation)
 93. [Multi-Scale Context Aggregation by Dilated Convolutions](2016-multi-scale-context-aggregation-by-dilated-convolutions)

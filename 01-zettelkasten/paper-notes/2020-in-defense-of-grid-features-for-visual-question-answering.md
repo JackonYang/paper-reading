@@ -85,6 +85,6 @@ Popularized as `bottom-up' attention, bounding box (or region) based visual feat
 53. [Bleu - a Method for Automatic Evaluation of Machine Translation](2002-bleu-a-method-for-automatic-evaluation-of-machine-translation)
 54. YFCC100M - the new data in multimedia research
 55. Symbol grounding problem
-56. [Mask R-CNN](2020-mask-r-cnn)
+56. [Mask R-CNN](2017-mask-r-cnn.md)
 57. Neural-Symbolic VQA - Disentangling Reasoning from Vision and Language Understanding
 58. ReferItGame - Referring to Objects in Photographs of Natural Scenes

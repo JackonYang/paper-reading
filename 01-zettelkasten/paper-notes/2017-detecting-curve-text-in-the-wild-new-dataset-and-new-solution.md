@@ -48,7 +48,7 @@ Scene text detection has been made great progress in recent years. The detection
 17. [R-FCN - Object Detection via Region-based Fully Convolutional Networks](2016-r-fcn-object-detection-via-region-based-fully-convolutional-networks)
 18. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 19. Detecting text in natural scenes with stroke width transform
-20. [Mask R-CNN](2017-mask-r-cnn)
+20. [Mask R-CNN](2017-mask-r-cnn.md)
 21. ICDAR 2015 competition on Robust Reading
 22. ICDAR 2011 Robust Reading Competition Challenge 2 - Reading Text in Scene Images
 23. ICDAR2017 Robust Reading Challenge on Omnidirectional Video

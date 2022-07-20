@@ -67,5 +67,5 @@ The highest accuracy object detectors to date are based on a two-stage approach 
 35. Human Face Detection in Visual Scenes
 36. Original approach for the localisation of objects in images
 37. Backpropagation Applied to Handwritten Zip Code Recognition
-38. [Mask R-CNN](2020-mask-r-cnn)
+38. [Mask R-CNN](2017-mask-r-cnn.md)
 39. [You Only Look Once - Unified, Real-Time Object Detection](2016-you-only-look-once-unified-real-time-object-detection)

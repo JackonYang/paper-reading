@@ -95,7 +95,7 @@ We introduce a new dataset for joint reasoning about natural language and images
 63. Mapping Navigation Instructions to Continuous Control Actions with Position-Visitation Prediction
 64. “Caption” as a Coherence Relation - Evidence and Implications
 65. Neural-Symbolic VQA - Disentangling Reasoning from Vision and Language Understanding
-66. [Mask R-CNN](2020-mask-r-cnn)
+66. [Mask R-CNN](2017-mask-r-cnn.md)
 67. The measurement of observer agreement for categorical data.
 68. [Generation and Comprehension of Unambiguous Object Descriptions](2016-generation-and-comprehension-of-unambiguous-object-descriptions)
 69. ReferItGame - Referring to Objects in Photographs of Natural Scenes

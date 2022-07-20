@@ -76,7 +76,7 @@ We introduce a novel framework for image captioning that can produce natural lan
 45. [Long Short-Term Memory](1997-long-short-term-memory)
 46. [The Stanford CoreNLP Natural Language Processing Toolkit](2014-the-stanford-corenlp-natural-language-processing-toolkit)
 47. [Bleu - a Method for Automatic Evaluation of Machine Translation](2002-bleu-a-method-for-automatic-evaluation-of-machine-translation)
-48. [Mask R-CNN](2020-mask-r-cnn)
+48. [Mask R-CNN](2017-mask-r-cnn.md)
 49. [Modeling Relationships in Referential Expressions with Compositional Modular Networks](2017-modeling-relationships-in-referential-expressions-with-compositional-modular-networks)
 50. [Generation and Comprehension of Unambiguous Object Descriptions](2016-generation-and-comprehension-of-unambiguous-object-descriptions)
 51. ReferItGame - Referring to Objects in Photographs of Natural Scenes

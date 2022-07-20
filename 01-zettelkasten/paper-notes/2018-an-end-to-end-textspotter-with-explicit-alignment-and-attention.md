@@ -71,7 +71,7 @@ Text detection and recognition in natural images have long been considered as tw
 38. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding)
 39. [Fast R-CNN](2015-fast-r-cnn)
 40. PVANet - Lightweight Deep Neural Networks for Real-time Object Detection
-41. [Mask R-CNN](2020-mask-r-cnn)
+41. [Mask R-CNN](2017-mask-r-cnn.md)
 42. [Text-Attentional Convolutional Neural Networks for Scene Text Detection](2016-text-attentional-convolutional-neural-networks-for-scene-text-detection)
 43. [TextBoxes - A Fast Text Detector with a Single Deep Neural Network](2017-textboxes-a-fast-text-detector-with-a-single-deep-neural-network)
 44. A Novel Connectionist System for Unconstrained Handwriting Recognition

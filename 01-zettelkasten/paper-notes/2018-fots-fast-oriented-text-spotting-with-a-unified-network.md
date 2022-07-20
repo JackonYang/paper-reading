@@ -83,4 +83,4 @@ Incidental scene text spotting is considered one of the most difficult and valua
 50. [Long Short-Term Memory](1997-long-short-term-memory)
 51. [TextBoxes - A Fast Text Detector with a Single Deep Neural Network](2017-textboxes-a-fast-text-detector-with-a-single-deep-neural-network)
 52. Detecting and reading text in natural scenes
-53. [Mask R-CNN](2020-mask-r-cnn)
+53. [Mask R-CNN](2017-mask-r-cnn.md)

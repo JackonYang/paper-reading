@@ -115,4 +115,4 @@ We introduce the Neural State Machine, seeking to bridge the gap between the neu
 86. Introduction to Automata Theory, Languages and Computation
 87. A perspective on thinking.
 88. Change in View - Principles of Reasoning
-89. [Mask R-CNN](2020-mask-r-cnn)
+89. [Mask R-CNN](2017-mask-r-cnn.md)

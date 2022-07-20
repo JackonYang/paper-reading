@@ -54,5 +54,5 @@ Most state-of-the-art scene text detection algorithms are deep learning based me
 23. ICDAR 2013 Robust Reading Competition
 24. [Understanding the difficulty of training deep feedforward neural networks](2010-understanding-the-difficulty-of-training-deep-feedforward-neural-networks)
 25. Efficient Maximally Stable Extremal Region (MSER) Tracking
-26. [Mask R-CNN](2020-mask-r-cnn)
+26. [Mask R-CNN](2017-mask-r-cnn.md)
 27. [TextBoxes - A Fast Text Detector with a Single Deep Neural Network](2017-textboxes-a-fast-text-detector-with-a-single-deep-neural-network)

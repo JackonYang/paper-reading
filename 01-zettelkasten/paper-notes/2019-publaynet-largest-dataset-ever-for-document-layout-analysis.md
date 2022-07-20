@@ -44,7 +44,7 @@ Recognizing the layout of unstructured digital documents is an important step wh
 14. [Faster R-CNN - Towards Real-Time Object Detection with Region Proposal Networks](2015-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks)
 15. Two Geometric Algorithms for Layout Analysis
 16. Parts that add up to a whole - a framework for the analysis of tables
-17. [Mask R-CNN](2020-mask-r-cnn)
+17. [Mask R-CNN](2017-mask-r-cnn.md)
 18. Binary codes capable of correcting deletions, insertions, and reversals
 19. [DeepDeSRT - Deep Learning for Detection and Structure Recognition of Tables in Document Images](2017-deepdesrt-deep-learning-for-detection-and-structure-recognition-of-tables-in-document-images)
 20. Table Detection Using Deep Learning

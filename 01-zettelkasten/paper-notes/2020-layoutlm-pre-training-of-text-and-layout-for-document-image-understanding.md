@@ -44,7 +44,7 @@ Pre-training techniques have been verified successfully in a variety of NLP task
 11. Graph Convolution for Multimodal Information Extraction from Visually Rich Documents
 12. [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](2019-bert.md)
 13. [Chargrid - Towards Understanding 2D Documents](2018-chargrid-towards-understanding-2d-documents)
-14. [Mask R-CNN](2020-mask-r-cnn)
+14. [Mask R-CNN](2017-mask-r-cnn.md)
 15. The Document Spectrum for Page Layout Analysis
 16. Document Image Classification with Intra-Domain Transfer Learning and Stacked Generalization of Deep Convolutional Neural Networks
 17. [DeepDeSRT - Deep Learning for Detection and Structure Recognition of Tables in Document Images](2017-deepdesrt-deep-learning-for-detection-and-structure-recognition-of-tables-in-document-images)
