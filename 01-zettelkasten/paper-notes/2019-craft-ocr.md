@@ -11,7 +11,7 @@ fieldsOfStudy:
 - Computer Science
 meta_key: 2019-craft-ocr
 numCitedBy: 290
-pdf_relpath: pdfs/2019-CRAFT-character-region-awareness.pdf
+pdf_relpath: paper-repo/pdfs/2019-CRAFT-character-region-awareness.pdf
 reading_status: TBD
 ref_count: 42
 tags:
