@@ -4,7 +4,7 @@ authors:
 - Pedro H. O. Pinheiro
 - Tsung-Yi Lin
 - Ronan Collobert
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 fieldsOfStudy:
 - Computer Science
 meta_key: 2016-learning-to-refine-object-segments

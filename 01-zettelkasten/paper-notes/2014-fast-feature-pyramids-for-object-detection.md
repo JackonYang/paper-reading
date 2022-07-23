@@ -1,7 +1,7 @@
 ---
 title: Fast Feature Pyramids for Object Detection
 authors:
-- "P. Doll\xE1r"
+- P. Dollár
 - Ron Appel
 - Serge J. Belongie
 - P. Perona
@@ -16,7 +16,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Fast-Feature-Pyramids-for-Object-Detection-Doll\xE1r-Appel/84e0d68e41788644c78cfdc3f4ac3cbea7854a5c?sort=total-citations"
+- https://www.semanticscholar.org/paper/Fast-Feature-Pyramids-for-Object-Detection-Dollár-Appel/84e0d68e41788644c78cfdc3f4ac3cbea7854a5c?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2014
 ---

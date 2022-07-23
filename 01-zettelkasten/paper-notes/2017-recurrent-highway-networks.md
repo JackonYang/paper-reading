@@ -3,7 +3,7 @@ title: Recurrent Highway Networks
 authors:
 - Julian G. Zilly
 - R. Srivastava
-- "J. Koutn\xEDk"
+- J. Koutník
 - J. Schmidhuber
 fieldsOfStudy:
 - Computer Science

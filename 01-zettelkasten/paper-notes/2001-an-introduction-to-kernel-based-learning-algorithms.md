@@ -1,11 +1,11 @@
 ---
 title: An introduction to kernel-based learning algorithms
 authors:
-- "K. M\xFCller"
+- K. Müller
 - S. Mika
-- "Gunnar R\xE4tsch"
+- Gunnar Rätsch
 - K. Tsuda
-- "B. Sch\xF6lkopf"
+- B. Schölkopf
 fieldsOfStudy:
 - Computer Science
 meta_key: 2001-an-introduction-to-kernel-based-learning-algorithms
@@ -17,7 +17,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/An-introduction-to-kernel-based-learning-algorithms-M\xFCller-Mika/1fcbefeb0beae4470cf40df74cd116b1d4bdcae4?sort=total-citations"
+- https://www.semanticscholar.org/paper/An-introduction-to-kernel-based-learning-algorithms-Müller-Mika/1fcbefeb0beae4470cf40df74cd116b1d4bdcae4?sort=total-citations
 venue: IEEE Trans. Neural Networks
 year: 2001
 ---

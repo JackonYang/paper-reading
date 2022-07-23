@@ -11,7 +11,7 @@ authors:
 - David Raposo
 - Adam Santoro
 - R. Faulkner
-- "\xC7aglar G\xFCl\xE7ehre"
+- Çaglar Gülçehre
 - H. F. Song
 - A. J. Ballard
 - J. Gilmer

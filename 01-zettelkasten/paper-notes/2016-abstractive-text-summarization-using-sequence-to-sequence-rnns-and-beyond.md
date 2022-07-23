@@ -4,7 +4,7 @@ authors:
 - Ramesh Nallapati
 - Bowen Zhou
 - C. D. Santos
-- "\xC7aglar G\xFCl\xE7ehre"
+- Çaglar Gülçehre
 - Bing Xiang
 fieldsOfStudy:
 - Computer Science

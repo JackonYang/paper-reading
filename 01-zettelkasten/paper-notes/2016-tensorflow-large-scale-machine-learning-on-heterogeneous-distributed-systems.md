@@ -1,7 +1,7 @@
 ---
 title: TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems
 authors:
-- "Mart\xEDn Abadi"
+- Martín Abadi
 - Ashish Agarwal
 - P. Barham
 - E. Brevdo
@@ -17,11 +17,11 @@ authors:
 - Geoffrey Irving
 - M. Isard
 - Yangqing Jia
-- "R. J\xF3zefowicz"
+- R. Józefowicz
 - Lukasz Kaiser
 - M. Kudlur
 - J. Levenberg
-- "Dandelion Man\xE9"
+- Dandelion Mané
 - R. Monga
 - Sherry Moore
 - D. Murray
@@ -34,7 +34,7 @@ authors:
 - P. Tucker
 - Vincent Vanhoucke
 - Vijay Vasudevan
-- "F. Vi\xE9gas"
+- F. Viégas
 - Oriol Vinyals
 - P. Warden
 - M. Wattenberg

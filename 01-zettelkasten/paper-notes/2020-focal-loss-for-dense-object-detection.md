@@ -5,7 +5,7 @@ authors:
 - Priya Goyal
 - Ross B. Girshick
 - Kaiming He
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 fieldsOfStudy:
 - Computer Science
 meta_key: 2020-focal-loss-for-dense-object-detection

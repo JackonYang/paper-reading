@@ -9,7 +9,7 @@ authors:
 - Anthony Moi
 - Pierric Cistac
 - T. Rault
-- "R\xE9mi Louf"
+- Rémi Louf
 - Morgan Funtowicz
 - Jamie Brew
 fieldsOfStudy:

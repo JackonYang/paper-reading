@@ -6,7 +6,7 @@ authors:
 - Forrest N. Iandola
 - R. Srivastava
 - L. Deng
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 - Jianfeng Gao
 - Xiaodong He
 - Margaret Mitchell

@@ -6,7 +6,7 @@ authors:
 - Luke Anderson
 - Riyadh Baghdadi
 - Tzu-Mao Li
-- "Micha\xEBl Gharbi"
+- Michaël Gharbi
 - Benoit Steiner
 - Steven Johnson
 - Kayvon Fatahalian

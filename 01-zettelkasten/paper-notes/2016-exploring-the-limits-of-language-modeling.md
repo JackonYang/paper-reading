@@ -1,7 +1,7 @@
 ---
 title: Exploring the Limits of Language Modeling
 authors:
-- "R. J\xF3zefowicz"
+- R. Józefowicz
 - Oriol Vinyals
 - M. Schuster
 - Noam M. Shazeer
@@ -17,7 +17,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Exploring-the-Limits-of-Language-Modeling-J\xF3zefowicz-Vinyals/2f2d8f8072e5cc9b296fad551f65f183bdbff7aa?sort=total-citations"
+- https://www.semanticscholar.org/paper/Exploring-the-Limits-of-Language-Modeling-Józefowicz-Vinyals/2f2d8f8072e5cc9b296fad551f65f183bdbff7aa?sort=total-citations
 venue: ArXiv
 year: 2016
 ---

@@ -6,7 +6,7 @@ authors:
 - Tsung-Yi Lin
 - Ramakrishna Vedantam
 - Saurabh Gupta
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 - C. L. Zitnick
 fieldsOfStudy:
 - Computer Science

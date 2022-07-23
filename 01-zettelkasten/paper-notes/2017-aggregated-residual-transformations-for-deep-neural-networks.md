@@ -3,7 +3,7 @@ title: Aggregated Residual Transformations for Deep Neural Networks
 authors:
 - Saining Xie
 - Ross B. Girshick
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 - Z. Tu
 - Kaiming He
 fieldsOfStudy:

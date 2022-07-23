@@ -4,7 +4,7 @@ authors:
 - Yann LeCun
 - L. Bottou
 - G. Orr
-- "K. M\xFCller"
+- K. Müller
 fieldsOfStudy:
 - Computer Science
 meta_key: 2012-efficient-backprop

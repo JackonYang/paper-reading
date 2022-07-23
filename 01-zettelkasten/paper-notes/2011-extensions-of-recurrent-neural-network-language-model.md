@@ -4,7 +4,7 @@ authors:
 - Tomas Mikolov
 - Stefan Kombrink
 - L. Burget
-- "J. Cernock\xFD"
+- J. Cernocký
 - S. Khudanpur
 fieldsOfStudy:
 - Computer Science

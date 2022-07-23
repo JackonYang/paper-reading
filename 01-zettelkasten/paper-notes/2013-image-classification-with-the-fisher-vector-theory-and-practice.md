@@ -1,7 +1,7 @@
 ---
 title: Image Classification with the Fisher Vector - Theory and Practice
 authors:
-- "Jorge S\xE1nchez"
+- Jorge Sánchez
 - F. Perronnin
 - Thomas Mensink
 - J. Verbeek
@@ -16,7 +16,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Image-Classification-with-the-Fisher-Vector:-Theory-S\xE1nchez-Perronnin/d4cede3acfd94fccc927519e04384a8debfec705?sort=total-citations"
+- https://www.semanticscholar.org/paper/Image-Classification-with-the-Fisher-Vector:-Theory-Sánchez-Perronnin/d4cede3acfd94fccc927519e04384a8debfec705?sort=total-citations
 venue: International Journal of Computer Vision
 year: 2013
 ---

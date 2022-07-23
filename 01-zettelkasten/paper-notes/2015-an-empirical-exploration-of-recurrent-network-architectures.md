@@ -1,7 +1,7 @@
 ---
 title: An Empirical Exploration of Recurrent Network Architectures
 authors:
-- "R. J\xF3zefowicz"
+- R. Józefowicz
 - Wojciech Zaremba
 - Ilya Sutskever
 fieldsOfStudy:
@@ -15,7 +15,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/An-Empirical-Exploration-of-Recurrent-Network-J\xF3zefowicz-Zaremba/5b8364c21155d3d2cd38ea4c8b8580beba9a3250?sort=total-citations"
+- https://www.semanticscholar.org/paper/An-Empirical-Exploration-of-Recurrent-Network-Józefowicz-Zaremba/5b8364c21155d3d2cd38ea4c8b8580beba9a3250?sort=total-citations
 venue: ICML
 year: 2015
 ---

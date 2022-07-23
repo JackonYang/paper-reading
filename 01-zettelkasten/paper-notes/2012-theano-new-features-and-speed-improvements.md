@@ -1,7 +1,7 @@
 ---
 title: Theano - new features and speed improvements
 authors:
-- "Fr\xE9d\xE9ric Bastien"
+- Frédéric Bastien
 - Pascal Lamblin
 - Razvan Pascanu
 - J. Bergstra

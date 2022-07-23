@@ -4,7 +4,7 @@ authors:
 - J. Bergstra
 - R. Bardenet
 - Yoshua Bengio
-- "B. K\xE9gl"
+- B. Kégl
 fieldsOfStudy:
 - Computer Science
 meta_key: 2011-algorithms-for-hyper-parameter-optimization

@@ -3,7 +3,7 @@ title: COCO-Text - Dataset and Benchmark for Text Detection and Recognition in N
 authors:
 - Andreas Veit
 - T. Matera
-- "Luk\xE1s Neumann"
+- Lukás Neumann
 - Jiri Matas
 - Serge J. Belongie
 fieldsOfStudy:

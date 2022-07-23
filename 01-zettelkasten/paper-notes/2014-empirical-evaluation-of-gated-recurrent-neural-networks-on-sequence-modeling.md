@@ -2,7 +2,7 @@
 title: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
 authors:
 - Junyoung Chung
-- "\xC7aglar G\xFCl\xE7ehre"
+- Çaglar Gülçehre
 - Kyunghyun Cho
 - Yoshua Bengio
 fieldsOfStudy:
@@ -16,7 +16,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Empirical-Evaluation-of-Gated-Recurrent-Neural-on-Chung-G\xFCl\xE7ehre/adfcf065e15fd3bc9badf6145034c84dfb08f204?sort=total-citations"
+- https://www.semanticscholar.org/paper/Empirical-Evaluation-of-Gated-Recurrent-Neural-on-Chung-Gülçehre/adfcf065e15fd3bc9badf6145034c84dfb08f204?sort=total-citations
 venue: ArXiv
 year: 2014
 ---

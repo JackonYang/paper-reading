@@ -2,7 +2,7 @@
 title: Edge Boxes - Locating Object Proposals from Edges
 authors:
 - C. L. Zitnick
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 fieldsOfStudy:
 - Computer Science
 meta_key: 2014-edge-boxes-locating-object-proposals-from-edges
@@ -14,7 +14,7 @@ tags:
 - gen-from-ref
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Edge-Boxes:-Locating-Object-Proposals-from-Edges-Zitnick-Doll\xE1r/b183947ee15718b45546eda6b01e179b9a95421f?sort=total-citations"
+- https://www.semanticscholar.org/paper/Edge-Boxes:-Locating-Object-Proposals-from-Edges-Zitnick-Dollár/b183947ee15718b45546eda6b01e179b9a95421f?sort=total-citations
 venue: ECCV
 year: 2014
 ---

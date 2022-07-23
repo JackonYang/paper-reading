@@ -1,7 +1,7 @@
 ---
 title: Recognizing human actions - a local SVM approach
 authors:
-- "C. Sch\xFCldt"
+- C. Schüldt
 - I. Laptev
 - B. Caputo
 fieldsOfStudy:
@@ -15,7 +15,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Recognizing-human-actions:-a-local-SVM-approach-Sch\xFCldt-Laptev/b786e478cf0be6fcfaeb7812e25da85523236855?sort=total-citations"
+- https://www.semanticscholar.org/paper/Recognizing-human-actions:-a-local-SVM-approach-Schüldt-Laptev/b786e478cf0be6fcfaeb7812e25da85523236855?sort=total-citations
 venue: Proceedings of the 17th International Conference on Pattern Recognition, 2004. ICPR 2004.
 year: 2004
 ---

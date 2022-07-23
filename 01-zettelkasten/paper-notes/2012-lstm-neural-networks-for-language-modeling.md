@@ -2,7 +2,7 @@
 title: LSTM Neural Networks for Language Modeling
 authors:
 - M. Sundermeyer
-- "R. Schl\xFCter"
+- R. Schlüter
 - H. Ney
 fieldsOfStudy:
 - Computer Science
@@ -15,7 +15,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/LSTM-Neural-Networks-for-Language-Modeling-Sundermeyer-Schl\xFCter/f9a1b3850dfd837793743565a8af95973d395a4e?sort=total-citations"
+- https://www.semanticscholar.org/paper/LSTM-Neural-Networks-for-Language-Modeling-Sundermeyer-Schlüter/f9a1b3850dfd837793743565a8af95973d395a4e?sort=total-citations
 venue: INTERSPEECH
 year: 2012
 ---

@@ -6,7 +6,7 @@ authors:
 - Cordula Guder
 - Sebastian Brarda
 - S. Bickel
-- "J. H\xF6hne"
+- J. Höhne
 - J. Faddoul
 fieldsOfStudy:
 - Computer Science

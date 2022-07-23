@@ -1,7 +1,7 @@
 ---
 title: Pedestrian Detection - An Evaluation of the State of the Art
 authors:
-- "P. Doll\xE1r"
+- P. Dollár
 - C. Wojek
 - B. Schiele
 - P. Perona
@@ -16,7 +16,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Pedestrian-Detection:-An-Evaluation-of-the-State-of-Doll\xE1r-Wojek/34e0ba2daabfa4d3d22913ade8265aff50b5f917?sort=total-citations"
+- https://www.semanticscholar.org/paper/Pedestrian-Detection:-An-Evaluation-of-the-State-of-Dollár-Wojek/34e0ba2daabfa4d3d22913ade8265aff50b5f917?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---

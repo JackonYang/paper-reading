@@ -5,7 +5,7 @@ authors:
 - Guillem Cucurull
 - Arantxa Casanova
 - Adriana Romero
-- "P. Lio\u2019"
+- P. Lio’
 - Yoshua Bengio
 fieldsOfStudy:
 - Computer Science

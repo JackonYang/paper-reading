@@ -3,7 +3,7 @@ title: Learning Phrase Representations using RNN Encoder-Decoder for Statistical
 authors:
 - Kyunghyun Cho
 - Bart van Merrienboer
-- "\xC7aglar G\xFCl\xE7ehre"
+- Çaglar Gülçehre
 - Dzmitry Bahdanau
 - Fethi Bougares
 - Holger Schwenk

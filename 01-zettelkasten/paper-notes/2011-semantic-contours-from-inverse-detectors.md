@@ -2,7 +2,7 @@
 title: Semantic contours from inverse detectors
 authors:
 - Bharath Hariharan
-- "Pablo Arbel\xE1ez"
+- Pablo Arbeláez
 - Lubomir D. Bourdev
 - Subhransu Maji
 - Jitendra Malik
@@ -17,7 +17,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Semantic-contours-from-inverse-detectors-Hariharan-Arbel\xE1ez/82fae97673a353271b1d4c001afda1af6ef6dc23?sort=total-citations"
+- https://www.semanticscholar.org/paper/Semantic-contours-from-inverse-detectors-Hariharan-Arbeláez/82fae97673a353271b1d4c001afda1af6ef6dc23?sort=total-citations
 venue: 2011 International Conference on Computer Vision
 year: 2011
 ---

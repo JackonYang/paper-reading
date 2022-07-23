@@ -4,7 +4,7 @@ title: Mask R-CNN
 authors:
 - Kaiming He
 - Georgia Gkioxari
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 - Ross B. Girshick
 fieldsOfStudy:
 - Computer Science

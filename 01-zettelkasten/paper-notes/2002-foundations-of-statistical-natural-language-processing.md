@@ -2,7 +2,7 @@
 title: Foundations of statistical natural language processing
 authors:
 - Christopher D. Manning
-- "Hinrich Sch\xFCtze"
+- Hinrich Schütze
 fieldsOfStudy:
 - Computer Science
 meta_key: 2002-foundations-of-statistical-natural-language-processing
@@ -14,7 +14,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Foundations-of-statistical-natural-language-Manning-Sch\xFCtze/084c55d6432265785e3ff86a2e900a49d501c00a?sort=total-citations"
+- https://www.semanticscholar.org/paper/Foundations-of-statistical-natural-language-Manning-Schütze/084c55d6432265785e3ff86a2e900a49d501c00a?sort=total-citations
 venue: SGMD
 year: 2002
 ---

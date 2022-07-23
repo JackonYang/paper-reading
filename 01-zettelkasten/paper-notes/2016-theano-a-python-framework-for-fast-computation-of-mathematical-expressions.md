@@ -4,10 +4,10 @@ authors:
 - Rami Al-Rfou
 - Guillaume Alain
 - Amjad Almahairi
-- "Christof Angerm\xFCller"
+- Christof Angermüller
 - Dzmitry Bahdanau
 - Nicolas Ballas
-- "Fr\xE9d\xE9ric Bastien"
+- Frédéric Bastien
 - Justin Bayer
 - A. Belikov
 - A. Belopolsky
@@ -19,15 +19,15 @@ authors:
 - Nicolas Bouchard
 - Nicolas Boulanger-Lewandowski
 - Xavier Bouthillier
-- "A. D. Br\xE9bisson"
+- A. D. Brébisson
 - Olivier Breuleux
 - P. Carrier
 - Kyunghyun Cho
 - J. Chorowski
 - P. Christiano
 - Tim Cooijmans
-- "Marc-Alexandre C\xF4t\xE9"
-- "Myriam C\xF4t\xE9"
+- Marc-Alexandre Côté
+- Myriam Côté
 - Aaron C. Courville
 - Yann Dauphin
 - Olivier Delalleau
@@ -35,7 +35,7 @@ authors:
 - Guillaume Desjardins
 - S. Dieleman
 - Laurent Dinh
-- "M\xE9lanie Ducoffe"
+- Mélanie Ducoffe
 - Vincent Dumoulin
 - S. Kahou
 - D. Erhan
@@ -45,25 +45,25 @@ authors:
 - Xavier Glorot
 - Ian J. Goodfellow
 - M. Graham
-- "\xC7aglar G\xFCl\xE7ehre"
+- Çaglar Gülçehre
 - P. Hamel
 - Iban Harlouchet
 - J. Heng
-- "Bal\xE1zs Hidasi"
+- Balázs Hidasi
 - Sina Honari
 - Arjun Jain
-- "S\xE9bastien Jean"
+- Sébastien Jean
 - Kai Jia
 - Mikhail Korobov
 - Vivek Kulkarni
 - Alex Lamb
 - Pascal Lamblin
 - Eric Larsen
-- "C\xE9sar Laurent"
+- César Laurent
 - S. Lee
-- "S. Lefran\xE7ois"
+- S. Lefrançois
 - S. Lemieux
-- "Nicholas L\xE9onard"
+- Nicholas Léonard
 - Zhouhan Lin
 - J. Livezey
 - C. Lorenz
@@ -88,17 +88,17 @@ authors:
 - Peter Sadowski
 - J. Salvatier
 - F. Savard
-- "Jan Schl\xFCter"
+- Jan Schlüter
 - J. Schulman
 - Gabriel Schwartz
 - Iulian Serban
 - Dmitriy Serdyuk
 - Samira Shabanian
-- "\xC9tienne Simon"
+- Étienne Simon
 - Sigurd Spieckermann
 - S. Subramanyam
 - Jakub Sygnowski
-- "J\xE9r\xE9mie Tanguay"
+- Jérémie Tanguay
 - Gijs van Tulder
 - Joseph P. Turian
 - S. Urban

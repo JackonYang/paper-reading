@@ -1,5 +1,5 @@
 ---
-title: "You Are What Apps You Use- Demographic Prediction Based On User\u2019S Apps"
+title: You Are What Apps You Use- Demographic Prediction Based On User’S Apps
 filesize_readable: 184.0 KB
 meta_key: you-are-what-apps-you-use-demographic-prediction-based-on-user-s-apps
 meta_relpath: paper-extra-data/pdf-meta/you-are-what-apps-you-use-demographic-prediction-based-on-user-s-apps.yaml

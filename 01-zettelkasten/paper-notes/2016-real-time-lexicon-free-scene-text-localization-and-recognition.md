@@ -1,7 +1,7 @@
 ---
 title: Real-Time Lexicon-Free Scene Text Localization and Recognition
 authors:
-- "Luk\xE1s Neumann"
+- Lukás Neumann
 - Jiri Matas
 fieldsOfStudy:
 - Computer Science

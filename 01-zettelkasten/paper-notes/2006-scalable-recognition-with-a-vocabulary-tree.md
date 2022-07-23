@@ -1,8 +1,8 @@
 ---
 title: Scalable Recognition with a Vocabulary Tree
 authors:
-- "D. Nist\xE9r"
-- "Henrik Stew\xE9nius"
+- D. Nistér
+- Henrik Stewénius
 fieldsOfStudy:
 - Computer Science
 meta_key: 2006-scalable-recognition-with-a-vocabulary-tree
@@ -14,7 +14,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Scalable-Recognition-with-a-Vocabulary-Tree-Nist\xE9r-Stew\xE9nius/b3e7d3e37e67af7f4546b46051063bea1b62dbae?sort=total-citations"
+- https://www.semanticscholar.org/paper/Scalable-Recognition-with-a-Vocabulary-Tree-Nistér-Stewénius/b3e7d3e37e67af7f4546b46051063bea1b62dbae?sort=total-citations
 venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)
 year: 2006
 ---

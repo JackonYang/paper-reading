@@ -3,7 +3,7 @@ title: What Makes for Effective Detection Proposals?
 authors:
 - J. Hosang
 - Rodrigo Benenson
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 - B. Schiele
 fieldsOfStudy:
 - Computer Science

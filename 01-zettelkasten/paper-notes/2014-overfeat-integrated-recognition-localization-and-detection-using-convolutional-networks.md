@@ -4,7 +4,7 @@ authors:
 - Pierre Sermanet
 - D. Eigen
 - X. Zhang
-- "Micha\xEBl Mathieu"
+- Michaël Mathieu
 - R. Fergus
 - Yann LeCun
 fieldsOfStudy:

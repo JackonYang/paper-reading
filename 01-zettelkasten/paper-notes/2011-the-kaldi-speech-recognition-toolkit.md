@@ -8,12 +8,12 @@ authors:
 - O. Glembek
 - N. Goel
 - M. Hannemann
-- "P. Motl\xEDcek"
+- P. Motlícek
 - Y. Qian
 - Petr Schwarz
-- "J. Silovsk\xFD"
+- J. Silovský
 - G. Stemmer
-- "Karel Vesel\xFD"
+- Karel Veselý
 fieldsOfStudy:
 - Computer Science
 meta_key: 2011-the-kaldi-speech-recognition-toolkit

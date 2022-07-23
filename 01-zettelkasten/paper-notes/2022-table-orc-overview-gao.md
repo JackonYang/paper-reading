@@ -1,5 +1,5 @@
 ---
-title: "\u8868\u683C\u8BC6\u522B\u6280\u672F\u7814\u7A76\u8FDB\u5C55"
+title: 表格识别技术研究进展
 filesize_readable: 3.5 MB
 meta_key: 2022-table-orc-overview-gao
 meta_relpath: paper-extra-data/pdf-meta/2022-table-orc-overview-gao.yaml

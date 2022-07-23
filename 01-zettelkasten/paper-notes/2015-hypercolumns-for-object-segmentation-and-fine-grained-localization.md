@@ -2,7 +2,7 @@
 title: Hypercolumns for object segmentation and fine-grained localization
 authors:
 - Bharath Hariharan
-- "Pablo Arbel\xE1ez"
+- Pablo Arbeláez
 - Ross B. Girshick
 - Jitendra Malik
 fieldsOfStudy:
@@ -16,7 +16,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Hypercolumns-for-object-segmentation-and-Hariharan-Arbel\xE1ez/428db42e86f6d51292e23fa57797e35cecd0e2ee?sort=total-citations"
+- https://www.semanticscholar.org/paper/Hypercolumns-for-object-segmentation-and-Hariharan-Arbeláez/428db42e86f6d51292e23fa57797e35cecd0e2ee?sort=total-citations
 venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---

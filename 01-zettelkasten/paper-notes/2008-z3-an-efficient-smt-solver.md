@@ -2,7 +2,7 @@
 title: Z3 - An Efficient SMT Solver
 authors:
 - L. D. Moura
-- "N. Bj\xF8rner"
+- N. Bjørner
 fieldsOfStudy:
 - Computer Science
 meta_key: 2008-z3-an-efficient-smt-solver
@@ -14,7 +14,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Z3:-An-Efficient-SMT-Solver-Moura-Bj\xF8rner/3960dda299e0f8615a7db675b8e6905b375ecf8a?sort=total-citations"
+- https://www.semanticscholar.org/paper/Z3:-An-Efficient-SMT-Solver-Moura-Bjørner/3960dda299e0f8615a7db675b8e6905b375ecf8a?sort=total-citations
 venue: TACAS
 year: 2008
 ---

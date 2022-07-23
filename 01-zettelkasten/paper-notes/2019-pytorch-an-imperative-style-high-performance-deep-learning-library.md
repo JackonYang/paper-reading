@@ -12,7 +12,7 @@ authors:
 - N. Gimelshein
 - L. Antiga
 - Alban Desmaison
-- "Andreas K\xF6pf"
+- Andreas Köpf
 - E. Yang
 - Zach DeVito
 - Martin Raison

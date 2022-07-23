@@ -3,7 +3,7 @@ title: Recurrent Batch Normalization
 authors:
 - Tim Cooijmans
 - Nicolas Ballas
-- "C\xE9sar Laurent"
+- César Laurent
 - Aaron C. Courville
 fieldsOfStudy:
 - Computer Science

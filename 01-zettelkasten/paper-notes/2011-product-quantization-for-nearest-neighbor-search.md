@@ -1,7 +1,7 @@
 ---
 title: Product Quantization for Nearest Neighbor Search
 authors:
-- "H. J\xE9gou"
+- H. Jégou
 - M. Douze
 - C. Schmid
 fieldsOfStudy:
@@ -15,7 +15,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Product-Quantization-for-Nearest-Neighbor-Search-J\xE9gou-Douze/4748d22348e72e6e06c2476486afddbc76e5eca7?sort=total-citations"
+- https://www.semanticscholar.org/paper/Product-Quantization-for-Nearest-Neighbor-Search-Jégou-Douze/4748d22348e72e6e06c2476486afddbc76e5eca7?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2011
 ---

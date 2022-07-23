@@ -1,7 +1,7 @@
 ---
 title: TensorFlow - A system for large-scale machine learning
 authors:
-- "Mart\xEDn Abadi"
+- Martín Abadi
 - P. Barham
 - Jianmin Chen
 - Z. Chen

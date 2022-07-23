@@ -4,7 +4,7 @@ authors:
 - A. Conneau
 - Douwe Kiela
 - Holger Schwenk
-- "Lo\xEFc Barrault"
+- Loïc Barrault
 - Antoine Bordes
 fieldsOfStudy:
 - Computer Science

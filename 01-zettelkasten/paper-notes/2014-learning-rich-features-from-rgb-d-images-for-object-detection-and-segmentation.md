@@ -3,7 +3,7 @@ title: Learning Rich Features from RGB-D Images for Object Detection and Segment
 authors:
 - Saurabh Gupta
 - Ross B. Girshick
-- "Pablo Arbel\xE1ez"
+- Pablo Arbeláez
 - Jitendra Malik
 fieldsOfStudy:
 - Computer Science

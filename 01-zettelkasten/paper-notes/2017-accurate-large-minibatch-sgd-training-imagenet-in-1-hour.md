@@ -2,7 +2,7 @@
 title: Accurate, Large Minibatch SGD - Training ImageNet in 1 Hour
 authors:
 - Priya Goyal
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 - Ross B. Girshick
 - P. Noordhuis
 - Lukasz Wesolowski
@@ -21,7 +21,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Accurate,-Large-Minibatch-SGD:-Training-ImageNet-in-Goyal-Doll\xE1r/0d57ba12a6d958e178d83be4c84513f7e42b24e5?sort=total-citations"
+- https://www.semanticscholar.org/paper/Accurate,-Large-Minibatch-SGD:-Training-ImageNet-in-Goyal-Dollár/0d57ba12a6d958e178d83be4c84513f7e42b24e5?sort=total-citations
 venue: ArXiv
 year: 2017
 ---

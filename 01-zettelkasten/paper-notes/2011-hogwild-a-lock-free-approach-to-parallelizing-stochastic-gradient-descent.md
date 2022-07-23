@@ -2,7 +2,7 @@
 title: Hogwild - A Lock-Free Approach to Parallelizing Stochastic Gradient Descent
 authors:
 - B. Recht
-- "Christopher R\xE9"
+- Christopher Ré
 - Stephen J. Wright
 - Feng Niu
 fieldsOfStudy:
@@ -16,7 +16,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Hogwild:-A-Lock-Free-Approach-to-Parallelizing-Recht-R\xE9/36f49b05d764bf5c10428b082c2d96c13c4203b9?sort=total-citations"
+- https://www.semanticscholar.org/paper/Hogwild:-A-Lock-Free-Approach-to-Parallelizing-Recht-Ré/36f49b05d764bf5c10428b082c2d96c13c4203b9?sort=total-citations
 venue: NIPS
 year: 2011
 ---

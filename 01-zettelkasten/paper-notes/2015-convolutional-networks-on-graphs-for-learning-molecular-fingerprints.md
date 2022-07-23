@@ -4,9 +4,9 @@ authors:
 - D. Duvenaud
 - D. Maclaurin
 - J. Aguilera-Iparraguirre
-- "Rafael G\xF3mez-Bombarelli"
+- Rafael Gómez-Bombarelli
 - Timothy D. Hirzel
-- "Al\xE1n Aspuru-Guzik"
+- Alán Aspuru-Guzik
 - Ryan P. Adams
 fieldsOfStudy:
 - Computer Science

@@ -2,8 +2,8 @@
 title: Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns
 authors:
 - T. Ojala
-- "M. Pietik\xE4inen"
-- "Topi M\xE4enp\xE4\xE4"
+- M. Pietikäinen
+- Topi Mäenpää
 fieldsOfStudy:
 - Computer Science
 meta_key: 2002-multiresolution-gray-scale-and-rotation-invariant-texture-classification-with-local-binary-patterns
@@ -15,7 +15,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Multiresolution-Gray-Scale-and-Rotation-Invariant-Ojala-Pietik\xE4inen/f11a7136b6b7854bd0998ef463ffa8e907c411a2?sort=total-citations"
+- https://www.semanticscholar.org/paper/Multiresolution-Gray-Scale-and-Rotation-Invariant-Ojala-Pietikäinen/f11a7136b6b7854bd0998ef463ffa8e907c411a2?sort=total-citations
 venue: IEEE Trans. Pattern Anal. Mach. Intell.
 year: 2002
 ---

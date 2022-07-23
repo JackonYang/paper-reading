@@ -1,7 +1,7 @@
 ---
 title: Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 authors:
-- "Philipp Kr\xE4henb\xFChl"
+- Philipp Krähenbühl
 - V. Koltun
 fieldsOfStudy:
 - Computer Science
@@ -14,7 +14,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Efficient-Inference-in-Fully-Connected-CRFs-with-Kr\xE4henb\xFChl-Koltun/c81c20109c809cfc47565a9477c04ee005d424bf?sort=total-citations"
+- https://www.semanticscholar.org/paper/Efficient-Inference-in-Fully-Connected-CRFs-with-Krähenbühl-Koltun/c81c20109c809cfc47565a9477c04ee005d424bf?sort=total-citations
 venue: NIPS
 year: 2011
 ---

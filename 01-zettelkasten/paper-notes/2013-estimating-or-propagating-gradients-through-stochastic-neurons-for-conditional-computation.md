@@ -2,7 +2,7 @@
 title: Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation
 authors:
 - Yoshua Bengio
-- "Nicholas L\xE9onard"
+- Nicholas Léonard
 - Aaron C. Courville
 fieldsOfStudy:
 - Computer Science
@@ -15,7 +15,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Estimating-or-Propagating-Gradients-Through-Neurons-Bengio-L\xE9onard/62c76ca0b2790c34e85ba1cce09d47be317c7235?sort=total-citations"
+- https://www.semanticscholar.org/paper/Estimating-or-Propagating-Gradients-Through-Neurons-Bengio-Léonard/62c76ca0b2790c34e85ba1cce09d47be317c7235?sort=total-citations
 venue: ArXiv
 year: 2013
 ---

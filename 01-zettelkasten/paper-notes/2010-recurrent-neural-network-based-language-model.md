@@ -2,9 +2,9 @@
 title: Recurrent neural network based language model
 authors:
 - Tomas Mikolov
-- "M. Karafi\xE1t"
+- M. Karafiát
 - L. Burget
-- "J. Cernock\xFD"
+- J. Cernocký
 - S. Khudanpur
 fieldsOfStudy:
 - Computer Science
@@ -17,7 +17,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Recurrent-neural-network-based-language-model-Mikolov-Karafi\xE1t/9819b600a828a57e1cde047bbe710d3446b30da5?sort=total-citations"
+- https://www.semanticscholar.org/paper/Recurrent-neural-network-based-language-model-Mikolov-Karafiát/9819b600a828a57e1cde047bbe710d3446b30da5?sort=total-citations
 venue: INTERSPEECH
 year: 2010
 ---

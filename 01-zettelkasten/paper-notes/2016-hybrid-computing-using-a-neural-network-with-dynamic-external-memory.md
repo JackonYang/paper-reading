@@ -11,7 +11,7 @@ authors:
 - Edward Grefenstette
 - Tiago Ramalho
 - J. Agapiou
-- "Adri\xE0 Puigdom\xE8nech Badia"
+- Adrià Puigdomènech Badia
 - K. Hermann
 - Yori Zwols
 - Georg Ostrovski

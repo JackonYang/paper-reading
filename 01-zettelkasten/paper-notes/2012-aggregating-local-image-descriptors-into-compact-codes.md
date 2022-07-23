@@ -1,11 +1,11 @@
 ---
 title: Aggregating Local Image Descriptors into Compact Codes
 authors:
-- "H. J\xE9gou"
+- H. Jégou
 - F. Perronnin
 - M. Douze
-- "Jorge S\xE1nchez"
-- "P. P\xE9rez"
+- Jorge Sánchez
+- P. Pérez
 - C. Schmid
 fieldsOfStudy:
 - Computer Science
@@ -18,7 +18,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Aggregating-Local-Image-Descriptors-into-Compact-J\xE9gou-Perronnin/5183230b706b72f6f6c19415c423d93c79ddde53?sort=total-citations"
+- https://www.semanticscholar.org/paper/Aggregating-Local-Image-Descriptors-into-Compact-Jégou-Perronnin/5183230b706b72f6f6c19415c423d93c79ddde53?sort=total-citations
 venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---

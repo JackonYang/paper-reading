@@ -5,7 +5,7 @@ authors:
 - O. Bousquet
 - T. N. Lal
 - J. Weston
-- "B. Sch\xF6lkopf"
+- B. Schölkopf
 fieldsOfStudy:
 - Computer Science
 meta_key: 2003-learning-with-local-and-global-consistency

@@ -3,7 +3,7 @@ title: HMDB - A large video database for human motion recognition
 authors:
 - Hilde Kuehne
 - Hueihan Jhuang
-- "Est\xEDbaliz Garrote"
+- Estíbaliz Garrote
 - T. Poggio
 - Thomas Serre
 fieldsOfStudy:

@@ -7,7 +7,7 @@ authors:
 - James Hays
 - P. Perona
 - D. Ramanan
-- "Piotr Doll\xE1r"
+- Piotr Dollár
 - C. L. Zitnick
 fieldsOfStudy:
 - Computer Science

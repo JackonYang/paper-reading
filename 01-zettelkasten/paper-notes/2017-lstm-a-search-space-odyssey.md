@@ -3,7 +3,7 @@ title: LSTM - A Search Space Odyssey
 authors:
 - Klaus Greff
 - R. Srivastava
-- "J. Koutn\xEDk"
+- J. Koutník
 - Bas R. Steunebrink
 - J. Schmidhuber
 fieldsOfStudy:

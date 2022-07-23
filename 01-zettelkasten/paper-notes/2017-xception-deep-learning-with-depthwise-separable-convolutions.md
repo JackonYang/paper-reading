@@ -1,7 +1,7 @@
 ---
 title: Xception - Deep Learning with Depthwise Separable Convolutions
 authors:
-- "Fran\xE7ois Chollet"
+- François Chollet
 fieldsOfStudy:
 - Computer Science
 meta_key: 2017-xception-deep-learning-with-depthwise-separable-convolutions

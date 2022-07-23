@@ -1,7 +1,7 @@
 ---
 title: WaveNet - A Generative Model for Raw Audio
 authors:
-- "A\xE4ron van den Oord"
+- Aäron van den Oord
 - S. Dieleman
 - H. Zen
 - K. Simonyan

@@ -2,7 +2,7 @@
 title: Learning Deep Features for Scene Recognition using Places Database
 authors:
 - Bolei Zhou
-- "\xC0. Lapedriza"
+- À. Lapedriza
 - Jianxiong Xiao
 - A. Torralba
 - A. Oliva

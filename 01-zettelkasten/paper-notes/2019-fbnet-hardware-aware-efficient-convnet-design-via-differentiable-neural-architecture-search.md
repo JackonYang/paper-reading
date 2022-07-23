@@ -8,7 +8,7 @@ authors:
 - Fei Sun
 - Yiming Wu
 - Yuandong Tian
-- "P\xE9ter Vajda"
+- Péter Vajda
 - Yangqing Jia
 - K. Keutzer
 fieldsOfStudy:

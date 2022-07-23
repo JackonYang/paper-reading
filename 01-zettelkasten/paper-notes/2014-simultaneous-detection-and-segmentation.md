@@ -2,7 +2,7 @@
 title: Simultaneous Detection and Segmentation
 authors:
 - Bharath Hariharan
-- "Pablo Arbel\xE1ez"
+- Pablo Arbeláez
 - Ross B. Girshick
 - Jitendra Malik
 fieldsOfStudy:
@@ -16,7 +16,7 @@ tags:
 - other-default
 - paper
 urls:
-- "https://www.semanticscholar.org/paper/Simultaneous-Detection-and-Segmentation-Hariharan-Arbel\xE1ez/342786659379879f58bf5c4ff43c84c83a6a7389?sort=total-citations"
+- https://www.semanticscholar.org/paper/Simultaneous-Detection-and-Segmentation-Hariharan-Arbeláez/342786659379879f58bf5c4ff43c84c83a6a7389?sort=total-citations
 venue: ECCV
 year: 2014
 ---
