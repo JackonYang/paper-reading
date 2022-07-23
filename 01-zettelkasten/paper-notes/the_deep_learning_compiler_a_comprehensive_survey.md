@@ -6,8 +6,9 @@ meta_relpath: paper-extra-data/pdf-meta/the_deep_learning_compiler_a_comprehensi
 pdf_relpath: paper-repo/pdfs/The_deep_learning_compiler_A_comprehensive_survey.pdf
 reading_status: TBD
 tags:
-- other-default
+- complier
 - paper
+- stc
 url_slug: The_deep_learning_compiler_A_comprehensive_survey
 ---
 

@@ -11,19 +11,25 @@ authors:
 - A. Krishnamurthy
 fieldsOfStudy:
 - Computer Science
+filesize_readable: 4.2 MB
 meta_key: 2018-learning-to-optimize-tensor-programs
+meta_relpath: paper-extra-data/pdf-meta/learning-to-optimize-tensor-programs.yaml
 numCitedBy: 181
+pdf_relpath: paper-repo/pdfs/learning-to-optimize-tensor-programs.pdf
 reading_status: TBD
 ref_count: 46
 tags:
 - gen-from-ref
-- other-default
 - paper
+- stc
+url_slug: learning-to-optimize-tensor-programs
 urls:
 - https://www.semanticscholar.org/paper/Learning-to-Optimize-Tensor-Programs-Chen-Zheng/cb91c2f8d3cac0b655a39be318b603334eb18987
 venue: NeurIPS
 year: 2018
 ---
+
+[pdf(local)](../../paper-repo/pdfs/learning-to-optimize-tensor-programs.pdf)
 
 # Learning to Optimize Tensor Programs
 
