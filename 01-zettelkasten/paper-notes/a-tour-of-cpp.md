@@ -10,9 +10,9 @@ reading_status: DONE
 tags:
 - book
 - cpp
+url_slug: A-Tour-of-Cpp
 urls:
 - http://www.staroceans.org/e-book/ATourofC%2B%2B.pdf
-url_slug: A-Tour-of-Cpp
 year: 2013
 ---
 

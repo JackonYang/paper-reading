@@ -9,19 +9,26 @@ authors:
 - Serge J. Belongie
 fieldsOfStudy:
 - Computer Science
+filesize_readable: 770.6 KB
 meta_key: 2017-fpn-detection
+meta_relpath: paper-extra-data/pdf-meta/2017-fpn.yaml
 numCitedBy: 9482
+pdf_relpath: paper-repo/pdfs/2017-FPN.pdf
 reading_status: TBD
 ref_count: 49
 tags:
 - detection
 - gen-from-ref
+- other-default
 - paper
+url_slug: 2017-FPN
 urls:
 - "https://www.semanticscholar.org/paper/Feature-Pyramid-Networks-for-Object-Detection-Lin-Doll\xE1r/b9b4e05faa194e5022edd9eb9dd07e3d675c2b36?sort=total-citations"
 venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2017-FPN.pdf)
 
 # Feature Pyramid Networks for Object Detection
 

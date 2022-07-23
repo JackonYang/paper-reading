@@ -79,4 +79,3 @@ The deep convolutional neural network (CNN) is the state-of-the-art solution for
 50. A genetic algorithm for flowshop sequencing
 51. Genetic algorithms for the traveling salesman problem
 52. Et al
-53. #p
