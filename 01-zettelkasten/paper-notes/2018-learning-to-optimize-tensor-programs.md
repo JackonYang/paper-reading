@@ -40,7 +40,7 @@ We introduce a learning-based framework to optimize tensor programs for deep lea
 ## Paper References
 
 1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
-2. [TVM - An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm-an-automated-end-to-end-optimizing-compiler-for-deep-learning.md)
+2. [TVM - An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm.md)
 3. [Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions](2018-tensor-comprehensions-framework-agnostic-high-performance-machine-learning-abstractions.md)
 4. [The tensor algebra compiler](2017-the-tensor-algebra-compiler.md)
 5. [Device Placement Optimization with Reinforcement Learning](2017-device-placement-optimization-with-reinforcement-learning.md)

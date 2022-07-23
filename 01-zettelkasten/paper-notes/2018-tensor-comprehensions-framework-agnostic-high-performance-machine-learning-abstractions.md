@@ -35,9 +35,9 @@ Deep learning models with convolutional and recurrent networks are now ubiquitou
 ## Paper References
 
 1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
-2. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-end-to-end-optimization-stack-for-deep-learning.md)
+2. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 3. Latte - a language, compiler, and runtime for elegant and efficient deep neural networks
-4. [TVM - An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm-an-automated-end-to-end-optimizing-compiler-for-deep-learning.md)
+4. [TVM - An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm.md)
 5. [Aggregated Residual Transformations for Deep Neural Networks](2017-aggregated-residual-transformations-for-deep-neural-networks.md)
 6. Deep Interest Network for Click-Through Rate Prediction
 7. Large-scale deep unsupervised learning using graphics processors

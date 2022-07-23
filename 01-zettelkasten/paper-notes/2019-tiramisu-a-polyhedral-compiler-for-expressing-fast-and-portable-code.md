@@ -60,7 +60,7 @@ This paper introduces Tiramisu, a polyhedral framework designed to generate high
 24. PENCIL Language Specification
 25. POET - Parameterized Optimizations for Empirical Tuning
 26. Hybrid Hexagonal/Classical Tiling for GPUs
-27. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-end-to-end-optimization-stack-for-deep-learning.md)
+27. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 28. AlphaZ - A System for Design Space Exploration in the Polyhedral Model
 29. Effective automatic parallelization of stencil computations
 30. Extending Halide to Improve Software Development for Imaging DSPs

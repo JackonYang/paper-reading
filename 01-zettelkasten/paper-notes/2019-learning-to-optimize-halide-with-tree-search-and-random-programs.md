@@ -59,7 +59,7 @@ We present a new algorithm to automatically schedule Halide programs for high-pe
 21. Loop transformations leveraging hardware prefetching
 22. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
 23. PENCIL - A Platform-Neutral Compute Intermediate Language for Accelerator Programming
-24. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-end-to-end-optimization-stack-for-deep-learning.md)
+24. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 25. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems.md)
 26. Bilateral guided upsampling
 27. [Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions](2018-tensor-comprehensions-framework-agnostic-high-performance-machine-learning-abstractions.md)

@@ -41,7 +41,7 @@ This paper presents the design of Glow, a machine learning compiler for heteroge
 1. LLVM - a compilation framework for lifelong program analysis & transformation
 2. DLVM - A modern compiler infrastructure for deep learning systems
 3. Halide - a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
-4. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-end-to-end-optimization-stack-for-deep-learning.md)
+4. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 5. [Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions](2018-tensor-comprehensions-framework-agnostic-high-performance-machine-learning-abstractions.md)
 6. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
 7. CNTK - Microsoft's Open-Source Deep-Learning Toolkit

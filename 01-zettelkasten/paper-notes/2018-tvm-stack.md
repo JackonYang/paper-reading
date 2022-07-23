@@ -13,19 +13,25 @@ authors:
 - A. Krishnamurthy
 fieldsOfStudy:
 - Computer Science
-meta_key: 2018-tvm-end-to-end-optimization-stack-for-deep-learning
+filesize_readable: 1.1 MB
+meta_key: 2018-tvm-stack
+meta_relpath: paper-extra-data/pdf-meta/2018-tvm-end-to-end-optimization-stack-for-deep-learning.yaml
 numCitedBy: 140
+pdf_relpath: paper-repo/pdfs/2018-tvm-end-to-end-optimization-stack-for-deep-learning.pdf
 reading_status: TBD
 ref_count: 50
 tags:
 - gen-from-ref
 - paper
 - stc
+url_slug: 2018-tvm-end-to-end-optimization-stack-for-deep-learning
 urls:
 - https://www.semanticscholar.org/paper/TVM:-End-to-End-Optimization-Stack-for-Deep-Chen-Moreau/ec3071fb918ad69ec80df1ca9cf1fdeb386a9603?sort=total-citations
 venue: ArXiv
 year: 2018
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2018-tvm-end-to-end-optimization-stack-for-deep-learning.pdf)
 
 # TVM - End-to-End Optimization Stack for Deep Learning
 
