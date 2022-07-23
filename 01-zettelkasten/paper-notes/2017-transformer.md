@@ -22,7 +22,6 @@ ref_count: 44
 status: todo
 tags:
 - gen-from-ref
-- nlp
 - paper
 - deep-learning-model
 url_slug: Attention%20Is%20All%20You%20Need

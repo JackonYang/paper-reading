@@ -19,7 +19,6 @@ ref_count: 49
 tags:
 - detection
 - gen-from-ref
-- other-default
 - paper
 url_slug: 2017-FPN
 urls:
