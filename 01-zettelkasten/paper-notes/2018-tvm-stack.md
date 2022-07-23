@@ -43,19 +43,19 @@ Scalable frameworks, such as TensorFlow, MXNet, Caffe, and PyTorch drive the cur
 
 1. [Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions](2018-tensor-comprehensions-framework-agnostic-high-performance-machine-learning-abstractions.md)
 2. DLVM - A modern compiler infrastructure for deep learning systems
-3. From high-level deep neural models to FPGAs
+3. [From high-level deep neural models to FPGAs](2016-from-high-level-deep-neural-models-to-fpgas.md)
 4. [In-datacenter performance analysis of a tensor processing unit](2017-in-datacenter-performance-analysis-of-a-tensor-processing-unit.md)
 5. [DaDianNao - A Machine-Learning Supercomputer](2014-dadiannao-a-machine-learning-supercomputer.md)
 6. Loo.py - transformation-based code generation for GPUs and CPUs
 7. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
-8. FINN - A Framework for Fast, Scalable Binarized Neural Network Inference
+8. [FINN - A Framework for Fast, Scalable Binarized Neural Network Inference](2017-finn-a-framework-for-fast-scalable-binarized-neural-network-inference.md)
 9. PENCIL - A Platform-Neutral Compute Intermediate Language for Accelerator Programming
 10. High performance ultra-low-precision convolutions on mobile devices
 11. [LIFT - A functional data-parallel IR for high-performance GPU code generation](2017-lift-a-functional-data-parallel-ir-for-high-performance-gpu-code-generation.md)
 12. [BinaryConnect - Training Deep Neural Networks with binary weights during propagations](2015-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.md)
 13. OptiML - An Implicitly Parallel Domain-Specific Language for Machine Learning
 14. Darkroom - compiling high-level image processing code into hardware pipelines
-15. Eyeriss - A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks
+15. [Eyeriss - A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks](2016-eyeriss-a-spatial-architecture-for-energy-efficient-dataflow-for-convolutional-neural-networks.md)
 16. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 17. PuDianNao - A Polyvalent Machine Learning Accelerator
 18. Understanding Latency Hiding on GPUs
