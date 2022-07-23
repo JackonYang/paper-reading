@@ -57,7 +57,7 @@ We present a new algorithm to automatically schedule Halide programs for high-pe
 19. PolyMage - Automatic Optimization for Image Processing Pipelines
 20. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition.md)
 21. Loop transformations leveraging hardware prefetching
-22. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+22. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 23. PENCIL - A Platform-Neutral Compute Intermediate Language for Accelerator Programming
 24. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 25. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems.md)

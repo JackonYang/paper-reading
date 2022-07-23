@@ -43,7 +43,7 @@ This paper presents the design of Glow, a machine learning compiler for heteroge
 3. Halide - a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
 4. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 5. [Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions](2018-tensor-comprehensions-framework-agnostic-high-performance-machine-learning-abstractions.md)
-6. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+6. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 7. CNTK - Microsoft's Open-Source Deep-Learning Toolkit
 8. [Automatic differentiation in PyTorch](2017-automatic-differentiation-in-pytorch.md)
 9. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding.md)

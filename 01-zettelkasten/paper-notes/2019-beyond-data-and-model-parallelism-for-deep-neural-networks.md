@@ -33,8 +33,8 @@ In this paper, we define a more comprehensive search space of parallelization st
 2. [Large Scale Distributed Deep Networks](2012-large-scale-distributed-deep-networks.md)
 3. [cuDNN - Efficient Primitives for Deep Learning](2014-cudnn-efficient-primitives-for-deep-learning.md)
 4. [Device Placement Optimization with Reinforcement Learning](2017-device-placement-optimization-with-reinforcement-learning.md)
-5. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
-6. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+5. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
+6. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 7. [Accurate, Large Minibatch SGD - Training ImageNet in 1 Hour](2017-accurate-large-minibatch-sgd-training-imagenet-in-1-hour.md)
 8. [Rethinking the Inception Architecture for Computer Vision](2016-rethinking-the-inception-architecture-for-computer-vision.md)
 9. A Hierarchical Model for Device Placement

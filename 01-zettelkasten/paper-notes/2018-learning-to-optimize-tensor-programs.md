@@ -39,13 +39,13 @@ We introduce a learning-based framework to optimize tensor programs for deep lea
 
 ## Paper References
 
-1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 2. [TVM - An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm.md)
 3. [Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions](2018-tensor-comprehensions-framework-agnostic-high-performance-machine-learning-abstractions.md)
 4. [The tensor algebra compiler](2017-the-tensor-algebra-compiler.md)
 5. [Device Placement Optimization with Reinforcement Learning](2017-device-placement-optimization-with-reinforcement-learning.md)
 6. OptiML - An Implicitly Parallel Domain-Specific Language for Machine Learning
-7. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+7. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 8. Scalable Bayesian Optimization Using Deep Neural Networks
 9. [Learning to Represent Programs with Graphs](2018-learning-to-represent-programs-with-graphs.md)
 10. [XGBoost - A Scalable Tree Boosting System](2016-xgboost-a-scalable-tree-boosting-system.md)

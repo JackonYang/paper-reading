@@ -37,7 +37,7 @@ Existing deep neural network (DNN) frameworks optimize the computation graph of 
 4. [Device Placement Optimization with Reinforcement Learning](2017-device-placement-optimization-with-reinforcement-learning.md)
 5. Astra - Exploiting Predictability to Optimize Deep Learning
 6. [Beyond Data and Model Parallelism for Deep Neural Networks](2019-beyond-data-and-model-parallelism-for-deep-neural-networks.md)
-7. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+7. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 8. [Neural Architecture Search with Reinforcement Learning](2017-neural-architecture-search-with-reinforcement-learning.md)
 9. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 10. [Aggregated Residual Transformations for Deep Neural Networks](2017-aggregated-residual-transformations-for-deep-neural-networks.md)

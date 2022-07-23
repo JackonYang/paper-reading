@@ -13,25 +13,31 @@ authors:
 - Zheng Zhang
 fieldsOfStudy:
 - Computer Science
-meta_key: 2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems
+filesize_readable: 304.2 KB
+meta_key: 2015-mxnet
+meta_relpath: paper-extra-data/pdf-meta/2015-mxnet.yaml
 numCitedBy: 1891
+pdf_relpath: paper-repo/pdfs/2015-mxnet.pdf
 reading_status: TBD
 ref_count: 16
 tags:
 - gen-from-ref
-- other-default
 - paper
+- stc
+url_slug: 2015-mxnet
 urls:
 - https://www.semanticscholar.org/paper/MXNet:-A-Flexible-and-Efficient-Machine-Learning-Chen-Li/62df84d6a4d26f95e4714796c2337c9848cc13b5?sort=total-citations
 venue: ArXiv
 year: 2015
 ---
 
+[pdf(local)](../../paper-repo/pdfs/2015-mxnet.pdf)
+
 # MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems
 
 ## Abstract
 
-MXNet is a multi-language machine learning (ML) library to ease the development of ML algorithms, especially for deep neural networks. Embedded in the host language, it blends declarative symbolic expression with imperative tensor computation. It offers auto differentiation to derive gradients. MXNet is computation and memory efficient and runs on various heterogeneous systems, ranging from mobile devices to distributed GPU clusters. 
+MXNet is a multi-language machine learning (ML) library to ease the development of ML algorithms, especially for deep neural networks. Embedded in the host language, it blends declarative symbolic expression with imperative tensor computation. It offers auto differentiation to derive gradients. MXNet is computation and memory efficient and runs on various heterogeneous systems, ranging from mobile devices to distributed GPU clusters.
 This paper describes both the API design and the system implementation of MXNet, and explains how embedding of both symbolic expression and tensor operation is handled in a unified fashion. Our preliminary experiments reveal promising results on large scale deep neural network applications using multiple GPU machines.
 
 ## Paper References

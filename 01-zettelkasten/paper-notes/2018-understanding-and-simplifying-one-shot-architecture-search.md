@@ -56,7 +56,7 @@ There is growing interest in automating neural network architecture design. Exis
 24. [Practical Bayesian Optimization of Machine Learning Algorithms](2012-practical-bayesian-optimization-of-machine-learning-algorithms.md)
 25. Learning to Learn
 26. Evolving Memory Cell Structures for Sequence Learning
-27. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+27. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 28. Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning
 29. [MobileNets - Efficient Convolutional Neural Networks for Mobile Vision Applications](2017-mobilenets-efficient-convolutional-neural-networks-for-mobile-vision-applications.md)
 30. [Random Search for Hyper-Parameter Optimization](2012-random-search-for-hyper-parameter-optimization.md)

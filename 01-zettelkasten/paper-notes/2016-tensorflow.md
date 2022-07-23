@@ -25,19 +25,25 @@ authors:
 - Xiaoqiang Zhang
 fieldsOfStudy:
 - Computer Science
-meta_key: 2016-tensorflow-a-system-for-large-scale-machine-learning
+filesize_readable: 665.1 KB
+meta_key: 2016-tensorflow
+meta_relpath: paper-extra-data/pdf-meta/2016-tensorflow.yaml
 numCitedBy: 12805
+pdf_relpath: paper-repo/pdfs/2016-tensorflow.pdf
 reading_status: TBD
 ref_count: 111
 tags:
 - gen-from-ref
-- other-default
 - paper
+- stc
+url_slug: 2016-tensorflow
 urls:
 - https://www.semanticscholar.org/paper/TensorFlow:-A-system-for-large-scale-machine-Abadi-Barham/46200b99c40e8586c8a0f588488ab6414119fb28?sort=total-citations
 venue: OSDI
 year: 2016
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2016-tensorflow.pdf)
 
 # TensorFlow - A system for large-scale machine learning
 
@@ -50,7 +56,7 @@ TensorFlow is a machine learning system that operates at large scale and in hete
 1. [TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems](2016-tensorflow-large-scale-machine-learning-on-heterogeneous-distributed-systems.md)
 2. SparkNet - Training Deep Networks in Spark
 3. Project Adam - Building an Efficient and Scalable Deep Learning Training System
-4. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+4. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 5. [Large Scale Distributed Deep Networks](2012-large-scale-distributed-deep-networks.md)
 6. [Caffe - Convolutional Architecture for Fast Feature Embedding](2014-caffe-convolutional-architecture-for-fast-feature-embedding.md)
 7. [Building high-level features using large scale unsupervised learning](2013-building-high-level-features-using-large-scale-unsupervised-learning.md)

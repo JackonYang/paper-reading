@@ -65,7 +65,7 @@ The SqueezeNet architecture is available for download here: this https URL
 31. DenseNet - Implementing Efficient ConvNet Descriptor Pyramids
 32. [cuDNN - Efficient Primitives for Deep Learning](2014-cudnn-efficient-primitives-for-deep-learning.md)
 33. [Under Review as a Conference Paper at Iclr 2017 Delving into Transferable Adversarial Ex- Amples and Black-box Attacks](2016-under-review-as-a-conference-paper-at-iclr-2017-delving-into-transferable-adversarial-ex-amples-and-black-box-attacks.md)
-34. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+34. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 35. Deformable Part Descriptors for Fine-Grained Recognition and Attribute Prediction
 36. [ImageNet - A large-scale hierarchical image database](2009-imagenet-a-large-scale-hierarchical-image-database.md)
 37. Chainer - a Next-Generation Open Source Framework for Deep Learning

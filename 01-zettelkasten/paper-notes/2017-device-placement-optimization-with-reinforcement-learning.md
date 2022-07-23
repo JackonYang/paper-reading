@@ -35,7 +35,7 @@ The past few years have witnessed a growth in size and computational requirement
 
 ## Paper References
 
-1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 2. [Sequence to Sequence Learning with Neural Networks](2014-sequence-to-sequence-learning-with-neural-networks.md)
 3. [Adam - A Method for Stochastic Optimization](2015-adam-a-method-for-stochastic-optimization.md)
 4. [Pointer Networks](2015-pointer-networks.md)

@@ -43,7 +43,7 @@ Tensor algebra is a powerful tool with applications in machine learning, data an
 11. Scalable sparse tensor decompositions in distributed memory systems
 12. Reliable Generation of High-Performance Matrix Algebra
 13. Scalable, Portable, Verifiable Kronecker Products on Multi-scale Computers
-14. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+14. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 15. Efficient MATLAB Computations with Sparse and Factored Tensors
 16. Automatically Tuned Linear Algebra Software
 17. Relational Algebraic Techniques for the Synthesis of Sparse Matrix Programs

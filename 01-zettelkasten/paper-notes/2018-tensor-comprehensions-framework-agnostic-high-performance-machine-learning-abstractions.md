@@ -34,7 +34,7 @@ Deep learning models with convolutional and recurrent networks are now ubiquitou
 
 ## Paper References
 
-1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+1. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 2. [TVM - End-to-End Optimization Stack for Deep Learning](2018-tvm-stack.md)
 3. Latte - a language, compiler, and runtime for elegant and efficient deep neural networks
 4. [TVM - An Automated End-to-End Optimizing Compiler for Deep Learning](2018-tvm.md)
@@ -44,7 +44,7 @@ Deep learning models with convolutional and recurrent networks are now ubiquitou
 8. [Accurate, Large Minibatch SGD - Training ImageNet in 1 Hour](2017-accurate-large-minibatch-sgd-training-imagenet-in-1-hour.md)
 9. [In-datacenter performance analysis of a tensor processing unit](2017-in-datacenter-performance-analysis-of-a-tensor-processing-unit.md)
 10. Loo.py - transformation-based code generation for GPUs and CPUs
-11. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+11. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 12. [The tensor algebra compiler](2017-the-tensor-algebra-compiler.md)
 13. Model-Driven SIMD Code Generation for a Multi-resolution Tensor Kernel
 14. [Deep Residual Learning for Image Recognition](2016-deep-residual-learning-for-image-recognition.md)

@@ -47,7 +47,7 @@ Scalable frameworks, such as TensorFlow, MXNet, Caffe, and PyTorch drive the cur
 4. [In-datacenter performance analysis of a tensor processing unit](2017-in-datacenter-performance-analysis-of-a-tensor-processing-unit.md)
 5. [DaDianNao - A Machine-Learning Supercomputer](2014-dadiannao-a-machine-learning-supercomputer.md)
 6. Loo.py - transformation-based code generation for GPUs and CPUs
-7. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+7. [TensorFlow - A system for large-scale machine learning](2016-tensorflow.md)
 8. FINN - A Framework for Fast, Scalable Binarized Neural Network Inference
 9. PENCIL - A Platform-Neutral Compute Intermediate Language for Accelerator Programming
 10. High performance ultra-low-precision convolutions on mobile devices
@@ -56,7 +56,7 @@ Scalable frameworks, such as TensorFlow, MXNet, Caffe, and PyTorch drive the cur
 13. OptiML - An Implicitly Parallel Domain-Specific Language for Machine Learning
 14. Darkroom - compiling high-level image processing code into hardware pipelines
 15. Eyeriss - A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks
-16. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+16. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet.md)
 17. PuDianNao - A Polyvalent Machine Learning Accelerator
 18. Understanding Latency Hiding on GPUs
 19. Futhark - purely functional GPU-programming with nested parallelism and in-place array updates
