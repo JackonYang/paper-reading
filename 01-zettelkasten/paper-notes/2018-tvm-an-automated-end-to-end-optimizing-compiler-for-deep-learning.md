@@ -1,0 +1,84 @@
+---
+title: TVM - An Automated End-to-End Optimizing Compiler for Deep Learning
+authors:
+- Tianqi Chen
+- T. Moreau
+- Ziheng Jiang
+- Lianmin Zheng
+- Eddie Q. Yan
+- Haichen Shen
+- M. Cowan
+- Leyuan Wang
+- Yuwei Hu
+- L. Ceze
+- Carlos Guestrin
+- A. Krishnamurthy
+fieldsOfStudy:
+- Computer Science
+meta_key: 2018-tvm-an-automated-end-to-end-optimizing-compiler-for-deep-learning
+numCitedBy: 711
+reading_status: TBD
+ref_count: 51
+tags:
+- gen-from-ref
+- other-default
+- paper
+urls:
+- https://www.semanticscholar.org/paper/TVM:-An-Automated-End-to-End-Optimizing-Compiler-Chen-Moreau/df013a17ab84d5403361da4538a04d574f58be83?sort=total-citations
+venue: OSDI
+year: 2018
+---
+
+# TVM - An Automated End-to-End Optimizing Compiler for Deep Learning
+
+## Abstract
+
+There is an increasing need to bring machine learning to a wide diversity of hardware devices. Current frameworks rely on vendor-specific operator libraries and optimize for a narrow range of server-class GPUs. Deploying workloads to new platforms -- such as mobile phones, embedded devices, and accelerators (e.g., FPGAs, ASICs) -- requires significant manual effort. We propose TVM, a compiler that exposes graph-level and operator-level optimizations to provide performance portability to deep learning workloads across diverse hardware back-ends. TVM solves optimization challenges specific to deep learning, such as high-level operator fusion, mapping to arbitrary hardware primitives, and memory latency hiding. It also automates optimization of low-level programs to hardware characteristics by employing a novel, learning-based cost modeling method for rapid exploration of code optimizations. Experimental results show that TVM delivers performance across hardware back-ends that are competitive with state-of-the-art, hand-tuned libraries for low-power CPU, mobile GPU, and server-class GPUs. We also demonstrate TVM's ability to target new accelerator back-ends, such as the FPGA-based generic deep learning accelerator. The system is open sourced and in production use inside several major companies.
+
+## Paper References
+
+1. From high-level deep neural models to FPGAs
+2. PENCIL - A Platform-Neutral Compute Intermediate Language for Accelerator Programming
+3. [LIFT - A functional data-parallel IR for high-performance GPU code generation](2017-lift-a-functional-data-parallel-ir-for-high-performance-gpu-code-generation.md)
+4. DLVM - A modern compiler infrastructure for deep learning systems
+5. Loo.py - transformation-based code generation for GPUs and CPUs
+6. [DaDianNao - A Machine-Learning Supercomputer](2014-dadiannao-a-machine-learning-supercomputer.md)
+7. OptiML - An Implicitly Parallel Domain-Specific Language for Machine Learning
+8. Darkroom - compiling high-level image processing code into hardware pipelines
+9. [In-datacenter performance analysis of a tensor processing unit](2017-in-datacenter-performance-analysis-of-a-tensor-processing-unit.md)
+10. [Automatically scheduling halide image processing pipelines](2016-automatically-scheduling-halide-image-processing-pipelines.md)
+11. FINN - A Framework for Fast, Scalable Binarized Neural Network Inference
+12. [Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions](2018-tensor-comprehensions-framework-agnostic-high-performance-machine-learning-abstractions.md)
+13. High performance ultra-low-precision convolutions on mobile devices
+14. Futhark - purely functional GPU-programming with nested parallelism and in-place array updates
+15. [BinaryConnect - Training Deep Neural Networks with binary weights during propagations](2015-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.md)
+16. PuDianNao - A Polyvalent Machine Learning Accelerator
+17. Halide - a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
+18. Understanding Latency Hiding on GPUs
+19. Eyeriss - A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks
+20. [TensorFlow - A system for large-scale machine learning](2016-tensorflow-a-system-for-large-scale-machine-learning.md)
+21. [MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](2015-mxnet-a-flexible-and-efficient-machine-learning-library-for-heterogeneous-distributed-systems.md)
+22. OpenTuner - An extensible framework for program autotuning
+23. Effective Hardware Based Data Prefetching for High-Performance Processors
+24. Weld - Rethinking the Interface Between Data-Intensive Applications
+25. Polyhedral parallel code generation for CUDA
+26. [The tensor algebra compiler](2017-the-tensor-algebra-compiler.md)
+27. [XNOR-Net - ImageNet Classification Using Binary Convolutional Neural Networks](2016-xnor-net-imagenet-classification-using-binary-convolutional-neural-networks.md)
+28. [Fast Algorithms for Convolutional Neural Networks](2016-fast-algorithms-for-convolutional-neural-networks.md)
+29. An introduction to computational networks and the computational network toolkit (invited talk)
+30. FFTW - an adaptive software architecture for the FFT
+31. Automatically Tuned Linear Algebra Software
+32. [MobileNets - Efficient Convolutional Neural Networks for Mobile Vision Applications](2017-mobilenets-efficient-convolutional-neural-networks-for-mobile-vision-applications.md)
+33. [Identity Mappings in Deep Residual Networks](2016-identity-mappings-in-deep-residual-networks.md)
+34. [XGBoost - A Scalable Tree Boosting System](2016-xgboost-a-scalable-tree-boosting-system.md)
+35. [Theano - new features and speed improvements](2012-theano-new-features-and-speed-improvements.md)
+36. Simultaneous multithreading - a platform for next-generation processors
+37. Decoupled access/execute computer architectures
+38. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](2016-unsupervised-representation-learning-with-deep-convolutional-generative-adversarial-networks.md)
+39. Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers
+40. [Efficient Hyperparameter Optimization and Infinitely Many Armed Bandits](2016-efficient-hyperparameter-optimization-and-infinitely-many-armed-bandits.md)
+41. [Human-level control through deep reinforcement learning](2015-human-level-control-through-deep-reinforcement-learning.md)
+42. [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](2015-improved-semantic-representations-from-tree-structured-long-short-term-memory-networks.md)
+43. [Recurrent Neural Network Regularization](2014-recurrent-neural-network-regularization.md)
+44. Roofline - an insightful visual performance model for multicore architectures
+45. [Optimization by Simulated Annealing](1983-optimization-by-simulated-annealing.md)
