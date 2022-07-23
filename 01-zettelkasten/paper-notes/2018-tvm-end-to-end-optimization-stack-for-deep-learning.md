@@ -19,7 +19,7 @@ reading_status: TBD
 ref_count: 50
 tags:
 - gen-from-ref
-- tvm
+- stc
 - paper
 urls:
 - https://www.semanticscholar.org/paper/TVM:-End-to-End-Optimization-Stack-for-Deep-Chen-Moreau/ec3071fb918ad69ec80df1ca9cf1fdeb386a9603?sort=total-citations

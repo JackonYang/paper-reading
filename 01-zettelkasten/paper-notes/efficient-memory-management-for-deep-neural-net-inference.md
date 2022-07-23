@@ -6,7 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/efficient-memory-management-for-deep-neu
 pdf_relpath: paper-repo/pdfs/efficient-memory-management-for-deep-neural-net-inference.pdf
 reading_status: TBD
 tags:
-- other-default
+- stc
 - paper
 url_slug: efficient-memory-management-for-deep-neural-net-inference
 ---
