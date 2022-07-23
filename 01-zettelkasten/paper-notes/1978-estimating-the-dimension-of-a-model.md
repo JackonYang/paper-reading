@@ -18,6 +18,8 @@ venue: ''
 year: 1978
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Estimating-the-Dimension-of-a-Model-Schwarz/37e44d1de8003d8394d158ec6afd1ff0e87e595b?sort=total-citations)
+
 # Estimating the Dimension of a Model
 
 ## Paper References

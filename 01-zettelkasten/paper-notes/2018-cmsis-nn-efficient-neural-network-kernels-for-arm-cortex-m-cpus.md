@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/CMSIS-NN:-Efficient-Neural-Network-Kernels-for-Arm-Lai-Suda/ca24492a46856221086e77ffe29e8a69e1be0595?sort=total-citations)
+
 # CMSIS-NN - Efficient Neural Network Kernels for Arm Cortex-M CPUs
 
 ## Abstract

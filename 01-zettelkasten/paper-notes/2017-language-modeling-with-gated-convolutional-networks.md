@@ -21,6 +21,8 @@ venue: ICML
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Language-Modeling-with-Gated-Convolutional-Networks-Dauphin-Fan/88caa4a0253a8b0076176745ebc072864eab66e1?sort=total-citations)
+
 # Language Modeling with Gated Convolutional Networks
 
 ## Abstract

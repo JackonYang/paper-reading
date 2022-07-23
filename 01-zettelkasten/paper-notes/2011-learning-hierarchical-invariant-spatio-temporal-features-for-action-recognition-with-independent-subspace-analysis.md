@@ -21,6 +21,8 @@ venue: CVPR 2011
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-hierarchical-invariant-spatio-temporal-for-Le-Zou/42269d0438c0ae4ca892334946ed779999691074?sort=total-citations)
+
 # Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis
 
 ## Abstract

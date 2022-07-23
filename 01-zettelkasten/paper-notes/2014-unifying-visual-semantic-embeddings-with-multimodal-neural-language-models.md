@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Unifying-Visual-Semantic-Embeddings-with-Multimodal-Kiros-Salakhutdinov/2e36ea91a3c8fbff92be2989325531b4002e2afc?sort=total-citations)
+
 # Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
 
 ## Abstract

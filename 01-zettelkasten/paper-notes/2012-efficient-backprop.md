@@ -21,6 +21,8 @@ venue: 'Neural Networks: Tricks of the Trade'
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-BackProp-LeCun-Bottou/b87274e6d9aa4e6ba5148898aa92941617d2b6ed?sort=total-citations)
+
 # Efficient BackProp
 
 ## Paper References

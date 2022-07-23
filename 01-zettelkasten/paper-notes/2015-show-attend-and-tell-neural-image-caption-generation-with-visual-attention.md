@@ -25,6 +25,8 @@ venue: ICML
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Show,-Attend-and-Tell:-Neural-Image-Caption-with-Xu-Ba/4d8f2d14af5991d4f0d050d22216825cac3157bd?sort=total-citations)
+
 # Show, Attend and Tell - Neural Image Caption Generation with Visual Attention
 
 ## Abstract

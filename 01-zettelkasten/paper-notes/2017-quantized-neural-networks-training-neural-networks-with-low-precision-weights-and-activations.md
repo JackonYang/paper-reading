@@ -22,6 +22,8 @@ venue: J. Mach. Learn. Res.
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Quantized-Neural-Networks:-Training-Neural-Networks-Hubara-Courbariaux/d2e4147eecae6f914e9e1e9aece8fdd2eaed809f?sort=total-citations)
+
 # Quantized Neural Networks - Training Neural Networks with Low Precision Weights and Activations
 
 ## Abstract

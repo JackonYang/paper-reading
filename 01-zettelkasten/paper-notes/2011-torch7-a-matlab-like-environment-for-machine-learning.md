@@ -20,6 +20,8 @@ venue: NIPS 2011
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Torch7:-A-Matlab-like-Environment-for-Machine-Collobert-Kavukcuoglu/3449b65008b27f6e60a73d80c1fd990f0481126b?sort=total-citations)
+
 # Torch7 - A Matlab-like Environment for Machine Learning
 
 ## Abstract

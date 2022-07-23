@@ -19,6 +19,8 @@ venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Reco
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Bayesian-hierarchical-model-for-learning-natural-Fei-Fei-Perona/7a2252ccce2b65abc3759149b5c06587cc318e2f?sort=total-citations)
+
 # A Bayesian hierarchical model for learning natural scene categories
 
 ## Abstract

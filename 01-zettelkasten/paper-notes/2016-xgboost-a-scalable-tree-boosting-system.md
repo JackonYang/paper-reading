@@ -19,6 +19,8 @@ venue: KDD
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/XGBoost:-A-Scalable-Tree-Boosting-System-Chen-Guestrin/26bc9195c6343e4d7f434dd65b4ad67efe2be27a?sort=total-citations)
+
 # XGBoost - A Scalable Tree Boosting System
 
 ## Abstract

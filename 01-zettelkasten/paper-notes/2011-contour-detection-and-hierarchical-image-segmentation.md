@@ -21,6 +21,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Contour-Detection-and-Hierarchical-Image-Arbeláez-Maire/0e5a262bf59b68ba8a7a1103d16fa33a9f5ffc28?sort=total-citations)
+
 # Contour Detection and Hierarchical Image Segmentation
 
 ## Abstract

@@ -29,6 +29,8 @@ venue: International Journal of Computer Vision
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Visual-Genome:-Connecting-Language-and-Vision-Using-Krishna-Zhu/afcf4dbd2ef300e5c4b35043d4fbe516807cdf7d?sort=total-citations)
+
 # Visual Genome - Connecting Language and Vision Using Crowdsourced Dense Image Annotations
 
 ## Abstract

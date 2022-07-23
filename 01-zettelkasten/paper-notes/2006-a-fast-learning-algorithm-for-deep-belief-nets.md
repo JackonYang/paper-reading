@@ -20,6 +20,8 @@ venue: Neural Computation
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Fast-Learning-Algorithm-for-Deep-Belief-Nets-Hinton-Osindero/8978cf7574ceb35f4c3096be768c7547b28a35d0?sort=total-citations)
+
 # A Fast Learning Algorithm for Deep Belief Nets
 
 ## Abstract

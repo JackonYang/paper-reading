@@ -20,6 +20,8 @@ venue: J. Mach. Learn. Res.
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Latent-Dirichlet-Allocation-Blei-Ng/f198043a866e9187925a8d8db9a55e3bfdd47f2c?sort=total-citations)
+
 # Latent Dirichlet Allocation
 
 ## Paper References

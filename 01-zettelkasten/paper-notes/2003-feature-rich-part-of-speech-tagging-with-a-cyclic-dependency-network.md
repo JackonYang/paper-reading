@@ -21,6 +21,8 @@ venue: NAACL
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Feature-Rich-Part-of-Speech-Tagging-with-a-Cyclic-Toutanova-Klein/eb42a490cf4f186d3383c92963817d100afd81e2?sort=total-citations)
+
 # Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network
 
 ## Abstract

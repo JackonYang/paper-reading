@@ -20,6 +20,8 @@ venue: EMNLP
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Effective-Approaches-to-Attention-based-Neural-Luong-Pham/93499a7c7f699b6630a86fad964536f9423bb6d0?sort=total-citations)
+
 # Effective Approaches to Attention-based Neural Machine Translation
 
 ## Abstract

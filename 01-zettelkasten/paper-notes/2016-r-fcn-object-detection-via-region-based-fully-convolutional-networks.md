@@ -21,6 +21,8 @@ venue: NIPS
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/R-FCN:-Object-Detection-via-Region-based-Fully-Dai-Li/b724c3f7ff395235b62537203ddeb710f0eb27bb?sort=total-citations)
+
 # R-FCN - Object Detection via Region-based Fully Convolutional Networks
 
 ## Abstract

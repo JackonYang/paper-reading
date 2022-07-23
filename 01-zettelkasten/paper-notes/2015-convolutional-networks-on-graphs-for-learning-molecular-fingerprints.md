@@ -24,6 +24,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Convolutional-Networks-on-Graphs-for-Learning-Duvenaud-Maclaurin/5d1bfeed240709725c78bc72ea40e55410b373dc?sort=total-citations)
+
 # Convolutional Networks on Graphs for Learning Molecular Fingerprints
 
 ## Abstract

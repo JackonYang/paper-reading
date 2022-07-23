@@ -22,6 +22,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Object-Detection-Networks-on-Convolutional-Feature-Ren-He/f075f89b4f4026748cbf2fb9f989a9934c42ee8f?sort=total-citations)
+
 # Object Detection Networks on Convolutional Feature Maps
 
 ## Abstract

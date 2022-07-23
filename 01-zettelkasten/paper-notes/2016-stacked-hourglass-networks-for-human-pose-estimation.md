@@ -20,6 +20,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Stacked-Hourglass-Networks-for-Human-Pose-Newell-Yang/848938e6199bad08f1db6f3239b260cfa901e95f?sort=total-citations)
+
 # Stacked Hourglass Networks for Human Pose Estimation
 
 ## Abstract

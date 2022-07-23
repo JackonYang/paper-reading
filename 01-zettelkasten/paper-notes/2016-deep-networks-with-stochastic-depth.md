@@ -22,6 +22,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Networks-with-Stochastic-Depth-Huang-Sun/51db1f3c8dfc7d4077da39c96bb90a6358128111?sort=total-citations)
+
 # Deep Networks with Stochastic Depth
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Pedestrian-Detection:-An-Evaluation-of-the-State-of-Dollár-Wojek/34e0ba2daabfa4d3d22913ade8265aff50b5f917?sort=total-citations)
+
 # Pedestrian Detection - An Evaluation of the State of the Art
 
 ## Abstract

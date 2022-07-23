@@ -24,6 +24,8 @@ venue: NIPS
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DeViSE:-A-Deep-Visual-Semantic-Embedding-Model-Frome-Corrado/4aa4069693bee00d1b0759ca3df35e59284e9845?sort=total-citations)
+
 # DeViSE - A Deep Visual-Semantic Embedding Model
 
 ## Abstract

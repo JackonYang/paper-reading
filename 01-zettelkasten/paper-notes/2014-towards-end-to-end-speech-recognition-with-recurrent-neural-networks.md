@@ -19,6 +19,8 @@ venue: ICML
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Towards-End-To-End-Speech-Recognition-with-Neural-Graves-Jaitly/0fa553cfa0cf3cbdf7a913aa2ae789a757dfb32f?sort=total-citations)
+
 # Towards End-To-End Speech Recognition with Recurrent Neural Networks
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: ICML
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multimodal-Deep-Learning-Ngiam-Khosla/80e9e3fc3670482c1fee16b2542061b779f47c4f?sort=total-citations)
+
 # Multimodal Deep Learning
 
 ## Abstract

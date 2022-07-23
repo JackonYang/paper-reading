@@ -20,6 +20,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Dual-Attention-Networks-for-Multimodal-Reasoning-Nam-Ha/f651593fa6c83d717fc961482696a53b6fca5ab5?sort=total-citations)
+
 # Dual Attention Networks for Multimodal Reasoning and Matching
 
 ## Abstract

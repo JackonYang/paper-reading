@@ -25,6 +25,8 @@ venue: ECCV 2020
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/UNITER:-Learning-UNiversal-Image-TExt-Chen-Li/54416048772b921720f19869ed11c2a360589d03?sort=total-citations)
+
 # UNITER - Learning UNiversal Image-TExt Representations
 
 ## Abstract

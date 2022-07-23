@@ -21,6 +21,8 @@ venue: Transactions of the Association for Computational Linguistics
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Enriching-Word-Vectors-with-Subword-Information-Bojanowski-Grave/e2dba792360873aef125572812f3673b1a85d850?sort=total-citations)
+
 # Enriching Word Vectors with Subword Information
 
 ## Abstract

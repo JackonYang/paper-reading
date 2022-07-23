@@ -21,6 +21,8 @@ venue: NIPS
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/How-transferable-are-features-in-deep-neural-Yosinski-Clune/081651b38ff7533550a3adfc1c00da333a8fe86c?sort=total-citations)
+
 # How transferable are features in deep neural networks?
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: 2017 14th IAPR International Conference on Document Analysis and Recognit
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DeepDeSRT%3A-Deep-Learning-for-Detection-and-of-in-Schreiber-Agne/f8bead3ae810cd3f7427d3004e45b4158da9b744)
+
 # DeepDeSRT - Deep Learning for Detection and Structure Recognition of Tables in Document Images
 
 ## Abstract

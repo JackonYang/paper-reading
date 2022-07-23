@@ -28,6 +28,8 @@ venue: 2014 47th Annual IEEE/ACM International Symposium on Microarchitecture
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DaDianNao:-A-Machine-Learning-Supercomputer-Chen-Luo/4157ed3db4c656854e69931cb6089b64b08784b9?sort=total-citations)
+
 # DaDianNao - A Machine-Learning Supercomputer
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Visual-Semantic-Alignments-for-Generating-Karpathy-Fei-Fei/55e022fb7581bb9e1fce678d21fb25ffbb3fbb88?sort=total-citations)
+
 # Deep Visual-Semantic Alignments for Generating Image Descriptions
 
 ## Abstract

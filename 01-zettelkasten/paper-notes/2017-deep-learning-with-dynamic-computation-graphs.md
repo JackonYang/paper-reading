@@ -21,6 +21,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Learning-with-Dynamic-Computation-Graphs-Looks-Herreshoff/08d2bae3ddf44d67b9b192a6ff26e954192e4806?sort=total-citations)
+
 # Deep Learning with Dynamic Computation Graphs
 
 ## Abstract

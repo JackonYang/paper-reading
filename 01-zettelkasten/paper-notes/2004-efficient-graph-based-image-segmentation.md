@@ -19,6 +19,8 @@ venue: International Journal of Computer Vision
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-Graph-Based-Image-Segmentation-Felzenszwalb-Huttenlocher/aeeffe327e6c93e9010c7b1e401caa9113723851?sort=total-citations)
+
 # Efficient Graph-Based Image Segmentation
 
 ## Abstract

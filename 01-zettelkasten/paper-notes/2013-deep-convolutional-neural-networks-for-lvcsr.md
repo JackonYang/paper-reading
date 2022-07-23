@@ -21,6 +21,8 @@ venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Proces
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-convolutional-neural-networks-for-LVCSR-Sainath-Mohamed/57a5fa22f10ce6ccf27286f74a050d2dac037e06?sort=total-citations)
+
 # Deep convolutional neural networks for LVCSR
 
 ## Abstract

@@ -38,6 +38,8 @@ venue: NeurIPS
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/PyTorch:-An-Imperative-Style,-High-Performance-Deep-Paszke-Gross/3c8a456509e6c0805354bd40a35e3f2dbf8069b1?sort=total-citations)
+
 # PyTorch - An Imperative Style, High-Performance Deep Learning Library
 
 ## Abstract

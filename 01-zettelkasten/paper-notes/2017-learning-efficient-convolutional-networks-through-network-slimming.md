@@ -23,6 +23,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Efficient-Convolutional-Networks-through-Liu-Li/90a16f34d109b63d95ab4da2d491cbe3a1c8b656?sort=total-citations)
+
 # Learning Efficient Convolutional Networks through Network Slimming
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: J. Mach. Learn. Res.
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Natural-Language-Processing-(Almost)-from-Scratch-Collobert-Weston/bc1022b031dc6c7019696492e8116598097a8c12?sort=total-citations)
+
 # Natural Language Processing (Almost) from Scratch
 
 ## Abstract

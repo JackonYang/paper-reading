@@ -20,6 +20,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Synthetic-Data-for-Text-Localisation-in-Natural-Gupta-Vedaldi/400eb5386b13c32968fee796c71dec32aa754f1e?sort=total-citations)
+
 # Synthetic Data for Text Localisation in Natural Images
 
 ## Abstract

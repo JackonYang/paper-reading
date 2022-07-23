@@ -20,6 +20,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Channel-Pruning-for-Accelerating-Very-Deep-Neural-He-Zhang/ee53c9480132fc0d09b1192226cb2c460462fd6d?sort=total-citations)
+
 # Channel Pruning for Accelerating Very Deep Neural Networks
 
 ## Abstract

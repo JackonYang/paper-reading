@@ -21,6 +21,8 @@ venue: ICML
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/On-the-importance-of-initialization-and-momentum-in-Sutskever-Martens/aa7bfd2304201afbb19971ebde87b17e40242e91?sort=total-citations)
+
 # On the importance of initialization and momentum in deep learning
 
 ## Abstract

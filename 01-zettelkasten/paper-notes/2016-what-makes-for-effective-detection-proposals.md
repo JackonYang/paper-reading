@@ -21,6 +21,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/What-Makes-for-Effective-Detection-Proposals-Hosang-Benenson/6c016579af5becc230fb9efc1f885f2afa65a46e?sort=total-citations)
+
 # What Makes for Effective Detection Proposals?
 
 ## Abstract

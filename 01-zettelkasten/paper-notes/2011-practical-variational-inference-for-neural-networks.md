@@ -18,6 +18,8 @@ venue: NIPS
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Practical-Variational-Inference-for-Neural-Networks-Graves/5a9ef216bf11f222438fff130c778267d39a9564?sort=total-citations)
+
 # Practical Variational Inference for Neural Networks
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: ACM Trans. Graph.
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/"GrabCut":-interactive-foreground-extraction-using-Rother-Kolmogorov/7a953aaf29ef67ee094943d4be50d753b3744573?sort=total-citations)
+
 # GrabCut - interactive foreground extraction using iterated graph cuts
 
 ## Abstract

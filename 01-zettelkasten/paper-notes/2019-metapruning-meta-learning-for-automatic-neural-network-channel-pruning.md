@@ -24,6 +24,8 @@ venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/MetaPruning:-Meta-Learning-for-Automatic-Neural-Liu-Mu/bd3df472bc848083068a76e9ce2b2ab49543dc78?sort=total-citations)
+
 # MetaPruning - Meta Learning for Automatic Neural Network Channel Pruning
 
 ## Abstract

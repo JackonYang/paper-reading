@@ -20,6 +20,8 @@ venue: ICML
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Domain-Adaptation-for-Large-Scale-Sentiment-A-Deep-Glorot-Bordes/6f4065f0cc99a0839b0248ffb4457e5f0277b30d?sort=total-citations)
+
 # Domain Adaptation for Large-Scale Sentiment Classification - A Deep Learning Approach
 
 ## Abstract

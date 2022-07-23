@@ -21,6 +21,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Object-Detection-with-Discriminatively-Trained-Part-Felzenszwalb-Girshick/e79272fe3d65197100eae8be9fec6469107969ae?sort=total-citations)
+
 # Object Detection with Discriminatively Trained Part Based Models
 
 ## Abstract

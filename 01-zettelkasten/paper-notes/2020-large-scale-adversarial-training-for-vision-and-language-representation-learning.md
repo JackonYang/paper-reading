@@ -23,6 +23,8 @@ venue: NeurIPS
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Large-Scale-Adversarial-Training-for-Representation-Gan-Chen/2f5f81bc516a6d085d39479378af1fc27104f91e?sort=total-citations)
+
 # Large-Scale Adversarial Training for Vision-and-Language Representation Learning
 
 ## Abstract

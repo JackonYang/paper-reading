@@ -20,6 +20,8 @@ venue: ICLR
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Regularizing-and-Optimizing-LSTM-Language-Models-Merity-Keskar/58c6f890a1ae372958b7decf56132fe258152722?sort=total-citations)
+
 # Regularizing and Optimizing LSTM Language Models
 
 ## Abstract

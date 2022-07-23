@@ -19,6 +19,8 @@ venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern Reco
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Histograms-of-oriented-gradients-for-human-Dalal-Triggs/cec734d7097ab6b1e60d95228ffd64248eb89d66?sort=total-citations)
+
 # Histograms of oriented gradients for human detection
 
 ## Abstract

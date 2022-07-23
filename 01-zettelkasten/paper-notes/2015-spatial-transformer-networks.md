@@ -21,6 +21,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Spatial-Transformer-Networks-Jaderberg-Simonyan/fe87ea16d5eb1c7509da9a0314bbf4c7b0676506?sort=total-citations)
+
 # Spatial Transformer Networks
 
 ## Abstract

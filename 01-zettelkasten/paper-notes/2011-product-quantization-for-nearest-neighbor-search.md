@@ -20,6 +20,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Product-Quantization-for-Nearest-Neighbor-Search-Jégou-Douze/4748d22348e72e6e06c2476486afddbc76e5eca7?sort=total-citations)
+
 # Product Quantization for Nearest Neighbor Search
 
 ## Abstract

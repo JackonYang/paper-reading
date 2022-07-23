@@ -22,6 +22,8 @@ venue: AAAI
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Unicoder-VL:-A-Universal-Encoder-for-Vision-and-by-Li-Duan/2bc1c8bd00bbf7401afcb5460277840fd8bab029?sort=total-citations)
+
 # Unicoder-VL - A Universal Encoder for Vision and Language by Cross-modal Pre-training
 
 ## Abstract

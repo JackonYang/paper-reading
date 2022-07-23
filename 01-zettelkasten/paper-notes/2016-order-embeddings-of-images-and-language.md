@@ -21,6 +21,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Order-Embeddings-of-Images-and-Language-Vendrov-Kiros/46b8cbcdff87b842c2c1d4a003c831f845096ba7?sort=total-citations)
+
 # Order-Embeddings of Images and Language
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/PACT:-Parameterized-Clipping-Activation-for-Neural-Choi-Wang/49e60f82d6ae835c56473464f67ca5c11d3e95ec?sort=total-citations)
+
 # PACT - Parameterized Clipping Activation for Quantized Neural Networks
 
 ## Abstract

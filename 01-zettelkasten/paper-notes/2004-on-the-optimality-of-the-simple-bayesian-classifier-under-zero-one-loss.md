@@ -19,6 +19,8 @@ venue: Machine Learning
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/On-the-Optimality-of-the-Simple-Bayesian-Classifier-Domingos-Pazzani/700666f0c59a4fedc8b08294424c47cb99a8e2ff?sort=total-citations)
+
 # On the Optimality of the Simple Bayesian Classifier under Zero-One Loss
 
 ## Abstract

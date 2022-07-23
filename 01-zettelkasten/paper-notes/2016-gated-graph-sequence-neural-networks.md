@@ -21,6 +21,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Gated-Graph-Sequence-Neural-Networks-Li-Tarlow/492f57ee9ceb61fb5a47ad7aebfec1121887a175?sort=total-citations)
+
 # Gated Graph Sequence Neural Networks
 
 ## Abstract

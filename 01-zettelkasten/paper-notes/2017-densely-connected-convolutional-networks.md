@@ -20,6 +20,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Densely-Connected-Convolutional-Networks-Huang-Liu/5694e46284460a648fe29117cbc55f6c9be3fa3c?sort=total-citations)
+
 # Densely Connected Convolutional Networks
 
 ## Abstract

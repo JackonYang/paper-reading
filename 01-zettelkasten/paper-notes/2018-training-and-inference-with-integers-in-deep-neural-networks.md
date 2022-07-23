@@ -21,6 +21,8 @@ venue: ICLR
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Training-and-Inference-with-Integers-in-Deep-Neural-Wu-Li/acdf151b8efc2c6b05662d69f27531afc557dc85?sort=total-citations)
+
 # Training and Inference with Integers in Deep Neural Networks
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Tying-Word-Vectors-and-Word-Classifiers:-A-Loss-for-Inan-Khosravi/424aef7340ee618132cc3314669400e23ad910ba?sort=total-citations)
+
 # Tying Word Vectors and Word Classifiers - A Loss Framework for Language Modeling
 
 ## Abstract

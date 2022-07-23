@@ -21,6 +21,8 @@ venue: NAACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-to-Compose-Neural-Networks-for-Question-Andreas-Rohrbach/75ddc7ee15be14013a3462c01b38b0548486fbcb?sort=total-citations)
+
 # Learning to Compose Neural Networks for Question Answering
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: 2019 International Conference on Document Analysis and Recognition (ICDAR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/PubLayNet:-Largest-Dataset-Ever-for-Document-Layout-Zhong-Tang/b5799d10df17de3232540e990da69553800d6376?sort=total-citations)
+
 # PubLayNet - Largest Dataset Ever for Document Layout Analysis
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: ICML
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Image-to-Markup-Generation-with-Coarse-to-Fine-Deng-Kanervisto/071c0b3ec700758dd9b4164ede08b714ea7e3c38?sort=total-citations)
+
 # Image-to-Markup Generation with Coarse-to-Fine Attention
 
 ## Abstract

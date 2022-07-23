@@ -19,6 +19,8 @@ venue: NIPS
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Distance-Metric-Learning-for-Large-Margin-Nearest-Weinberger-Saul/78947497cbbffc691aac3f590d972130259af9ce?sort=total-citations)
+
 # Distance Metric Learning for Large Margin Nearest Neighbor Classification
 
 ## Abstract

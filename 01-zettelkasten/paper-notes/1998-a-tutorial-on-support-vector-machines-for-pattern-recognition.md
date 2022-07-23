@@ -18,6 +18,8 @@ venue: ''
 year: 1998
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Tutorial-on-Support-Vector-Machines-for-Pattern-BurgesChristopher/6716697767fc601efc7690f40820d9ea7a7bf57c?sort=total-citations)
+
 # A Tutorial on Support Vector Machines for Pattern Recognition
 
 ## Abstract

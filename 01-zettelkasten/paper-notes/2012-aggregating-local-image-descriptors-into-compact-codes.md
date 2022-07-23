@@ -23,6 +23,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Aggregating-Local-Image-Descriptors-into-Compact-Jégou-Perronnin/5183230b706b72f6f6c19415c423d93c79ddde53?sort=total-citations)
+
 # Aggregating Local Image Descriptors into Compact Codes
 
 ## Abstract

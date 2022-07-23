@@ -29,6 +29,8 @@ venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Searching-for-MobileNetV3-Howard-Sandler/83d074cc5051ade0c08d66180e4a04d2c112fa97?sort=total-citations)
+
 # Searching for MobileNetV3
 
 ## Abstract

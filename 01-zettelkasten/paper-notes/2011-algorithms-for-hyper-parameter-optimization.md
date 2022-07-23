@@ -21,6 +21,8 @@ venue: NIPS
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Algorithms-for-Hyper-Parameter-Optimization-Bergstra-Bardenet/03911c85305d42aa2eeb02be82ef6fb7da644dd0?sort=total-citations)
+
 # Algorithms for Hyper-Parameter Optimization
 
 ## Abstract

@@ -24,6 +24,8 @@ venue: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architectur
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/EIE:-Efficient-Inference-Engine-on-Compressed-Deep-Han-Liu/2e2b189f668cf2c06ebc44dc9b166648256cf457?sort=total-citations)
+
 # EIE - Efficient Inference Engine on Compressed Deep Neural Network
 
 ## Abstract

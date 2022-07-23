@@ -20,6 +20,8 @@ venue: IEEE Trans. Pattern Anal. Mach. Intell.
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Model-of-Saliency-Based-Visual-Attention-for-Itti-Koch/4816f0b6f0d05da3901441bfa5cc7be044b4da8b?sort=total-citations)
+
 # A Model of Saliency-Based Visual Attention for Rapid Scene Analysis
 
 ## Abstract

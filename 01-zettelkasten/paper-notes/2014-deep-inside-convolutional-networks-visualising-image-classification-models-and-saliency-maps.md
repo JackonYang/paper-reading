@@ -20,6 +20,8 @@ venue: ICLR
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Inside-Convolutional-Networks:-Visualising-and-Simonyan-Vedaldi/dc6ac3437f0a6e64e4404b1b9d188394f8a3bf71?sort=total-citations)
+
 # Deep Inside Convolutional Networks - Visualising Image Classification Models and Saliency Maps
 
 ## Abstract

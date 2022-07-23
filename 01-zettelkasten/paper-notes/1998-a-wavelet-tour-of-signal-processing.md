@@ -19,6 +19,8 @@ venue: ''
 year: 1998
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-wavelet-tour-of-signal-processing-Mallat/d30e8f3e565d4a9df831875c383687507606d4f0?sort=total-citations)
+
 # A wavelet tour of signal processing
 
 ## Paper References

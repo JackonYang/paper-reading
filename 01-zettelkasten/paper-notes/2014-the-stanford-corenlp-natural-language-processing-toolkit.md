@@ -23,6 +23,8 @@ venue: ACL
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Stanford-CoreNLP-Natural-Language-Processing-Manning-Surdeanu/2f5102ec3f70d0dea98c957cc2cab4d15d83a2da?sort=total-citations)
+
 # The Stanford CoreNLP Natural Language Processing Toolkit
 
 ## Abstract

@@ -18,6 +18,8 @@ venue: ACL
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/NLTK:-The-Natural-Language-Toolkit-Bird/01a660ec8aa995a88a00bfb41cb86c022047a9db?sort=total-citations)
+
 # NLTK - The Natural Language Toolkit
 
 ## Abstract

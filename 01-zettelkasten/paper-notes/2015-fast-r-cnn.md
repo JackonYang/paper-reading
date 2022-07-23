@@ -25,6 +25,8 @@ year: 2015
 
 [pdf(local)](../../paper-repo/pdfs/2015-fast-rcnn.pdf)
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Fast-R-CNN-Girshick/7ffdbc358b63378f07311e883dddacc9faeeaf4b?sort=total-citations)
+
 # Fast R-CNN
 
 ## Abstract

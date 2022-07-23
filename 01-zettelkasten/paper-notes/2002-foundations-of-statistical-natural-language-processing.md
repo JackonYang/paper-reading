@@ -19,6 +19,8 @@ venue: SGMD
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Foundations-of-statistical-natural-language-Manning-Schütze/084c55d6432265785e3ff86a2e900a49d501c00a?sort=total-citations)
+
 # Foundations of statistical natural language processing
 
 ## Abstract

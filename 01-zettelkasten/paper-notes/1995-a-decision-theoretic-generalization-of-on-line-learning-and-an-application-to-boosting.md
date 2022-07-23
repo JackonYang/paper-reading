@@ -19,6 +19,8 @@ venue: EuroCOLT
 year: 1995
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-decision-theoretic-generalization-of-on-line-and-Freund-Schapire/4ba566223e426677d12a9a18418c023a4deec77e?sort=total-citations)
+
 # A decision-theoretic generalization of on-line learning and an application to boosting
 
 ## Abstract

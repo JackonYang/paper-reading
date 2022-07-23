@@ -21,6 +21,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Accelerating-Very-Deep-Convolutional-Networks-for-Zhang-Zou/b89d7f7439cab841934a1ede06bf6b1f593c754f?sort=total-citations)
+
 # Accelerating Very Deep Convolutional Networks for Classification and Detection
 
 ## Abstract

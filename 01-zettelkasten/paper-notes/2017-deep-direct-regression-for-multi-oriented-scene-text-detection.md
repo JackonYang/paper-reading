@@ -21,6 +21,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Direct-Regression-for-Multi-oriented-Scene-He-Zhang/d54fdff853f8b16324b0649f9cf999b31d9370b0?sort=total-citations)
+
 # Deep Direct Regression for Multi-oriented Scene Text Detection
 
 ## Abstract

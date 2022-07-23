@@ -18,6 +18,8 @@ venue: ''
 year: 2000
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/WordNet-:-an-electronic-lexical-database-Fellbaum/d87ceda3042f781c341ac17109d1e94a717f5f60?sort=total-citations)
+
 # WordNet - an electronic lexical database
 
 ## Abstract

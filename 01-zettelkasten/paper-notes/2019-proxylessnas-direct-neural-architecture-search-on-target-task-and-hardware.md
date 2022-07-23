@@ -20,6 +20,8 @@ venue: ICLR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ProxylessNAS:-Direct-Neural-Architecture-Search-on-Cai-Zhu/dc8b789446416383bfafe9b1c504c4a2b17e68d1?sort=total-citations)
+
 # ProxylessNAS - Direct Neural Architecture Search on Target Task and Hardware
 
 ## Abstract

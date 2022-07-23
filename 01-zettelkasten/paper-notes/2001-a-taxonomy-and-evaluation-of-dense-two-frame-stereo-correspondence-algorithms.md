@@ -19,6 +19,8 @@ venue: Proceedings IEEE Workshop on Stereo and Multi-Baseline Vision (SMBV 2001)
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Taxonomy-and-Evaluation-of-Dense-Two-Frame-Stereo-Scharstein-Szeliski/d2f78c2b2b325d72f359d4c797c9aab6a8e60942?sort=total-citations)
+
 # A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Pointer-Sentinel-Mixture-Models-Merity-Xiong/efbd381493bb9636f489b965a2034d529cd56bcd?sort=total-citations)
+
 # Pointer Sentinel Mixture Models
 
 ## Abstract

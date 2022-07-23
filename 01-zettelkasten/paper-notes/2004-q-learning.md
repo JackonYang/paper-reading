@@ -19,6 +19,8 @@ venue: Machine Learning
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Q-learning-Watkins-Dayan/03b7e51c52084ac1db5118342a00b5fbcfc587aa?sort=total-citations)
+
 # Q-learning
 
 ## Abstract

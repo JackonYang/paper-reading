@@ -23,6 +23,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Focusing-Attention:-Towards-Accurate-Text-in-Images-Cheng-Bai/45524d7a40435d989579b88b70d25e4d65ac9e3c?sort=total-citations)
+
 # Focusing Attention - Towards Accurate Text Recognition in Natural Images
 
 ## Abstract

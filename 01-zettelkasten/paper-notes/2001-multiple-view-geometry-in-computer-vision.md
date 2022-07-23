@@ -18,6 +18,8 @@ venue: Künstliche Intell.
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multiple-View-Geometry-in-Computer-Vision-Wrobel/339093c7ed71919ce59a7e78979a77abd25bad0c?sort=total-citations)
+
 # Multiple View Geometry in Computer Vision
 
 ## Abstract

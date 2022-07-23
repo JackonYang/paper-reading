@@ -21,6 +21,8 @@ venue: EMNLP
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SQuAD:-100,000+-Questions-for-Machine-Comprehension-Rajpurkar-Zhang/05dd7254b632376973f3a1b4d39485da17814df5?sort=total-citations)
+
 # SQuAD - 100,000+ Questions for Machine Comprehension of Text
 
 ## Abstract

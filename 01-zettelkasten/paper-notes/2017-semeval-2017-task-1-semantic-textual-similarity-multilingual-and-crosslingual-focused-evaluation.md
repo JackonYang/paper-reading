@@ -23,6 +23,8 @@ venue: SemEval@ACL
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SemEval-2017-Task-1:-Semantic-Textual-Similarity-Cer-Diab/a23fa96e7217ba0e9405d9e1fe3cdedd57b6e096?sort=total-citations)
+
 # SemEval-2017 Task 1 - Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation
 
 ## Abstract

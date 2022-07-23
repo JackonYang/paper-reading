@@ -23,6 +23,8 @@ venue: International Journal of Computer Vision
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Pascal-Visual-Object-Classes-Challenge:-A-Everingham-Eslami/616b246e332573af1f4859aa91440280774c183a?sort=total-citations)
+
 # The Pascal Visual Object Classes Challenge - A Retrospective
 
 ## Abstract

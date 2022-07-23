@@ -19,6 +19,8 @@ venue: IEEE Transactions on Automatic Control
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Convex-Optimization-Boyd-Vandenberghe/4f607f03272e4d62708f5b2441355f9e005cb452?sort=total-citations)
+
 # Convex Optimization
 
 ## Abstract

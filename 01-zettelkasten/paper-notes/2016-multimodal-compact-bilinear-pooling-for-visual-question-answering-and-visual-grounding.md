@@ -23,6 +23,8 @@ venue: EMNLP
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multimodal-Compact-Bilinear-Pooling-for-Visual-and-Fukui-Park/fddc15480d086629b960be5bff96232f967f2252?sort=total-citations)
+
 # Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
 
 ## Abstract

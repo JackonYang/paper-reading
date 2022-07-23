@@ -21,6 +21,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/HyperNet:-Towards-Accurate-Region-Proposal-and-Kong-Yao/89c03327f45064f1fbfcd152f7fc0148d08d5acb?sort=total-citations)
+
 # HyperNet - Towards Accurate Region Proposal Generation and Joint Object Detection
 
 ## Abstract

@@ -18,6 +18,8 @@ venue: Machine Learning
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multitask-Learning-Caruana/161ffb54a3fdf0715b198bb57bd22f910242eb49?sort=total-citations)
+
 # Multitask Learning
 
 ## Abstract

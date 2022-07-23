@@ -28,6 +28,8 @@ venue: Artificial Intelligence in the Age of Neural Networks and Brain Computing
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Evolving-Deep-Neural-Networks-Miikkulainen-Liang/cd7c02cab3ec4e59150657bd6660eab97def9a3a?sort=total-citations)
+
 # Evolving Deep Neural Networks
 
 ## Paper References

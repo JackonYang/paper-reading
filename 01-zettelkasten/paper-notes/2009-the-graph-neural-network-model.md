@@ -22,6 +22,8 @@ venue: IEEE Transactions on Neural Networks
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Graph-Neural-Network-Model-Scarselli-Gori/3efd851140aa28e95221b55fcc5659eea97b172d?sort=total-citations)
+
 # The Graph Neural Network Model
 
 ## Abstract

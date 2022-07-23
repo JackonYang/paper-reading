@@ -19,6 +19,8 @@ venue: Proceedings Ninth IEEE International Conference on Computer Vision
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Video-Google:-a-text-retrieval-approach-to-object-Sivic-Zisserman/642e328cae81c5adb30069b680cf60ba6b475153?sort=total-citations)
+
 # Video Google - a text retrieval approach to object matching in videos
 
 ## Abstract

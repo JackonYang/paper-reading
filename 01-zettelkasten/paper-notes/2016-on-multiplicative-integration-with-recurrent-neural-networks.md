@@ -22,6 +22,8 @@ venue: NIPS
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/On-Multiplicative-Integration-with-Recurrent-Neural-Wu-Zhang/136cf66392f1d6bf42da4cc070888996dc472b91?sort=total-citations)
+
 # On Multiplicative Integration with Recurrent Neural Networks
 
 ## Abstract

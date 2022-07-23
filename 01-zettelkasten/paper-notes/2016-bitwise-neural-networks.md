@@ -19,6 +19,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Bitwise-Neural-Networks-Kim-Smaragdis/8fcfd67f21738eff12d853fdf2b31ee192e2312a?sort=total-citations)
+
 # Bitwise Neural Networks
 
 ## Abstract

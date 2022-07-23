@@ -21,6 +21,8 @@ venue: Machine Learning
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Text-Classification-from-Labeled-and-Unlabeled-EM-Nigam-McCallum/e2de29049d62de925cf709024b92774cd82b0a5a?sort=total-citations)
+
 # Text Classification from Labeled and Unlabeled Documents using EM
 
 ## Abstract

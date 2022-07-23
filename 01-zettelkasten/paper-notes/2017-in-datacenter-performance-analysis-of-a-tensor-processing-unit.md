@@ -93,6 +93,8 @@ venue: 2017 ACM/IEEE 44th Annual International Symposium on Computer Architectur
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/In-datacenter-performance-analysis-of-a-tensor-unit-Jouppi-Young/2dfeb5a90abc49ab2a80a492a01a4e2c8e92ec22?sort=total-citations)
+
 # In-datacenter performance analysis of a tensor processing unit
 
 ## Abstract

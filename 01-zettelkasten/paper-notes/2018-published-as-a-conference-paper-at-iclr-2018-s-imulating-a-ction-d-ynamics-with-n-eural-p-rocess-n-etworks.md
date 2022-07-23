@@ -23,6 +23,8 @@ venue: ''
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Published-as-a-conference-paper-at-ICLR-2018-S-A-D-Bosselut-Levy/bcd857d75841aa3e92cd4284a8818aba9f6c0c3f?sort=total-citations)
+
 # Published as a conference paper at ICLR 2018 S IMULATING A CTION D YNAMICS WITH N EURAL P ROCESS N ETWORKS
 
 ## Abstract

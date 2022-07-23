@@ -20,6 +20,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Training-Very-Deep-Networks-Srivastava-Greff/b92aa7024b87f50737b372e5df31ef091ab54e62?sort=total-citations)
+
 # Training Very Deep Networks
 
 ## Abstract

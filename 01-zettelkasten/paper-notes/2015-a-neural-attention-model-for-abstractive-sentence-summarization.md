@@ -20,6 +20,8 @@ venue: EMNLP
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Neural-Attention-Model-for-Abstractive-Sentence-Rush-Chopra/5082a1a13daea5c7026706738f8528391a1e6d59?sort=total-citations)
+
 # A Neural Attention Model for Abstractive Sentence Summarization
 
 ## Abstract

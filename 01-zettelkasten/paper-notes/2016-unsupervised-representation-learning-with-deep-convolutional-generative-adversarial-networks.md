@@ -20,6 +20,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Unsupervised-Representation-Learning-with-Deep-Radford-Metz/8388f1be26329fa45e5807e968a641ce170ea078?sort=total-citations)
+
 # Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 
 ## Abstract

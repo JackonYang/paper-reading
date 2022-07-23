@@ -19,6 +19,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Fast-Algorithms-for-Convolutional-Neural-Networks-Lavin-Gray/d5eadd6f059d742d76441fd0a635a21694dd7392?sort=total-citations)
+
 # Fast Algorithms for Convolutional Neural Networks
 
 ## Abstract

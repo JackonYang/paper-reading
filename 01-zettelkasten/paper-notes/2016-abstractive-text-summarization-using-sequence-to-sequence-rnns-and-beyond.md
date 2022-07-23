@@ -22,6 +22,8 @@ venue: CoNLL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Abstractive-Text-Summarization-using-RNNs-and-Nallapati-Zhou/f37076f426023241f19cdc2fb0a0fd733a6fa7fa?sort=total-citations)
+
 # Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond
 
 ## Abstract

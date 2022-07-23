@@ -19,6 +19,8 @@ venue: ICML
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Batch-Normalization:-Accelerating-Deep-Network-by-Ioffe-Szegedy/4d376d6978dad0374edfa6709c9556b42d3594d3?sort=total-citations)
+
 # Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
 ## Abstract

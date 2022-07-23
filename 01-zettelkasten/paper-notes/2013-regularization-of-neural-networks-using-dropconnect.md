@@ -22,6 +22,8 @@ venue: ICML
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Regularization-of-Neural-Networks-using-DropConnect-Wan-Zeiler/38f35dd624cd1cf827416e31ac5e0e0454028eca?sort=total-citations)
+
 # Regularization of Neural Networks using DropConnect
 
 ## Abstract

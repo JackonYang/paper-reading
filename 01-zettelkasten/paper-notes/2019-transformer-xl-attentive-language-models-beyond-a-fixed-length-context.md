@@ -23,6 +23,8 @@ venue: ACL
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Transformer-XL:-Attentive-Language-Models-beyond-a-Dai-Yang/c4744a7c2bb298e4a52289a1e085c71cc3d37bc6?sort=total-citations)
+
 # Transformer-XL - Attentive Language Models beyond a Fixed-Length Context
 
 ## Abstract

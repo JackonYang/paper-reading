@@ -18,6 +18,8 @@ venue: ''
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Elements-of-Statistical-Learning:-Data-Mining,-Ruppert/5176a2f31dace77db9135dde7020d2c37f78cca0?sort=total-citations)
+
 # The Elements of Statistical Learning - Data Mining, Inference, and Prediction
 
 ## Abstract

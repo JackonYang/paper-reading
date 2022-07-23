@@ -31,6 +31,8 @@ year: 2018
 
 [pdf(local)](../../paper-repo/pdfs/learning-to-optimize-tensor-programs.pdf)
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-to-Optimize-Tensor-Programs-Chen-Zheng/cb91c2f8d3cac0b655a39be318b603334eb18987)
+
 # Learning to Optimize Tensor Programs
 
 ## Abstract

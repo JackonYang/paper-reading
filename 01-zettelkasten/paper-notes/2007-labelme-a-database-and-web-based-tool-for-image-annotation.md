@@ -21,6 +21,8 @@ venue: International Journal of Computer Vision
 year: 2007
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/LabelMe:-A-Database-and-Web-Based-Tool-for-Image-Russell-Torralba/092c275005ae49dc1303214f6d02d134457c7053?sort=total-citations)
+
 # LabelMe - A Database and Web-Based Tool for Image Annotation
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: NIPS
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Practical-Bayesian-Optimization-of-Machine-Learning-Snoek-Larochelle/2e2089ae76fe914706e6fa90081a79c8fe01611e?sort=total-citations)
+
 # Practical Bayesian Optimization of Machine Learning Algorithms
 
 ## Abstract

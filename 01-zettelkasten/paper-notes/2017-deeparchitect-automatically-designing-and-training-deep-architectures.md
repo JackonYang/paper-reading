@@ -19,6 +19,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DeepArchitect:-Automatically-Designing-and-Training-Negrinho-Gordon/71a80e7342e56f33fd120246e907151a0cf1b4d0?sort=total-citations)
+
 # DeepArchitect - Automatically Designing and Training Deep Architectures
 
 ## Abstract

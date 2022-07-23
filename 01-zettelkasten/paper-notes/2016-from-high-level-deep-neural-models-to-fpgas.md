@@ -25,6 +25,8 @@ venue: 2016 49th Annual IEEE/ACM International Symposium on Microarchitecture (M
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/From-high-level-deep-neural-models-to-FPGAs-Sharma-Park/924d6c44fda59dc9ac1f25d7cc12d669c5f9e557?sort=total-citations)
+
 # From high-level deep neural models to FPGAs
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Compression-of-Deep-Convolutional-Neural-Networks-Kim-Park/4ca3b996d888d7178dbbf9855bb2ab253bdfa43d?sort=total-citations)
+
 # Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications
 
 ## Abstract

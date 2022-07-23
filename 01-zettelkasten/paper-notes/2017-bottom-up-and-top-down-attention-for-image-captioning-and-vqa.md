@@ -24,6 +24,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Bottom-Up-and-Top-Down-Attention-for-Image-and-VQA-Anderson-He/a79b694bd4ef51207787da1948ed473903b751ef?sort=total-citations)
+
 # Bottom-Up and Top-Down Attention for Image Captioning and VQA
 
 ## Abstract

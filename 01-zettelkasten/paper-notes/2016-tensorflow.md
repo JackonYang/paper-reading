@@ -45,6 +45,8 @@ year: 2016
 
 [pdf(local)](../../paper-repo/pdfs/2016-tensorflow.pdf)
 
+[semanticscholar url](https://www.semanticscholar.org/paper/TensorFlow:-A-system-for-large-scale-machine-Abadi-Barham/46200b99c40e8586c8a0f588488ab6414119fb28?sort=total-citations)
+
 # TensorFlow - A system for large-scale machine learning
 
 ## Abstract

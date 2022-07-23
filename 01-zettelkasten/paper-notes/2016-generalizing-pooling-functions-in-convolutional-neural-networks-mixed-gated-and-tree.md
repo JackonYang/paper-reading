@@ -20,6 +20,8 @@ venue: AISTATS
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Generalizing-Pooling-Functions-in-Convolutional-and-Lee-Gallagher/4b88e948121a87f00fb5aa0081d2044dde51ee36?sort=total-citations)
+
 # Generalizing Pooling Functions in Convolutional Neural Networks - Mixed, Gated, and Tree
 
 ## Abstract

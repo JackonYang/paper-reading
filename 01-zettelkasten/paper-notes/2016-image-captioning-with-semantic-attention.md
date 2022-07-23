@@ -22,6 +22,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Image-Captioning-with-Semantic-Attention-You-Jin/bf55591e09b58ea9ce8d66110d6d3000ee804bdd?sort=total-citations)
+
 # Image Captioning with Semantic Attention
 
 ## Abstract

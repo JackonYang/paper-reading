@@ -18,6 +18,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Speech-Commands:-A-Dataset-for-Limited-Vocabulary-Warden/da6e404d8911b0e5785019a79dc8607e0b313dc4?sort=total-citations)
+
 # Speech Commands - A Dataset for Limited-Vocabulary Speech Recognition
 
 ## Abstract

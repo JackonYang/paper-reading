@@ -22,6 +22,8 @@ venue: NIPS
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Deep-Features-for-Scene-Recognition-using-Zhou-Lapedriza/9667f8264745b626c6173b1310e2ff0298b09cfc?sort=total-citations)
+
 # Learning Deep Features for Scene Recognition using Places Database
 
 ## Abstract

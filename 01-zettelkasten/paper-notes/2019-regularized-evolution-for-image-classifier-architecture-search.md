@@ -21,6 +21,8 @@ venue: AAAI
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Regularized-Evolution-for-Image-Classifier-Search-Real-Aggarwal/50bdda28de3dcf82a0e10f9ec13eea248b19edb5?sort=total-citations)
+
 # Regularized Evolution for Image Classifier Architecture Search
 
 ## Abstract

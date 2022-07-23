@@ -37,6 +37,8 @@ venue: Nature
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Mastering-the-game-of-Go-with-deep-neural-networks-Silver-Huang/846aedd869a00c09b40f1f1f35673cb22bc87490?sort=total-citations)
+
 # Mastering the game of Go with deep neural networks and tree search
 
 ## Abstract

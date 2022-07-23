@@ -19,6 +19,8 @@ venue: International Symposium on Code Generation and Optimization, 2004. CGO 20
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/LLVM:-a-compilation-framework-for-lifelong-program-Lattner-Adve/d755f461dddae76068f401409ba59c85a2436305?sort=total-citations)
+
 # LLVM - a compilation framework for lifelong program analysis & transformation
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: AAAI
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/FiLM:-Visual-Reasoning-with-a-General-Conditioning-Perez-Strub/7cfa5c97164129ce3630511f639040d28db1d4b7?sort=total-citations)
+
 # FiLM - Visual Reasoning with a General Conditioning Layer
 
 ## Abstract

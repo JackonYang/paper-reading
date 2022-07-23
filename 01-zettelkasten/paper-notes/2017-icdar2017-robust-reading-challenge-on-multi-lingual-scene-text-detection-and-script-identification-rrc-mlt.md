@@ -32,6 +32,8 @@ venue: 2017 14th IAPR International Conference on Document Analysis and Recognit
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ICDAR2017-Robust-Reading-Challenge-on-Multi-Lingual-Nayef-Yin/d899525e35ef784afd2aeeac977d7bb361fd7092?sort=total-citations)
+
 # ICDAR2017 Robust Reading Challenge on Multi-Lingual Scene Text Detection and Script Identification - RRC-MLT
 
 ## Abstract

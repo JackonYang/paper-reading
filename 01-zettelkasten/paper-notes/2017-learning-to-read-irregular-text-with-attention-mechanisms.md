@@ -22,6 +22,8 @@ venue: IJCAI
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-to-Read-Irregular-Text-with-Attention-Yang-He/1259f7533abe2fe85fd9dead92853e2ff07a8792?sort=total-citations)
+
 # Learning to Read Irregular Text with Attention Mechanisms
 
 ## Abstract

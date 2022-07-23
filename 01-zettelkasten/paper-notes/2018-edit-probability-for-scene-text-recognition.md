@@ -22,6 +22,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Edit-Probability-for-Scene-Text-Recognition-Bai-Cheng/2a6a4cd7623d12b467571461e8c19a3138474908?sort=total-citations)
+
 # Edit Probability for Scene Text Recognition
 
 ## Abstract

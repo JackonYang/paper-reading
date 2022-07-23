@@ -19,6 +19,8 @@ venue: NIPS
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Convolutional-Neural-Fabrics-Saxena-Verbeek/197c8988ef21d0b58d363c21bafe1900c3089e3e?sort=total-citations)
+
 # Convolutional Neural Fabrics
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Hierarchical-Multiscale-Recurrent-Neural-Networks-Chung-Ahn/65eee67dee969fdf8b44c87c560d66ad4d78e233?sort=total-citations)
+
 # Hierarchical Multiscale Recurrent Neural Networks
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: AAAI
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Unified-Vision-Language-Pre-Training-for-Image-and-Zhou-Palangi/6648b4db5f12c30941ea78c695e77aded19672bb?sort=total-citations)
+
 # Unified Vision-Language Pre-Training for Image Captioning and VQA
 
 ## Abstract

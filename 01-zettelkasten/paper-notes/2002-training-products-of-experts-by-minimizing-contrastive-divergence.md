@@ -18,6 +18,8 @@ venue: Neural Computation
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Training-Products-of-Experts-by-Minimizing-Hinton/9360e5ce9c98166bb179ad479a9d2919ff13d022?sort=total-citations)
+
 # Training Products of Experts by Minimizing Contrastive Divergence
 
 ## Abstract

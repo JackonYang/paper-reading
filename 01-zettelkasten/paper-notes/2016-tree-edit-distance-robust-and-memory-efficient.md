@@ -19,6 +19,8 @@ venue: Inf. Syst.
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Tree-edit-distance:-Robust-and-memory-efficient-Pawlik-Augsten/0a1a5439cc0c5601761d4aaa9bd4134fea3571c9?sort=total-citations)
+
 # Tree edit distance - Robust and memory-efficient
 
 ## Paper References

@@ -48,6 +48,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Google's-Neural-Machine-Translation-System:-the-Gap-Wu-Schuster/dbde7dfa6cae81df8ac19ef500c42db96c3d1edd?sort=total-citations)
+
 # Google's Neural Machine Translation System - Bridging the Gap between Human and Machine Translation
 
 ## Abstract

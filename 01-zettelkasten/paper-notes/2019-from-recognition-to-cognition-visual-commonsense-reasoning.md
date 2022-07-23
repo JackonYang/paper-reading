@@ -21,6 +21,8 @@ venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/From-Recognition-to-Cognition:-Visual-Commonsense-Zellers-Bisk/6dfc2ff03534a4325d06c6f88c3144831996629b?sort=total-citations)
+
 # From Recognition to Cognition - Visual Commonsense Reasoning
 
 ## Abstract

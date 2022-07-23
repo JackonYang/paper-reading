@@ -21,6 +21,8 @@ venue: ICML
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Connectionist-temporal-classification:-labelling-Graves-Fernández/96494e722f58705fa20302fe6179d483f52705b4?sort=total-citations)
+
 # Connectionist temporal classification - labelling unsegmented sequence data with recurrent neural networks
 
 ## Abstract

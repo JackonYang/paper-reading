@@ -24,6 +24,8 @@ venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Aligning-Books-and-Movies:-Towards-Story-Like-by-Zhu-Kiros/0e6824e137847be0599bb0032e37042ed2ef5045?sort=total-citations)
+
 # Aligning Books and Movies - Towards Story-Like Visual Explanations by Watching Movies and Reading Books
 
 ## Abstract

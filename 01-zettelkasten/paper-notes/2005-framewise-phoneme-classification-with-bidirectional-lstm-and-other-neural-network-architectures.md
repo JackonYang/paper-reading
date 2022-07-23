@@ -19,6 +19,8 @@ venue: Neural Networks
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Framewise-phoneme-classification-with-bidirectional-Graves-Schmidhuber/2f83f6e1afadf0963153974968af6b8342775d82?sort=total-citations)
+
 # Framewise phoneme classification with bidirectional LSTM and other neural network architectures
 
 ## Paper References

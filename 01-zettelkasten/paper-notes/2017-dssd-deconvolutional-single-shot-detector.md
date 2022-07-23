@@ -22,6 +22,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DSSD-:-Deconvolutional-Single-Shot-Detector-Fu-Liu/e94183191183a368bf07eb544654bae4b3cbf407?sort=total-citations)
+
 # DSSD - Deconvolutional Single Shot Detector
 
 ## Abstract

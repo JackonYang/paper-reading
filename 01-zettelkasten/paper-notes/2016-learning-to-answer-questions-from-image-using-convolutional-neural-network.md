@@ -20,6 +20,8 @@ venue: AAAI
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-to-Answer-Questions-from-Image-Using-Ma-Lu/98bd5dd1740f585bf25320ba504e2c1ae57f2e5f?sort=total-citations)
+
 # Learning to Answer Questions from Image Using Convolutional Neural Network
 
 ## Abstract

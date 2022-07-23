@@ -20,6 +20,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Grid-Long-Short-Term-Memory-Kalchbrenner-Danihelka/5b791cd374c7109693aaddee2c12d659ae4e3ec0?sort=total-citations)
+
 # Grid Long Short-Term Memory
 
 ## Abstract

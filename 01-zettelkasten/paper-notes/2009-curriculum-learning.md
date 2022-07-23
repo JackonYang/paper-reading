@@ -21,6 +21,8 @@ venue: ICML '09
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Curriculum-learning-Bengio-Louradour/8de174ab5419b9d3127695405efd079808e956e8?sort=total-citations)
+
 # Curriculum learning
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Instance-Aware-Semantic-Segmentation-via-Multi-task-Dai-He/1e9b1f6061ef779e3ad0819c2832a29168eaeb9d?sort=total-citations)
+
 # Instance-Aware Semantic Segmentation via Multi-task Network Cascades
 
 ## Abstract

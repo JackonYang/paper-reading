@@ -19,6 +19,8 @@ venue: Pattern Recognit.
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/TextProposals:-A-text-specific-selective-search-for-Bigorda-Karatzas/75728ff4279e50258242115017c2c734b55f9602?sort=total-citations)
+
 # TextProposals - A text-specific selective search algorithm for word spotting in the wild
 
 ## Paper References

@@ -21,6 +21,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Knowing-When-to-Look:-Adaptive-Attention-via-a-for-Lu-Xiong/9f4d7d622d1f7319cc511bfef661cd973e881a4c?sort=total-citations)
+
 # Knowing When to Look - Adaptive Attention via a Visual Sentinel for Image Captioning
 
 ## Abstract

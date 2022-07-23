@@ -23,6 +23,8 @@ venue: ICLR
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/OverFeat:-Integrated-Recognition,-Localization-and-Sermanet-Eigen/1109b663453e78a59e4f66446d71720ac58cec25?sort=total-citations)
+
 # OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: Springer London
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Pattern-Classification-DrEng/65a69968bb8c41aad0113cec4c2d981bddf50bc8?sort=total-citations)
+
 # Pattern Classification
 
 ## Abstract

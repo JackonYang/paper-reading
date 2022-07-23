@@ -24,6 +24,8 @@ venue: EMNLP
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Phrase-Representations-using-RNN-for-Cho-Merrienboer/0b544dfe355a5070b60986319a3f51fb45d1348e?sort=total-citations)
+
 # Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
 
 ## Abstract

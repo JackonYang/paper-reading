@@ -19,6 +19,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Real-Time-Lexicon-Free-Scene-Text-Localization-and-Neumann-Matas/27fbffed698729ed309dbc4fa3ba9562c023b9ef?sort=total-citations)
+
 # Real-Time Lexicon-Free Scene Text Localization and Recognition
 
 ## Abstract

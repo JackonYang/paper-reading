@@ -20,6 +20,8 @@ venue: ICML
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Unsupervised-Learning-of-Video-Representations-Srivastava-Mansimov/829510ad6f975c939d589eeb01a3cf6fc6c8ce4d?sort=total-citations)
+
 # Unsupervised Learning of Video Representations using LSTMs
 
 ## Abstract

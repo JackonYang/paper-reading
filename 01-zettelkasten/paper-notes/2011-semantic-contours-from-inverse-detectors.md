@@ -22,6 +22,8 @@ venue: 2011 International Conference on Computer Vision
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Semantic-contours-from-inverse-detectors-Hariharan-Arbeláez/82fae97673a353271b1d4c001afda1af6ef6dc23?sort=total-citations)
+
 # Semantic contours from inverse detectors
 
 ## Abstract

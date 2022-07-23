@@ -27,6 +27,8 @@ venue: ICML
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Device-Placement-Optimization-with-Reinforcement-Mirhoseini-Pham/bfbd10ebffc9494423770a5bd30ebd0f9cbce66d?sort=total-citations)
+
 # Device Placement Optimization with Reinforcement Learning
 
 ## Abstract

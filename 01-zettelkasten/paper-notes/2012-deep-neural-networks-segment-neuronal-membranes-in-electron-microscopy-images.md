@@ -21,6 +21,8 @@ venue: NIPS
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Neural-Networks-Segment-Neuronal-Membranes-in-Ciresan-Giusti/09193e19b59fc8f05bee9d6efbfb1607ca5b6501?sort=total-citations)
+
 # Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images
 
 ## Abstract

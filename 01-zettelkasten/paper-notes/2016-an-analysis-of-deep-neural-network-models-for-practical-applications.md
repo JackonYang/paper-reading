@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/An-Analysis-of-Deep-Neural-Network-Models-for-Canziani-Paszke/9a786d1ecf77dfba3459a83cd3fa0f1781bbcba4?sort=total-citations)
+
 # An Analysis of Deep Neural Network Models for Practical Applications
 
 ## Abstract

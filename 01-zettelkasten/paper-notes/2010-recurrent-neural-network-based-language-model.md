@@ -22,6 +22,8 @@ venue: INTERSPEECH
 year: 2010
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recurrent-neural-network-based-language-model-Mikolov-Karafiát/9819b600a828a57e1cde047bbe710d3446b30da5?sort=total-citations)
+
 # Recurrent neural network based language model
 
 ## Abstract

@@ -28,6 +28,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Speed/Accuracy-Trade-Offs-for-Modern-Convolutional-Huang-Rathod/a312a573ef81793d56401e932ef6c9498791a3d1?sort=total-citations)
+
 # Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Pointer-Networks-Vinyals-Fortunato/9653d5c2c7844347343d073bbedd96e05d52f69b?sort=total-citations)
+
 # Pointer Networks
 
 ## Abstract

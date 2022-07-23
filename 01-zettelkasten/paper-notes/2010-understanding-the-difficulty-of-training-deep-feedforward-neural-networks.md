@@ -19,6 +19,8 @@ venue: AISTATS
 year: 2010
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Understanding-the-difficulty-of-training-deep-Glorot-Bengio/b71ac1e9fb49420d13e084ac67254a0bbd40f83f?sort=total-citations)
+
 # Understanding the difficulty of training deep feedforward neural networks
 
 ## Abstract

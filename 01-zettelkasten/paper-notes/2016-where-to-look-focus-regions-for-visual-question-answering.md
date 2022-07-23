@@ -20,6 +20,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Where-to-Look:-Focus-Regions-for-Visual-Question-Shih-Singh/175e9bb50cc062c6c1742a5d90c8dfe31d2e4e22?sort=total-citations)
+
 # Where to Look - Focus Regions for Visual Question Answering
 
 ## Abstract

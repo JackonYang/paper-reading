@@ -22,6 +22,8 @@ venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/VideoBERT:-A-Joint-Model-for-Video-and-Language-Sun-Myers/c41a11c0e9b8b92b4faaf97749841170b760760a?sort=total-citations)
+
 # VideoBERT - A Joint Model for Video and Language Representation Learning
 
 ## Abstract

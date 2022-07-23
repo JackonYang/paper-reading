@@ -18,6 +18,8 @@ venue: ''
 year: 1996
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Regression-Shrinkage-and-Selection-via-the-Lasso-Tibshirani/b365b8e45b7d81f081de44ac8f9eadf9144f3ca5?sort=total-citations)
+
 # Regression Shrinkage and Selection via the Lasso
 
 ## Abstract

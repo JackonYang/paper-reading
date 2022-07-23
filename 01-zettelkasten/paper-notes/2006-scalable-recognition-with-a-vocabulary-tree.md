@@ -19,6 +19,8 @@ venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Reco
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Scalable-Recognition-with-a-Vocabulary-Tree-Nistér-Stewénius/b3e7d3e37e67af7f4546b46051063bea1b62dbae?sort=total-citations)
+
 # Scalable Recognition with a Vocabulary Tree
 
 ## Abstract

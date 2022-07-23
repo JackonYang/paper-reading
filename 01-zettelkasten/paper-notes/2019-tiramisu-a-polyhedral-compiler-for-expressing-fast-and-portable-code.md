@@ -26,6 +26,8 @@ venue: 2019 IEEE/ACM International Symposium on Code Generation and Optimization
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Tiramisu:-A-Polyhedral-Compiler-for-Expressing-Fast-Baghdadi-Ray/8c7310477fd027193cd040288f0aa9824c80b91f?sort=total-citations)
+
 # Tiramisu - A Polyhedral Compiler for Expressing Fast and Portable Code
 
 ## Abstract

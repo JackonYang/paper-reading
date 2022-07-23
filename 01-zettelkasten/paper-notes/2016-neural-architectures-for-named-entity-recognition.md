@@ -22,6 +22,8 @@ venue: NAACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Architectures-for-Named-Entity-Recognition-Lample-Ballesteros/24158c9fc293c8a998ac552b1188404a877da292?sort=total-citations)
+
 # Neural Architectures for Named Entity Recognition
 
 ## Abstract

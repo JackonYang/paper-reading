@@ -20,6 +20,8 @@ venue: 2012 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Are-we-ready-for-autonomous-driving-The-KITTI-suite-Geiger-Lenz/de5b0fd02ea4f4d67fe3ae0d74603b9822df4e42?sort=total-citations)
+
 # Are we ready for autonomous driving? The KITTI vision benchmark suite
 
 ## Abstract

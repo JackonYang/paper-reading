@@ -21,6 +21,8 @@ venue: NIPS
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Greedy-Layer-Wise-Training-of-Deep-Networks-Bengio-Lamblin/355d44f53428b1ac4fb2ab468d593c720640e5bd?sort=total-citations)
+
 # Greedy Layer-Wise Training of Deep Networks
 
 ## Abstract

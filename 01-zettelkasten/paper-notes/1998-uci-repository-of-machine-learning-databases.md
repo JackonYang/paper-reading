@@ -17,3 +17,5 @@ urls:
 venue: ''
 year: 1998
 ---
+
+[semanticscholar url](https://www.semanticscholar.org/paper/UCI-Repository-of-machine-learning-databases-Blake/e068be31ded63600aea068eacd12931efd2a1029?sort=total-citations)

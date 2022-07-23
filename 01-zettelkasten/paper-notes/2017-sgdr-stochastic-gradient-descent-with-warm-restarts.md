@@ -19,6 +19,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SGDR:-Stochastic-Gradient-Descent-with-Warm-Loshchilov-Hutter/b022f2a277a4bf5f42382e86e4380b96340b9e86?sort=total-citations)
+
 # SGDR - Stochastic Gradient Descent with Warm Restarts
 
 ## Abstract

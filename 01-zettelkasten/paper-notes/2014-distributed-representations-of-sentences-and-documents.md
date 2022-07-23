@@ -19,6 +19,8 @@ venue: ICML
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Distributed-Representations-of-Sentences-and-Le-Mikolov/f527bcfb09f32e6a4a8afc0b37504941c1ba2cee?sort=total-citations)
+
 # Distributed Representations of Sentences and Documents
 
 ## Abstract

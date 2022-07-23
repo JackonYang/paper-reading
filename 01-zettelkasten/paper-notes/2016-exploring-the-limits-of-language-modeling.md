@@ -22,6 +22,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Exploring-the-Limits-of-Language-Modeling-Józefowicz-Vinyals/2f2d8f8072e5cc9b296fad551f65f183bdbff7aa?sort=total-citations)
+
 # Exploring the Limits of Language Modeling
 
 ## Abstract

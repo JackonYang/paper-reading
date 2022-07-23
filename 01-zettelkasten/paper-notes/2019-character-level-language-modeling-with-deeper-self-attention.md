@@ -22,6 +22,8 @@ venue: AAAI
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Character-Level-Language-Modeling-with-Deeper-Al-Rfou-Choe/b9de9599d7241459db9213b5cdd7059696f5ef8d?sort=total-citations)
+
 # Character-Level Language Modeling with Deeper Self-Attention
 
 ## Abstract

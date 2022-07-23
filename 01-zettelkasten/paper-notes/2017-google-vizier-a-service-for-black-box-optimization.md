@@ -23,6 +23,8 @@ venue: KDD
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Google-Vizier:-A-Service-for-Black-Box-Optimization-Golovin-Solnik/938f6ef7eed095919e6a482c7f1836a01d62db4b?sort=total-citations)
+
 # Google Vizier - A Service for Black-Box Optimization
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: ICLR
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Network-In-Network-Lin-Chen/5e83ab70d0cbc003471e87ec306d27d9c80ecb16?sort=total-citations)
+
 # Network In Network
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: AISTATS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deeply-Supervised-Nets-Lee-Xie/fb91db6aa4f710814f8aec28a7f3ecbc4e5ad4fd?sort=total-citations)
+
 # Deeply-Supervised Nets
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Predicting-Depth,-Surface-Normals-and-Semantic-with-Eigen-Fergus/67711d42b77a13a04822ae00620660cef3abf8c4?sort=total-citations)
+
 # Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-scale Convolutional Architecture
 
 ## Abstract

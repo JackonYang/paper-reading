@@ -22,6 +22,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-Hyperparameter-Optimization-and-Many-Li-Jamieson/b6670222f0cae0ce4a886405e8c8f5d273feeded?sort=total-citations)
+
 # Efficient Hyperparameter Optimization and Infinitely Many Armed Bandits
 
 ## Abstract

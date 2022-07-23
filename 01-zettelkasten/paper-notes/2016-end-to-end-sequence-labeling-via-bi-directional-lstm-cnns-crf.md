@@ -19,6 +19,8 @@ venue: ACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/End-to-end-Sequence-Labeling-via-Bi-directional-Ma-Hovy/8dd6aae51e31a72752c4be5cddbdd76dfdc6cda4?sort=total-citations)
+
 # End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
 
 ## Abstract

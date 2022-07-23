@@ -20,6 +20,8 @@ venue: IEEE Trans. Inf. Theory
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Factor-graphs-and-the-sum-product-algorithm-Kschischang-Frey/08c370eb9ba13bfb836349e7f3ea428be4697818?sort=total-citations)
+
 # Factor graphs and the sum-product algorithm
 
 ## Abstract

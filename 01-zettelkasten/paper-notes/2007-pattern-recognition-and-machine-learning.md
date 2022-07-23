@@ -20,6 +20,8 @@ venue: J. Electronic Imaging
 year: 2007
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Pattern-Recognition-and-Machine-Learning-Bishop-Nasrabadi/668b1277fbece28c4841eeab1c97e4ebd0079700?sort=total-citations)
+
 # Pattern Recognition and Machine Learning
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: Proceedings of IEEE Computer Society Conference on Computer Vision and Pa
 year: 1997
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Normalized-cuts-and-image-segmentation-Shi-Malik/b94c7ff9532ab26c3aedbee3988ec4c7a237c173?sort=total-citations)
+
 # Normalized cuts and image segmentation
 
 ## Abstract

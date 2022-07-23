@@ -20,6 +20,8 @@ venue: ICLR
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Matrix-capsules-with-EM-routing-Hinton-Sabour/603caed9430283db6c7f43169555c8d18e97a281?sort=total-citations)
+
 # Matrix capsules with EM routing
 
 ## Paper References

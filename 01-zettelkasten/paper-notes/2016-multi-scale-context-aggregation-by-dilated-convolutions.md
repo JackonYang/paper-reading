@@ -19,6 +19,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multi-Scale-Context-Aggregation-by-Dilated-Yu-Koltun/7f5fc84819c0cf94b771fe15141f65b123f7b8ec?sort=total-citations)
+
 # Multi-Scale Context Aggregation by Dilated Convolutions
 
 ## Abstract

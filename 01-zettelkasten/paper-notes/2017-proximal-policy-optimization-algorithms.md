@@ -22,6 +22,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Proximal-Policy-Optimization-Algorithms-Schulman-Wolski/dce6f9d4017b1785979e7520fd0834ef8cf02f4b?sort=total-citations)
+
 # Proximal Policy Optimization Algorithms
 
 ## Abstract

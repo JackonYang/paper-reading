@@ -21,6 +21,8 @@ venue: ICML
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Parsing-Natural-Scenes-and-Natural-Language-with-Socher-Lin/9c0ddf74f87d154db88d79c640578c1610451eec?sort=total-citations)
+
 # Parsing Natural Scenes and Natural Language with Recursive Neural Networks
 
 ## Abstract

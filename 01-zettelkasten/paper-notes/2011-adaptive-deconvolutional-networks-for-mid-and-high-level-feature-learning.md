@@ -20,6 +20,8 @@ venue: 2011 International Conference on Computer Vision
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Adaptive-deconvolutional-networks-for-mid-and-high-Zeiler-Taylor/d743430cb2329caa5d446c17fc9ec07f5e916ab0?sort=total-citations)
+
 # Adaptive deconvolutional networks for mid and high level feature learning
 
 ## Abstract

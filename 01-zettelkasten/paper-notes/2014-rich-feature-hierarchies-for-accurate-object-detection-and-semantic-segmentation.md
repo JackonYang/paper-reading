@@ -21,6 +21,8 @@ venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Rich-Feature-Hierarchies-for-Accurate-Object-and-Girshick-Donahue/2f4df08d9072fc2ac181b7fced6a245315ce05c8?sort=total-citations)
+
 # Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
 
 ## Abstract

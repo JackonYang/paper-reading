@@ -21,6 +21,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Module-Networks-Andreas-Rohrbach/21c99706bb26e9012bfb4d8d48009a3d45af59b2?sort=total-citations)
+
 # Neural Module Networks
 
 ## Abstract

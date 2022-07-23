@@ -20,6 +20,8 @@ venue: ICML
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/An-Empirical-Exploration-of-Recurrent-Network-Józefowicz-Zaremba/5b8364c21155d3d2cd38ea4c8b8580beba9a3250?sort=total-citations)
+
 # An Empirical Exploration of Recurrent Network Architectures
 
 ## Abstract

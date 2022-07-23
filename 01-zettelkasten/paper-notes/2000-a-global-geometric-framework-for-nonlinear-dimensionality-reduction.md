@@ -20,6 +20,8 @@ venue: Science
 year: 2000
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-global-geometric-framework-for-nonlinear-Tenenbaum-Silva/3537fcd0ff99a3b3cb3d279012df826358420556?sort=total-citations)
+
 # A global geometric framework for nonlinear dimensionality reduction.
 
 ## Abstract

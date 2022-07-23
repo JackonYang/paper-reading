@@ -22,6 +22,8 @@ venue: Proceedings of the IEEE
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Taking-the-Human-Out-of-the-Loop:-A-Review-of-Shahriari-Swersky/0a2586e0a5f8bb4e35aa0763a6b8bca428af6bd2?sort=total-citations)
+
 # Taking the Human Out of the Loop - A Review of Bayesian Optimization
 
 ## Abstract

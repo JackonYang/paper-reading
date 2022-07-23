@@ -18,6 +18,8 @@ venue: 2016 International Conference on Global Trends in Signal Processing, Info
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Evolutionary-algorithms:-A-critical-review-and-its-Vikhar/9c4b8f3b53067a34cc13e8b5b3d54071327a1388?sort=total-citations)
+
 # Evolutionary algorithms - A critical review and its future prospects
 
 ## Abstract

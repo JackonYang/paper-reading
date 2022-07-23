@@ -20,6 +20,8 @@ venue: NIPS
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Depth-Map-Prediction-from-a-Single-Image-using-a-Eigen-Puhrsch/06feba1ffd596b41884cea6e8ef0da89b6dd2233?sort=total-citations)
+
 # Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
 
 ## Abstract

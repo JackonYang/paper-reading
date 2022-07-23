@@ -22,6 +22,8 @@ venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/HAQ:-Hardware-Aware-Automated-Quantization-With-Wang-Liu/54c4642d017830e1faddbb49f0377228d2b01493?sort=total-citations)
+
 # HAQ - Hardware-Aware Automated Quantization With Mixed Precision
 
 ## Abstract

@@ -25,6 +25,8 @@ venue: Commun. ACM
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/YFCC100M:-the-new-data-in-multimedia-research-Thomee-Shamma/354c029c88be2bbc27dfd2e2e729c0ae622511e6?sort=total-citations)
+
 # YFCC100M - the new data in multimedia research
 
 ## Abstract

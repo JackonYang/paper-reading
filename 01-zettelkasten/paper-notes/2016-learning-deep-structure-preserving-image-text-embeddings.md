@@ -20,6 +20,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Deep-Structure-Preserving-Image-Text-Wang-Li/b27e791e843c924ef052981b79490ab59fc0433d?sort=total-citations)
+
 # Learning Deep Structure-Preserving Image-Text Embeddings
 
 ## Abstract

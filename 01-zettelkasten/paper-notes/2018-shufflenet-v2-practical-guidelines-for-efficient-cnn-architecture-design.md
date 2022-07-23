@@ -21,6 +21,8 @@ venue: ECCV
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ShuffleNet-V2:-Practical-Guidelines-for-Efficient-Ma-Zhang/c02b909a514af6b9255315e2d50112845ca5ed0e?sort=total-citations)
+
 # ShuffleNet V2 - Practical Guidelines for Efficient CNN Architecture Design
 
 ## Abstract

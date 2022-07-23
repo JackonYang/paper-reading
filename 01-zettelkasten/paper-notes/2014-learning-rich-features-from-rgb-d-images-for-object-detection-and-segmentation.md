@@ -21,6 +21,8 @@ venue: ECCV
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Rich-Features-from-RGB-D-Images-for-Object-Gupta-Girshick/2c0b510ebf995ef172cb64ed7ce24aa7903dced8?sort=total-citations)
+
 # Learning Rich Features from RGB-D Images for Object Detection and Segmentation
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: 2017 IEEE/ACM International Symposium on Code Generation and Optimization
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/LIFT:-A-functional-data-parallel-IR-for-GPU-code-Steuwer-Remmelg/aa3553beb4bfa0793a4bed05704e35412342800e?sort=total-citations)
+
 # LIFT - A functional data-parallel IR for high-performance GPU code generation
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/XNOR-Net:-ImageNet-Classification-Using-Binary-Rastegari-Ordonez/b649a98ce77ece8cd7638bb74ab77d22d9be77e7?sort=total-citations)
+
 # XNOR-Net - ImageNet Classification Using Binary Convolutional Neural Networks
 
 ## Abstract

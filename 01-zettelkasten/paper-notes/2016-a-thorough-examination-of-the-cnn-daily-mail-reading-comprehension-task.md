@@ -20,6 +20,8 @@ venue: ACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Thorough-Examination-of-the-CNN/Daily-Mail-Task-Chen-Bolton/b1e20420982a4f923c08652941666b189b11b7fe?sort=total-citations)
+
 # A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task
 
 ## Abstract

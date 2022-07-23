@@ -21,6 +21,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Realtime-Multi-person-2D-Pose-Estimation-Using-Part-Cao-Simon/9e8db1519245426f3a78752a3d8360484f4626b1?sort=total-citations)
+
 # Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields
 
 ## Abstract

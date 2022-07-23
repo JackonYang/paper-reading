@@ -20,6 +20,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Revisiting-Visual-Question-Answering-Baselines-Jabri-Joulin/3c1bbd2672c11a796f1e6e6aa787257498ec8bec?sort=total-citations)
+
 # Revisiting Visual Question Answering Baselines
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: ICLR
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Semantic-Image-Segmentation-with-Deep-Convolutional-Chen-Papandreou/39ad6c911f3351a3b390130a6e4265355b4d593b?sort=total-citations)
+
 # Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
 
 ## Abstract

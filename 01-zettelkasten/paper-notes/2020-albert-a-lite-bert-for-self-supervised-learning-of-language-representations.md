@@ -23,6 +23,8 @@ venue: ICLR
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ALBERT:-A-Lite-BERT-for-Self-supervised-Learning-of-Lan-Chen/7a064df1aeada7e69e5173f7d4c8606f4470365b?sort=total-citations)
+
 # ALBERT - A Lite BERT for Self-supervised Learning of Language Representations
 
 ## Abstract

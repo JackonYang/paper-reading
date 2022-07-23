@@ -21,6 +21,8 @@ venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Hypercolumns-for-object-segmentation-and-Hariharan-Arbeláez/428db42e86f6d51292e23fa57797e35cecd0e2ee?sort=total-citations)
+
 # Hypercolumns for object segmentation and fine-grained localization
 
 ## Abstract

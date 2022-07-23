@@ -19,6 +19,8 @@ venue: IEEvaluation@ACL
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/METEOR:-An-Automatic-Metric-for-MT-Evaluation-with-Banerjee-Lavie/0cd18e4400ff75b2f8b58d60ddb9b0bc12f489e7?sort=total-citations)
+
 # METEOR - An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments
 
 ## Abstract

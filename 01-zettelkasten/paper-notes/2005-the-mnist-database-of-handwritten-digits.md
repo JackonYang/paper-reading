@@ -19,6 +19,8 @@ venue: ''
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-mnist-database-of-handwritten-digits-LeCun-Cortes/dc52d1ede1b90bf9d296bc5b34c9310b7eaa99a2?sort=total-citations)
+
 # The mnist database of handwritten digits
 
 ## Abstract

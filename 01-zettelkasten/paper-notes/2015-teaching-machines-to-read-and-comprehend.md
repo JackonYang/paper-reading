@@ -24,6 +24,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Teaching-Machines-to-Read-and-Comprehend-Hermann-Kociský/d1505c6123c102e53eb19dff312cb25cea840b72?sort=total-citations)
+
 # Teaching Machines to Read and Comprehend
 
 ## Abstract

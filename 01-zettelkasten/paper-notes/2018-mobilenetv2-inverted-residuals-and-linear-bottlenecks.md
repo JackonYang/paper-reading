@@ -22,6 +22,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/MobileNetV2:-Inverted-Residuals-and-Linear-Sandler-Howard/dd9cfe7124c734f5a6fc90227d541d3dbcd72ba4?sort=total-citations)
+
 # MobileNetV2 - Inverted Residuals and Linear Bottlenecks
 
 ## Abstract

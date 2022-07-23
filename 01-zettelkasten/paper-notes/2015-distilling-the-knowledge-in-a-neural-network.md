@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Distilling-the-Knowledge-in-a-Neural-Network-Hinton-Vinyals/0c908739fbff75f03469d13d4a1a07de3414ee19?sort=total-citations)
+
 # Distilling the Knowledge in a Neural Network
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Improved-Regularization-of-Convolutional-Neural-Devries-Taylor/eb35fdc11a325f21a8ce0ca65058f7480a2fc91f?sort=total-citations)
+
 # Improved Regularization of Convolutional Neural Networks with Cutout
 
 ## Abstract

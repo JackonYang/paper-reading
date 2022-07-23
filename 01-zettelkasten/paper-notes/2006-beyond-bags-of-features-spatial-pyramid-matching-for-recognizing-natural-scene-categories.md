@@ -20,6 +20,8 @@ venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Reco
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Beyond-Bags-of-Features:-Spatial-Pyramid-Matching-Lazebnik-Schmid/6dbaff29d3898cf60f63f5a34cb9610ebb75220c?sort=total-citations)
+
 # Beyond Bags of Features - Spatial Pyramid Matching for Recognizing Natural Scene Categories
 
 ## Abstract

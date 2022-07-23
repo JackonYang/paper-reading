@@ -17,3 +17,5 @@ urls:
 venue: ''
 year: 2014
 ---
+
+[semanticscholar url](https://www.semanticscholar.org/paper/Data-Mining-Practical-Machine-Learning-Tools-and-สืบสิงห์/b42b1bfdc262bf99e9484e2e9df94df216b96374?sort=total-citations)

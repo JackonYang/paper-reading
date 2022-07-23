@@ -21,6 +21,8 @@ venue: ICML
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Learning-with-Limited-Numerical-Precision-Gupta-Agrawal/b7cf49e30355633af2db19f35189410c8515e91f?sort=total-citations)
+
 # Deep Learning with Limited Numerical Precision
 
 ## Abstract

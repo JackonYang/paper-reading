@@ -22,6 +22,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Attention-Based-Models-for-Speech-Recognition-Chorowski-Bahdanau/b624504240fa52ab76167acfe3156150ca01cf3b?sort=total-citations)
+
 # Attention-Based Models for Speech Recognition
 
 ## Abstract

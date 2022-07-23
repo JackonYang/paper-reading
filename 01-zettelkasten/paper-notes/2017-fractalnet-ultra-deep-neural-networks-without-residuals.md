@@ -20,6 +20,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/FractalNet:-Ultra-Deep-Neural-Networks-without-Larsson-Maire/d0156126edbfc524c8d108bdc0cf811cfe3129aa?sort=total-citations)
+
 # FractalNet - Ultra-Deep Neural Networks without Residuals
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Character-level-Convolutional-Networks-for-Text-Zhang-Zhao/51a55df1f023571a7e07e338ee45a3e3d66ef73e?sort=total-citations)
+
 # Character-level Convolutional Networks for Text Classification
 
 ## Abstract

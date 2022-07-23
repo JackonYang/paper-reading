@@ -21,6 +21,8 @@ venue: ICLR
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Striving-for-Simplicity:-The-All-Convolutional-Net-Springenberg-Dosovitskiy/0f84a81f431b18a78bd97f59ed4b9d8eda390970?sort=total-citations)
+
 # Striving for Simplicity - The All Convolutional Net
 
 ## Abstract

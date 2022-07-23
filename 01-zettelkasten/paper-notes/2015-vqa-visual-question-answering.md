@@ -24,6 +24,8 @@ venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/VQA:-Visual-Question-Answering-Agrawal-Lu/97ad70a9fa3f99adf18030e5e38ebe3d90daa2db?sort=total-citations)
+
 # VQA - Visual Question Answering
 
 ## Abstract

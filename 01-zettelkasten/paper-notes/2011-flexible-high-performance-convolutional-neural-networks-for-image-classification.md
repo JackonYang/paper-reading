@@ -22,6 +22,8 @@ venue: IJCAI
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Flexible,-High-Performance-Convolutional-Neural-for-Ciresan-Meier/5a47ba057a858f8c024d2518cc3731fc7eb40de1?sort=total-citations)
+
 # Flexible, High Performance Convolutional Neural Networks for Image Classification
 
 ## Abstract

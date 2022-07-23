@@ -20,6 +20,8 @@ venue: BMVC
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Speeding-up-Convolutional-Neural-Networks-with-Low-Jaderberg-Vedaldi/021fc345d40d3e6332cd2ef276e2eaa5e71102e4?sort=total-citations)
+
 # Speeding up Convolutional Neural Networks with Low Rank Expansions
 
 ## Abstract

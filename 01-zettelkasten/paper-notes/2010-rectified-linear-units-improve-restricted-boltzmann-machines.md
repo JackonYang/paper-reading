@@ -19,6 +19,8 @@ venue: ICML
 year: 2010
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Rectified-Linear-Units-Improve-Restricted-Boltzmann-Nair-Hinton/a538b05ebb01a40323997629e171c91aa28b8e2f?sort=total-citations)
+
 # Rectified Linear Units Improve Restricted Boltzmann Machines
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: J. Mach. Learn. Res.
 year: 2010
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Adaptive-Subgradient-Methods-for-Online-Learning-Duchi-Hazan/413c1142de9d91804d6d11c67ff3fed59c9fc279?sort=total-citations)
+
 # Adaptive Subgradient Methods for Online Learning and Stochastic Optimization
 
 ## Abstract

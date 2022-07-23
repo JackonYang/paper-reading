@@ -21,6 +21,8 @@ venue: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/X-Linear-Attention-Networks-for-Image-Captioning-Pan-Yao/4adfa7b83342b77c830f2b0f6fc1b784c21e7ed0?sort=total-citations)
+
 # X-Linear Attention Networks for Image Captioning
 
 ## Abstract

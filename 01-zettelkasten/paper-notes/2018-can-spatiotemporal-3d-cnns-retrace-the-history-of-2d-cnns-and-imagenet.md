@@ -20,6 +20,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Can-Spatiotemporal-3D-CNNs-Retrace-the-History-of-Hara-Kataoka/d716435f0cb0cac56237f74b1ced940aabce6a2b?sort=total-citations)
+
 # Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?
 
 ## Abstract

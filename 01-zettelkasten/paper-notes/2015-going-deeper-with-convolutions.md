@@ -26,6 +26,8 @@ venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Going-deeper-with-convolutions-Szegedy-Liu/e15cf50aa89fee8535703b9f9512fca5bfc43327?sort=total-citations)
+
 # Going deeper with convolutions
 
 ## Abstract

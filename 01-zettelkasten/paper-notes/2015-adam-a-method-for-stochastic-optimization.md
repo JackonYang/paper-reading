@@ -19,6 +19,8 @@ venue: ICLR
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Adam:-A-Method-for-Stochastic-Optimization-Kingma-Ba/a6cb366736791bcccc5c8639de5a8f9636bf87e8?sort=total-citations)
+
 # Adam - A Method for Stochastic Optimization
 
 ## Abstract

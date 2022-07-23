@@ -21,6 +21,8 @@ venue: AAAI
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/PixelLink:-Detecting-Scene-Text-via-Instance-Deng-Liu/a4a88145718ec8eff1228267bf3fe9f380b9495f?sort=total-citations)
+
 # PixelLink - Detecting Scene Text via Instance Segmentation
 
 ## Abstract

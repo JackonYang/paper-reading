@@ -20,6 +20,8 @@ venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/CIDEr:-Consensus-based-image-description-evaluation-Vedantam-Zitnick/258986132bf17755fe8263e42429fe73218c1534?sort=total-citations)
+
 # CIDEr - Consensus-based image description evaluation
 
 ## Abstract

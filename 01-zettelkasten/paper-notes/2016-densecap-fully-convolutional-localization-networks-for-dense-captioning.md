@@ -20,6 +20,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DenseCap:-Fully-Convolutional-Localization-Networks-Johnson-Karpathy/d7ce5665a72c0b607f484c1b448875f02ddfac3b?sort=total-citations)
+
 # DenseCap - Fully Convolutional Localization Networks for Dense Captioning
 
 ## Abstract

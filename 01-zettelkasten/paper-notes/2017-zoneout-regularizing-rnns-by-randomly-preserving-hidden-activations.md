@@ -28,6 +28,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Zoneout:-Regularizing-RNNs-by-Randomly-Preserving-Krueger-Maharaj/9f0687bcd0a7d7fc91b8c5d36c003a38b8853105?sort=total-citations)
+
 # Zoneout - Regularizing RNNs by Randomly Preserving Hidden Activations
 
 ## Abstract

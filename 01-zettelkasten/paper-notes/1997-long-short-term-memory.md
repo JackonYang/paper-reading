@@ -19,6 +19,8 @@ venue: Neural Computation
 year: 1997
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Long-Short-Term-Memory-Hochreiter-Schmidhuber/44d2abe2175df8153f465f6c39b68b76a0d40ab9?sort=total-citations)
+
 # Long Short-Term Memory
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: AISTATS
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/An-Analysis-of-Single-Layer-Networks-in-Feature-Coates-Ng/be9a17321537d9289875fe475b71f4821457b435?sort=total-citations)
+
 # An Analysis of Single-Layer Networks in Unsupervised Feature Learning
 
 ## Abstract

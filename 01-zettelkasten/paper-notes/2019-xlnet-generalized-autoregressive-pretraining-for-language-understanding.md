@@ -23,6 +23,8 @@ venue: NeurIPS
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/XLNet:-Generalized-Autoregressive-Pretraining-for-Yang-Dai/e0c6abdbdecf04ffac65c440da77fb9d66bb474c?sort=total-citations)
+
 # XLNet - Generalized Autoregressive Pretraining for Language Understanding
 
 ## Abstract

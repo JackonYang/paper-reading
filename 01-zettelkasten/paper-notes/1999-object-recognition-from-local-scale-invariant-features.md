@@ -18,6 +18,8 @@ venue: Proceedings of the Seventh IEEE International Conference on Computer Visi
 year: 1999
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Object-recognition-from-local-scale-invariant-Lowe/f9f836d28f52ad260213d32224a6d227f8e8849a?sort=total-citations)
+
 # Object recognition from local scale-invariant features
 
 ## Abstract

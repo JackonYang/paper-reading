@@ -19,6 +19,8 @@ venue: KDD
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Mining-and-summarizing-customer-reviews-Hu-Liu/cdcf7cb29f37ac0546961ea8a076075b9cc1f992?sort=total-citations)
+
 # Mining and summarizing customer reviews
 
 ## Abstract

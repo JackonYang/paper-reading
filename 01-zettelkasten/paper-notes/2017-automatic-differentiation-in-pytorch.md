@@ -27,6 +27,8 @@ venue: ''
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Automatic-differentiation-in-PyTorch-Paszke-Gross/b36a5bb1707bb9c70025294b3a310138aae8327a?sort=total-citations)
+
 # Automatic differentiation in PyTorch
 
 ## Abstract

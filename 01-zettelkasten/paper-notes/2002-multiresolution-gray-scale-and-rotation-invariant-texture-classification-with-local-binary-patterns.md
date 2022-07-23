@@ -20,6 +20,8 @@ venue: IEEE Trans. Pattern Anal. Mach. Intell.
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multiresolution-Gray-Scale-and-Rotation-Invariant-Ojala-Pietikäinen/f11a7136b6b7854bd0998ef463ffa8e907c411a2?sort=total-citations)
+
 # Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local Binary Patterns
 
 ## Abstract

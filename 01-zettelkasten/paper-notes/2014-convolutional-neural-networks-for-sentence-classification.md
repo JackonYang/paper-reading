@@ -18,6 +18,8 @@ venue: EMNLP
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Convolutional-Neural-Networks-for-Sentence-Kim/1f6ba0782862ec12a5ec6d7fb608523d55b0c6ba?sort=total-citations)
+
 # Convolutional Neural Networks for Sentence Classification
 
 ## Abstract

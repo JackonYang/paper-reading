@@ -19,6 +19,8 @@ venue: NIPS
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Theoretically-Grounded-Application-of-Dropout-in-Gal-Ghahramani/0c1f9ca23f4f09ecfc44bcc8ca1c2736624f4652?sort=total-citations)
+
 # A Theoretically Grounded Application of Dropout in Recurrent Neural Networks
 
 ## Abstract

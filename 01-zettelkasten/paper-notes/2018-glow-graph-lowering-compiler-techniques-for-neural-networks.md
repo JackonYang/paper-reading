@@ -30,6 +30,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Glow:-Graph-Lowering-Compiler-Techniques-for-Neural-Rotem-Fix/0261195ae7e1545caefb0ea7afb92bd66bfbb790?sort=total-citations)
+
 # Glow - Graph Lowering Compiler Techniques for Neural Networks
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: Proceedings of the 2001 IEEE Computer Society Conference on Computer Visi
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Rapid-object-detection-using-a-boosted-cascade-of-Viola-Jones/dc6ea0e30e46163b706f2f8bdc9c67ca87f83d63?sort=total-citations)
+
 # Rapid object detection using a boosted cascade of simple features
 
 ## Abstract

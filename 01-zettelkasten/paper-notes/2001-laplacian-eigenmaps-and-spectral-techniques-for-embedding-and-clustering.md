@@ -20,6 +20,8 @@ venue: NIPS
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Laplacian-Eigenmaps-and-Spectral-Techniques-for-and-Belkin-Niyogi/9d16c547d15a08091e68c86a99731b14366e3f0d?sort=total-citations)
+
 # Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering
 
 ## Abstract

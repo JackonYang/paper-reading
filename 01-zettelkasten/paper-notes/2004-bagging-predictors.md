@@ -18,6 +18,8 @@ venue: Machine Learning
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Bagging-predictors-Breiman/d1ee87290fa827f1217b8fa2bccb3485da1a300e?sort=total-citations)
+
 # Bagging predictors
 
 ## Abstract

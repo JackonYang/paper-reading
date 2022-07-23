@@ -33,6 +33,8 @@ year: 2015
 
 [pdf(local)](../../paper-repo/pdfs/2015-mxnet.pdf)
 
+[semanticscholar url](https://www.semanticscholar.org/paper/MXNet:-A-Flexible-and-Efficient-Machine-Learning-Chen-Li/62df84d6a4d26f95e4714796c2337c9848cc13b5?sort=total-citations)
+
 # MXNet - A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems
 
 ## Abstract

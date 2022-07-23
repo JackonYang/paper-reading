@@ -21,6 +21,8 @@ venue: ACL
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/TriviaQA:-A-Large-Scale-Distantly-Supervised-for-Joshi-Choi/f010affab57b5fcf1cd6be23df79d8ec98c7289c?sort=total-citations)
+
 # TriviaQA - A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension
 
 ## Abstract

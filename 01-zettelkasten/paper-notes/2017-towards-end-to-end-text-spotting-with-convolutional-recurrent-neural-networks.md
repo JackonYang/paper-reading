@@ -20,6 +20,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Towards-End-to-End-Text-Spotting-with-Convolutional-Li-Wang/3470684522ba013135a61fd6644a102e2f14cc7c?sort=total-citations)
+
 # Towards End-to-End Text Spotting with Convolutional Recurrent Neural Networks
 
 ## Abstract

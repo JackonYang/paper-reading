@@ -19,6 +19,8 @@ venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DeepPose:-Human-Pose-Estimation-via-Deep-Neural-Toshev-Szegedy/2a002ce457f7ab3088fbd2691734f1ce79f750c4?sort=total-citations)
+
 # DeepPose - Human Pose Estimation via Deep Neural Networks
 
 ## Abstract

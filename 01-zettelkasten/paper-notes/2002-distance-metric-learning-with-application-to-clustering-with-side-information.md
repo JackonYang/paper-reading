@@ -21,6 +21,8 @@ venue: NIPS
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Distance-Metric-Learning-with-Application-to-with-Xing-Ng/d1a2d203733208deda7427c8e20318334193d9d7?sort=total-citations)
+
 # Distance Metric Learning with Application to Clustering with Side-Information
 
 ## Abstract

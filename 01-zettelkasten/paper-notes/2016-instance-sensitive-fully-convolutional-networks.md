@@ -22,6 +22,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Instance-Sensitive-Fully-Convolutional-Networks-Dai-He/bac287c2da6c02a2de88f8e0ea8d45f77de4670d?sort=total-citations)
+
 # Instance-Sensitive Fully Convolutional Networks
 
 ## Abstract

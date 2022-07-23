@@ -20,6 +20,8 @@ venue: International Journal of Computer Vision
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Snakes:-Active-contour-models-Kass-Witkin/9394a5d5adcb626128b6a42c8810b9505a3c6487?sort=total-citations)
+
 # Snakes - Active contour models
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: NIPS
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Predicting-Parameters-in-Deep-Learning-Denil-Shakibi/e8650503ab80ad7299f0845b1843abf3a97f313a?sort=total-citations)
+
 # Predicting Parameters in Deep Learning
 
 ## Abstract

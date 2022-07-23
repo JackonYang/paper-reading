@@ -28,6 +28,8 @@ venue: EMNLP
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Transformers:-State-of-the-Art-Natural-Language-Wolf-Debut/af3f67b6639a50fd094e1467a2f3b6b8fef7c7c2?sort=total-citations)
+
 # Transformers - State-of-the-Art Natural Language Processing
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/An-End-to-End-Trainable-Neural-Network-for-Sequence-Shi-Bai/8e9149ab00236d04db23394774e716c4f1d89231?sort=total-citations)
+
 # An End-to-End Trainable Neural Network for Image-Based Sequence Recognition and Its Application to Scene Text Recognition
 
 ## Abstract

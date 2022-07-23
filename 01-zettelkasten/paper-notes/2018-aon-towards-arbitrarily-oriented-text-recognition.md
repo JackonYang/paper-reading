@@ -23,6 +23,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/AON:-Towards-Arbitrarily-Oriented-Text-Recognition-Cheng-Xu/7fadb96f317cd3e1b7c5ef7990c5ac258e2bca30?sort=total-citations)
+
 # AON - Towards Arbitrarily-Oriented Text Recognition
 
 ## Abstract

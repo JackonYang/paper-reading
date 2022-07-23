@@ -22,6 +22,8 @@ venue: EMNLP
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Supervised-Learning-of-Universal-Sentence-from-Data-Conneau-Kiela/ee7b883e35d754ae4f71c21bb71f9f03e4ffbb2c?sort=total-citations)
+
 # Supervised Learning of Universal Sentence Representations from Natural Language Inference Data
 
 ## Abstract

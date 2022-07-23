@@ -19,6 +19,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/BinaryNet:-Training-Deep-Neural-Networks-with-and-1-Courbariaux-Bengio/123ae35aa7d6838c817072032ce5615bb891652d?sort=total-citations)
+
 # BinaryNet - Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1
 
 ## Abstract

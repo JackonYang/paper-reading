@@ -23,6 +23,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/FOTS:-Fast-Oriented-Text-Spotting-with-a-Unified-Liu-Liang/ee03d4a310e551c892dd4674b0dc36c7a11b8652?sort=total-citations)
+
 # FOTS - Fast Oriented Text Spotting with a Unified Network
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: ICML
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Understanding-and-Simplifying-One-Shot-Architecture-Bender-Kindermans/45b7b5514a65126d39a51d5a68da53e7aa244c1f?sort=total-citations)
+
 # Understanding and Simplifying One-Shot Architecture Search
 
 ## Abstract

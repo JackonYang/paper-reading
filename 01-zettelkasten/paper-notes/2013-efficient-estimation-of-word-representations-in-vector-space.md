@@ -21,6 +21,8 @@ venue: ICLR
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-Estimation-of-Word-Representations-in-Mikolov-Chen/330da625c15427c6e42ccfa3b747fb29e5835bf0?sort=total-citations)
+
 # Efficient Estimation of Word Representations in Vector Space
 
 ## Abstract

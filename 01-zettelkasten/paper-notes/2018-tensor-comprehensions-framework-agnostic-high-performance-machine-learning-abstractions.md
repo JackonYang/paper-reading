@@ -26,6 +26,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Tensor-Comprehensions:-Framework-Agnostic-Machine-Vasilache-Zinenko/cae9d90524cccac5081666985d5d055b71697cee?sort=total-citations)
+
 # Tensor Comprehensions - Framework-Agnostic High-Performance Machine Learning Abstractions
 
 ## Abstract

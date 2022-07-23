@@ -21,6 +21,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Compact-Bilinear-Pooling-Gao-Beijbom/327dc2fd203a7049f3409479ab68e5e2a83cd352?sort=total-citations)
+
 # Compact Bilinear Pooling
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Practical-Block-Wise-Neural-Network-Architecture-Zhong-Yan/8a1ce657dd41a4f49990a4769000dc8049b83404?sort=total-citations)
+
 # Practical Block-Wise Neural Network Architecture Generation
 
 ## Abstract

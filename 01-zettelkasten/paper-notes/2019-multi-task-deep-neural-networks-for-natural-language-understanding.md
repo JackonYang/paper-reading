@@ -21,6 +21,8 @@ venue: ACL
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multi-Task-Deep-Neural-Networks-for-Natural-Liu-He/658721bc13b0fa97366d38c05a96bf0a9f4bb0ac?sort=total-citations)
+
 # Multi-Task Deep Neural Networks for Natural Language Understanding
 
 ## Abstract

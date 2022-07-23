@@ -25,6 +25,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Quantization-and-Training-of-Neural-Networks-for-Jacob-Kligys/59d0d7ccec2db66cad20cac5721ce54a8a058294?sort=total-citations)
+
 # Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
 
 ## Abstract

@@ -24,6 +24,8 @@ venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Long-term-recurrent-convolutional-networks-for-and-Donahue-Hendricks/f01fc808592ea7c473a69a6e7484040a435f36d9?sort=total-citations)
+
 # Long-term recurrent convolutional networks for visual recognition and description
 
 ## Abstract

@@ -27,6 +27,8 @@ venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/FBNet:-Hardware-Aware-Efficient-ConvNet-Design-via-Wu-Dai/45532bffbfbb5553da0b2d0844e95a1b37e59147?sort=total-citations)
+
 # FBNet - Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search
 
 ## Abstract

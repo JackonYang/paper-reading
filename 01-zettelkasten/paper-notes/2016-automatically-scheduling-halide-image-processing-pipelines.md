@@ -22,6 +22,8 @@ venue: ACM Trans. Graph.
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Automatically-scheduling-halide-image-processing-Mullapudi-Adams/9b240a87b11d085641d6640f73cc3cc2d678e305?sort=total-citations)
+
 # Automatically scheduling halide image processing pipelines
 
 ## Abstract

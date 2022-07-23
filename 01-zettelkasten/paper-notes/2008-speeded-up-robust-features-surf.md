@@ -21,6 +21,8 @@ venue: Comput. Vis. Image Underst.
 year: 2008
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Speeded-Up-Robust-Features-(SURF)-Bay-Ess/cdbb606ae47c64049262dfbd3bb147d3f4ba8420?sort=total-citations)
+
 # Speeded-Up Robust Features (SURF)
 
 ## Paper References

@@ -19,6 +19,8 @@ venue: Adaptive computation and machine learning
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Gaussian-Processes-for-Machine-Learning-Rasmussen-Williams/82266f6103bade9005ec555ed06ba20b5210ff22?sort=total-citations)
+
 # Gaussian Processes for Machine Learning
 
 ## Abstract

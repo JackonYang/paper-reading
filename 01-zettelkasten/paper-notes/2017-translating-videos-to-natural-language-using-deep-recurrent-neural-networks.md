@@ -21,6 +21,8 @@ venue: ''
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Translating-Videos-to-Natural-Language-Using-Deep-Austin-Austin/43795b7bac3d921c4e579964b54187bdbf6c6330?sort=total-citations)
+
 # Translating Videos to Natural Language Using Deep Recurrent Neural Networks
 
 ## Abstract

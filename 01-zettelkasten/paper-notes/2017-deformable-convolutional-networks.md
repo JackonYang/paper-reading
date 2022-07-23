@@ -24,6 +24,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deformable-Convolutional-Networks-Dai-Qi/4a73a1840945e87583d89ca0216a2c449d50a4a3?sort=total-citations)
+
 # Deformable Convolutional Networks
 
 ## Abstract

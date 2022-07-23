@@ -21,6 +21,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Transferable-Architectures-for-Scalable-Zoph-Vasudevan/d0611891b9e8a7c5731146097b6f201578f47b2f?sort=total-citations)
+
 # Learning Transferable Architectures for Scalable Image Recognition
 
 ## Abstract

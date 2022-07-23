@@ -21,6 +21,8 @@ venue: NIPS
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Hogwild:-A-Lock-Free-Approach-to-Parallelizing-Recht-Ré/36f49b05d764bf5c10428b082c2d96c13c4203b9?sort=total-citations)
+
 # Hogwild - A Lock-Free Approach to Parallelizing Stochastic Gradient Descent
 
 ## Abstract

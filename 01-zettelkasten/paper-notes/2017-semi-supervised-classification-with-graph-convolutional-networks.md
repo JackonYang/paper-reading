@@ -19,6 +19,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Semi-Supervised-Classification-with-Graph-Networks-Kipf-Welling/36eff562f65125511b5dfab68ce7f7a943c27478?sort=total-citations)
+
 # Semi-Supervised Classification with Graph Convolutional Networks
 
 ## Abstract

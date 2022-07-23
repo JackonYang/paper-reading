@@ -19,6 +19,8 @@ venue: EMNLP
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Fast-and-Accurate-Dependency-Parser-using-Neural-Chen-Manning/a14045a751f5d8ed387c8630a86a3a2861b90643?sort=total-citations)
+
 # A Fast and Accurate Dependency Parser using Neural Networks
 
 ## Abstract

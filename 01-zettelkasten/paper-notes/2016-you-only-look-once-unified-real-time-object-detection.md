@@ -21,6 +21,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/You-Only-Look-Once:-Unified,-Real-Time-Object-Redmon-Divvala/f8e79ac0ea341056ef20f2616628b3e964764cfd?sort=total-citations)
+
 # You Only Look Once - Unified, Real-Time Object Detection
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: NIPS
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Hierarchical-Question-Image-Co-Attention-for-Visual-Lu-Yang/fb9d253258d6b3beceb9d6cd7bba6e0a29ab875b?sort=total-citations)
+
 # Hierarchical Question-Image Co-Attention for Visual Question Answering
 
 ## Abstract

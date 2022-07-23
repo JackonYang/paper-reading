@@ -21,6 +21,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Designing-Neural-Network-Architectures-using-Baker-Gupta/6cd5dfccd9f52538b19a415e00031d0ee4e5b181?sort=total-citations)
+
 # Designing Neural Network Architectures using Reinforcement Learning
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Semantic-Object-Parsing-with-Graph-LSTM-Liang-Shen/3cea26512e9fd8bcb4081af44286d395004a5433?sort=total-citations)
+
 # Semantic Object Parsing with Graph LSTM
 
 ## Abstract

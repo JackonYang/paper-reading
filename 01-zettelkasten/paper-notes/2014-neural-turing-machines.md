@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Turing-Machines-Graves-Wayne/c3823aacea60bc1f2cabb9283144690a3d015db5?sort=total-citations)
+
 # Neural Turing Machines
 
 ## Abstract

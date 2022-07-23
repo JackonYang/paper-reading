@@ -24,6 +24,8 @@ venue: EMNLP
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recursive-Deep-Models-for-Semantic-Compositionality-Socher-Perelygin/687bac2d3320083eb4530bf18bb8f8f721477600?sort=total-citations)
+
 # Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
 
 ## Abstract

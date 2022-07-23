@@ -25,6 +25,8 @@ venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Conditional-Random-Fields-as-Recurrent-Neural-Zheng-Jayasumana/ca5c766b2d31a1f5ce8896a0a42b40a2bff9323a?sort=total-citations)
+
 # Conditional Random Fields as Recurrent Neural Networks
 
 ## Abstract

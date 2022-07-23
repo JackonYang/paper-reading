@@ -24,6 +24,8 @@ venue: IEEE Transactions on Multimedia
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Arbitrary-Oriented-Scene-Text-Detection-via-Ma-Shao/57e2dee73b4fc2efe28bbca3428cfe6718fcef40?sort=total-citations)
+
 # Arbitrary-Oriented Scene Text Detection via Rotation Proposals
 
 ## Abstract

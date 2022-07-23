@@ -23,6 +23,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Scene-Text-Detection-via-Holistic,-Multi-Channel-Yao-Bai/eb9441455d1a364278cada5f20826582a6633e82?sort=total-citations)
+
 # Scene Text Detection via Holistic, Multi-Channel Prediction
 
 ## Abstract

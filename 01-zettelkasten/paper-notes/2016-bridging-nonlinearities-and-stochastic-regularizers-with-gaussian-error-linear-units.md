@@ -19,6 +19,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Bridging-Nonlinearities-and-Stochastic-Regularizers-Hendrycks-Gimpel/4361e64f2d12d63476fdc88faf72a0f70d9a2ffb?sort=total-citations)
+
 # Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units
 
 ## Abstract

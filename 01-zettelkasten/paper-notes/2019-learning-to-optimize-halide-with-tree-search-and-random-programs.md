@@ -28,6 +28,8 @@ venue: ACM Trans. Graph.
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-to-optimize-halide-with-tree-search-and-Adams-Ma/f90a7bc396e205b204d5d6066a10162f84b128f9?sort=total-citations)
+
 # Learning to optimize halide with tree search and random programs
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Rotation-Sensitive-Regression-for-Oriented-Scene-Liao-Zhu/31f8c58679b52ff5c67bf4e46704c678a2968d6f?sort=total-citations)
+
 # Rotation-Sensitive Regression for Oriented Scene Text Detection
 
 ## Abstract

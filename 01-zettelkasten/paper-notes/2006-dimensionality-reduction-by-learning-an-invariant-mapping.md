@@ -20,6 +20,8 @@ venue: 2006 IEEE Computer Society Conference on Computer Vision and Pattern Reco
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Dimensionality-Reduction-by-Learning-an-Invariant-Hadsell-Chopra/46f30e94dd3d5902141c5fbe58d0bc9189545c76?sort=total-citations)
+
 # Dimensionality Reduction by Learning an Invariant Mapping
 
 ## Abstract

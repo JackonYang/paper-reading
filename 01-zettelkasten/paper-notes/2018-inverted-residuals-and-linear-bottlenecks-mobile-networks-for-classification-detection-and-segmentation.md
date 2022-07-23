@@ -22,6 +22,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Inverted-Residuals-and-Linear-Bottlenecks:-Mobile-Sandler-Howard/16b42f570873fc03d503090adb0a75a467c5f30c?sort=total-citations)
+
 # Inverted Residuals and Linear Bottlenecks - Mobile Networks for Classification, Detection and Segmentation
 
 ## Abstract

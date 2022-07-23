@@ -22,6 +22,8 @@ venue: J. Mach. Learn. Res.
 year: 2008
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/LIBLINEAR:-A-Library-for-Large-Linear-Fan-Chang/268a4f8da15a42f3e0e71691f760ff5edbf9cec8?sort=total-citations)
+
 # LIBLINEAR - A Library for Large Linear Classification
 
 ## Abstract

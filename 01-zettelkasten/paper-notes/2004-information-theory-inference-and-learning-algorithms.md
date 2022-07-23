@@ -18,6 +18,8 @@ venue: IEEE Transactions on Information Theory
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Information-Theory,-Inference,-and-Learning-Mackay/f7f15848cd0fbb3d08f351595da833b1627de9c3?sort=total-citations)
+
 # Information Theory, Inference, and Learning Algorithms
 
 ## Abstract

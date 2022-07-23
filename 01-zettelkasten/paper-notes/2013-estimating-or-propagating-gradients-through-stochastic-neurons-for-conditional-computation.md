@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Estimating-or-Propagating-Gradients-Through-Neurons-Bengio-Léonard/62c76ca0b2790c34e85ba1cce09d47be317c7235?sort=total-citations)
+
 # Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation
 
 ## Abstract

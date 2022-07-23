@@ -23,6 +23,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/CLEVR:-A-Diagnostic-Dataset-for-Compositional-and-Johnson-Hariharan/03eb382e04cca8cca743f7799070869954f1402a?sort=total-citations)
+
 # CLEVR - A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
 
 ## Abstract

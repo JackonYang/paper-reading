@@ -18,6 +18,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Xception:-Deep-Learning-with-Depthwise-Separable-Chollet/5b6ec746d309b165f9f9def873a2375b6fb40f3d?sort=total-citations)
+
 # Xception - Deep Learning with Depthwise Separable Convolutions
 
 ## Abstract

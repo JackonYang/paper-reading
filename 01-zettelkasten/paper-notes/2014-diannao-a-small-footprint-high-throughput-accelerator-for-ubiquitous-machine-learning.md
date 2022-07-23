@@ -24,6 +24,8 @@ venue: ASPLOS
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DianNao:-a-small-footprint-high-throughput-for-Chen-Du/22e477a9fdde86ab1f8f4dafdb4d88ea37e31fbd?sort=total-citations)
+
 # DianNao - a small-footprint high-throughput accelerator for ubiquitous machine-learning
 
 ## Abstract

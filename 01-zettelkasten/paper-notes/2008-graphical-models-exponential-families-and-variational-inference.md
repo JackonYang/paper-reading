@@ -19,6 +19,8 @@ venue: Found. Trends Mach. Learn.
 year: 2008
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Graphical-Models,-Exponential-Families,-and-Wainwright-Jordan/d98d0d1900b13b87aa4ffd6b69c046beb63f0434?sort=total-citations)
+
 # Graphical Models, Exponential Families, and Variational Inference
 
 ## Abstract

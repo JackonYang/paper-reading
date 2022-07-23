@@ -20,6 +20,8 @@ venue: MICCAI
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/U-Net:-Convolutional-Networks-for-Biomedical-Image-Ronneberger-Fischer/6364fdaa0a0eccd823a779fcdd489173f938e91a?sort=total-citations)
+
 # U-Net - Convolutional Networks for Biomedical Image Segmentation
 
 ## Abstract

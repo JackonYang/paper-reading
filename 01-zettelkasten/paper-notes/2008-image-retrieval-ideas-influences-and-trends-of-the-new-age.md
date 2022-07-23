@@ -21,6 +21,8 @@ venue: CSUR
 year: 2008
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Image-retrieval:-Ideas,-influences,-and-trends-of-Datta-Joshi/0dfa5679a15d0125ecec8539b79e8ba0babb8f73?sort=total-citations)
+
 # Image retrieval - Ideas, influences, and trends of the new age
 
 ## Abstract

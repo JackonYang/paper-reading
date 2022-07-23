@@ -20,6 +20,8 @@ venue: ICML
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Conditional-Random-Fields:-Probabilistic-Models-for-Lafferty-McCallum/f4ba954b0412773d047dc41231c733de0c1f4926?sort=total-citations)
+
 # Conditional Random Fields - Probabilistic Models for Segmenting and Labeling Sequence Data
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: 2015 IEEE International Conference on Computer Vision (ICCV)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Delving-Deep-into-Rectifiers:-Surpassing-on-He-Zhang/d6f2f611da110b5b5061731be3fc4c7f45d8ee23?sort=total-citations)
+
 # Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification
 
 ## Abstract

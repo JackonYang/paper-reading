@@ -22,6 +22,8 @@ venue: ICLR
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Captioning-with-Multimodal-Recurrent-Neural-Mao-Xu/54b2b6f35f1b5704dddfaa3a137a2f4ad3dfe745?sort=total-citations)
+
 # Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: TACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Named-Entity-Recognition-with-Bidirectional-Chiu-Nichols/10a4db59e81d26b2e0e896d3186ef81b4458b93f?sort=total-citations)
+
 # Named Entity Recognition with Bidirectional LSTM-CNNs
 
 ## Abstract

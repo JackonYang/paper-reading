@@ -19,6 +19,8 @@ venue: NIPS
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-Inference-in-Fully-Connected-CRFs-with-Krähenbühl-Koltun/c81c20109c809cfc47565a9477c04ee005d424bf?sort=total-citations)
+
 # Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 
 ## Abstract

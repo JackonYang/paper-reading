@@ -129,6 +129,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Theano:-A-Python-framework-for-fast-computation-of-Al-Rfou-Alain/6b570069f14c7588e066f7138e1f21af59d62e61?sort=total-citations)
+
 # Theano - A Python framework for fast computation of mathematical expressions
 
 ## Abstract

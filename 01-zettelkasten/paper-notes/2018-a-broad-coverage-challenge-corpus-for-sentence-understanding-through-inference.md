@@ -20,6 +20,8 @@ venue: NAACL
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Broad-Coverage-Challenge-Corpus-for-Sentence-Williams-Nangia/5ded2b8c64491b4a67f6d39ce473d4b9347a672e?sort=total-citations)
+
 # A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference
 
 ## Abstract

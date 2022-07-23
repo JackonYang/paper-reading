@@ -20,6 +20,8 @@ venue: International Journal of Computer Vision
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Earth-Mover's-Distance-as-a-Metric-for-Image-Rubner-Tomasi/d13a04844e4a781e5180987118f732d93aa9f398?sort=total-citations)
+
 # The Earth Mover's Distance as a Metric for Image Retrieval
 
 ## Abstract

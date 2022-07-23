@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-State-of-Sparsity-in-Deep-Neural-Networks-Gale-Elsen/26384278cf5d575fc32cb92c303fb648fa0d5217?sort=total-citations)
+
 # The State of Sparsity in Deep Neural Networks
 
 ## Abstract

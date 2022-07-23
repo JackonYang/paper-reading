@@ -57,6 +57,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/TensorFlow:-Large-Scale-Machine-Learning-on-Systems-Abadi-Agarwal/9c9d7247f8c51ec5a02b0d911d1d7b9e8160495d?sort=total-citations)
+
 # TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems
 
 ## Abstract

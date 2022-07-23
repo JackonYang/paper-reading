@@ -21,6 +21,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Visual7W:-Grounded-Question-Answering-in-Images-Zhu-Groth/def584565d05d6a8ba94de6621adab9e301d375d?sort=total-citations)
+
 # Visual7W - Grounded Question Answering in Images
 
 ## Abstract

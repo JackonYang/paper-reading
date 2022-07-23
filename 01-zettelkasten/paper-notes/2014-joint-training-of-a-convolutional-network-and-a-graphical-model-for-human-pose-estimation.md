@@ -21,6 +21,8 @@ venue: NIPS
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Joint-Training-of-a-Convolutional-Network-and-a-for-Tompson-Jain/12ecc2d786080f638a01b9999518e9386baa157d?sort=total-citations)
+
 # Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation
 
 ## Abstract

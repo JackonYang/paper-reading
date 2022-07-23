@@ -22,6 +22,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Robust-Scene-Text-Recognition-with-Automatic-Shi-Wang/edd0f6d316d33c61a4a69c9262d1b1e07a93bae6?sort=total-citations)
+
 # Robust Scene Text Recognition with Automatic Rectification
 
 ## Abstract

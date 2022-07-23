@@ -21,6 +21,8 @@ venue: BMVC
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Robust-Wide-Baseline-Stereo-from-Maximally-Stable-Matas-Chum/9d5ea177c7fcaf88ec6f56cbeb3e9b74c08e98a3?sort=total-citations)
+
 # Robust Wide Baseline Stereo from Maximally Stable Extremal Regions
 
 ## Abstract

@@ -24,6 +24,8 @@ venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Dynamic-Fusion-With-Intra-and-Inter-Modality-Flow-Gao-Li/e9b13731027418ed38103d1dfc8a70f6881bc684?sort=total-citations)
+
 # Dynamic Fusion With Intra- and Inter-Modality Attention Flow for Visual Question Answering
 
 ## Abstract

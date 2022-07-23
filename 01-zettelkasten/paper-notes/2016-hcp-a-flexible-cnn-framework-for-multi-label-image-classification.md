@@ -25,6 +25,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/HCP:-A-Flexible-CNN-Framework-for-Multi-Label-Image-Wei-Xia/32d850e556f39f6bbedcdef0e38f5cd295a6144f?sort=total-citations)
+
 # HCP - A Flexible CNN Framework for Multi-Label Image Classification
 
 ## Abstract

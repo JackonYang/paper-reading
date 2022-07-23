@@ -20,6 +20,8 @@ venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Proces
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Improving-deep-neural-networks-for-LVCSR-using-and-Dahl-Sainath/1a3c74c7b11ad5635570932577cdde2a3f7a6a5c?sort=total-citations)
+
 # Improving deep neural networks for LVCSR using rectified linear units and dropout
 
 ## Abstract

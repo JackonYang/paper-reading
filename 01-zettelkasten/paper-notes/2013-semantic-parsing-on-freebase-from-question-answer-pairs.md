@@ -21,6 +21,8 @@ venue: EMNLP
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Semantic-Parsing-on-Freebase-from-Question-Answer-Berant-Chou/b29447ba499507a259ae9d8f685d60cc1597d7d3?sort=total-citations)
+
 # Semantic Parsing on Freebase from Question-Answer Pairs
 
 ## Abstract

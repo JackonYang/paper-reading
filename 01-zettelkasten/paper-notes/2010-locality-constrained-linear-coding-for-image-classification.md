@@ -23,6 +23,8 @@ venue: 2010 IEEE Computer Society Conference on Computer Vision and Pattern Reco
 year: 2010
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Locality-constrained-Linear-Coding-for-image-Wang-Yang/2f7713dcc35e7c05becf3be5522f36c9546b0364?sort=total-citations)
+
 # Locality-constrained Linear Coding for image classification
 
 ## Abstract

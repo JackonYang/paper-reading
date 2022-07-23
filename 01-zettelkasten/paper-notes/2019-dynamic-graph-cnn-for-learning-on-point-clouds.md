@@ -24,6 +24,8 @@ venue: ACM Trans. Graph.
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Dynamic-Graph-CNN-for-Learning-on-Point-Clouds-Wang-Sun/e1799aaf23c12af6932dc0ef3dfb1638f01413d1?sort=total-citations)
+
 # Dynamic Graph CNN for Learning on Point Clouds
 
 ## Abstract

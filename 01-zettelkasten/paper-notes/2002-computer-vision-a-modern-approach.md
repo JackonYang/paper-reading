@@ -19,6 +19,8 @@ venue: ''
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Computer-Vision:-A-Modern-Approach-Forsyth-Ponce/787827850b614135f6b432603afc90b58a8cc665?sort=total-citations)
+
 # Computer Vision - A Modern Approach
 
 ## Abstract

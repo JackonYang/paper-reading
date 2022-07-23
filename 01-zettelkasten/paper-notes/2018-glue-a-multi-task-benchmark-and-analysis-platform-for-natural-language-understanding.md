@@ -23,6 +23,8 @@ venue: BlackboxNLP@EMNLP
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/GLUE:-A-Multi-Task-Benchmark-and-Analysis-Platform-Wang-Singh/93b8da28d006415866bf48f9a6e06b5242129195?sort=total-citations)
+
 # GLUE - A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding
 
 ## Abstract

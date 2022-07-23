@@ -19,6 +19,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recursive-Recurrent-Nets-with-Attention-Modeling-in-Lee-Osindero/a8c9d85147039ca54b0439cde05ef8c33efecf00?sort=total-citations)
+
 # Recursive Recurrent Nets with Attention Modeling for OCR in the Wild
 
 ## Abstract

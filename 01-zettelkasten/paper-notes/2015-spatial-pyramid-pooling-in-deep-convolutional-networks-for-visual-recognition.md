@@ -21,6 +21,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Spatial-Pyramid-Pooling-in-Deep-Convolutional-for-He-Zhang/cbb19236820a96038d000dc629225d36e0b6294a?sort=total-citations)
+
 # Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 
 ## Abstract

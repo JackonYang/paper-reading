@@ -21,6 +21,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Fast-Feature-Pyramids-for-Object-Detection-Dollár-Appel/84e0d68e41788644c78cfdc3f4ac3cbea7854a5c?sort=total-citations)
+
 # Fast Feature Pyramids for Object Detection
 
 ## Abstract

@@ -42,6 +42,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DyNet:-The-Dynamic-Neural-Network-Toolkit-Neubig-Dyer/480d545ac4a4ffff5b1bc291c2de613192e35d91?sort=total-citations)
+
 # DyNet - The Dynamic Neural Network Toolkit
 
 ## Abstract

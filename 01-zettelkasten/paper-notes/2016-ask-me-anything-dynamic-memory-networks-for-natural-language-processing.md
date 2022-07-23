@@ -26,6 +26,8 @@ venue: ICML
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Ask-Me-Anything:-Dynamic-Memory-Networks-for-Kumar-Irsoy/452059171226626718eb677358836328f884298e?sort=total-citations)
+
 # Ask Me Anything - Dynamic Memory Networks for Natural Language Processing
 
 ## Abstract

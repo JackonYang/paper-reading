@@ -19,6 +19,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Architecture-Search-with-Reinforcement-Zoph-Le/67d968c7450878190e45ac7886746de867bf673d?sort=total-citations)
+
 # Neural Architecture Search with Reinforcement Learning
 
 ## Abstract

@@ -36,6 +36,8 @@ venue: Nature
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Human-level-control-through-deep-reinforcement-Mnih-Kavukcuoglu/e0e9a94c4a6ba219e768b4e59f72c18f0a22e23d?sort=total-citations)
+
 # Human-level control through deep reinforcement learning
 
 ## Abstract

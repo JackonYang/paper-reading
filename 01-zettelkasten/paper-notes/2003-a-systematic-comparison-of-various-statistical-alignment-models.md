@@ -19,6 +19,8 @@ venue: CL
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Systematic-Comparison-of-Various-Statistical-Och-Ney/de2df29b0a0312de7270c3f5a0af6af5645cf91a?sort=total-citations)
+
 # A Systematic Comparison of Various Statistical Alignment Models
 
 ## Abstract

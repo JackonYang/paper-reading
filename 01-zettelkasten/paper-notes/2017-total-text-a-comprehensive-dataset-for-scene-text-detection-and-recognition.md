@@ -19,6 +19,8 @@ venue: 2017 14th IAPR International Conference on Document Analysis and Recognit
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Total-Text:-A-Comprehensive-Dataset-for-Scene-Text-Chng-Chan/729f20fa5928514768f4e0d848e74e5eecc33174?sort=total-citations)
+
 # Total-Text - A Comprehensive Dataset for Scene Text Detection and Recognition
 
 ## Abstract

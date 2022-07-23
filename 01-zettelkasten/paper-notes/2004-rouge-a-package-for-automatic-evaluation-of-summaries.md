@@ -18,6 +18,8 @@ venue: ACL 2004
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ROUGE:-A-Package-for-Automatic-Evaluation-of-Lin/60b05f32c32519a809f21642ef1eb3eaf3848008?sort=total-citations)
+
 # ROUGE - A Package for Automatic Evaluation of Summaries
 
 ## Abstract

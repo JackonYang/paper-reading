@@ -21,6 +21,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-both-Weights-and-Connections-for-Efficient-Han-Pool/1ff9a37d766e3a4f39757f5e1b235a42dacf18ff?sort=total-citations)
+
 # Learning both Weights and Connections for Efficient Neural Network
 
 ## Abstract

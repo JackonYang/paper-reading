@@ -22,6 +22,8 @@ venue: Proc. ACM Program. Lang.
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-tensor-algebra-compiler-Kjolstad-Kamil/c2e1139691c3a337831e36ee7afeab8817ab5d48?sort=total-citations)
+
 # The tensor algebra compiler
 
 ## Abstract

@@ -24,6 +24,8 @@ venue: FPGA
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/FINN:-A-Framework-for-Fast,-Scalable-Binarized-Umuroglu-Fraser/3b2491ddeeaa7beae4d311b217c292a9e16112cf?sort=total-citations)
+
 # FINN - A Framework for Fast, Scalable Binarized Neural Network Inference
 
 ## Abstract

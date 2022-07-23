@@ -22,6 +22,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Grounding-of-Textual-Phrases-in-Images-by-Rohrbach-Rohrbach/14c2321851fb5ae580a19726dd2753a525d6ad76?sort=total-citations)
+
 # Grounding of Textual Phrases in Images by Reconstruction
 
 ## Abstract

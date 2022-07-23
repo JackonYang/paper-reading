@@ -20,6 +20,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Measuring-the-Objectness-of-Image-Windows-Alexe-Deselaers/2eb6caace8296fd4dfd4947efa4fe911c8e133b2?sort=total-citations)
+
 # Measuring the Objectness of Image Windows
 
 ## Abstract

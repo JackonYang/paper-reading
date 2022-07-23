@@ -22,6 +22,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Yin-and-Yang:-Balancing-and-Answering-Binary-Visual-Zhang-Goyal/5fa973b8d284145bf0ced9acf2913a74674260f6?sort=total-citations)
+
 # Yin and Yang - Balancing and Answering Binary Visual Questions
 
 ## Abstract

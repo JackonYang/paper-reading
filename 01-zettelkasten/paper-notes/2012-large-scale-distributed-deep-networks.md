@@ -29,6 +29,8 @@ venue: NIPS
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Large-Scale-Distributed-Deep-Networks-Dean-Corrado/3127190433230b3dc1abd0680bb58dced4bcd90e?sort=total-citations)
+
 # Large Scale Distributed Deep Networks
 
 ## Abstract

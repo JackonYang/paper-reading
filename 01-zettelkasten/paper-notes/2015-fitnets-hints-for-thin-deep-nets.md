@@ -23,6 +23,8 @@ venue: ICLR
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/FitNets:-Hints-for-Thin-Deep-Nets-Romero-Ballas/cd85a549add0c7c7def36aca29837efd24b24080?sort=total-citations)
+
 # FitNets - Hints for Thin Deep Nets
 
 ## Abstract

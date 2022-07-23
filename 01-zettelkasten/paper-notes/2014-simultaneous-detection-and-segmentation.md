@@ -21,6 +21,8 @@ venue: ECCV
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Simultaneous-Detection-and-Segmentation-Hariharan-Arbeláez/342786659379879f58bf5c4ff43c84c83a6a7389?sort=total-citations)
+
 # Simultaneous Detection and Segmentation
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: 2009 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ImageNet:-A-large-scale-hierarchical-image-database-Deng-Dong/d2c733e34d48784a37d717fe43d9e93277a8c53e?sort=total-citations)
+
 # ImageNet - A large-scale hierarchical image database
 
 ## Abstract

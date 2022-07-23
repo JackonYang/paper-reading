@@ -20,6 +20,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/BinaryConnect:-Training-Deep-Neural-Networks-with-Courbariaux-Bengio/a5733ff08daff727af834345b9cfff1d0aa109ec?sort=total-citations)
+
 # BinaryConnect - Training Deep Neural Networks with binary weights during propagations
 
 ## Abstract

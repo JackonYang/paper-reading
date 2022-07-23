@@ -20,6 +20,8 @@ venue: ACL
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Improved-Semantic-Representations-From-Long-Memory-Tai-Socher/32de44f01a96d4473d21099d15e25bc2b9f08e2f?sort=total-citations)
+
 # Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks
 
 ## Abstract

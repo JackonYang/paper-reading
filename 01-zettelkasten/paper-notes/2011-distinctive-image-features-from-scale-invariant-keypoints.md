@@ -18,6 +18,8 @@ venue: ''
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Distinctive-Image-Features-from-Scale-Invariant-Dorst/bcae70dce393c1796d4f15c7b8bbf0ed6f468be1?sort=total-citations)
+
 # Distinctive Image Features from Scale-Invariant Keypoints
 
 ## Abstract

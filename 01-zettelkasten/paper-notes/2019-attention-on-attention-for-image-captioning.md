@@ -21,6 +21,8 @@ venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Attention-on-Attention-for-Image-Captioning-Huang-Wang/4c163d4942117179d3e97182e1b280027d7d60a9?sort=total-citations)
+
 # Attention on Attention for Image Captioning
 
 ## Abstract

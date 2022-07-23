@@ -20,6 +20,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Image-Question-Answering-Using-Convolutional-Neural-Noh-Seo/385c18cc4024a3b3206c508c512e037b9c00b8f3?sort=total-citations)
+
 # Image Question Answering Using Convolutional Neural Network with Dynamic Parameter Prediction
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: 2010 3rd International Conference on Computer Science and Information Tec
 year: 2010
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Shape-matching-and-object-recognition-using-shape-Belongie-Malik/faf8444bad76e8aa727c8b2df42fefe7b8242957?sort=total-citations)
+
 # Shape matching and object recognition using shape contexts
 
 ## Abstract

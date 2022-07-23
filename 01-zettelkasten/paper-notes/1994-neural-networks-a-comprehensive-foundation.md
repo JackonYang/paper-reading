@@ -19,6 +19,8 @@ venue: ''
 year: 1994
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Networks:-A-Comprehensive-Foundation-Hyakin/045310b06e8a3983a363a118cc9dcc3f292970b4?sort=total-citations)
+
 # Neural Networks - A Comprehensive Foundation
 
 ## Abstract

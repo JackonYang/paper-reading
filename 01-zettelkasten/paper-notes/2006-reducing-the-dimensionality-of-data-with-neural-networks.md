@@ -19,6 +19,8 @@ venue: Science
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Reducing-the-Dimensionality-of-Data-with-Neural-Hinton-Salakhutdinov/46eb79e5eec8a4e2b2f5652b66441e8a4c921c3e?sort=total-citations)
+
 # Reducing the Dimensionality of Data with Neural Networks
 
 ## Abstract

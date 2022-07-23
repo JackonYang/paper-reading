@@ -19,6 +19,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-guide-to-convolution-arithmetic-for-deep-learning-Dumoulin-Visin/f19284f6ab802c8a1fcde076fcb3fba195a71723?sort=total-citations)
+
 # A guide to convolution arithmetic for deep learning
 
 ## Abstract

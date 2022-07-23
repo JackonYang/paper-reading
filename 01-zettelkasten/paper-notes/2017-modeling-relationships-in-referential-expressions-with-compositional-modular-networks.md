@@ -22,6 +22,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Modeling-Relationships-in-Referential-Expressions-Hu-Rohrbach/ce264a4e1490e959d84ddd60edbb0edcbfb3af38?sort=total-citations)
+
 # Modeling Relationships in Referential Expressions with Compositional Modular Networks
 
 ## Abstract

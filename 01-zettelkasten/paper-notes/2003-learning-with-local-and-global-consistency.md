@@ -22,6 +22,8 @@ venue: NIPS
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-with-Local-and-Global-Consistency-Zhou-Bousquet/46770a8e7e2af28f5253e5961f709be74e34c1f6?sort=total-citations)
+
 # Learning with Local and Global Consistency
 
 ## Abstract

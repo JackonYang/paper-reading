@@ -20,6 +20,8 @@ venue: 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architectur
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Eyeriss:-A-Spatial-Architecture-for-Dataflow-for-Chen-Emer/5ec594e9f5ca4b629be28625cd78c882514ea3be?sort=total-citations)
+
 # Eyeriss - A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks
 
 ## Abstract

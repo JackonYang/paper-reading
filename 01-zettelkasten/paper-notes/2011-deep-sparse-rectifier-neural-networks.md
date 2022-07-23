@@ -20,6 +20,8 @@ venue: AISTATS
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Sparse-Rectifier-Neural-Networks-Glorot-Bordes/67107f78a84bdb2411053cb54e94fa226eea6d8e?sort=total-citations)
+
 # Deep Sparse Rectifier Neural Networks
 
 ## Abstract

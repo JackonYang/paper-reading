@@ -19,6 +19,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Linking-Image-and-Text-with-2-Way-Nets-Eisenschtat-Wolf/2616e0fbce43362a338acedcbb5cd80db7bbb7e5?sort=total-citations)
+
 # Linking Image and Text with 2-Way Nets
 
 ## Abstract

@@ -44,6 +44,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Relational-inductive-biases,-deep-learning,-and-Battaglia-Hamrick/19b7769dab4e6092aa4b7eeb8aa078a7b725c9b4?sort=total-citations)
+
 # Relational inductive biases, deep learning, and graph networks
 
 ## Abstract

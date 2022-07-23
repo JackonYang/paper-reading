@@ -21,6 +21,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Trained-Ternary-Quantization-Zhu-Han/d418295cd3027c43eccc5592ae5b8303ba8192be?sort=total-citations)
+
 # Trained Ternary Quantization
 
 ## Abstract

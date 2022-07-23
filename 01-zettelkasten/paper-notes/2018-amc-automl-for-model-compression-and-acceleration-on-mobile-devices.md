@@ -23,6 +23,8 @@ venue: ECCV
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/AMC:-AutoML-for-Model-Compression-and-Acceleration-He-Lin/1717255b6aea01fe956cef998abbc3c399b5d7cf?sort=total-citations)
+
 # AMC - AutoML for Model Compression and Acceleration on Mobile Devices
 
 ## Abstract

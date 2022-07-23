@@ -22,6 +22,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DeepLab:-Semantic-Image-Segmentation-with-Deep-and-Chen-Papandreou/cab372bc3824780cce20d9dd1c22d4df39ed081a?sort=total-citations)
+
 # DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 
 ## Abstract

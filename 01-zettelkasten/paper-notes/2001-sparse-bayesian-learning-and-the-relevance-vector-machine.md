@@ -19,6 +19,8 @@ venue: ''
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Sparse-Bayesian-Learning-and-the-Relevance-Vector-House-StreetCambridge/d68725804eadecf83d707d89e12c5132bf376187?sort=total-citations)
+
 # Sparse Bayesian Learning and the Relevance Vector Machine
 
 ## Paper References

@@ -22,6 +22,8 @@ venue: 2011 International Conference on Computer Vision
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/HMDB:-A-large-video-database-for-human-motion-Kuehne-Jhuang/8b3b8848a311c501e704c45c6d50430ab7068956?sort=total-citations)
+
 # HMDB - A large video database for human motion recognition
 
 ## Abstract

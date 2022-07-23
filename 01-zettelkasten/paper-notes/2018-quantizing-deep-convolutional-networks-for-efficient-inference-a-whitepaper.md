@@ -18,6 +18,8 @@ venue: ArXiv
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Quantizing-deep-convolutional-networks-for-A-Krishnamoorthi/3d8b62c060f8444907e7c975c6ae590373b51ed4?sort=total-citations)
+
 # Quantizing deep convolutional networks for efficient inference - A whitepaper
 
 ## Abstract

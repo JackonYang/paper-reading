@@ -26,6 +26,8 @@ venue: SSW
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/WaveNet:-A-Generative-Model-for-Raw-Audio-Oord-Dieleman/df0402517a7338ae28bc54acaac400de6b456a46?sort=total-citations)
+
 # WaveNet - A Generative Model for Raw Audio
 
 ## Abstract

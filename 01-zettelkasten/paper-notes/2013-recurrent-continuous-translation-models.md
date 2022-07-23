@@ -19,6 +19,8 @@ venue: EMNLP
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recurrent-Continuous-Translation-Models-Kalchbrenner-Blunsom/944a1cfd79dbfb6fef460360a0765ba790f4027a?sort=total-citations)
+
 # Recurrent Continuous Translation Models
 
 ## Abstract

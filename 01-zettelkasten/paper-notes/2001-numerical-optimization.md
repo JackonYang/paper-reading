@@ -18,6 +18,8 @@ venue: J. Oper. Res. Soc.
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Numerical-Optimization-Smith/bf86896c23300a46b7fc76298e365984c0b05105?sort=total-citations)
+
 # Numerical Optimization
 
 ## Abstract

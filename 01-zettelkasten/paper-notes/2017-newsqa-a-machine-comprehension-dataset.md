@@ -24,6 +24,8 @@ venue: Rep4NLP@ACL
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/NewsQA:-A-Machine-Comprehension-Dataset-Trischler-Wang/3eda43078ae1f4741f09be08c4ecab6229046a5c?sort=total-citations)
+
 # NewsQA - A Machine Comprehension Dataset
 
 ## Abstract

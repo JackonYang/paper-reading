@@ -19,6 +19,8 @@ venue: ECCV
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Edge-Boxes:-Locating-Object-Proposals-from-Edges-Zitnick-Dollár/b183947ee15718b45546eda6b01e179b9a95421f?sort=total-citations)
+
 # Edge Boxes - Locating Object Proposals from Edges
 
 ## Abstract

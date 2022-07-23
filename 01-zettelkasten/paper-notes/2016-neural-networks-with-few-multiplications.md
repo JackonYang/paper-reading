@@ -21,6 +21,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Networks-with-Few-Multiplications-Lin-Courbariaux/67c191bcce6821f736798cb9b31472bcdd1e52a6?sort=total-citations)
+
 # Neural Networks with Few Multiplications
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: IEEE Trans. Neural Networks
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/An-introduction-to-kernel-based-learning-algorithms-Müller-Mika/1fcbefeb0beae4470cf40df74cd116b1d4bdcae4?sort=total-citations)
+
 # An introduction to kernel-based learning algorithms
 
 ## Abstract

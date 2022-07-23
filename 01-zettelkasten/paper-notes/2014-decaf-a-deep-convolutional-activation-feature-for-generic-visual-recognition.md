@@ -24,6 +24,8 @@ venue: ICML
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DeCAF:-A-Deep-Convolutional-Activation-Feature-for-Donahue-Jia/b8de958fead0d8a9619b55c7299df3257c624a96?sort=total-citations)
+
 # DeCAF - A Deep Convolutional Activation Feature for Generic Visual Recognition
 
 ## Abstract

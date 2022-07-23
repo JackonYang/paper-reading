@@ -21,6 +21,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Goldilocks-Principle:-Reading-Children's-Books-Hill-Bordes/35b91b365ceb016fb3e022577cec96fb9b445dc5?sort=total-citations)
+
 # The Goldilocks Principle - Reading Children's Books with Explicit Memory Representations
 
 ## Abstract

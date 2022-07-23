@@ -19,6 +19,8 @@ venue: TACAS
 year: 2008
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Z3:-An-Efficient-SMT-Solver-Moura-Bjørner/3960dda299e0f8615a7db675b8e6905b375ecf8a?sort=total-citations)
+
 # Z3 - An Efficient SMT Solver
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Single-Shot-Text-Detector-with-Regional-Attention-He-Huang/ffd92ef63f5dc26b025f9d546e248f585d1b0e7a?sort=total-citations)
+
 # Single Shot Text Detector with Regional Attention
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Inside-Outside-Net:-Detecting-Objects-in-Context-Bell-Zitnick/adc4e63b58cf4092420533fd877b8c29f8e2ec1d?sort=total-citations)
+
 # Inside-Outside Net - Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
 
 ## Abstract

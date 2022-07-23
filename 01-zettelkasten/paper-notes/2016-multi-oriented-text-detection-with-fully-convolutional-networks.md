@@ -23,6 +23,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multi-oriented-Text-Detection-with-Fully-Networks-Zhang-Zhang/f740d68440e1a2698d89ee36b21358f4d2c8c1b7?sort=total-citations)
+
 # Multi-oriented Text Detection with Fully Convolutional Networks
 
 ## Abstract

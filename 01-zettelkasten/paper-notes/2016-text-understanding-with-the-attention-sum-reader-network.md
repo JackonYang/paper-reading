@@ -21,6 +21,8 @@ venue: ACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Text-Understanding-with-the-Attention-Sum-Reader-Kadlec-Schmid/f2e50e2ee4021f199877c8920f1f984481c723aa?sort=total-citations)
+
 # Text Understanding with the Attention Sum Reader Network
 
 ## Abstract

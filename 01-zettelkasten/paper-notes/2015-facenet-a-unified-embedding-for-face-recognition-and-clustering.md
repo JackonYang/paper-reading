@@ -20,6 +20,8 @@ venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/FaceNet:-A-unified-embedding-for-face-recognition-Schroff-Kalenichenko/5aa26299435bdf7db874ef1640a6c3b5a4a2c394?sort=total-citations)
+
 # FaceNet - A unified embedding for face recognition and clustering
 
 ## Abstract

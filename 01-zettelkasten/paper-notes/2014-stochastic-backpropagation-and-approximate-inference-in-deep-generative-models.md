@@ -20,6 +20,8 @@ venue: ICML
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Stochastic-Backpropagation-and-Approximate-in-Deep-Rezende-Mohamed/484ad17c926292fbe0d5211540832a8c8a8e958b?sort=total-citations)
+
 # Stochastic Backpropagation and Approximate Inference in Deep Generative Models
 
 ## Abstract

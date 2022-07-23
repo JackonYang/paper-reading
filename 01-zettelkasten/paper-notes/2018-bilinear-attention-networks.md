@@ -20,6 +20,8 @@ venue: NeurIPS
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Bilinear-Attention-Networks-Kim-Jun/a5d10341717c0519cf63151b496a6d2ed67aa05f?sort=total-citations)
+
 # Bilinear Attention Networks
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: AAAI
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Reading-Scene-Text-in-Deep-Convolutional-Sequences-He-Huang/8cab92de27a754ee2420fb807ade97969fcd251f?sort=total-citations)
+
 # Reading Scene Text in Deep Convolutional Sequences
 
 ## Abstract

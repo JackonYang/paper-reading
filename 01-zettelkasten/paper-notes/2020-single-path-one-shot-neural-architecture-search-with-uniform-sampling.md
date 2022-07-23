@@ -24,6 +24,8 @@ venue: ECCV
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Single-Path-One-Shot-Neural-Architecture-Search-Guo-Zhang/79e523beb1e1411a241edde0464b07c2ebc231d1?sort=total-citations)
+
 # Single Path One-Shot Neural Architecture Search with Uniform Sampling
 
 ## Abstract

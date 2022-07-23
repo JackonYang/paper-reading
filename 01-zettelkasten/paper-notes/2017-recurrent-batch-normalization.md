@@ -21,6 +21,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recurrent-Batch-Normalization-Cooijmans-Ballas/952454718139dba3aafc6b3b67c4f514ac3964af?sort=total-citations)
+
 # Recurrent Batch Normalization
 
 ## Abstract

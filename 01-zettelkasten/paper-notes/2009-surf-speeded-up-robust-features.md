@@ -18,6 +18,8 @@ venue: ''
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SURF:-Speeded-Up-Robust-Features-Hunt/6c7cf406a47048730c1a08d46cb0166b16566524?sort=total-citations)
+
 # SURF - Speeded-Up Robust Features
 
 ## Abstract

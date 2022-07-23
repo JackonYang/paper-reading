@@ -21,6 +21,8 @@ venue: IEEE Transactions on Audio, Speech, and Language Processing
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Context-Dependent-Pre-Trained-Deep-Neural-Networks-Dahl-Yu/6658bbf68995731b2083195054ff45b4eca38b3a?sort=total-citations)
+
 # Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition
 
 ## Abstract

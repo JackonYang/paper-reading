@@ -21,6 +21,8 @@ venue: ''
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Numerical-recipes-in-C-Press-Teukolsky/ca2832d2c30287a9ee5b8584cc498d2b1cb14753?sort=total-citations)
+
 # Numerical recipes in C
 
 ## Abstract

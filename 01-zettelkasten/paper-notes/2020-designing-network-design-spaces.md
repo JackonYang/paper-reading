@@ -23,6 +23,8 @@ venue: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Designing-Network-Design-Spaces-Radosavovic-Kosaraju/2709167f1c3a03fa5b970a665ea48ed243aab582?sort=total-citations)
+
 # Designing Network Design Spaces
 
 ## Abstract

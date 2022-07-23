@@ -19,6 +19,8 @@ venue: EMNLP
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/LXMERT:-Learning-Cross-Modality-Encoder-from-Tan-Bansal/79c93274429d6355959f1e4374c2147bb81ea649?sort=total-citations)
+
 # LXMERT - Learning Cross-Modality Encoder Representations from Transformers
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: MLSys
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Beyond-Data-and-Model-Parallelism-for-Deep-Neural-Jia-Zaharia/f971658ab845d7573c4bbb760d5e7e5332025254?sort=total-citations)
+
 # Beyond Data and Model Parallelism for Deep Neural Networks
 
 ## Abstract

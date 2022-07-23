@@ -37,6 +37,8 @@ venue: Nature
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Hybrid-computing-using-a-neural-network-with-memory-Graves-Wayne/784ee73d5363c711118f784428d1ab89f019daa5?sort=total-citations)
+
 # Hybrid computing using a neural network with dynamic external memory
 
 ## Abstract

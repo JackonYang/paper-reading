@@ -23,6 +23,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Natural-Language-Object-Retrieval-Hu-Xu/d696a1923288e6c15422660de9553f6fdb6a4fae?sort=total-citations)
+
 # Natural Language Object Retrieval
 
 ## Abstract

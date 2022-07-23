@@ -20,6 +20,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Fully-Convolutional-Networks-for-Semantic-Shelhamer-Long/317aee7fc081f2b137a85c4f20129007fd8e717e?sort=total-citations)
+
 # Fully Convolutional Networks for Semantic Segmentation
 
 ## Abstract

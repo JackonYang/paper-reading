@@ -19,6 +19,8 @@ venue: EACL
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Using-the-Output-Embedding-to-Improve-Language-Press-Wolf/63e39cdf1ad884da6bc69096bb3413b5b1100559?sort=total-citations)
+
 # Using the Output Embedding to Improve Language Models
 
 ## Abstract

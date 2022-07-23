@@ -20,6 +20,8 @@ venue: SIGGRAPH '06
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Photo-tourism:-exploring-photo-collections-in-3D-Snavely-Seitz/b5ebf37ce170f13a905f7feba9fb7096b49fb8b3?sort=total-citations)
+
 # Photo tourism - exploring photo collections in 3D
 
 ## Abstract

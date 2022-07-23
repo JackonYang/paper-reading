@@ -18,6 +18,8 @@ venue: eccv 2004
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Visual-categorization-with-bags-of-keypoints-Csurka/b91180d8853d00e8f2df7ee3532e07d3d0cce2af?sort=total-citations)
+
 # Visual categorization with bags of keypoints
 
 ## Abstract

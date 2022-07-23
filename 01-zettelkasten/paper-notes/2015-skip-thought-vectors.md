@@ -24,6 +24,8 @@ venue: NIPS
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Skip-Thought-Vectors-Kiros-Zhu/6e795c6e9916174ae12349f5dc3f516570c17ce8?sort=total-citations)
+
 # Skip-Thought Vectors
 
 ## Abstract

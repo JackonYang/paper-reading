@@ -21,6 +21,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ShuffleNet:-An-Extremely-Efficient-Convolutional-Zhang-Zhou/9da734397acd7ff7c557960c62fb1b400b27bd89?sort=total-citations)
+
 # ShuffleNet - An Extremely Efficient Convolutional Neural Network for Mobile Devices
 
 ## Abstract

@@ -18,6 +18,8 @@ venue: Machine Learning
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Simple-statistical-gradient-following-algorithms-Williams/4c915c1eecb217c123a36dc6d3ce52d12c742614?sort=total-citations)
+
 # Simple statistical gradient-following algorithms for connectionist reinforcement learning
 
 ## Abstract

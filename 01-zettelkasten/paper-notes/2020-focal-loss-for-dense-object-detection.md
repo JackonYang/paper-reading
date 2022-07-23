@@ -22,6 +22,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Focal-Loss-for-Dense-Object-Detection-Lin-Goyal/72564a69bf339ff1d16a639c86a764db2321caab?sort=total-citations)
+
 # Focal Loss for Dense Object Detection
 
 ## Abstract

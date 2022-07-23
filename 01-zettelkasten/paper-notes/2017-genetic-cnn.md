@@ -19,6 +19,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Genetic-CNN-Xie-Yuille/4f46dba09e075b2e7dfae1ba2a71e8e21b46e88d?sort=total-citations)
+
 # Genetic CNN
 
 ## Abstract

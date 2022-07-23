@@ -29,6 +29,8 @@ venue: ECCV
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Oscar:-Object-Semantics-Aligned-Pre-training-for-Li-Yin/818e5cbc337e4e1b98e65a2d7c2d6d2a0318cd57?sort=total-citations)
+
 # Oscar - Object-Semantics Aligned Pre-training for Vision-Language Tasks
 
 ## Abstract

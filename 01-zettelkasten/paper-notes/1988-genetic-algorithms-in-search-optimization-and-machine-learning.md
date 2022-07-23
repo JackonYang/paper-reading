@@ -18,6 +18,8 @@ venue: ''
 year: 1988
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Genetic-Algorithms-in-Search-Optimization-and-Goldberg/2e62d1345b340d5fda3b092c460264b9543bc4b5?sort=total-citations)
+
 # Genetic Algorithms in Search Optimization and Machine Learning
 
 ## Abstract

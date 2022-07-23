@@ -21,6 +21,8 @@ venue: NIPS
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recurrent-Models-of-Visual-Attention-Mnih-Heess/8a756d4d25511d92a45d0f4545fa819de993851d?sort=total-citations)
+
 # Recurrent Models of Visual Attention
 
 ## Abstract

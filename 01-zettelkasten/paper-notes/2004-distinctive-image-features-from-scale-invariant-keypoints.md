@@ -19,6 +19,8 @@ venue: ''
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Distinctive-Image-Features-from-Scale-Invariant-Lowe/8c04f169203f9e55056a6f7f956695babe622a38?sort=total-citations)
+
 # Distinctive Image Features from Scale-Invariant Keypoints
 
 ## Abstract

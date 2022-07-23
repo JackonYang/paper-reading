@@ -26,6 +26,8 @@ venue: ECCV
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Progressive-Neural-Architecture-Search-Liu-Zoph/5f79398057bf0bbda9ff50067bc1f2950c2a2266?sort=total-citations)
+
 # Progressive Neural Architecture Search
 
 ## Abstract

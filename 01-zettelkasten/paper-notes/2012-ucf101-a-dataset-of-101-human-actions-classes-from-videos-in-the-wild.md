@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/UCF101:-A-Dataset-of-101-Human-Actions-Classes-From-Soomro-Zamir/da9e411fcf740569b6b356f330a1d0fc077c8d7c?sort=total-citations)
+
 # UCF101 - A Dataset of 101 Human Actions Classes From Videos in The Wild
 
 ## Abstract

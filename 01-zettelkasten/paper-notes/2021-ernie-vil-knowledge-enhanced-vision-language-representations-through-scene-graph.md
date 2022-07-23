@@ -24,6 +24,8 @@ venue: AAAI
 year: 2021
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ERNIE-ViL:-Knowledge-Enhanced-Vision-Language-Scene-Yu-Tang/bc996a4dbf9d4234eacdd0b930a94de1d158e256?sort=total-citations)
+
 # ERNIE-ViL - Knowledge Enhanced Vision-Language Representations Through Scene Graph
 
 ## Abstract

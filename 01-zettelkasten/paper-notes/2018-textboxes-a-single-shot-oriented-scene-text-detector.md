@@ -20,6 +20,8 @@ venue: IEEE Transactions on Image Processing
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/TextBoxes++:-A-Single-Shot-Oriented-Scene-Text-Liao-Shi/4a674c0a7d8b741f808155a0762cc785406f6e24?sort=total-citations)
+
 # TextBoxes++ - A Single-Shot Oriented Scene Text Detector
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: ECCV
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/TextSnake:-A-Flexible-Representation-for-Detecting-Long-Ruan/8d4bbfc2d83088d649756f6bac554bd59c17f6e9?sort=total-citations)
+
 # TextSnake - A Flexible Representation for Detecting Text of Arbitrary Shapes
 
 ## Abstract

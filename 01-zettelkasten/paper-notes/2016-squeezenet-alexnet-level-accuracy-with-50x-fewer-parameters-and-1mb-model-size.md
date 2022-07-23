@@ -23,6 +23,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SqueezeNet:-AlexNet-level-accuracy-with-50x-fewer-Iandola-Moskewicz/969fbdcd0717bec06228053788c2ff78bbb4daac?sort=total-citations)
+
 # SqueezeNet - AlexNet-level accuracy with 50x fewer parameters and <1MB model size
 
 ## Abstract

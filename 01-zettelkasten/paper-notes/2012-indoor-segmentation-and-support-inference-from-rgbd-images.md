@@ -21,6 +21,8 @@ venue: ECCV
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Indoor-Segmentation-and-Support-Inference-from-RGBD-Silberman-Hoiem/c1994ba5946456fc70948c549daf62363f13fa2d?sort=total-citations)
+
 # Indoor Segmentation and Support Inference from RGBD Images
 
 ## Abstract

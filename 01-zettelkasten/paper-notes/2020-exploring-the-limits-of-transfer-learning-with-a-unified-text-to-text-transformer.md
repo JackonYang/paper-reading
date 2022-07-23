@@ -26,6 +26,8 @@ venue: J. Mach. Learn. Res.
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Exploring-the-Limits-of-Transfer-Learning-with-a-Raffel-Shazeer/3cfb319689f06bf04c2e28399361f414ca32c4b3?sort=total-citations)
+
 # Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 
 ## Abstract

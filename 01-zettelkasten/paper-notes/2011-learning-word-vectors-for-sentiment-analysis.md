@@ -23,6 +23,8 @@ venue: ACL
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Word-Vectors-for-Sentiment-Analysis-Maas-Daly/649d03490ef72c5274e3bccd03d7a299d2f8da91?sort=total-citations)
+
 # Learning Word Vectors for Sentiment Analysis
 
 ## Abstract

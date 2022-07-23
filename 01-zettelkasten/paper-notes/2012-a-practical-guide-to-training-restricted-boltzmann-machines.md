@@ -18,6 +18,8 @@ venue: 'Neural Networks: Tricks of the Trade'
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Practical-Guide-to-Training-Restricted-Boltzmann-Hinton/e95d3934e51107da7610acd0b1bcb6551671f9f1?sort=total-citations)
+
 # A Practical Guide to Training Restricted Boltzmann Machines
 
 ## Abstract

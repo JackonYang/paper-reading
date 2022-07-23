@@ -19,6 +19,8 @@ venue: Journal of Cognitive Neuroscience
 year: 1991
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Eigenfaces-for-Recognition-Turk-Pentland/a6f1dfcc44277d4cfd8507284d994c9283dc3a2f?sort=total-citations)
+
 # Eigenfaces for Recognition
 
 ## Abstract

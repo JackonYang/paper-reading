@@ -19,6 +19,8 @@ venue: J. Mach. Learn. Res.
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Multimodal-learning-with-deep-Boltzmann-machines-Srivastava-Salakhutdinov/5726c7b40fcc454b77d989656c085520bf6c15fa?sort=total-citations)
+
 # Multimodal learning with deep Boltzmann machines
 
 ## Abstract

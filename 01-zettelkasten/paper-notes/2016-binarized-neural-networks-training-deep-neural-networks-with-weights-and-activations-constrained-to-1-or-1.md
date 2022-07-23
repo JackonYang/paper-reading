@@ -22,6 +22,8 @@ venue: ''
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Binarized-Neural-Networks:-Training-Deep-Neural-and-Courbariaux-Hubara/6eecc808d4c74e7d0d7ef6b8a4112c985ced104d?sort=total-citations)
+
 # Binarized Neural Networks - Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1
 
 ## Abstract

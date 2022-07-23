@@ -19,6 +19,8 @@ venue: IEEE Transactions on Neural Networks
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Reinforcement-Learning:-An-Introduction-Sutton-Barto/97efafdb4a3942ab3efba53ded7413199f79c054?sort=total-citations)
+
 # Reinforcement Learning - An Introduction
 
 ## Abstract

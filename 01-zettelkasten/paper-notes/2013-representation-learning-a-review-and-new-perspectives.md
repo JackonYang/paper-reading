@@ -20,6 +20,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Representation-Learning:-A-Review-and-New-Bengio-Courville/184ac0766262312ba76bbdece4e7ffad0aa8180b?sort=total-citations)
+
 # Representation Learning - A Review and New Perspectives
 
 ## Abstract

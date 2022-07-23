@@ -18,6 +18,8 @@ venue: Technometrics
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Elements-of-Statistical-Learning-Ziegel/e41ba5dc12c79a64dfa905c0328f95976252ffe0?sort=total-citations)
+
 # The Elements of Statistical Learning
 
 ## Abstract

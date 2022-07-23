@@ -21,6 +21,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SPICE:-Semantic-Propositional-Image-Caption-Anderson-Fernando/1c54acd7d9ed8017acdc5674c9b7faac738fd651?sort=total-citations)
+
 # SPICE - Semantic Propositional Image Caption Evaluation
 
 ## Abstract

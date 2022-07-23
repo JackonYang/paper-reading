@@ -23,6 +23,8 @@ venue: ACM Trans. Multim. Comput. Commun. Appl.
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Dual-path-Convolutional-Image-Text-Embeddings-with-Zheng-Zheng/58555c7d168d1f50422ed9435d31ecd28d66eaa8?sort=total-citations)
+
 # Dual-path Convolutional Image-Text Embeddings with Instance Loss
 
 ## Abstract

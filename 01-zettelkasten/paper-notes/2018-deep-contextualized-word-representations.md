@@ -24,6 +24,8 @@ venue: NAACL
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Contextualized-Word-Representations-Peters-Neumann/3febb2bed8865945e7fddc99efd791887bb7e14f?sort=total-citations)
+
 # Deep Contextualized Word Representations
 
 ## Abstract

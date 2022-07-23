@@ -21,6 +21,8 @@ venue: International Journal of Computer Vision
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Image-Classification-with-the-Fisher-Vector:-Theory-Sánchez-Perronnin/d4cede3acfd94fccc927519e04384a8debfec705?sort=total-citations)
+
 # Image Classification with the Fisher Vector - Theory and Practice
 
 ## Abstract

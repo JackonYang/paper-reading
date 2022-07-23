@@ -20,6 +20,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Compression:-Compressing-Deep-Neural-Network-Han-Mao/642d0f49b7826adcf986616f4af77e736229990f?sort=total-citations)
+
 # Deep Compression - Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding
 
 ## Abstract

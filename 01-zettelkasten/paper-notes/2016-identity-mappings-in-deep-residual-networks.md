@@ -21,6 +21,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Identity-Mappings-in-Deep-Residual-Networks-He-Zhang/77f0a39b8e02686fd85b01971f8feb7f60971f80?sort=total-citations)
+
 # Identity Mappings in Deep Residual Networks
 
 ## Abstract

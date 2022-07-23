@@ -25,6 +25,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/MobileNets:-Efficient-Convolutional-Neural-Networks-Howard-Zhu/3647d6d0f151dc05626449ee09cc7bce55be497e?sort=total-citations)
+
 # MobileNets - Efficient Convolutional Neural Networks for Mobile Vision Applications
 
 ## Abstract

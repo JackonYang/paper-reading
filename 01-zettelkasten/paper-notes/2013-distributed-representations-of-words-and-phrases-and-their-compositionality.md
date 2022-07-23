@@ -22,6 +22,8 @@ venue: NIPS
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Distributed-Representations-of-Words-and-Phrases-Mikolov-Sutskever/87f40e6f3022adbc1f1905e3e506abad05a9964f?sort=total-citations)
+
 # Distributed Representations of Words and Phrases and their Compositionality
 
 ## Abstract

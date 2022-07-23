@@ -22,6 +22,8 @@ venue: ACL
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Conceptual-Captions:-A-Cleaned,-Hypernymed,-Image-Sharma-Ding/b4df354db88a70183a64dbc9e56cf14e7669a6c0?sort=total-citations)
+
 # Conceptual Captions - A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Interactive-graph-cuts-for-optimal-boundary-&-of-in-Boykov-Jolly/0d3b177e8d027d44c191e739a3a70ccacc2eac82?sort=total-citations)
+
 # Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images
 
 ## Abstract

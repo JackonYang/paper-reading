@@ -18,6 +18,8 @@ venue: ACL
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Minimum-Error-Rate-Training-in-Statistical-Machine-Och/1f12451245667a85d0ee225a80880fc93c71cc8b?sort=total-citations)
+
 # Minimum Error Rate Training in Statistical Machine Translation
 
 ## Abstract

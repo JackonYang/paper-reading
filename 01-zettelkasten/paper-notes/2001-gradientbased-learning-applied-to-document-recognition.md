@@ -19,6 +19,8 @@ venue: ''
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/GradientBased-Learning-Applied-to-Document-Haykin-Kosko/f42b865e20e61a954239f421b42007236e671f19?sort=total-citations)
+
 # GradientBased Learning Applied to Document Recognition
 
 ## Abstract

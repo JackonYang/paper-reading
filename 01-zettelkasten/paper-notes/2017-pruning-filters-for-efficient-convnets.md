@@ -22,6 +22,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Pruning-Filters-for-Efficient-ConvNets-Li-Kadav/c2a1cb1612ba21e067a5c3ba478a8d73b796b77a?sort=total-citations)
+
 # Pruning Filters for Efficient ConvNets
 
 ## Abstract

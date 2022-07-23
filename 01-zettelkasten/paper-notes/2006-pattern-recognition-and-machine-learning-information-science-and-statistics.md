@@ -18,6 +18,8 @@ venue: ''
 year: 2006
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Pattern-Recognition-and-Machine-Learning-Science-Bishop/932a106c21a1db1e1876459c1521d27fd152caac?sort=total-citations)
+
 # Pattern Recognition and Machine Learning (Information Science and Statistics)
 
 ## Abstract

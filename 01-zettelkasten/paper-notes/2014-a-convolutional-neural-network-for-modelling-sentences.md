@@ -20,6 +20,8 @@ venue: ACL
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Convolutional-Neural-Network-for-Modelling-Kalchbrenner-Grefenstette/27725a2d2a8cee9bf9fffc6c2167017103aba0fa?sort=total-citations)
+
 # A Convolutional Neural Network for Modelling Sentences
 
 ## Abstract

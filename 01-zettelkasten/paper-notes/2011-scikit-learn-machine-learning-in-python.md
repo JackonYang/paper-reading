@@ -34,6 +34,8 @@ venue: J. Mach. Learn. Res.
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Scikit-learn:-Machine-Learning-in-Python-Pedregosa-Varoquaux/168f28ac3c8c7ea63bf7ed25f2288e8b67e2fe74?sort=total-citations)
+
 # Scikit-learn - Machine Learning in Python
 
 ## Abstract

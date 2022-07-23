@@ -25,6 +25,8 @@ venue: CVPR 2011
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Real-time-human-pose-recognition-in-parts-from-Shotton-Sharp/2915510a39448503ee873f9693cd3808ca74bd81?sort=total-citations)
+
 # Real-time human pose recognition in parts from single depth images
 
 ## Abstract

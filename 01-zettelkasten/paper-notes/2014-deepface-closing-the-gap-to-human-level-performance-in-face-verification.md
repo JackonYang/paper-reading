@@ -21,6 +21,8 @@ venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DeepFace:-Closing-the-Gap-to-Human-Level-in-Face-Taigman-Yang/9f2efadf66817f1b38f58b3f50c7c8f34c69d89a?sort=total-citations)
+
 # DeepFace - Closing the Gap to Human-Level Performance in Face Verification
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: KDD
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Rosetta:-Large-Scale-System-for-Text-Detection-and-Borisyuk-Gordo/fde3ee5f9f8e217a4d6716013315614811820f21?sort=total-citations)
+
 # Rosetta - Large Scale System for Text Detection and Recognition in Images
 
 ## Abstract

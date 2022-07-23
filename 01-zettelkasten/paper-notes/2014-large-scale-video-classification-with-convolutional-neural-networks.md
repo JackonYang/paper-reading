@@ -23,6 +23,8 @@ venue: 2014 IEEE Conference on Computer Vision and Pattern Recognition
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Large-Scale-Video-Classification-with-Convolutional-Karpathy-Toderici/6d4c9c923e9f145d1c01a2de2afc38ec23c44253?sort=total-citations)
+
 # Large-Scale Video Classification with Convolutional Neural Networks
 
 ## Abstract

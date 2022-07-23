@@ -22,6 +22,8 @@ venue: J. Mach. Learn. Res.
 year: 2010
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Stacked-Denoising-Autoencoders:-Learning-Useful-in-Vincent-Larochelle/e2b7f37cd97a7907b1b8a41138721ed06a0b76cd?sort=total-citations)
+
 # Stacked Denoising Autoencoders - Learning Useful Representations in a Deep Network with a Local Denoising Criterion
 
 ## Abstract

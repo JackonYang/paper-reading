@@ -20,6 +20,8 @@ venue: ACL
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Know-What-You-Don’t-Know:-Unanswerable-Questions-Rajpurkar-Jia/4d1c856275744c0284312a3a50efb6ca9dc4cd4c?sort=total-citations)
+
 # Know What You Don't Know - Unanswerable Questions for SQuAD
 
 ## Abstract

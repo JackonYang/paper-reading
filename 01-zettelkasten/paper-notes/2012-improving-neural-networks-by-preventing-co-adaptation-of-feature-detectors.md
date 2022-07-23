@@ -22,6 +22,8 @@ venue: ArXiv
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Improving-neural-networks-by-preventing-of-feature-Hinton-Srivastava/1366de5bb112746a555e9c0cd00de3ad8628aea8?sort=total-citations)
+
 # Improving neural networks by preventing co-adaptation of feature detectors
 
 ## Abstract

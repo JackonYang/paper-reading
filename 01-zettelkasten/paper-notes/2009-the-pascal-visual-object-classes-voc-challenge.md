@@ -22,6 +22,8 @@ venue: International Journal of Computer Vision
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Pascal-Visual-Object-Classes-(VOC)-Challenge-Everingham-Gool/82635fb63640ae95f90ee9bdc07832eb461ca881?sort=total-citations)
+
 # The Pascal Visual Object Classes (VOC) Challenge
 
 ## Abstract

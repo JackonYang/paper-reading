@@ -20,6 +20,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Pyramidal-Residual-Networks-Han-Kim/5bdf07c9897ca70788fff61dec56178a2bd0c29c?sort=total-citations)
+
 # Deep Pyramidal Residual Networks
 
 ## Abstract

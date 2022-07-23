@@ -28,6 +28,8 @@ venue: ''
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Neural-Networks-for-Acoustic-Modeling-in-Hinton-Deng/e33cbb25a8c7390aec6a398e36381f4f7770c283?sort=total-citations)
+
 # Deep Neural Networks for Acoustic Modeling in Speech Recognition
 
 ## Abstract

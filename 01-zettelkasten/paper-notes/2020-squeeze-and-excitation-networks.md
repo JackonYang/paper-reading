@@ -22,6 +22,8 @@ venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Squeeze-and-Excitation-Networks-Hu-Shen/df67d46e78aae0d2fccfb6212d101a342259c01b?sort=total-citations)
+
 # Squeeze-and-Excitation Networks
 
 ## Abstract

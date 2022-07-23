@@ -21,6 +21,8 @@ venue: AAAI
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Inception-v4,-Inception-ResNet-and-the-Impact-of-on-Szegedy-Ioffe/b5c26ab8767d046cb6e32d959fdf726aee89bb62?sort=total-citations)
+
 # Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
 
 ## Abstract

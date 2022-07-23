@@ -24,6 +24,8 @@ venue: NIPS
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-simple-neural-network-module-for-relational-Santoro-Raposo/007112213ece771be72cbecfd59f048209facabd?sort=total-citations)
+
 # A simple neural network module for relational reasoning
 
 ## Abstract

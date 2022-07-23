@@ -19,6 +19,8 @@ venue: International Journal of Computer Vision
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Scale-&-Affine-Invariant-Interest-Point-Detectors-Mikolajczyk-Schmid/8b440596b28dc6683caa2b5f6fbca70963e5909e?sort=total-citations)
+
 # Scale & Affine Invariant Interest Point Detectors
 
 ## Abstract

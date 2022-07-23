@@ -22,6 +22,8 @@ venue: TACL
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Cross-Sentence-N-ary-Relation-Extraction-with-Graph-Peng-Poon/54b8aadb7c2576665ce26caf59464b6449ac9ccf?sort=total-citations)
+
 # Cross-Sentence N-ary Relation Extraction with Graph LSTMs
 
 ## Abstract

@@ -18,6 +18,8 @@ venue: IEEE Transactions on Neural Networks
 year: 2005
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-with-Kernels:-Support-Vector-Machines,-and-Atiya/8ff61b8e097ccdb784a35b466ba9e130c2502513?sort=total-citations)
+
 # Learning with Kernels - Support Vector Machines, Regularization, Optimization, and Beyond
 
 ## Abstract

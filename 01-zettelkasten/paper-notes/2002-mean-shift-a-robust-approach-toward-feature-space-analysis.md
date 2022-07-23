@@ -19,6 +19,8 @@ venue: IEEE Trans. Pattern Anal. Mach. Intell.
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Mean-Shift:-A-Robust-Approach-Toward-Feature-Space-Comaniciu-Meer/74f4ecc3e4e5b91fbb54330b285ed5214afe2001?sort=total-citations)
+
 # Mean Shift - A Robust Approach Toward Feature Space Analysis
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: Proceedings of the 17th International Conference on Pattern Recognition, 
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recognizing-human-actions:-a-local-SVM-approach-Schüldt-Laptev/b786e478cf0be6fcfaeb7812e25da85523236855?sort=total-citations)
+
 # Recognizing human actions - a local SVM approach
 
 ## Abstract

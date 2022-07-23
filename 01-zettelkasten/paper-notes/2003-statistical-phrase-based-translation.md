@@ -20,6 +20,8 @@ venue: NAACL
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Statistical-Phrase-Based-Translation-Koehn-Och/a4b828609b60b06e61bea7a4029cc9e1cad5df87?sort=total-citations)
+
 # Statistical Phrase-Based Translation
 
 ## Abstract

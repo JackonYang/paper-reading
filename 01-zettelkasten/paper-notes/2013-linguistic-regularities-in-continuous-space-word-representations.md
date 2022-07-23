@@ -20,6 +20,8 @@ venue: NAACL
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Linguistic-Regularities-in-Continuous-Space-Word-Mikolov-Yih/c4fd9c86b2b41df51a6fe212406dda81b1997fd4?sort=total-citations)
+
 # Linguistic Regularities in Continuous Space Word Representations
 
 ## Abstract

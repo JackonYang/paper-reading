@@ -57,6 +57,8 @@ venue: ICML
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Speech-2-:-End-to-End-Speech-Recognition-in-Amodei-Ananthanarayanan/8ff840a40d3f1557c55c19d4d636da77103168ce?sort=total-citations)
+
 # Deep Speech 2 - End-to-End Speech Recognition in English and Mandarin
 
 ## Abstract

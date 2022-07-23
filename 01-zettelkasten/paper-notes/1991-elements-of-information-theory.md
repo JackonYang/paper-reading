@@ -19,6 +19,8 @@ venue: ''
 year: 1991
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Elements-of-Information-Theory-Cover-Thomas/7dbdb4209626fd92d2436a058663206216036e68?sort=total-citations)
+
 # Elements of Information Theory
 
 ## Abstract

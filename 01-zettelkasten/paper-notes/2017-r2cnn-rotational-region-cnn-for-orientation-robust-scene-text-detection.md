@@ -25,6 +25,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/R2CNN:-Rotational-Region-CNN-for-Orientation-Robust-Jiang-Zhu/16da4d6503e17f8597602437358461c252244bf7?sort=total-citations)
+
 # R2CNN - Rotational Region CNN for Orientation Robust Scene Text Detection
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Instance-Aware-Image-and-Sentence-Matching-with-Huang-Wang/e1b6735f6ecb09e1d83b0aa9d2cde42993ee2eb0?sort=total-citations)
+
 # Instance-Aware Image and Sentence Matching with Selective Multimodal LSTM
 
 ## Abstract

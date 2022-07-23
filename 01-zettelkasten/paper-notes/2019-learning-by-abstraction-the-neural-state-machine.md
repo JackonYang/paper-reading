@@ -19,6 +19,8 @@ venue: NeurIPS
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-by-Abstraction:-The-Neural-State-Machine-Hudson-Manning/136c05cb8dd359fb8e0dc7947172a9ecb74ccbec?sort=total-citations)
+
 # Learning by Abstraction - The Neural State Machine
 
 ## Abstract

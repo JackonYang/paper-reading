@@ -19,6 +19,8 @@ venue: ''
 year: 1978
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Computers-and-Intractability:-A-Guide-to-the-Theory-Garey-Johnson/bdede1e17c947540b50e6e2db9e8467ddc6e7336?sort=total-citations)
+
 # Computers and Intractability - A Guide to the Theory of NP-Completeness
 
 ## Abstract

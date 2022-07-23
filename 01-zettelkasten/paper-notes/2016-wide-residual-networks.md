@@ -19,6 +19,8 @@ venue: BMVC
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Wide-Residual-Networks-Zagoruyko-Komodakis/1c4e9156ca07705531e45960b7a919dc473abb51?sort=total-citations)
+
 # Wide Residual Networks
 
 ## Abstract

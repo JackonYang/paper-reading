@@ -19,6 +19,8 @@ venue: NIPS
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Weight-Normalization:-A-Simple-Reparameterization-Salimans-Kingma/3d2c6941a9b4608ba52b328369a3352db2092ae0?sort=total-citations)
+
 # Weight Normalization - A Simple Reparameterization to Accelerate Training of Deep Neural Networks
 
 ## Abstract

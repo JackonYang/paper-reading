@@ -28,6 +28,8 @@ year: 2017
 
 [pdf(local)](../../paper-repo/pdfs/2017-mask-rcnn.pdf)
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Mask-R-CNN-He-Gkioxari/ea99a5535388196d0d44be5b4d7dd02029a43bb2?sort=total-citations)
+
 # Mask R-CNN
 
 ## Abstract

@@ -23,6 +23,8 @@ venue: FPGA
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Optimizing-FPGA-based-Accelerator-Design-for-Deep-Zhang-Li/7c91eb0f9bbae8e2d3d007db73b8422b61ed1d68?sort=total-citations)
+
 # Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks
 
 ## Abstract

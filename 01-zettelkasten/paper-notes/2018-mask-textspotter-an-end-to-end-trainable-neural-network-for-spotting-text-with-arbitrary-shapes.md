@@ -22,6 +22,8 @@ venue: ECCV
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Mask-TextSpotter:-An-End-to-End-Trainable-Neural-Lyu-Liao/375479213a9982ecf4363669bc36449ca11421a8?sort=total-citations)
+
 # Mask TextSpotter - An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes
 
 ## Abstract

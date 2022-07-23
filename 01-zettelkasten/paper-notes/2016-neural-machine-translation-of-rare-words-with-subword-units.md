@@ -20,6 +20,8 @@ venue: ACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Machine-Translation-of-Rare-Words-with-Units-Sennrich-Haddow/1af68821518f03568f913ab03fc02080247a27ff?sort=total-citations)
+
 # Neural Machine Translation of Rare Words with Subword Units
 
 ## Abstract

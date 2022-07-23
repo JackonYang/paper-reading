@@ -20,6 +20,8 @@ venue: LION
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Sequential-Model-Based-Optimization-for-General-Hutter-Hoos/728744423ff0fb7e327664ed4e6352a95bb6c893?sort=total-citations)
+
 # Sequential Model-Based Optimization for General Algorithm Configuration
 
 ## Abstract

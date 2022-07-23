@@ -21,6 +21,8 @@ venue: TACL
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/From-image-descriptions-to-visual-denotations:-New-Young-Lai/44040913380206991b1991daf1192942e038fe31?sort=total-citations)
+
 # From image descriptions to visual denotations - New similarity metrics for semantic inference over event descriptions
 
 ## Abstract

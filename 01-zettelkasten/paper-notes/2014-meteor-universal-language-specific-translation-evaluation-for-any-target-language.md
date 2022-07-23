@@ -19,6 +19,8 @@ venue: WMT@ACL
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Meteor-Universal:-Language-Specific-Translation-for-Denkowski-Lavie/26adb749fc5d80502a6d889966e50b31391560d3?sort=total-citations)
+
 # Meteor Universal - Language Specific Translation Evaluation for Any Target Language
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/HyperNetworks-Ha-Dai/563783de03452683a9206e85fe6d661714436686?sort=total-citations)
+
 # HyperNetworks
 
 ## Abstract

@@ -18,6 +18,8 @@ venue: ''
 year: 1992
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Ten-Lectures-on-Wavelets-Daubechies/7e63bf9af3f70abd5771c06d459a0d3fbfbb2909?sort=total-citations)
+
 # Ten Lectures on Wavelets
 
 ## Abstract

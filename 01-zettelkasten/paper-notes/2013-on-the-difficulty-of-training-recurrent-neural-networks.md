@@ -20,6 +20,8 @@ venue: ICML
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/On-the-difficulty-of-training-recurrent-neural-Pascanu-Mikolov/84069287da0a6b488b8c933f3cb5be759cb6237e?sort=total-citations)
+
 # On the difficulty of training recurrent neural networks
 
 ## Abstract

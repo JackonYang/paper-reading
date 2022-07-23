@@ -21,6 +21,8 @@ venue: ACL
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Improving-Word-Representations-via-Global-Context-Huang-Socher/2b669398c4cf2ebe04375c8b1beae20f4ac802fa?sort=total-citations)
+
 # Improving Word Representations via Global Context and Multiple Word Prototypes
 
 ## Abstract

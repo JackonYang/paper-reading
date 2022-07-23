@@ -23,6 +23,8 @@ venue: ArXiv
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DoReFa-Net:-Training-Low-Bitwidth-Convolutional-Low-Zhou-Ni/8b053389eb8c18c61b84d7e59a95cb7e13f205b7?sort=total-citations)
+
 # DoReFa-Net - Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients
 
 ## Abstract

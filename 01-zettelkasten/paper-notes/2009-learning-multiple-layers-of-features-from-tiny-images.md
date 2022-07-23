@@ -18,6 +18,8 @@ venue: ''
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Multiple-Layers-of-Features-from-Tiny-Krizhevsky/5d90f06bb70a0a3dced62413346235c02b1aa086?sort=total-citations)
+
 # Learning Multiple Layers of Features from Tiny Images
 
 ## Abstract

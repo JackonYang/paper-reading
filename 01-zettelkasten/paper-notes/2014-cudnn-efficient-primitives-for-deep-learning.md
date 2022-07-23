@@ -24,6 +24,8 @@ venue: ArXiv
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/cuDNN:-Efficient-Primitives-for-Deep-Learning-Chetlur-Woolley/31c36d445367ba204244bb74893c5654e31c3869?sort=total-citations)
+
 # cuDNN - Efficient Primitives for Deep Learning
 
 ## Abstract

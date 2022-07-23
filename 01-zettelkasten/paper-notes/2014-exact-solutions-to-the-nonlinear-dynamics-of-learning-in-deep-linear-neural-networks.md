@@ -20,6 +20,8 @@ venue: ICLR
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Exact-solutions-to-the-nonlinear-dynamics-of-in-Saxe-McClelland/99c970348b8f70ce23d6641e201904ea49266b6e?sort=total-citations)
+
 # Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
 
 ## Abstract

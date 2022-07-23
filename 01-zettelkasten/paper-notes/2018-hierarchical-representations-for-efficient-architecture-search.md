@@ -22,6 +22,8 @@ venue: ICLR
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Hierarchical-Representations-for-Efficient-Search-Liu-Simonyan/856451974cce2d353d5d8a5a72104984a252375c?sort=total-citations)
+
 # Hierarchical Representations for Efficient Architecture Search
 
 ## Abstract

@@ -18,6 +18,8 @@ venue: INTERSPEECH
 year: 2002
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SRILM-an-extensible-language-modeling-toolkit-Stolcke/399da68d3b97218b6c80262df7963baa89dcc71b?sort=total-citations)
+
 # SRILM - an extensible language modeling toolkit
 
 ## Abstract

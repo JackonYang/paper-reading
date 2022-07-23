@@ -21,6 +21,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Baby-Talk-Lu-Yang/3bf09b2e2639add154a9fe6ff98cc373d3e90e4e?sort=total-citations)
+
 # Neural Baby Talk
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: Adv. Comput.
 year: 1993
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Neural-Networks-for-Pattern-Recognition-Kothari-Oh/dbc0a468ab103ae29717703d4aa9f682f6a2b664?sort=total-citations)
+
 # Neural Networks for Pattern Recognition
 
 ## Paper References

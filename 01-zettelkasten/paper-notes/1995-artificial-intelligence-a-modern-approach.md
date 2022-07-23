@@ -19,6 +19,8 @@ venue: ''
 year: 1995
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Artificial-Intelligence:-A-Modern-Approach-Russell-Norvig/3524cdf7cf8344e7eb74886f71fcbb5c6732c337?sort=total-citations)
+
 # Artificial Intelligence - A Modern Approach
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: ICLR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/DARTS:-Differentiable-Architecture-Search-Liu-Simonyan/c1f457e31b611da727f9aef76c283a18157dfa83?sort=total-citations)
+
 # DARTS - Differentiable Architecture Search
 
 ## Abstract

@@ -20,6 +20,8 @@ venue: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Fully-convolutional-networks-for-semantic-Long-Shelhamer/9201bf6f8222c2335913002e13fbac640fc0f4ec?sort=total-citations)
+
 # Fully convolutional networks for semantic segmentation
 
 ## Abstract

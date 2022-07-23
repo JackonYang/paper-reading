@@ -18,6 +18,8 @@ venue: Statistics for Engineering and Information Science
 year: 2000
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/The-Nature-of-Statistical-Learning-Theory-Vapnik/8213dbed4db44e113af3ed17d6dad57471a0c048?sort=total-citations)
+
 # The Nature of Statistical Learning Theory
 
 ## Abstract

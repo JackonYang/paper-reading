@@ -26,6 +26,8 @@ venue: ArXiv
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Accurate,-Large-Minibatch-SGD:-Training-ImageNet-in-Goyal-Dollár/0d57ba12a6d958e178d83be4c84513f7e42b24e5?sort=total-citations)
+
 # Accurate, Large Minibatch SGD - Training ImageNet in 1 Hour
 
 ## Abstract

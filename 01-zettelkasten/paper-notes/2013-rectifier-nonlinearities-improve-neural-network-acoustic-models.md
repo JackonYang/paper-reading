@@ -18,6 +18,8 @@ venue: ''
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Rectifier-Nonlinearities-Improve-Neural-Network-Maas/367f2c63a6f6a10b3b64b8729d601e69337ee3cc?sort=total-citations)
+
 # Rectifier Nonlinearities Improve Neural Network Acoustic Models
 
 ## Abstract

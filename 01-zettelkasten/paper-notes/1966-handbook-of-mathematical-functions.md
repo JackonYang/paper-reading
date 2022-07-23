@@ -19,3 +19,5 @@ urls:
 venue: ''
 year: 1966
 ---
+
+[semanticscholar url](https://www.semanticscholar.org/paper/Handbook-of-Mathematical-Functions.-Florentin-Abramowitz/b4de2c0c85c43ff9075f6eb2d247bbdaddcbdb58?sort=total-citations)

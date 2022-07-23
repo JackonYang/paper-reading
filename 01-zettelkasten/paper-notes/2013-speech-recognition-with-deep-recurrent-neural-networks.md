@@ -20,6 +20,8 @@ venue: 2013 IEEE International Conference on Acoustics, Speech and Signal Proces
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Speech-recognition-with-deep-recurrent-neural-Graves-Mohamed/4177ec52d1b80ed57f2e72b0f9a42365f1a8598d?sort=total-citations)
+
 # Speech recognition with deep recurrent neural networks
 
 ## Abstract

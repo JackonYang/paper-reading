@@ -21,6 +21,8 @@ venue: ICML
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Recurrent-Highway-Networks-Zilly-Srivastava/7dba53e72c182e25e98e8f73a99d75ff69dda0c2?sort=total-citations)
+
 # Recurrent Highway Networks
 
 ## Abstract

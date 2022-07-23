@@ -19,6 +19,8 @@ venue: CoNLL
 year: 2003
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Introduction-to-the-CoNLL-2003-Shared-Task:-Named-Sang-Meulder/10f97f1fb4f5c2c8e6c44d4a33da46d331dd4aeb?sort=total-citations)
+
 # Introduction to the CoNLL-2003 Shared Task - Language-Independent Named Entity Recognition
 
 ## Abstract

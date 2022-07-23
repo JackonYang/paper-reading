@@ -24,6 +24,8 @@ venue: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/MAttNet:-Modular-Attention-Network-for-Referring-Yu-Lin/fdce9cbe5c726201575b3c8a8c1af0752f1af53f?sort=total-citations)
+
 # MAttNet - Modular Attention Network for Referring Expression Comprehension
 
 ## Abstract

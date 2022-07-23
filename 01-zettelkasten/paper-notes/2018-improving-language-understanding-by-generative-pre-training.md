@@ -19,6 +19,8 @@ venue: ''
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Improving-Language-Understanding-by-Generative-Radford-Narasimhan/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035?sort=total-citations)
+
 # Improving Language Understanding by Generative Pre-Training
 
 ## Abstract

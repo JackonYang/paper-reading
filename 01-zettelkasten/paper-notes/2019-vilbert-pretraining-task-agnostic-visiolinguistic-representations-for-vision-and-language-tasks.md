@@ -21,6 +21,8 @@ venue: NeurIPS
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/ViLBERT:-Pretraining-Task-Agnostic-Visiolinguistic-Lu-Batra/65a9c7b0800c86a196bc14e7621ff895cc6ab287?sort=total-citations)
+
 # ViLBERT - Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks
 
 ## Abstract

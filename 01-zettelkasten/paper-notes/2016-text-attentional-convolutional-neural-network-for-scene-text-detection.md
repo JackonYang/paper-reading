@@ -21,6 +21,8 @@ venue: IEEE Transactions on Image Processing
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Text-Attentional-Convolutional-Neural-Network-for-He-Huang/d0686e9e1d3096b80e9ce192c497a71d672fbed5?sort=total-citations)
+
 # Text-Attentional Convolutional Neural Network for Scene Text Detection
 
 ## Abstract

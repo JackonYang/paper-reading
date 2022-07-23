@@ -19,6 +19,8 @@ venue: Encyclopedia of Machine Learning and Data Mining
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Unsupervised-Learning-Hinton-Sejnowski/d62bcde418144411068d5b09952090962fbc05f6?sort=total-citations)
+
 # Unsupervised Learning
 
 ## Abstract

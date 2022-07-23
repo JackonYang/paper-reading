@@ -21,6 +21,8 @@ venue: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-Piecewise-Training-of-Deep-Structured-for-Lin-Shen/4cef5476f9da50c1a8fefdcb7114863966f61d67?sort=total-citations)
+
 # Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/MnasNet:-Platform-Aware-Neural-Architecture-Search-Tan-Chen/693c97ecedb0a84539b7162c95e89fa3cd84ca73?sort=total-citations)
+
 # MnasNet - Platform-Aware Neural Architecture Search for Mobile
 
 ## Abstract

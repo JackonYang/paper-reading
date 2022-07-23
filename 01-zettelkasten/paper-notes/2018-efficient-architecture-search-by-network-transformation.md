@@ -22,6 +22,8 @@ venue: AAAI
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-Architecture-Search-by-Network-Cai-Chen/84e65a5bdb735d62eef4f72c2f01af354b2285ba?sort=total-citations)
+
 # Efficient Architecture Search by Network Transformation
 
 ## Abstract

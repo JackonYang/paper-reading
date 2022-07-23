@@ -21,6 +21,8 @@ venue: ''
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Least-angle-regression-Efron-Hastie/1c7c5595dc7a1f5d360acf5c360ca1ca49536ba5?sort=total-citations)
+
 # Least angle regression
 
 ## Abstract

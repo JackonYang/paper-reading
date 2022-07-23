@@ -24,6 +24,8 @@ venue: ECCV
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/NetAdapt:-Platform-Aware-Neural-Network-Adaptation-Yang-Howard/d16b21f3e99171c86365679435f9f03766750639?sort=total-citations)
+
 # NetAdapt - Platform-Aware Neural Network Adaptation for Mobile Applications
 
 ## Abstract

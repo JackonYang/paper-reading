@@ -19,6 +19,8 @@ venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV
 year: 2001
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Robust-Real-Time-Face-Detection-Viola-Jones/b09ec0b350f8352bce46a2f5bf7ae97c83a7b9ca?sort=total-citations)
+
 # Robust Real-Time Face Detection
 
 ## Abstract

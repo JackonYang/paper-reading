@@ -22,6 +22,8 @@ venue: ICML
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Contractive-Auto-Encoders:-Explicit-Invariance-Rifai-Vincent/195d0a8233a7a46329c742eaff56c276f847fadc?sort=total-citations)
+
 # Contractive Auto-Encoders - Explicit Invariance During Feature Extraction
 
 ## Abstract

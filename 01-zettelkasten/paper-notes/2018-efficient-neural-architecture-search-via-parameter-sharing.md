@@ -22,6 +22,8 @@ venue: ICML
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Efficient-Neural-Architecture-Search-via-Parameter-Pham-Guan/fe9b8aac9fa3bfd9724db5a881a578e471e612d7?sort=total-citations)
+
 # Efficient Neural Architecture Search via Parameter Sharing
 
 ## Abstract

@@ -22,6 +22,8 @@ venue: BMVC
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/STAR-Net:-A-SpaTial-Attention-Residue-Network-for-Liu-Chen/d1e356ac88768b3cb5b59926641b48cbaa15670c?sort=total-citations)
+
 # STAR-Net - A SpaTial Attention Residue Network for Scene Text Recognition
 
 ## Abstract

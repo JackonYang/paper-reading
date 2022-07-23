@@ -21,6 +21,8 @@ venue: NIPS
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Runtime-Neural-Pruning-Lin-Rao/88cd4209db62a34d9cba0b9cbe9d45d1e57d21e5?sort=total-citations)
+
 # Runtime Neural Pruning
 
 ## Abstract

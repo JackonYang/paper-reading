@@ -18,6 +18,8 @@ venue: Machine Learning
 year: 2004
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Induction-of-Decision-Trees-Quinlan/bcee7c85d237b79491a773ef51e746bbbcf48e35?sort=total-citations)
+
 # Induction of Decision Trees
 
 ## Abstract

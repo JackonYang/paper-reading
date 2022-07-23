@@ -20,6 +20,8 @@ venue: ICML
 year: 2011
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Generating-Text-with-Recurrent-Neural-Networks-Sutskever-Martens/e0e5dd8b206806372b3e20b9a2fbdbd0cf9ce1de?sort=total-citations)
+
 # Generating Text with Recurrent Neural Networks
 
 ## Abstract

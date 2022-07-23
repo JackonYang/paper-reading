@@ -19,6 +19,8 @@ venue: Science
 year: 2000
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Nonlinear-dimensionality-reduction-by-locally-Roweis-Saul/afcd6da7637ddeef6715109aca248da7a24b1c65?sort=total-citations)
+
 # Nonlinear dimensionality reduction by locally linear embedding.
 
 ## Abstract

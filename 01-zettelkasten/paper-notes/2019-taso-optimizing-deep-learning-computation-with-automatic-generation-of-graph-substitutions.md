@@ -23,6 +23,8 @@ venue: SOSP
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/TASO%3A-optimizing-deep-learning-computation-with-of-Jia-Padon/80b362efee95c1759c6dab9219eb77ca3ee44475)
+
 # TASO - optimizing deep learning computation with automatic generation of graph substitutions
 
 ## Abstract

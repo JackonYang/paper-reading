@@ -19,6 +19,8 @@ venue: ECCV
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Ask,-Attend-and-Answer:-Exploring-Question-Guided-Xu-Saenko/1cf6bc0866226c1f8e282463adc8b75d92fba9bb?sort=total-citations)
+
 # Ask, Attend and Answer - Exploring Question-Guided Spatial Attention for Visual Question Answering
 
 ## Abstract

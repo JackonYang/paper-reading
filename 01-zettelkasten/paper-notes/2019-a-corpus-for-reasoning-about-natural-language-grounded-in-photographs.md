@@ -22,6 +22,8 @@ venue: ACL
 year: 2019
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/A-Corpus-for-Reasoning-about-Natural-Language-in-Suhr-Zhou/cf336d272a30d6ad6141db67faa64deb8791cd61?sort=total-citations)
+
 # A Corpus for Reasoning about Natural Language Grounded in Photographs
 
 ## Abstract

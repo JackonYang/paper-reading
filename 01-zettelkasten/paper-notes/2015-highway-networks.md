@@ -20,6 +20,8 @@ venue: ArXiv
 year: 2015
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Highway-Networks-Srivastava-Greff/e0945081b5b87187a53d4329cf77cd8bff635795?sort=total-citations)
+
 # Highway Networks
 
 ## Abstract

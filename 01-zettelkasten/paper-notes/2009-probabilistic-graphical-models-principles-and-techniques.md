@@ -19,6 +19,8 @@ venue: ''
 year: 2009
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Probabilistic-Graphical-Models-Principles-and-Koller-Friedman/d0a9b181fc252108de45720d4645ac245e1ba463?sort=total-citations)
+
 # Probabilistic Graphical Models - Principles and Techniques
 
 ## Abstract

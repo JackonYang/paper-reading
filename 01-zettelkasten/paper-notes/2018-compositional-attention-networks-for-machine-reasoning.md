@@ -19,6 +19,8 @@ venue: ICLR
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Compositional-Attention-Networks-for-Machine-Hudson-Manning/289fb3709475f5c87df8d97f129af54029d27fee?sort=total-citations)
+
 # Compositional Attention Networks for Machine Reasoning
 
 ## Abstract

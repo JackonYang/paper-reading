@@ -20,6 +20,8 @@ venue: ICLR
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Improving-Neural-Language-Models-with-a-Continuous-Grave-Joulin/2d7782c225e0fc123d6e227f2cb253e58279ac73?sort=total-citations)
+
 # Improving Neural Language Models with a Continuous Cache
 
 ## Abstract

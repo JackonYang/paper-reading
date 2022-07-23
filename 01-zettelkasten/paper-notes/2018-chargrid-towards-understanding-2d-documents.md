@@ -24,6 +24,8 @@ venue: EMNLP
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Chargrid:-Towards-Understanding-2D-Documents-Katti-Reisswig/15aae08159856cdbf0ce539357d473a04dcbb7f3?sort=total-citations)
+
 # Chargrid - Towards Understanding 2D Documents
 
 ## Abstract

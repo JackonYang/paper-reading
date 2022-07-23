@@ -20,6 +20,8 @@ venue: NIPS
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Deep-Neural-Networks-for-Object-Detection-Szegedy-Toshev/713f73ce5c3013d9fb796c21b981dc6629af0bd5?sort=total-citations)
+
 # Deep Neural Networks for Object Detection
 
 ## Abstract

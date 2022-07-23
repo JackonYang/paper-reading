@@ -20,6 +20,8 @@ venue: ICLR
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Once-for-All:-Train-One-Network-and-Specialize-it-Cai-Gan/7823292e5c4b05c47af91ab6ddf671a0da709e82?sort=total-citations)
+
 # Once for All - Train One Network and Specialize it for Efficient Deployment
 
 ## Abstract

@@ -25,6 +25,8 @@ venue: ECCV
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Microsoft-COCO:-Common-Objects-in-Context-Lin-Maire/71b7178df5d2b112d07e45038cb5637208659ff7?sort=total-citations)
+
 # Microsoft COCO - Common Objects in Context
 
 ## Abstract

@@ -21,6 +21,8 @@ venue: EMNLP
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Semantic-Compositionality-through-Recursive-Spaces-Socher-Huval/27e38351e48fe4b7da2775bf94341738bc4da07e?sort=total-citations)
+
 # Semantic Compositionality through Recursive Matrix-Vector Spaces
 
 ## Abstract

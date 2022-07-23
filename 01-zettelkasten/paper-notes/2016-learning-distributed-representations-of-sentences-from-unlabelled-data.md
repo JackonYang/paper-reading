@@ -20,6 +20,8 @@ venue: NAACL
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Learning-Distributed-Representations-of-Sentences-Hill-Cho/26e743d5bd465f49b9538deaf116c15e61b7951f?sort=total-citations)
+
 # Learning Distributed Representations of Sentences from Unlabelled Data
 
 ## Abstract

@@ -19,6 +19,8 @@ venue: ''
 year: 2008
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Visualizing-Data-using-t-SNE-Maaten-Hinton/1c46943103bd7b7a2c7be86859995a4144d1938b?sort=total-citations)
+
 # Visualizing Data using t-SNE
 
 ## Abstract

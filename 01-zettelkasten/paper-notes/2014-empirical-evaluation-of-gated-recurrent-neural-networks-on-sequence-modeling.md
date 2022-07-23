@@ -21,6 +21,8 @@ venue: ArXiv
 year: 2014
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Empirical-Evaluation-of-Gated-Recurrent-Neural-on-Chung-Gülçehre/adfcf065e15fd3bc9badf6145034c84dfb08f204?sort=total-citations)
+
 # Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
 
 ## Abstract

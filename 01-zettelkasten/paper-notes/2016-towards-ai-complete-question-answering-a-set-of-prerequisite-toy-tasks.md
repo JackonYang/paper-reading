@@ -21,6 +21,8 @@ venue: ICLR
 year: 2016
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Towards-AI-Complete-Question-Answering:-A-Set-of-Weston-Bordes/abb33d75dc297993fcc3fb75e0f4498f413eb4f6?sort=total-citations)
+
 # Towards AI-Complete Question Answering - A Set of Prerequisite Toy Tasks
 
 ## Abstract

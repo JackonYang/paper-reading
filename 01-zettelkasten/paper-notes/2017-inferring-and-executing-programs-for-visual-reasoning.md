@@ -24,6 +24,8 @@ venue: 2017 IEEE International Conference on Computer Vision (ICCV)
 year: 2017
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Inferring-and-Executing-Programs-for-Visual-Johnson-Hariharan/2e17cf6a339fd071ad222062f868e882ef4120a4?sort=total-citations)
+
 # Inferring and Executing Programs for Visual Reasoning
 
 ## Abstract

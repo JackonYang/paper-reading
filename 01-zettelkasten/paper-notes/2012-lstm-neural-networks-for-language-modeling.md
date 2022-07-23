@@ -20,6 +20,8 @@ venue: INTERSPEECH
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/LSTM-Neural-Networks-for-Language-Modeling-Sundermeyer-Schlüter/f9a1b3850dfd837793743565a8af95973d395a4e?sort=total-citations)
+
 # LSTM Neural Networks for Language Modeling
 
 ## Abstract

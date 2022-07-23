@@ -21,6 +21,8 @@ venue: ICLR
 year: 2018
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/SMASH:-One-Shot-Model-Architecture-Search-through-Brock-Lim/e56b10f7cd4bf037beac84da5925dc4544fab974?sort=total-citations)
+
 # SMASH - One-Shot Model Architecture Search through HyperNetworks
 
 ## Abstract

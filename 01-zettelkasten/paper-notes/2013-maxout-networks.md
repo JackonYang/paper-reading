@@ -22,6 +22,8 @@ venue: ICML
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Maxout-Networks-Goodfellow-Warde-Farley/b7b915d508987b73b61eccd2b237e7ed099a2d29?sort=total-citations)
+
 # Maxout Networks
 
 ## Abstract

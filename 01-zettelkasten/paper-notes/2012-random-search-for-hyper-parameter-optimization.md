@@ -19,6 +19,8 @@ venue: J. Mach. Learn. Res.
 year: 2012
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Random-Search-for-Hyper-Parameter-Optimization-Bergstra-Bengio/188e247506ad992b8bc62d6c74789e89891a984f?sort=total-citations)
+
 # Random Search for Hyper-Parameter Optimization
 
 ## Abstract

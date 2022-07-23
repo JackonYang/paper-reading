@@ -20,6 +20,8 @@ venue: ICML
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Making-a-Science-of-Model-Search:-Hyperparameter-in-Bergstra-Yamins/29935173af73aef20336db72d608e0ef5b0e0c16?sort=total-citations)
+
 # Making a Science of Model Search - Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures
 
 ## Abstract

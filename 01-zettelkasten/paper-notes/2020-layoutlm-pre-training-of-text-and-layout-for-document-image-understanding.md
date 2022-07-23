@@ -23,6 +23,8 @@ venue: KDD
 year: 2020
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/LayoutLM:-Pre-training-of-Text-and-Layout-for-Image-Xu-Li/3465c06c872d8c48d628c5fc2d484087719351b6?sort=total-citations)
+
 # LayoutLM - Pre-training of Text and Layout for Document Image Understanding
 
 ## Abstract

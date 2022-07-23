@@ -24,6 +24,8 @@ venue: ArXiv
 year: 2013
 ---
 
+[semanticscholar url](https://www.semanticscholar.org/paper/Playing-Atari-with-Deep-Reinforcement-Learning-Mnih-Kavukcuoglu/2319a491378867c7049b3da055c5df60e1671158?sort=total-citations)
+
 # Playing Atari with Deep Reinforcement Learning
 
 ## Abstract
