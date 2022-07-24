@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/chubby-osdi06.yaml
 pdf_relpath: paper-repo/pdfs/chubby-osdi06.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: chubby-osdi06

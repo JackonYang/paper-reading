@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/a-guide-to-convolution-arithmetic-for-de
 pdf_relpath: paper-repo/pdfs/A%20guide%20to%20convolution%20arithmetic%20for%20deep%20learning.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: A%20guide%20to%20convolution%20arithmetic%20for%20deep%20learning

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/confident-2017-rank-pruning.yaml
 pdf_relpath: paper-repo/pdfs/confident-2017-Rank%20Pruning.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: confident-2017-Rank%20Pruning

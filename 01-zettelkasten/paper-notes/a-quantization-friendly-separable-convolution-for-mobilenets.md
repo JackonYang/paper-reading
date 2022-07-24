@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/a-quantization-friendly-separable-convol
 pdf_relpath: paper-repo/pdfs/A%20Quantization-Friendly%20Separable%20Convolution%20for%20MobileNets.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: A%20Quantization-Friendly%20Separable%20Convolution%20for%20MobileNets

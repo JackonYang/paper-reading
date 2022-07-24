@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/gender-prediction-using-browsing-history
 pdf_relpath: paper-repo/pdfs/Gender%20Prediction%20Using%20Browsing%20History.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Gender%20Prediction%20Using%20Browsing%20History

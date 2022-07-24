@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/neural-reading-comprehension-and-beyond_
 pdf_relpath: paper-repo/pdfs/neural%20reading%20comprehension%20and%20beyond_2018.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: neural%20reading%20comprehension%20and%20beyond_2018

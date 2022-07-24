@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/a-new-golden-age-for-computer-architectu
 pdf_relpath: paper-repo/pdfs/A%20New%20Golden%20Age%20for%20Computer%20Architecture-keynote.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: A%20New%20Golden%20Age%20for%20Computer%20Architecture-keynote

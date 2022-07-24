@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/drop-an-octave.yaml
 pdf_relpath: paper-repo/pdfs/Drop%20an%20Octave.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Drop%20an%20Octave

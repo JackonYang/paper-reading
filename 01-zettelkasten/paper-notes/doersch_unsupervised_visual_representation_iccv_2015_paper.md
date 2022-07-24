@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/doersch_unsupervised_visual_representati
 pdf_relpath: paper-repo/pdfs/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper

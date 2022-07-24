@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/natural-language-processing-almost-from-
 pdf_relpath: paper-repo/pdfs/Natural%20Language%20Processing%20%28Almost%29%20from%20Scratch.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Natural%20Language%20Processing%20%28Almost%29%20from%20Scratch

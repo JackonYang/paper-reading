@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/face-recognition-using-laplacianfaces.ya
 pdf_relpath: paper-repo/pdfs/Face%20Recognition%20Using%20Laplacianfaces.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Face%20Recognition%20Using%20Laplacianfaces

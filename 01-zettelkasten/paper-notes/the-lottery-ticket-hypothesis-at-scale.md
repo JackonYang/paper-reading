@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/the-lottery-ticket-hypothesis-at-scale.y
 pdf_relpath: paper-repo/pdfs/The%20Lottery%20Ticket%20Hypothesis%20at%20Scale.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: The%20Lottery%20Ticket%20Hypothesis%20at%20Scale

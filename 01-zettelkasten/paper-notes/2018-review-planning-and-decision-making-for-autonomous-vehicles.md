@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2018-review-planning-and-decision-making
 pdf_relpath: paper-repo/pdfs/2018-review-Planning%20and%20Decision-Making%20for%20Autonomous%20Vehicles.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2018-review-Planning%20and%20Decision-Making%20for%20Autonomous%20Vehicles

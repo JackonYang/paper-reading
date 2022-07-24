@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/spam-filtering-with-naive-bayes-which-na
 pdf_relpath: paper-repo/pdfs/spam-filtering-with-naive-bayes-which-naive-bayes.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: spam-filtering-with-naive-bayes-which-naive-bayes

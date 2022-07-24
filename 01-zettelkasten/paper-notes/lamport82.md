@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/lamport82.yaml
 pdf_relpath: paper-repo/pdfs/lamport82.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: lamport82

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/the-eight-pillars-of-causal-wisdom.yaml
 pdf_relpath: paper-repo/pdfs/The%20Eight%20Pillars%20of%20Causal%20Wisdom.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: The%20Eight%20Pillars%20of%20Causal%20Wisdom

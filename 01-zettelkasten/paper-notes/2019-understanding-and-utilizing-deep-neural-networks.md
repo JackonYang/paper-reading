@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2019-understanding-and-utilizing-deep-ne
 pdf_relpath: paper-repo/pdfs/2019-Understanding%20and%20Utilizing%20Deep%20Neural%20Networks.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2019-Understanding%20and%20Utilizing%20Deep%20Neural%20Networks

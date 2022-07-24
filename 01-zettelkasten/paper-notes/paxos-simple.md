@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/paxos-simple.yaml
 pdf_relpath: paper-repo/pdfs/paxos-simple.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: paxos-simple

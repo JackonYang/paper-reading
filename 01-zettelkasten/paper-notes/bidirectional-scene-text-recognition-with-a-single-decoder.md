@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/bidirectional-scene-text-recognition-wit
 pdf_relpath: paper-repo/pdfs/Bidirectional%20Scene%20Text%20Recognition%20with%20a%20Single%20Decoder.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Bidirectional%20Scene%20Text%20Recognition%20with%20a%20Single%20Decoder

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/brewers-conjecture-sigact.yaml
 pdf_relpath: paper-repo/pdfs/brewers-conjecture-sigact.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: brewers-conjecture-sigact

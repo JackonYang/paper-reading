@@ -8,6 +8,7 @@ meta_relpath: paper-extra-data/pdf-meta/cpp-primer-4th-cn.yaml
 pdf_relpath: paper-repo/pdfs/cpp-primer-4th-cn.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: cpp-primer-4th-cn

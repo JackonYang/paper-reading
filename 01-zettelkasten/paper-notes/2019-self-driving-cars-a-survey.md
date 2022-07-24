@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2019-self-driving-cars-a-survey.yaml
 pdf_relpath: paper-repo/pdfs/2019-Self-Driving%20Cars-A%20Survey.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2019-Self-Driving%20Cars-A%20Survey

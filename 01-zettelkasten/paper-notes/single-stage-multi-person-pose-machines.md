@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/single-stage-multi-person-pose-machines.
 pdf_relpath: paper-repo/pdfs/Single-Stage%20Multi-Person%20Pose%20Machines.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Single-Stage%20Multi-Person%20Pose%20Machines

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/deep-neural-networks-for-youtube-recomme
 pdf_relpath: paper-repo/pdfs/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Deep%20Neural%20Networks%20for%20YouTube%20Recommendations

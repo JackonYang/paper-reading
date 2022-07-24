@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/nvidia-docker_-gpu-server-application-de
 pdf_relpath: paper-repo/pdfs/NVIDIA%20Docker_%20GPU%20Server%20Application%20Deployment%20Made%20Easy%20_%20NVIDIA%20Developer%20Blog.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: NVIDIA%20Docker_%20GPU%20Server%20Application%20Deployment%20Made%20Easy%20_%20NVIDIA%20Developer%20Blog

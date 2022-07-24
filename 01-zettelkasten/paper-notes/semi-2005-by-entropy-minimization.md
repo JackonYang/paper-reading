@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/semi-2005-by-entropy-minimization.yaml
 pdf_relpath: paper-repo/pdfs/semi-2005-by-entropy-minimization.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: semi-2005-by-entropy-minimization

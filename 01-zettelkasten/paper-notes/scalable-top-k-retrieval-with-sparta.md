@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/scalable-top-k-retrieval-with-sparta.yam
 pdf_relpath: paper-repo/pdfs/Scalable%20Top-K%20Retrieval%20with%20Sparta.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Scalable%20Top-K%20Retrieval%20with%20Sparta

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/linux-performance-analysis-and-tools.yam
 pdf_relpath: paper-repo/pdfs/linux-performance-analysis-and-tools.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: linux-performance-analysis-and-tools

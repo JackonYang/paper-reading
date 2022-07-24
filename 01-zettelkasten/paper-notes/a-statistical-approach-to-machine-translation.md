@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/a-statistical-approach-to-machine-transl
 pdf_relpath: paper-repo/pdfs/a-statistical-approach-to-machine-translation.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: a-statistical-approach-to-machine-translation

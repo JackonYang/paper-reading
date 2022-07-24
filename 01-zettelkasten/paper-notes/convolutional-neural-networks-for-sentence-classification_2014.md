@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/convolutional-neural-networks-for-senten
 pdf_relpath: paper-repo/pdfs/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification_2014.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Convolutional%20Neural%20Networks%20for%20Sentence%20Classification_2014

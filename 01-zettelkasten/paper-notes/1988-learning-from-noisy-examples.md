@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/1988-learning-from-noisy-examples.yaml
 pdf_relpath: paper-repo/pdfs/1988-Learning%20From%20Noisy%20Examples.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 1988-Learning%20From%20Noisy%20Examples

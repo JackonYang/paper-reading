@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/overview-2014-a-survey.yaml
 pdf_relpath: paper-repo/pdfs/overview-2014-a%20survey.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: overview-2014-a%20survey

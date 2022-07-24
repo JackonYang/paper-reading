@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/cross-entropy-vs-squared-error-training-
 pdf_relpath: paper-repo/pdfs/Cross-Entropy-vs-Squared-Error-Training-a-Theoretical-and-Experimental-Comparison.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Cross-Entropy-vs-Squared-Error-Training-a-Theoretical-and-Experimental-Comparison

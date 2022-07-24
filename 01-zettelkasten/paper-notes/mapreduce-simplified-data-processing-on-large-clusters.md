@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/mapreduce-simplified-data-processing-on-
 pdf_relpath: paper-repo/pdfs/mapreduce-simplified-data-processing-on-large-clusters.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: mapreduce-simplified-data-processing-on-large-clusters

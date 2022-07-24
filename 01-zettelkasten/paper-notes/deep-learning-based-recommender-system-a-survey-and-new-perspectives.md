@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/deep-learning-based-recommender-system-a
 pdf_relpath: paper-repo/pdfs/Deep%20Learning%20based%20Recommender%20System%20-%20A%20Survey%20and%20New%20Perspectives.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Deep%20Learning%20based%20Recommender%20System%20-%20A%20Survey%20and%20New%20Perspectives

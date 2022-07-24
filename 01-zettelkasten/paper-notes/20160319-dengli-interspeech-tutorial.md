@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/20160319-dengli-interspeech-tutorial.yam
 pdf_relpath: paper-repo/pdfs/20160319-Dengli-Interspeech-tutorial.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 20160319-Dengli-Interspeech-tutorial

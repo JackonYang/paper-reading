@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/a-closer-look-at-skip-gram-modelling.yam
 pdf_relpath: paper-repo/pdfs/a-closer-look-at-skip-gram-modelling.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: a-closer-look-at-skip-gram-modelling

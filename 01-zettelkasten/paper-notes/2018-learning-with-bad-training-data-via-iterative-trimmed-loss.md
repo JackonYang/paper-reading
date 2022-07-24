@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2018-learning-with-bad-training-data-via
 pdf_relpath: paper-repo/pdfs/2018-Learning%20with%20Bad%20Training%20Data%20via%20Iterative%20Trimmed%20Loss.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2018-Learning%20with%20Bad%20Training%20Data%20via%20Iterative%20Trimmed%20Loss

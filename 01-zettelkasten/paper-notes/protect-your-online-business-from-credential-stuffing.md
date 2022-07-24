@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/protect-your-online-business-from-creden
 pdf_relpath: paper-repo/pdfs/protect-your-online-business-from-credential-stuffing.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: protect-your-online-business-from-credential-stuffing

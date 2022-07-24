@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/semi-2013-pseudo-label.yaml
 pdf_relpath: paper-repo/pdfs/semi-2013-pseudo-label.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: semi-2013-pseudo-label

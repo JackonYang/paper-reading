@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/attribute-driven-feature-disentangling-a
 pdf_relpath: paper-repo/pdfs/Attribute-Driven%20Feature%20Disentangling%20and%20Temporal%20Aggregation%20for%20Video%20Person%20Re-Identification.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Attribute-Driven%20Feature%20Disentangling%20and%20Temporal%20Aggregation%20for%20Video%20Person%20Re-Identification

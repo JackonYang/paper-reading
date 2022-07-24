@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/brendan-gregg-the-flame-graph.yaml
 pdf_relpath: paper-repo/pdfs/Brendan%20Gregg-The%20Flame%20Graph.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Brendan%20Gregg-The%20Flame%20Graph

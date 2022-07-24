@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/planning-trajectories-constrained-by-pre
 pdf_relpath: paper-repo/pdfs/Planning%20trajectories%20constrained%20by%20predictions.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Planning%20trajectories%20constrained%20by%20predictions

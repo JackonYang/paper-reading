@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/toward-a-comfortable-driving-experience-
 pdf_relpath: paper-repo/pdfs/toward-a-comfortable-driving-experience-for-a-self-driving-shuttle-bus.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: toward-a-comfortable-driving-experience-for-a-self-driving-shuttle-bus

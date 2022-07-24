@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/introduction-to-gpu-computing.yaml
 pdf_relpath: paper-repo/pdfs/Introduction%20to%20GPU%20Computing.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Introduction%20to%20GPU%20Computing

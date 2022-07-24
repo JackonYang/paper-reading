@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/an-automated-learning-based-procedure-fo
 pdf_relpath: paper-repo/pdfs/an-automated-learning-based-procedure-for-large-scale-vehicle-dvnamics-moding-on-baidu-apollo-platform.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: an-automated-learning-based-procedure-for-large-scale-vehicle-dvnamics-moding-on-baidu-apollo-platform

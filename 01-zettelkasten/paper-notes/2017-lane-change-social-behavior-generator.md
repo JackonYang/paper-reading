@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2017-lane-change-social-behavior-generat
 pdf_relpath: paper-repo/pdfs/2017-Lane-Change%20Social%20Behavior%20Generator.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2017-Lane-Change%20Social%20Behavior%20Generator

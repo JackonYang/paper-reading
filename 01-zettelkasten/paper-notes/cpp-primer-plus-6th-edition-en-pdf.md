@@ -8,6 +8,7 @@ meta_relpath: paper-extra-data/pdf-meta/cpp-primer-plus-6th-edition-en-pdf.yaml
 pdf_relpath: paper-repo/pdfs/cpp-primer-plus-6th-edition-en.pdf.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: cpp-primer-plus-6th-edition-en.pdf

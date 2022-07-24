@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2001-face-detection-a-survey.yaml
 pdf_relpath: paper-repo/pdfs/2001-Face-Detection-A-Survey.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2001-Face-Detection-A-Survey

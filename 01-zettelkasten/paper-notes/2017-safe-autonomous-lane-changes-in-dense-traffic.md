@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2017-safe-autonomous-lane-changes-in-den
 pdf_relpath: paper-repo/pdfs/2017-Safe%20Autonomous%20Lane%20Changes%20in%20Dense%20Traffic.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2017-Safe%20Autonomous%20Lane%20Changes%20in%20Dense%20Traffic

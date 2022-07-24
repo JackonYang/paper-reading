@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/nvidia_fermi_compute_architecture_whitep
 pdf_relpath: paper-repo/pdfs/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: NVIDIA_Fermi_Compute_Architecture_Whitepaper

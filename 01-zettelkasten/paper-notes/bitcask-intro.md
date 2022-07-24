@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/bitcask-intro.yaml
 pdf_relpath: paper-repo/pdfs/bitcask-intro.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: bitcask-intro

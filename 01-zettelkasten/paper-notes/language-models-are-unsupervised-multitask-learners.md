@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/language-models-are-unsupervised-multita
 pdf_relpath: paper-repo/pdfs/Language%20Models%20are%20Unsupervised%20Multitask%20Learners.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Language%20Models%20are%20Unsupervised%20Multitask%20Learners

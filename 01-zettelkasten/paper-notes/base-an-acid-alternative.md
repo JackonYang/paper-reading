@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/base-an-acid-alternative.yaml
 pdf_relpath: paper-repo/pdfs/base-an-acid-alternative.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: base-an-acid-alternative

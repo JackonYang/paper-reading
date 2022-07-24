@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/co-occurrence-feature-learning-from-skel
 pdf_relpath: paper-repo/pdfs/Co-occurrence%20Feature%20Learning%20from%20Skeleton%20Data%20for%20Action%20Recognition%20and%20Detection%20with%20Hierarchical%20Aggregation.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Co-occurrence%20Feature%20Learning%20from%20Skeleton%20Data%20for%20Action%20Recognition%20and%20Detection%20with%20Hierarchical%20Aggregation

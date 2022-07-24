@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/charikar-estim.yaml
 pdf_relpath: paper-repo/pdfs/charikar-estim.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: charikar-estim

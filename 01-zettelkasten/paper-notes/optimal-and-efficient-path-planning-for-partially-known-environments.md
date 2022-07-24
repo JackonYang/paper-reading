@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/optimal-and-efficient-path-planning-for-
 pdf_relpath: paper-repo/pdfs/optimal-and-efficient-path-planning-for-partially-known-environments.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: optimal-and-efficient-path-planning-for-partially-known-environments

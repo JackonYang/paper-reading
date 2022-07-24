@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2014-reinforcement-learning-an-introduct
 pdf_relpath: paper-repo/pdfs/2014-Reinforcement%20Learning-An%20Introduction.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2014-Reinforcement%20Learning-An%20Introduction

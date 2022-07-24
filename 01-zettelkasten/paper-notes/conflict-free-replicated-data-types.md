@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/conflict-free-replicated-data-types.yaml
 pdf_relpath: paper-repo/pdfs/conflict-free-replicated-data-types.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: conflict-free-replicated-data-types

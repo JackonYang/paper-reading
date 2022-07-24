@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/self-supervised-learning-at-google.yaml
 pdf_relpath: paper-repo/pdfs/Self%20Supervised%20Learning%20at%20Google.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Self%20Supervised%20Learning%20at%20Google

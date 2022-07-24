@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/the-part-time-parliament.yaml
 pdf_relpath: paper-repo/pdfs/The-Part-Time-Parliament.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: The-Part-Time-Parliament

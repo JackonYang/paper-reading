@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/conditional-random-fields-probabilistic-
 pdf_relpath: paper-repo/pdfs/conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: conditional-random-fields-probabilistic-models-for-segmenting-and-labeling-sequence-data

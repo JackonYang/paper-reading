@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/theory-2017-closer-look-at-memorization.
 pdf_relpath: paper-repo/pdfs/theory-2017-Closer%20Look%20at%20Memorization.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: theory-2017-Closer%20Look%20at%20Memorization

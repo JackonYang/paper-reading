@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/spatial-temporal-graph-convolutional-net
 pdf_relpath: paper-repo/pdfs/Spatial%20Temporal%20Graph%20Convolutional%20Networks%20for%20Skeleton-Based%20Action%20Recognition.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Spatial%20Temporal%20Graph%20Convolutional%20Networks%20for%20Skeleton-Based%20Action%20Recognition

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2006-convexity-classification-and-risk-b
 pdf_relpath: paper-repo/pdfs/2006-Convexity%2C%20Classification%2C%20and%20Risk%20Bounds.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2006-Convexity%2C%20Classification%2C%20and%20Risk%20Bounds

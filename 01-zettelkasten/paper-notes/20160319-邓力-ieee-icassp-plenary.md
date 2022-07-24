@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/20160319-%E9%82%93%E5%8A%9B-ieee-icassp-
 pdf_relpath: paper-repo/pdfs/20160319-%E9%82%93%E5%8A%9B-IEEE-ICASSP-plenary.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 20160319-%E9%82%93%E5%8A%9B-IEEE-ICASSP-plenary

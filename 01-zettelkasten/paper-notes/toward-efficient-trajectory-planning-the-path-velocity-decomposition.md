@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/toward-efficient-trajectory-planning-the
 pdf_relpath: paper-repo/pdfs/Toward%20Efficient%20Trajectory%20Planning%20-%20The%20Path-Velocity%20Decomposition.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Toward%20Efficient%20Trajectory%20Planning%20-%20The%20Path-Velocity%20Decomposition

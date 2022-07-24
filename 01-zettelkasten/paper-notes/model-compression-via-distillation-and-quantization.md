@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/model-compression-via-distillation-and-q
 pdf_relpath: paper-repo/pdfs/MODEL%20COMPRESSION%20VIA%20DISTILLATION%20AND%20QUANTIZATION.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: MODEL%20COMPRESSION%20VIA%20DISTILLATION%20AND%20QUANTIZATION

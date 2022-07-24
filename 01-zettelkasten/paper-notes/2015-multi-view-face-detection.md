@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2015-multi-view-face-detection.yaml
 pdf_relpath: paper-repo/pdfs/2015-Multi-view-Face-Detection.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2015-Multi-view-Face-Detection

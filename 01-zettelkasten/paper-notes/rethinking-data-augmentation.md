@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/rethinking-data-augmentation.yaml
 pdf_relpath: paper-repo/pdfs/Rethinking%20Data%20Augmentation.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Rethinking%20Data%20Augmentation

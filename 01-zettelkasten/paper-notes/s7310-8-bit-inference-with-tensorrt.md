@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/s7310-8-bit-inference-with-tensorrt.yaml
 pdf_relpath: paper-repo/pdfs/s7310-8-bit-inference-with-tensorrt.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: s7310-8-bit-inference-with-tensorrt

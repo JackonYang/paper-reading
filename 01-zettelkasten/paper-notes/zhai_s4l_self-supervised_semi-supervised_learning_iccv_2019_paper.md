@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/zhai_s4l_self-supervised_semi-supervised
 pdf_relpath: paper-repo/pdfs/Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Zhai_S4L_Self-Supervised_Semi-Supervised_Learning_ICCV_2019_paper

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/self-2019-self-learning-with-multi-proto
 pdf_relpath: paper-repo/pdfs/self-2019-Self-Learning%20with%20Multi-Prototypes.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: self-2019-Self-Learning%20with%20Multi-Prototypes

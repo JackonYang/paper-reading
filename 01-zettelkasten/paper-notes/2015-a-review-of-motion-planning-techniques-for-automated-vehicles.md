@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2015-a-review-of-motion-planning-techniq
 pdf_relpath: paper-repo/pdfs/2015-A%20Review%20of%20Motion%20Planning%20Techniques%20for%20Automated%20Vehicles.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2015-A%20Review%20of%20Motion%20Planning%20Techniques%20for%20Automated%20Vehicles

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/improving-bert-based-text-classification
 pdf_relpath: paper-repo/pdfs/Improving%20BERT-Based%20Text%20Classification%20With%20Auxiliary%20Sentence%20and%20Domain%20Knowledge.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Improving%20BERT-Based%20Text%20Classification%20With%20Auxiliary%20Sentence%20and%20Domain%20Knowledge

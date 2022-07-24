@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2019-how-does-disagreement-help-generali
 pdf_relpath: paper-repo/pdfs/2019-How%20does%20Disagreement%20Help%20Generalization%20against%20Label%20Corruption.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2019-How%20does%20Disagreement%20Help%20Generalization%20against%20Label%20Corruption

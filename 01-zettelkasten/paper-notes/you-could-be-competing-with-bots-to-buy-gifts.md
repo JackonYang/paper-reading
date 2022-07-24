@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/you-could-be-competing-with-bots-to-buy-
 pdf_relpath: paper-repo/pdfs/you-could-be-competing-with-bots-to-buy-gifts.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: you-could-be-competing-with-bots-to-buy-gifts

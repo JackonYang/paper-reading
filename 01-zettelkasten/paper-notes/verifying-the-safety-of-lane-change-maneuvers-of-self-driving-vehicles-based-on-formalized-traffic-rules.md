@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/verifying-the-safety-of-lane-change-mane
 pdf_relpath: paper-repo/pdfs/Verifying%20the%20Safety%20of%20Lane%20Change%20Maneuvers%20of%20Self-driving%20Vehicles%20Based%20on%20Formalized%20Traffic%20Rules.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Verifying%20the%20Safety%20of%20Lane%20Change%20Maneuvers%20of%20Self-driving%20Vehicles%20Based%20on%20Formalized%20Traffic%20Rules

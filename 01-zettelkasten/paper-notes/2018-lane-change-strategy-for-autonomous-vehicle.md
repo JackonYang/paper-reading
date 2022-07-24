@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2018-lane-change-strategy-for-autonomous
 pdf_relpath: paper-repo/pdfs/2018-Lane%20Change%20Strategy%20for%20%20Autonomous%20Vehicle.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2018-Lane%20Change%20Strategy%20for%20%20Autonomous%20Vehicle

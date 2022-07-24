@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/em-2018-explicit-removal-of-biases-and-v
 pdf_relpath: paper-repo/pdfs/em-2018-Explicit%20Removal%20of%20Biases%20and%20Var.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: em-2018-Explicit%20Removal%20of%20Biases%20and%20Var

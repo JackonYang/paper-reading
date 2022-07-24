@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/n-gram-similarity-and-distance.yaml
 pdf_relpath: paper-repo/pdfs/n-gram-similarity-and-distance.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: n-gram-similarity-and-distance

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2003-bengio-neural-network-lm.yaml
 pdf_relpath: paper-repo/pdfs/2003-bengio-neural-network-LM.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2003-bengio-neural-network-LM

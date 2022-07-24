@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/hbase-schema-design-hbasecon2012.yaml
 pdf_relpath: paper-repo/pdfs/HBase%20Schema%20Design-hbasecon2012.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: HBase%20Schema%20Design-hbasecon2012

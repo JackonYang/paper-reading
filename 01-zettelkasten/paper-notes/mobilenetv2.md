@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/mobilenetv2.yaml
 pdf_relpath: paper-repo/pdfs/mobileNetV2.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: mobileNetV2

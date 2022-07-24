@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/osx_mavericks_core_technology_overview.y
 pdf_relpath: paper-repo/pdfs/OSX_Mavericks_Core_Technology_Overview.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: OSX_Mavericks_Core_Technology_Overview

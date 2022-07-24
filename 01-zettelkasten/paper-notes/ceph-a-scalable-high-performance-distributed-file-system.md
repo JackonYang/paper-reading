@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/ceph-a-scalable-high-performance-distrib
 pdf_relpath: paper-repo/pdfs/Ceph%20-%20A%20Scalable%20High-Performance%20Distributed%20File%20System.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Ceph%20-%20A%20Scalable%20High-Performance%20Distributed%20File%20System

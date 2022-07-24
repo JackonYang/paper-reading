@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/word2vec-parameter-learning-explained.ya
 pdf_relpath: paper-repo/pdfs/word2vec%20Parameter%20Learning%20Explained.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: word2vec%20Parameter%20Learning%20Explained

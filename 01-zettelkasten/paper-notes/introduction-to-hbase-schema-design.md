@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/introduction-to-hbase-schema-design.yaml
 pdf_relpath: paper-repo/pdfs/Introduction%20to%20HBase%20Schema%20Design.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Introduction%20to%20HBase%20Schema%20Design

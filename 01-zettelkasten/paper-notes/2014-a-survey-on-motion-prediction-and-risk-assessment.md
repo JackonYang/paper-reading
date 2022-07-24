@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2014-a-survey-on-motion-prediction-and-r
 pdf_relpath: paper-repo/pdfs/2014-a%20survey%20on%20motion%20prediction%20and%20risk%20assessment.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2014-a%20survey%20on%20motion%20prediction%20and%20risk%20assessment

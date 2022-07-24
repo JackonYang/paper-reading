@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/a-learning-based-tune-free-control-frame
 pdf_relpath: paper-repo/pdfs/a-learning-based-tune-free-control-framework-for-large-scale-autonomous-driving-system-deployment.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: a-learning-based-tune-free-control-framework-for-large-scale-autonomous-driving-system-deployment

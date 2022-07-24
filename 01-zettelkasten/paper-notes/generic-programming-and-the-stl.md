@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/generic-programming-and-the-stl.yaml
 pdf_relpath: paper-repo/pdfs/generic-programming-and-the-stl.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: generic-programming-and-the-stl

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2021-real-time-safety-assessment-of-traj
 pdf_relpath: paper-repo/pdfs/2021-Real-time%20safety%20assessment%20of%20trajectories.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2021-Real-time%20safety%20assessment%20of%20trajectories

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/simhash-detecting-near-duplicates-for-we
 pdf_relpath: paper-repo/pdfs/simhash-detecting-near-duplicates-for-web-crawling.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: simhash-detecting-near-duplicates-for-web-crawling

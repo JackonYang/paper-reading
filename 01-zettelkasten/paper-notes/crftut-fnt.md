@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/crftut-fnt.yaml
 pdf_relpath: paper-repo/pdfs/crftut-fnt.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: crftut-fnt

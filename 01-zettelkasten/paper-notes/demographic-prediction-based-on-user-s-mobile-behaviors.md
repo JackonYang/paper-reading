@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/demographic-prediction-based-on-user-s-m
 pdf_relpath: paper-repo/pdfs/Demographic%20Prediction%20Based%20on%20User-s%20Mobile%20Behaviors.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Demographic%20Prediction%20Based%20on%20User-s%20Mobile%20Behaviors

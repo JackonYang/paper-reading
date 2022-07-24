@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2019-human-motion-trajectory-prediction-
 pdf_relpath: paper-repo/pdfs/2019-Human%20Motion%20Trajectory%20Prediction-A%20Survey.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2019-Human%20Motion%20Trajectory%20Prediction-A%20Survey

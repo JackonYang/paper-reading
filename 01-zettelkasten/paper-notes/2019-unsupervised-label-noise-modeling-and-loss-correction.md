@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2019-unsupervised-label-noise-modeling-a
 pdf_relpath: paper-repo/pdfs/2019-Unsupervised%20Label%20Noise%20Modeling%20and%20Loss%20Correction.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2019-Unsupervised%20Label%20Noise%20Modeling%20and%20Loss%20Correction

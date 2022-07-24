@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2017-training_deep_neural_networks_using
 pdf_relpath: paper-repo/pdfs/2017-training_deep_neural_networks_using_a_noise_adaptation_layer.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2017-training_deep_neural_networks_using_a_noise_adaptation_layer

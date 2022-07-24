@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/2010-semi-supervised-novelty-detection.y
 pdf_relpath: paper-repo/pdfs/2010-Semi-Supervised%20Novelty%20Detection.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: 2010-Semi-Supervised%20Novelty%20Detection

@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/kolesnikov_revisiting_self-supervised_vi
 pdf_relpath: paper-repo/pdfs/Kolesnikov_Revisiting_Self-Supervised_Visual_Representation_Learning_CVPR_2019_paper.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Kolesnikov_Revisiting_Self-Supervised_Visual_Representation_Learning_CVPR_2019_paper

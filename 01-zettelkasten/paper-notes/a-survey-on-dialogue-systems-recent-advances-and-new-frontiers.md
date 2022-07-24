@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/a-survey-on-dialogue-systems-recent-adva
 pdf_relpath: paper-repo/pdfs/A%20Survey%20on%20Dialogue%20Systems-%20Recent%20Advances%20and%20New%20Frontiers.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: A%20Survey%20on%20Dialogue%20Systems-%20Recent%20Advances%20and%20New%20Frontiers

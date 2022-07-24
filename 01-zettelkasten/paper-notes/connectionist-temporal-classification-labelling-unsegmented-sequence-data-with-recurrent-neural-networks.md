@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/connectionist-temporal-classification-la
 pdf_relpath: paper-repo/pdfs/Connectionist%20Temporal%20Classification%20-%20Labelling%20Unsegmented%20Sequence%20Data%20with%20Recurrent%20Neural%20Networks.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Connectionist%20Temporal%20Classification%20-%20Labelling%20Unsegmented%20Sequence%20Data%20with%20Recurrent%20Neural%20Networks

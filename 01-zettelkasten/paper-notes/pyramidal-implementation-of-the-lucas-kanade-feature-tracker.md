@@ -6,6 +6,7 @@ meta_relpath: paper-extra-data/pdf-meta/pyramidal-implementation-of-the-lucas-ka
 pdf_relpath: paper-repo/pdfs/Pyramidal%20Implementation%20of%20the%20Lucas%20Kanade%20Feature%20Tracker.pdf
 reading_status: TBD
 tags:
+- gen-from-pdf
 - other-default
 - paper
 url_slug: Pyramidal%20Implementation%20of%20the%20Lucas%20Kanade%20Feature%20Tracker
