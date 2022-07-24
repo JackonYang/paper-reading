@@ -10,8 +10,8 @@ numCitedBy: 14160
 reading_status: TBD
 ref_count: 30
 tags:
+- archive
 - gen-from-ref
-- other-default
 - paper
 urls:
 - https://www.semanticscholar.org/paper/XGBoost:-A-Scalable-Tree-Boosting-System-Chen-Guestrin/26bc9195c6343e4d7f434dd65b4ad67efe2be27a?sort=total-citations
