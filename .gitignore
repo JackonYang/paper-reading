@@ -4,6 +4,7 @@
 test
 images/*
 log/*
+stc-notes/
 
 
 .obsidian
