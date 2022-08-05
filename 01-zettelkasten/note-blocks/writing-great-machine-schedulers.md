@@ -1,6 +1,6 @@
 ---
 tags:
-- scheduler
+- graph-scheduler
 - compiler
 url: https://www.youtube.com/watch?v=brpomKUynEA
 year: 2017

@@ -1,9 +1,10 @@
 ---
 tags:
-- scheduler
+- graph-scheduler
+- thinking
 ---
 
-# Pipeline Schedulers
+# Thinking of Graph(Pipeline) Schedulers
 
 Created: 2022-05-13 02:36
 

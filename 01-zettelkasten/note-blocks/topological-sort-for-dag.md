@@ -1,6 +1,6 @@
 ---
 tags:
-- graph
+- graph-scheduler
 ---
 
 # Topological Sort for DAG
