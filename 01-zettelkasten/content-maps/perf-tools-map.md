@@ -2,6 +2,8 @@
 
 Created: 2022-05-01 00:13
 
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h4xcc44u9ej21400u0786.jpg)
+
 ## 常数查询
 
 - [http://web.eece.maine.edu/~vweaver/group/green_machines.html](http://web.eece.maine.edu/~vweaver/group/green_machines.html)
