@@ -1,3 +1,7 @@
+---
+Alias: plan
+---
+
 # My Plans and Reviews
 
 Created: 2022-08-06 09:43
@@ -13,12 +17,12 @@ Created: 2022-08-06 09:43
 预期输出：
 1. tvm learnilearning map. tutorial code and notes
 2. graph scheduler notes
-3. tiling notes
+3. tiling notes. [loop-tiling](../note-blocks/loop-tiling.md)
 4. 进一步学习的方向 & 相关材料
 
 参考资料：
 
-- 传统的 compiler #compiler
+- 传统的 compiler #compiler [compiler-learning-map](../content-maps/compiler-learning-map.md)
 - 图调度 #graph-scheduler
 - TVM #tvm
 
