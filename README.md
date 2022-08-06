@@ -20,7 +20,7 @@
 
 ## My Blog
 
-TODO
+- [my-plans-and-reviews](01-zettelkasten/articles/my-plans-and-reviews.md)
 
 ## AI compiler
 
