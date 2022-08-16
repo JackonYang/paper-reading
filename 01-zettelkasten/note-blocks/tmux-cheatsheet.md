@@ -55,7 +55,6 @@ In tmux, hit the prefix `ctrl+b` and then:
 
     %  horizontal split
     "  vertical split
-    
     o  swap panes
     q  show pane numbers
     x  kill pane
@@ -83,7 +82,4 @@ Resources:
 Notes:
 
 * You can cmd+click URLs to open in iTerm.
-
-#TODO
-
 * Conf copy mode to use system clipboard. See PragProg book.
