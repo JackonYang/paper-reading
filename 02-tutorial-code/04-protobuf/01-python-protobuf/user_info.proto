@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package demo;
+
+message UserInfo {
+  uint32 uid = 1;
+  string name = 2;
+}
