@@ -24,10 +24,12 @@
 
 ## AI compiler
 
+- [learn-tvm-from-scratch](01-zettelkasten/content-maps/learn-tvm-from-scratch.md)
 - [compiler-learning-map](01-zettelkasten/content-maps/compiler-learning-map.md)
 
 ## Deep Learning
 
+- [learning-cuda](01-zettelkasten/articles/learning-cuda.md)
 - [pytorch-learning-map](01-zettelkasten/content-maps/pytorch-learning-map.md)
 
 ## HPC - 高性能计算
