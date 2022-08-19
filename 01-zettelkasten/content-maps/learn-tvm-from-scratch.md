@@ -25,4 +25,8 @@ Created: 2022-08-19 20:14
 1. TVM 相关的 AI compiler。
 2. 传统的 compiler。
 
+## TVM & Compiler 的基础概念
+
+- [why-need-ai-compiler](../note-blocks/why-need-ai-compiler.md) 从传统编译器角度，理解 AI-compiler 之于 inference 框架的意义。
+
 ## References

@@ -31,6 +31,7 @@
 
 - [learning-cuda](01-zettelkasten/articles/learning-cuda.md)
 - [pytorch-learning-map](01-zettelkasten/content-maps/pytorch-learning-map.md)
+- [deep-learning-framework-list](01-zettelkasten/note-blocks/deep-learning-framework-list.md)
 
 ## HPC - 高性能计算
 
