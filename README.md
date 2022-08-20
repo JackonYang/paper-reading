@@ -54,8 +54,23 @@ Tutorials with code
 
 ## Engineering 工程化
 
+Docker & K8S
+
 - [Docker and OCI Runtimes](01-zettelkasten/note-blocks/docker-and-oci-runtimes.md) docker 的设计与实现方案
 - [nvidia-docker: Enabling GPUs in Docker](01-zettelkasten/note-blocks/nvidia-docker-enabling-gpu-in-docker.md) nvidia-docker 的用法 & 原理
+
+Protobuf & gRPC
+
+(文档)
+- https://developers.google.com/protocol-buffers/docs/proto3 Language Guide (proto3)
+- https://developers.google.com/protocol-buffers/docs/style Protocol Buffers Style Guide
+- https://grpc.io/docs/languages/cpp/basics/ gPRC Basics tutorial
+- https://edgehog.blog/a-guide-to-grpc-and-interceptors-265c306d3773 gRPC interceptors
+
+(笔记)
+- [Protobuf Install And Introduction](01-zettelkasten/note-blocks/protobuf-install-and-introduction.md)
+- [Protobuf Best Practices](01-zettelkasten/note-blocks/protobuf-best-practices.md)
+- TODO 用 gPRC + docker 发布一个完整的 web 服务 example code
 
 ## 编程语言
 

@@ -19,6 +19,12 @@ Created: 2022-08-19 21:59
 - ARM NN, ARM
 - TensorRT, nvidia
 
+# 其他
+
+微软的 Project Volterra
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h5dosjegccj20u00h7dgq.jpg)
+
 ## References
 
 1.
