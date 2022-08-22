@@ -29,9 +29,15 @@
 
 ## Deep Learning
 
-- [learning-cuda](01-zettelkasten/articles/learning-cuda.md)
-- [pytorch-learning-map](01-zettelkasten/content-maps/pytorch-learning-map.md)
+frameworks
+
 - [deep-learning-framework-list](01-zettelkasten/note-blocks/deep-learning-framework-list.md)
+- [Understanding ONNX](01-zettelkasten/note-blocks/understanding-onnx.md)
+- [pytorch-learning-map](01-zettelkasten/content-maps/pytorch-learning-map.md)
+
+CUDA and GPU
+
+- [learning-cuda](01-zettelkasten/articles/learning-cuda.md)
 
 ## HPC - 高性能计算
 
