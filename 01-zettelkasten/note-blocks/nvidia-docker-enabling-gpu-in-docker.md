@@ -128,5 +128,5 @@ container 启动时，把 host 机器上的 driver 和 GPU device files 挂载�
 
 ## References
 
-1. https://developer.nvidia.com/blog/nvidia-docker-gpu-server-application-deployment-made-easy/
+1. https://developer.nvidia.com/blog/gpu-containers-runtime/
 2. https://developer.nvidia.com/blog/nvidia-docker-gpu-server-application-deployment-made-easy/
