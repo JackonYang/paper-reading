@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package onnx;
+
+// operator node
+message NodeProto {
+  string name = 1;
+  string op_type = 2;
+
+  repeated string inputs = 3;
+}
+
+// graph
+message GraphProto {
+  repeated NodeProto nodes = 1;
+  string name = 2;
+}
