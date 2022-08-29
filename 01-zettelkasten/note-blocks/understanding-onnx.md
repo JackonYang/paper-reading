@@ -184,9 +184,135 @@ nodes {
 
 ### ONNX proto
 
+onnx.in.proto 是源码，有效代码，只有 217 行。其他都是注释和空行。
+
+代码非常简单，看源码就行，无需多解释。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h5o4k3ts4ej20wk0bowfz.jpg)
+
+主要的类型 & 关系
+
+- ModelProto: GraphProto + 版本号和注释等辅助信息
+	- GraphProto: DAG 的定义
+		- NodeProto: operator node
+			- AttributeProto
+		- TensorProto: 张量。 graph 的 initializer 属性中，存储 constant inputs。
+		- ValueInfoProto。input/output 和 value_info 字段。有点像 placeholder。
+
+```protobuf
+// Level 0
+// ModelProto is a top-level file/container format for bundling a ML model and
+// associating its computation graph with metadata.
+//
+// The semantics of the model are described by the associated GraphProto's.
+message ModelProto {
+  optional int64 ir_version = 1;
+
+  optional string doc_string = 6;
+
+  optional GraphProto graph = 7;
+}
+
+// Level 1
+message GraphProto {
+  // The nodes in the graph, sorted topologically.
+  repeated NodeProto node = 1;
+
+  // The name of the graph.
+  optional string name = 2;   // namespace Graph
+
+  // A list of named tensor values, used to specify constant inputs of the graph.
+  repeated TensorProto initializer = 5;
+
+  // The inputs and outputs of the graph.
+  repeated ValueInfoProto input = 11;
+  repeated ValueInfoProto output = 12;
+}
+
+// level 2.1
+message NodeProto {
+  repeated string input = 1;    // namespace Value
+  repeated string output = 2;   // namespace Value
+
+  // An optional identifier for this node in a graph.
+  // This field MAY be absent in ths version of the IR.
+  optional string name = 3;     // namespace Node
+
+  // The symbolic identifier of the Operator to execute.
+  optional string op_type = 4;  // namespace Operator
+  // The domain of the OperatorSet that specifies the operator named by op_type.
+  optional string domain = 7;   // namespace Domain
+
+  // Additional named attributes.
+  repeated AttributeProto attribute = 5;
+
+  // A human-readable documentation for this node. Markdown is allowed.
+  optional string doc_string = 6;
+}
+
+// level 2.2
+message TensorProto {
+  // The shape of the tensor.
+  repeated int64 dims = 1;
+
+  // The data type of the tensor.
+  // This field MUST have a valid TensorProto.DataType value
+  optional int32 data_type = 2;
+
+  // For float and complex64 values
+  // Complex64 tensors are encoded as a single array of floats,
+  // with the real components appearing in odd numbered positions,
+  // and the corresponding imaginary component appearing in the
+  // subsequent even numbered position.
+  repeated float float_data = 4 [packed = true];
+  // For int32, uint8, int8, uint16, int16, bool, and float16 values
+  // float16 values must be bit-wise converted to an uint16_t prior
+  // to writing to the buffer.
+  repeated int32 int32_data = 5 [packed = true];
+  repeated bytes string_data = 6;
+  repeated int64 int64_data = 7 [packed = true];
+
+  // Optionally, a name for the tensor.
+  optional string name = 8; // namespace Value
+
+  // A human-readable documentation for this tensor. Markdown is allowed.
+  optional string doc_string = 12;
+}
+
+message AttributeProto {
+  optional string name = 1;
+  optional AttributeType type = 20;  // discriminator that indicates which field below is in use
+
+  // Exactly ONE of the following fields must be present for this version of the IR
+  optional float f = 2;               // float
+  optional int64 i = 3;               // int
+  optional bytes s = 4;               // UTF-8 string
+  optional TensorProto t = 5;         // tensor value
+  optional GraphProto g = 6;          // graph
+  optional SparseTensorProto sparse_tensor = 22;  // sparse tensor value
+  // Do not use field below, it's deprecated.
+  // optional ValueProto v = 12;         // value - subsumes everything but graph
+  optional TypeProto tp = 14;          // type proto
+
+  repeated float floats = 7;          // list of floats
+  repeated int64 ints = 8;            // list of ints
+  repeated bytes strings = 9;         // list of UTF-8 strings
+  repeated TensorProto tensors = 10;  // list of tensors
+  repeated GraphProto graphs = 11;    // list of graph
+  repeated SparseTensorProto sparse_tensors = 23; // list of sparse tensors
+  repeated TypeProto type_protos = 15;// list of type protos
+}
+```
+
 ### ONNX helper
 
+[DEMO CODE](../../02-tutorial-code/05-ai-compiler/02-onnx-example-model/README.md)
+
+TODO
+
 ### ONNX checker
+
+TODO
 
 ## Onnx 生态
 
