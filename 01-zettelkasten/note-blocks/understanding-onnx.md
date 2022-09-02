@@ -6,6 +6,9 @@ Created: 2022-08-20 23:34
 
 盘点 ONNX 模型部署有哪些常见问题，以及针对这些问题提出一些解决方法
 
+1. 已覆盖 onnx 的基本介绍和基本原理中最简单的部分。
+2. onnx 的高级话题，基本未涉及，以后再说。比如，动态图的支持，逻辑分支的支持等。
+
 ## ONNX 简介
 
 ### ONNX 是什么
@@ -196,6 +199,7 @@ onnx.in.proto 是源码，有效代码，只有 217 行。其他都是注释和�
 	- GraphProto: DAG 的定义
 		- NodeProto: operator node
 			- AttributeProto
+			- repeated string 的 input / output 字段存储了 op 的拓扑关系。
 		- TensorProto: 张量。 graph 的 initializer 属性中，存储 constant inputs。
 		- ValueInfoProto。input/output 和 value_info 字段。有点像 placeholder。
 
@@ -308,7 +312,11 @@ message AttributeProto {
 
 [DEMO CODE](../../02-tutorial-code/05-ai-compiler/02-onnx-example-model/README.md)
 
-TODO
+提供的make_node，make_graph，make_tensor等等接口完成一个ONNX模型的构建
+
+GraphProto中的input数组不仅包含我们一般理解中的图片输入的那个节点，还包含了模型中所有的权重。例如，Conv层里面的W权重实体是保存在initializer中的，那么相应的会有一个同名的输入在input中，其背后的逻辑应该是把权重也看成模型的输入，并通过initializer中的权重实体来对这个输入做初始化，即一个赋值的过程。
+
+最后，每个计算节点中还包含了一个AttributeProto数组，用来描述该节点的属性，比如Conv节点或者说卷积层的属性包含group，pad，strides等等，每一个计算节点的属性，输入输出信息都详细记录在https://github.com/onnx/onnx/blob/master/docs/Operators.md。
 
 ### ONNX checker
 
@@ -343,6 +351,38 @@ TODO
 ### 图优化 - Onnx Optimizer
 
 TODO
+
+## FAQ
+
+### ONNX or Caffe？
+
+基于Caffe进行部署的方式仍然在工业界发力，ONNX是趋势，但是ONNX现在还没有完全取代Caffe。
+
+这个问题其实源于之前做模型转换和基于TensorRT部署一些模型时候的思考。我们还是以Pytorch为例，要把Pytorch模型通过TensorRT部署到GPU上，一般就是Pytorch->Caffe->TensorRT以及Pytorch->ONNX->TensorRT（当然Pytorch也是支持直接转换到TensorRT，这里不关心）。那么这里就有一个问题，我们选择哪一条路比较好？
+其实，我想说的应该是Caffe是过去，而ONNX是将来。为什么要这样说？
+
+### op 粒度问题
+
+ONNX还有一个缺点就是OP的细粒度太细，执行效率低，不过ONNX已经推出了多种化方法可以将OP的细粒度变粗，提高模型执行效率。目前在众多经典算法上，ONNX已经支持得非常好了。
+
+### if 逻辑分支不支持
+
+todo
+
+### Pytorch to onnx
+
+单纯从Pytorch转成一个ONNX文件很简单。但是不同后端设备接受的onnx是不一样的，因此这才是坑的来源。
+onnx 标准规定了每一个算子的语义，而不仅仅是格式。文章里说的 maxunpool 的问题应该是转换器的 bug
+
+可将onnx转成隐式batch模型
+
+onnx 的分支支持。
+
+不同的后端设备，指的是什么。
+
+Pytorch自带的torch.onnx.export转换得到的ONNX，ONNXRuntime需要的ONNX，TensorRT需要的ONNX都是不同的。
+
+Pytorch的MaxUnpool实现是接收每个channel都从0开始的Idx格式，而Onnxruntime则相反。因此如果你希望用Onnxruntime跑一样的结果，那么必须对输入的Idx（即和Pytorch一样的输入）做额外的处理才可以。换言之，Pytorch转出来的神经网络图和ONNXRuntime需要的神经网络图是不一样的。
 
 ## References
 
