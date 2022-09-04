@@ -386,4 +386,6 @@ Pytorch的MaxUnpool实现是接收每个channel都从0开始的Idx格式，而On
 
 ## References
 
-1.
+1. Onnx 的 Python API: https://github.com/onnx/onnx/blob/main/docs/PythonAPIOverview.md
+2. Onnx Operator Schemas: https://github.com/onnx/onnx/blob/main/docs/Operators.md
+3. Onnx Optional Type: https://github.com/onnx/onnx/blob/main/docs/ONNXTypes.md
