@@ -66,6 +66,16 @@ sudo apt-get install -y nvidia-container-toolkit
 sudo systemctl restart docker
 ```
 
+post install
+
+```bash
+sudo groupadd docker
+sudo usermod -aG docker $USER
+
+# activate the changes to groups without logout or restart
+newgrp docker
+```
+
 ### 运行 & 安装检查
 
 ```bash
