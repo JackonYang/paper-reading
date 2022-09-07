@@ -33,7 +33,7 @@ frameworks
 
 - [deep-learning-framework-list](01-zettelkasten/note-blocks/deep-learning-framework-list.md)
 - [Understanding ONNX](01-zettelkasten/note-blocks/understanding-onnx.md)
-- [pytorch-learning-map](01-zettelkasten/content-maps/pytorch-learning-map.md)
+- [Learning PyTorch Framework](01-zettelkasten/note-blocks/learning-pytorch-framework.md)
 
 CUDA and GPU
 
