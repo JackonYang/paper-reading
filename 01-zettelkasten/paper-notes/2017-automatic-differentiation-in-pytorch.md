@@ -13,19 +13,25 @@ authors:
 - Adam Lerer
 fieldsOfStudy:
 - Computer Science
+filesize_readable: 50.8 KB
 meta_key: 2017-automatic-differentiation-in-pytorch
+meta_relpath: paper-extra-data/pdf-meta/2017-automatic-differentiation-in-pytorch.yaml
 numCitedBy: 10406
+pdf_relpath: paper-repo/pdfs/2017-automatic-differentiation-in-pytorch.pdf
 reading_status: TBD
 ref_count: 7
 tags:
 - gen-from-ref
-- other-default
 - paper
+- pytorch
+url_slug: 2017-automatic-differentiation-in-pytorch
 urls:
 - https://www.semanticscholar.org/paper/Automatic-differentiation-in-PyTorch-Paszke-Gross/b36a5bb1707bb9c70025294b3a310138aae8327a?sort=total-citations
 venue: ''
 year: 2017
 ---
+
+[pdf(local)](../../paper-repo/pdfs/2017-automatic-differentiation-in-pytorch.pdf)
 
 [semanticscholar url](https://www.semanticscholar.org/paper/Automatic-differentiation-in-PyTorch-Paszke-Gross/b36a5bb1707bb9c70025294b3a310138aae8327a?sort=total-citations)
 

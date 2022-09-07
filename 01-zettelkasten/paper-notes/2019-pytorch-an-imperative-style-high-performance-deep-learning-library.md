@@ -30,8 +30,8 @@ reading_status: TBD
 ref_count: 34
 tags:
 - gen-from-ref
-- other-default
 - paper
+- pytorch
 urls:
 - https://www.semanticscholar.org/paper/PyTorch:-An-Imperative-Style,-High-Performance-Deep-Paszke-Gross/3c8a456509e6c0805354bd40a35e3f2dbf8069b1?sort=total-citations
 venue: NeurIPS
