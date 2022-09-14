@@ -18,6 +18,12 @@ Created: 2022-08-19 21:59
 - OpenVINO, Intel
 - ARM NN, ARM
 - TensorRT, nvidia
+- ONNXRuntime. ONNX 节点粒度较细，推理速度有时候比其他推理框架.
+- ncnn(腾讯) 手机端推理框架。
+- MNN（阿里）手机端推理框架。
+- MMDeploy。 OpenMMLab 的框架。
+
+#TODO 主流框架是如何支持 tensorRT 的，做了哪些工作，API 设计细节，迁移成本。
 
 ## 2020 北京智源大会
 
