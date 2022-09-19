@@ -4,11 +4,8 @@ Created: 2022-08-19 21:03
 
 ## Summary
 
-在陈天奇的课里，叫 machine learning compiler，简称 MLC。
-
-图片主要来自: [手把手带你遨游TVM-知乎-蓝色](https://zhuanlan.zhihu.com/p/50529704)
-
-陈天奇的入门课，推荐看看。[machine-learning-compilation-tianqi-chen](machine-learning-compilation-tianqi-chen.md)
+陈天奇的入门课 [machine-learning-compilation-tianqi-chen](machine-learning-compilation-tianqi-chen.md)
+课程里，叫 machine learning compiler，简称 MLC。
 
 ## 传统编译器的 Milestone
 
@@ -51,7 +48,7 @@ IR（Intermediate Representation） 是 compiler 的关键术语。
 
 细化后的 inference framework 如下：
 
-![](../../paper-repo/pdfs/Pasted%20image%2020220819213607.png)
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6cdg3z17dj21400dy751.jpg)
 
 ### 主要的工作
 
@@ -102,6 +99,10 @@ TODO
 1. 针对不同硬件的加速优化，自动化水平更高。
 2. 一处加速优化，不同硬件都能用。
 3. training 框架也可以上 AI-compiler。比如，训练数据敏感，需要在端上设备做 training。
+
+## 版权
+
+图片主要来自: [手把手带你遨游TVM-知乎-蓝色](https://zhuanlan.zhihu.com/p/50529704)
 
 # Reference
 
