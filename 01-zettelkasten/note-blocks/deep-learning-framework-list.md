@@ -26,6 +26,45 @@ Created: 2022-08-19 21:59
 
 #TODO 主流框架是如何支持 tensorRT 的，做了哪些工作，API 设计细节，迁移成本。
 
+## 2022 - 袁进辉更新认识
+
+- 原文: https://zhuanlan.zhihu.com/p/474324656
+- 标题: 更新一下我对深度学习编译器和框架的认识
+- 发表时间:  2022-03-01 21:01
+
+### 个人观点
+
+1. 文章比较干货，我能看懂的细节不多。
+2. 几个关键词需要深入看一下：多面体编译器，auto placement，auto parallelism。
+3. 推崇 Google 的东西。尤其是 Google AI compiler 最近发的文章，需要精读一下，特别是 Related work 点评同行，一般写的透彻、有价值。
+
+### 作者的概述
+
+深度学习基础软件里最hard core的问题有两个，一个是微观层次的auto codegen，即用领域特定语言 DSL 描述一个算法的逻辑，自动生成在各种后端上最高效的代码；另一个是宏观层次的自动分布式并行，也就是用户面向单卡写一个神经网络模型，框架自动生成在特定拓扑结构连接的多机多卡上运行的分布式代码。
+
+-- 大佬目前依旧是推崇解决性能导向的问题。
+
+### 分布式深度学习框架
+
+（一堆的参考文献）
+宏观层次上，Google GSPMD （GSPMD: General and Scalable Parallelization for ML Computation Graphs）和 OneFlow SBP （OneFlow: Redesign the Distributed Deep Learning Framework from Scratch） 这样的抽象方式其实为auto placement和auto parallelism 定义了足够通用的解空间，在这个解空间下有很多种可能的办法去自动搜索出来还不错的解，譬如伯克利一个团队最近的一篇文章 Alpa (Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning)。 我相信，在问题定义比较清楚之后（如何评价Google的GShard论文？），以后还会涌现出来在效果和效率上更好的解决办法。
+
+这个问题不仅仅在深度学习框架这样的软件层次非常重要，实际上也是探索新一代硬件架构的AI芯片行业也非常重要。国外有两家在思路上比较新锐的芯片企业，一家叫SambaNova。另一家是因硅仙人 Jim Keller 加入而声名大振的Tenstorrent，他们实际上也是在实现数据流计算机。
+
+从这个角度理解，分布式深度学习框架在基于市场上的通用硬件，譬如GPGPU和以太网卡，实现一种粗粒度可重构计算，深度学习框架来完成控制面（control plane）的事，通用硬件GPU和以太网卡做数据面（data plane）的事。当然，使用通用硬件的能效比应该比不上那种专用硬件的做法，但应该通用性和灵活性更胜一筹。
+
+### 深度学习编译器
+
+我的理解是，深度学习编译器大的思路和架构应该是收敛了，应该是本文所描述的那样，具体实现体现在IREE这个项目，IREE有非常好的文档（iree/docs at main · google/iree），IREE的开发者之一张磊也写过好几篇非常好的博客，强烈推荐。
+
+### 文章下的评论
+
+@mackler: 编译器哪有那么乐观呀[捂脸]能乐观hpc领域几十年前就解决了，现在就是炒冷饭，poly解决不了自动切块，自动切块又是性能最敏感的，因为决定了cache利用。看起来一堆编译器的进展，其实都是Pluto算法+暴搜
+
+作者回复: 组合microkernel进行卷积算子优化 https://mp.weixin.qq.com/s/OCP1RGTJ0A3WcwNY_oCiPQ
+
+@Yuxin Wu 这篇编译器文章的几个主要作者都是当年做tensor comprehension的, 一做出来立刻就就被google挖走了
+
 ## 2020 北京智源大会
 
 AI框架专题论坛
@@ -77,7 +116,6 @@ AI框架专题论坛
 ### 石器时代（21 世纪初）
 
 MATLAB、OpenNN、Torch 等
-
 
 ### 青铜时代（~2012 年）
 
