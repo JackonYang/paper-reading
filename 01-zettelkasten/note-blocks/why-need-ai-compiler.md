@@ -100,11 +100,9 @@ TODO
 2. 一处加速优化，不同硬件都能用。
 3. training 框架也可以上 AI-compiler。比如，训练数据敏感，需要在端上设备做 training。
 
-## 版权
+# Reference
 
 图片主要来自: [手把手带你遨游TVM-知乎-蓝色](https://zhuanlan.zhihu.com/p/50529704)
-
-# Reference
 
 1. https://tvm.apache.org/2017/10/06/nnvm-compiler-announcement
 2. [手把手带你遨游TVM-知乎-蓝色](https://zhuanlan.zhihu.com/p/50529704)
