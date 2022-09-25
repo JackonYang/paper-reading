@@ -32,7 +32,7 @@
 
 frameworks
 
-- [Deep Learning Framework List](01-zettelkasten/note-blocks/deep-learning-framework-list.md)
+- [Deep Learning Framework Overview](01-zettelkasten/note-blocks/deep-learning-framework-overview.md)
 - [Understanding ONNX](01-zettelkasten/note-blocks/understanding-onnx.md)
 - [Learning PyTorch Framework](01-zettelkasten/note-blocks/learning-pytorch-framework.md)
 

@@ -32,7 +32,7 @@ IR（Intermediate Representation） 是 compiler 的关键术语。
 
 ### 目标
 
-现状，一家硬件公司一套 inference 框架。详细清单 [deep-learning-framework-list](deep-learning-framework-list.md)
+现状，一家硬件公司一套 inference 框架。详细清单 [deep-learning-framework-overview](deep-learning-framework-overview.md)
 
 | 公司 | 框架 |
 | --- | --- |
