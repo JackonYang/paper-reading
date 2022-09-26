@@ -1,4 +1,4 @@
-# Deep Learning Framework List
+# Deep Learning Framework Overview
 
 Created: 2022-08-19 21:59
 
@@ -25,6 +25,48 @@ Created: 2022-08-19 21:59
 - MMDeploy。 OpenMMLab 的框架。
 
 #TODO 主流框架是如何支持 tensorRT 的，做了哪些工作，API 设计细节，迁移成本。
+
+## TFRT - tensorflow 运行时
+
+2020.04.30 开源
+
+其最大的特点还是其“compiler friendly"，甚至我觉得这是一款纯粹为编译器而生的运行时
+
+谷歌公司在compiler（MLIR）和 runtime(TFRT)上深度结合的一个大胆的尝试。
+
+TFRT 的其他 Rational: 无锁、全异步执行.
+
+TF1.0的API非常难用，本质还是在于谷歌开始还是想把TF按照一个编程语言的方向去做的，因此可以看到基本所有python语法层的东西tf都搞了一套对应的（典型就是tf.cond和tf.while_loop用于表示条件和循环）；但是事实上对于一个完整的PL来说，这一层API是不够的，因此TF1.0的做法是把tf的python API转成一张图也就是GraphDef，这张图是data-flow driven的，然后由runtime做为一个图执行器来用手写的C++的代码（也就是当前tf runtime中的Executor)来执行这张图，这是一个非常经典的模式，可以说大数据的很多框架也是这么做的，执行一个DAG图，每个节点的tensor都ready了开始执行，背后放一个threadpool来做inter op的并行。这种方法其实也还算比较高效加上这么长时间代码的优化，整体的执行效率还是可以的，但是如果 这套框架放在inference端，还是有一定的overhead；
+
+这东西本质 上还是一个dag的图执行器。如果从一个编程语言来讲，应该最终通过AST->IR的各种转换生成一个binary交给执行端才是一个完整PL的套路；所以其实这两年有好几个项目都在打造自己的IR，试图把GraphDef翻译成一个统一的IR，然后再从IR往下走编译执行去做；一个典型就是谷歌自己做的XLA。但是XLA实际上还是没有脱离图执行的框架，XLA只能做到在graph cluster后把一部分子图通过HLO的转换走JIT执行，实际上还是包在一个XlaRunOp下，和图的其它节点一起执行
+
+## Bluesky 创始人 Mingsheng Hong
+
+翻译: https://mp.weixin.qq.com/s/5XeIimiag-AFyjAf1pWtgQ
+原文: 没找到。
+发表时间: 2022.3 - 2022.5 之间
+
+五年ML Infra生涯，我学到最重要的3个教训
+
+### 1. 标准的力量
+
+PyTorch、TensorFlow（有或没有Keras）、Jax和MxNet 框架都有某些不同的编程模型和抽象（例如PyTorch支持可变张量，而Jax是面向函数式编程设计的），这使得用户很难从一个框架迁移到另一个框架。
+
+不仅仅是面向用户编程ML模型的API，还有其他重要的API，例如用于再训练或服务（比如TF SavedModel) 的可序列化的、经过训练的抽象模型，还有让硬件供应商将加速器集成到ML框架中的API，都非常需要标准。
+
+### 2. 了解并聚焦客户
+
+模型研究人员，正要撰写关于新神经网络体系结构的研究论文？如果是的话，那就不要吹捧ML Infra产品是多么“封装良好”和“一键启用”。许多研究人员本身也是强大的软件黑客，他们善于发现新的、有趣的使用（或“滥用”）低层级Infra的方法，以实现他们的创新（例如AlexNet就源自一个聪明的GPU黑客）。
+
+### 3. 加速ML执行
+
+以下加速ML执行的示例技术很有趣，并且与其他领域（如数据库查询优化）相关：
+
+a) 使用像“Eigen”这样的软件库（https://eigen.tuxfamily.org/）实现繁重的代码，以优化CPU执行，或调用硬件供应商库（如CuDNN）来执行加速器。
+
+b) 执行Python生成“计算图”（类似于SQL查询计划），对其进行优化，然后执行。它还有其他技术名称，比如“跟踪jit（tracing jit）”和“惰性张量（lazy tensors）”。
+
+c) 在ML模型服务时使用特殊的背景知识，如模型权重为常数，这样就可以在模型执行之前进一步优化模型（类似于SQL优化，如果我们知道FK-PK约束，可以将一些LEFT JOINs转化为INNER JOINs）。
 
 ## 2022 - 袁进辉更新认识
 
@@ -106,6 +148,14 @@ AI框架专题论坛
 2. 框架的创新，需要人才，需要偶然性。
 3. 框架的关键趋势之一，表达能力更趋向于完完整整可导的语言。
 4. 在未来相当长的时间里，训练和推理 2 个框架分开，可能跑得更快。训练强调开发效率（易用性），推理强调执行效率（性能）
+
+## 百度飞桨登顶中国市场应用规模第一
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6jo6altgij20u00ewdio.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6jo95yj8bj20u00df0tv.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6jo9evgpwj20n00cmmzd.jpg)
 
 ## Brief History
 
