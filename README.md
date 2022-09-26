@@ -67,6 +67,7 @@ Tutorials with code
 
 Docker & K8S
 
+- A Docker Tutorial for Beginners [https://docker-curriculum.com/](https://docker-curriculum.com/)
 - [Docker and OCI Runtimes](01-zettelkasten/note-blocks/docker-and-oci-runtimes.md) docker 的设计与实现方案
 - [nvidia-docker: Enabling GPUs in Docker](01-zettelkasten/note-blocks/nvidia-docker-enabling-gpu-in-docker.md) nvidia-docker 的用法 & 原理
 
