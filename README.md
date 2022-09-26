@@ -26,6 +26,10 @@
 
 - [Why Need AI Compiler](01-zettelkasten/note-blocks/why-need-ai-compiler.md)
 - (WIP) [Learn TVM From Scratch](01-zettelkasten/content-maps/learn-tvm-from-scratch.md)
+
+传统 compiler
+
+- [my-first-language-frontend-with-llvm-tutorial](01-zettelkasten/note-blocks/my-first-language-frontend-with-llvm-tutorial.md)
 - [compiler-learning-map](01-zettelkasten/content-maps/compiler-learning-map.md)
 
 ## Deep Learning
