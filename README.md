@@ -40,17 +40,13 @@ frameworks
 - [Understanding ONNX](01-zettelkasten/note-blocks/understanding-onnx.md)
 - [Learning PyTorch Framework](01-zettelkasten/note-blocks/learning-pytorch-framework.md)
 
-CUDA and GPU
-
-- [learning-cuda](01-zettelkasten/articles/learning-cuda.md)
-
 ## HPC - 高性能计算
 
 Learning Maps
 
 - [perf-tools-map](01-zettelkasten/content-maps/perf-tools-map.md): 性能调优的工具 & 工具使用文档
 - cpu 架构: todo
-- gpu 架构 & CUDA: todo
+- [Learning CUDA](01-zettelkasten/content-maps/learning-cuda.md): gpu 架构 & CUDA
 - 并行加速: todo (指令级并行，单独 topic？)
 
 Good Readings
