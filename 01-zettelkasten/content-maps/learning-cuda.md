@@ -7,9 +7,18 @@ tags:
 
 Created: 2022-05-08 23:56
 
-## Hello World
+## 学习材料
 
-[code: hands-on-cuda](../../02-tutorial-code/03-hands-on-cuda/README.md)
+入门 code:
+
+- [Hands On CUDA](../../02-tutorial-code/03-hands-on-cuda/README.md)
+
+书:
+
+- [cuda_by_example](../paper-notes/cuda_by_example.md)
+- [cuda_application_design_and_development](../paper-notes/cuda_application_design_and_development.md)
+
+## 笔记
 
 The CUDA parallel programming model is designed to overcome this challenge while maintaining a low learning curve for programmers familiar with standard programming languages such as C.
 
@@ -70,6 +79,6 @@ nvidia_samples/1_Utilities/deviceQuery/deviceQuery.cpp，查看你的机器以�
 
 ## 并行管理 Stream
 
-stream：kernel互相overlap
+stream：kernel 互相 overlap
 
-请注意memcpy是阻塞的还意味着，他必须等stream上的其他工作做完，然后在开始自己，然后结束自己，然后把控制权交回CPU。
+请注意 memcpy 是阻塞的还意味着，他必须等 stream 上的其他工作做完，然后在开始自己，然后结束自己，然后把控制权交回 CPU。
