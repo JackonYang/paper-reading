@@ -14,7 +14,7 @@ reading_status: TBD
 ref_count: 40
 tags:
 - gen-from-ref
-- other-default
+- ocr
 - paper
 urls:
 - https://www.semanticscholar.org/paper/STAR-Net:-A-SpaTial-Attention-Residue-Network-for-Liu-Chen/d1e356ac88768b3cb5b59926641b48cbaa15670c?sort=total-citations

@@ -7,7 +7,7 @@ pdf_relpath: paper-repo/pdfs/Decoupled%20Attention%20Network%20for%20Text%20Reco
 reading_status: TBD
 tags:
 - gen-from-pdf
-- other-default
+- ocr
 - paper
 url_slug: Decoupled%20Attention%20Network%20for%20Text%20Recognition
 ---

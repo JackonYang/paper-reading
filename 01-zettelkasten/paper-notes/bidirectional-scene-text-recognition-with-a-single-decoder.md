@@ -7,7 +7,7 @@ pdf_relpath: paper-repo/pdfs/Bidirectional%20Scene%20Text%20Recognition%20with%2
 reading_status: TBD
 tags:
 - gen-from-pdf
-- other-default
+- ocr
 - paper
 url_slug: Bidirectional%20Scene%20Text%20Recognition%20with%20a%20Single%20Decoder
 ---

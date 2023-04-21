@@ -14,7 +14,7 @@ reading_status: TBD
 ref_count: 53
 tags:
 - gen-from-ref
-- other-default
+- ocr
 - paper
 urls:
 - https://www.semanticscholar.org/paper/Robust-Scene-Text-Recognition-with-Automatic-Shi-Wang/edd0f6d316d33c61a4a69c9262d1b1e07a93bae6?sort=total-citations
