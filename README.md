@@ -18,14 +18,9 @@
 | <https://quick-bench.com/> | 在线测 c++ 代码的 benchmark |
 | <https://en.cppreference.com> | c++ 手册 |
 
-## My Blog
-
-- [my-plans-and-reviews](01-zettelkasten/articles/my-plans-and-reviews.md)
-
 ## AI compiler
 
-- [Why Need AI Compiler](01-zettelkasten/note-blocks/why-need-ai-compiler.md)
-- (WIP) [Learn TVM From Scratch](01-zettelkasten/content-maps/learn-tvm-from-scratch.md)
+- [知乎: 模型加速与 AI compiler 介绍](https://zhuanlan.zhihu.com/p/617043119)
 
 传统 compiler
 
