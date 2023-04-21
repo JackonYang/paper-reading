@@ -35,6 +35,10 @@ frameworks
 - [Understanding ONNX](01-zettelkasten/note-blocks/understanding-onnx.md)
 - [Learning PyTorch Framework](01-zettelkasten/note-blocks/learning-pytorch-framework.md)
 
+大模型 & AIGC
+
+- [Learning AIGC Models](01-zettelkasten/articles/learning-aigc-models.md)
+
 ## HPC - 高性能计算
 
 Learning Maps
