@@ -90,6 +90,7 @@ code:
 体验 stable diffusion：
 
 - 开源项目: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- 开源的模型社区: https://civitai.com/ 。里面色图不少，网站默认是 safe 模式，不会显示，所以，打开是安全的。
 - 教程: https://www.bilibili.com/video/BV1As4y127HW/?spm_id_from=333.788&vd_source=1697bbf64aa697e049f71ddb4140612c
 
 体验感悟:
@@ -99,6 +100,8 @@ Stable Diffusion 做的非常好，特别是开源了模型。极大的促进了
 16G 内存的 Mac M1 Pro 一分钟出一张图。
 
 看过再多，不如自己亲手画一张。用不了多久，到处都将是低垂的 AIGC 技术果实，很容易就能拿来变现或者娱乐自己。
+
+关掉安全模式以后，civitai 里的模型，大部分都与福利姬相关，大部分模型下面也都会有涉黄图片。性，永远是推动技术发展的第一原动力。
 
 深度学习模型赋予了 AI 创作的无限可能。但，需要审美好、懂设计的专业人士帮大家从无限可能中蒸馏出 awesome quality 的，犹如信息大爆炸的时代离不开推荐系统。
 
