@@ -107,4 +107,10 @@ Stable Diffusion 做的非常好，特别是开源了模型。极大的促进了
 
 个人预判，“冲击 -> 重建 -> 新繁荣” 是不变的发展规律。AI 导致插画师失业，只是第一步的冲击。后面会重建大量的新就业新行业，至于新繁荣是什么，我还说不清楚。
 
-## 04. continuing...
+## 04. Hands on Diffusion Model with PyTorch
+
+blog with code: https://huggingface.co/blog/annotated-diffusion
+
+notes: TODO
+
+## 05. continuing...
