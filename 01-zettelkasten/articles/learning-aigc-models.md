@@ -73,4 +73,35 @@ code:
 
 - [ ] Score-based Generative Modeling (not GAN, but [code](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C2W2_(Optional_Notebook)_Score_Based_Generative_Modeling.ipynb#scrollTo=YyQtV7155Nht) provided)
 
-continuing...
+## 03. Try Diffusion Model Products
+
+策略：
+
+1. 开源的 stable diffusion，自己跑起来，深度的把玩一下。包括：出图的速度、质量、稳定性，念咒语（prompt & 参数）的技巧、难度等。
+2. 其他产品，看看别人分享的图片就差不多了。
+
+知名产品 list:
+
+- Google: Imagen
+- OpenAI: Dall-e 2
+- midjourney
+- stable diffusion
+
+体验 stable diffusion：
+
+- 开源项目: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- 教程: https://www.bilibili.com/video/BV1As4y127HW/?spm_id_from=333.788&vd_source=1697bbf64aa697e049f71ddb4140612c
+
+体验感悟:
+
+Stable Diffusion 做的非常好，特别是开源了模型。极大的促进了行业的发展，功德一件。
+
+16G 内存的 Mac M1 Pro 一分钟出一张图。
+
+看过再多，不如自己亲手画一张。用不了多久，到处都将是低垂的 AIGC 技术果实，很容易就能拿来变现或者娱乐自己。
+
+深度学习模型赋予了 AI 创作的无限可能。但，需要审美好、懂设计的专业人士帮大家从无限可能中蒸馏出 awesome quality 的，犹如信息大爆炸的时代离不开推荐系统。
+
+个人预判，“冲击 -> 重建 -> 新繁荣” 是不变的发展规律。AI 导致插画师失业，只是第一步的冲击。后面会重建大量的新就业新行业，至于新繁荣是什么，我还说不清楚。
+
+## 04. continuing...
