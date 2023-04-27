@@ -1,0 +1,15 @@
+[submodule "paper-repo"]
+	path = paper-repo
+	url = git@github.com:JackonYang/paper-repo.git
+[submodule "dataset-repo"]
+	path = dataset-repo
+	url = git@github.com:JackonYang/dataset-repo.git
+[submodule "paper-pipe"]
+	path = paper-pipe
+	url = git@github.com:JackonYang/paper-pipe.git
+[submodule "paper-extra-data"]
+	path = paper-extra-data
+	url = git@github.com:JackonYang/paper-extra-data.git
+[submodule "paper-crawler-cache"]
+	path = paper-crawler-cache
+	url = git@github.com:JackonYang/paper-crawler-cache.git
