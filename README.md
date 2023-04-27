@@ -29,15 +29,24 @@
 
 ## Deep Learning
 
-frameworks
+大模型 & AIGC
+
+- [Learning AIGC Models](01-zettelkasten/articles/learning-aigc-models.md)
+
+AI 落地应用
+
+- 自动驾驶 [Learning self-driving](01-zettelkasten/articles/learning-self-driving.md)
+
+算法相关
+
+- [learning-with-noisy-labels](01-zettelkasten/articles/learning-with-noisy-labels.md)
+- [cnn-models-alexnet-vgg-and-resnet](01-zettelkasten/articles/cnn-models-alexnet-vgg-and-resnet.md)
+
+DL 框架
 
 - [Deep Learning Framework Overview](01-zettelkasten/note-blocks/deep-learning-framework-overview.md)
 - [Understanding ONNX](01-zettelkasten/note-blocks/understanding-onnx.md)
 - [Learning PyTorch Framework](01-zettelkasten/note-blocks/learning-pytorch-framework.md)
-
-大模型 & AIGC
-
-- [Learning AIGC Models](01-zettelkasten/articles/learning-aigc-models.md)
 
 ## HPC - 高性能计算
 
