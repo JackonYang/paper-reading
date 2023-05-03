@@ -78,12 +78,14 @@ Docker & K8S
 Protobuf & gRPC
 
 (文档)
-- https://developers.google.com/protocol-buffers/docs/proto3 Language Guide (proto3)
-- https://developers.google.com/protocol-buffers/docs/style Protocol Buffers Style Guide
-- https://grpc.io/docs/languages/cpp/basics/ gPRC Basics tutorial
-- https://edgehog.blog/a-guide-to-grpc-and-interceptors-265c306d3773 gRPC interceptors
+
+- <https://developers.google.com/protocol-buffers/docs/proto3> Language Guide (proto3)
+- <https://developers.google.com/protocol-buffers/docs/style> Protocol Buffers Style Guide
+- <https://grpc.io/docs/languages/cpp/basics/> gPRC Basics tutorial
+- <https://edgehog.blog/a-guide-to-grpc-and-interceptors-265c306d3773> gRPC interceptors
 
 (笔记)
+
 - [Protobuf Install And Introduction](01-zettelkasten/note-blocks/protobuf-install-and-introduction.md)
 - [Protobuf Best Practices](01-zettelkasten/note-blocks/protobuf-best-practices.md)
 - TODO 用 gPRC + docker 发布一个完整的 web 服务 example code
@@ -98,3 +100,9 @@ Protobuf & gRPC
 C++
 
 Python & Shell
+
+# 使用说明
+
+powered by <https://github.com/JackonYang/paper-pipe>
+
+从 [Feishu Drive](https://dwpl6xgouw.feishu.cn/drive/folder/X7ClfswTYl3zNvdRU59cUiUSnAd) 下载已收集的论文 pdf，放在 `paper-pdfs` 目录下
