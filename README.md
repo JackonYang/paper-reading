@@ -22,11 +22,6 @@
 
 - [知乎: 模型加速与 AI compiler 介绍](https://zhuanlan.zhihu.com/p/617043119)
 
-传统 compiler
-
-- [my-first-language-frontend-with-llvm-tutorial](01-zettelkasten/note-blocks/my-first-language-frontend-with-llvm-tutorial.md)
-- [compiler-learning-map](01-zettelkasten/content-maps/compiler-learning-map.md)
-
 ## Deep Learning
 
 大模型 & AIGC
