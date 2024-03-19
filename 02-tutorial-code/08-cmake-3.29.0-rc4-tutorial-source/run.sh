@@ -5,7 +5,7 @@ build_dir=build
 rm -rf $build_dir
 mkdir -p $build_dir && cd $build_dir
 
-cmake ..
+cmake ../Step1
 
 make
 ./b.out 9
