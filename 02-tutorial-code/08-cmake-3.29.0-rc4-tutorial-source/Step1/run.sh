@@ -9,3 +9,4 @@ cmake ..
 
 make
 ./b.out 9
+./b.out
