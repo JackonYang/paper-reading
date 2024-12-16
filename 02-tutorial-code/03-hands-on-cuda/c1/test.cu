@@ -2,9 +2,7 @@
 CUDA hello world.
 Run a device function in multi threads.
 
-compile: make
-
-run: ./test
+`make run`
 
 output:
 
@@ -22,7 +20,7 @@ Thread Id:  7 Print
 #include <stdio.h>
 
 
-__global__ void function()
+__global__ void kernel_func()
 {
     int tid = threadIdx.x;
     printf("Thread Id: %2d Print\n", tid);
@@ -31,8 +29,8 @@ __global__ void function()
 int main(int argc, char* argv[])
 {
     // https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#kernels
-    // Kernel invocation with 8 threads
-    function<<<1, 8>>>();
+    // <<<GirdSize, BlockSize>>>, 1 block, 8 thread per block.
+    kernel_func<<<1, 8>>>();
     cudaDeviceSynchronize();
     return 0;
 }
