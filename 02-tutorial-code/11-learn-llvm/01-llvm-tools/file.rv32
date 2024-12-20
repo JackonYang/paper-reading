@@ -1,0 +1,87 @@
+	.text
+	.attribute	4, 16
+	.attribute	5, "rv32i2p0"
+	.file	"file.c"
+	.globl	prefix_sum                      # -- Begin function prefix_sum
+	.p2align	2
+	.type	prefix_sum,@function
+prefix_sum:                             # @prefix_sum
+	.cfi_startproc
+# %bb.0:
+	addi	sp, sp, -48
+	.cfi_def_cfa_offset 48
+	sw	ra, 44(sp)                      # 4-byte Folded Spill
+	sw	s0, 40(sp)                      # 4-byte Folded Spill
+	.cfi_offset ra, -4
+	.cfi_offset s0, -8
+	addi	s0, sp, 48
+	.cfi_def_cfa s0, 0
+	sw	a0, -16(s0)
+	sw	a1, -24(s0)
+	sw	a2, -28(s0)
+	lw	a0, -28(s0)
+	blez	a0, .LBB0_10
+	j	.LBB0_1
+.LBB0_1:
+	sw	zero, -32(s0)
+	j	.LBB0_2
+.LBB0_2:                                # =>This Loop Header: Depth=1
+                                        #     Child Loop BB0_4 Depth 2
+	sw	zero, -36(s0)
+	sw	zero, -40(s0)
+	lw	a0, -40(s0)
+	lw	a1, -32(s0)
+	bge	a0, a1, .LBB0_7
+	j	.LBB0_3
+.LBB0_3:                                #   in Loop: Header=BB0_2 Depth=1
+	j	.LBB0_4
+.LBB0_4:                                #   Parent Loop BB0_2 Depth=1
+                                        # =>  This Inner Loop Header: Depth=2
+	lw	a0, -16(s0)
+	lw	a1, -40(s0)
+	slli	a1, a1, 2
+	add	a0, a0, a1
+	lw	a0, 0(a0)
+	lw	a1, -36(s0)
+	add	a0, a1, a0
+	sw	a0, -36(s0)
+	lw	a0, -40(s0)
+	addi	a0, a0, 1
+	sw	a0, -40(s0)
+	j	.LBB0_5
+.LBB0_5:                                #   in Loop: Header=BB0_4 Depth=2
+	lw	a0, -40(s0)
+	lw	a1, -32(s0)
+	blt	a0, a1, .LBB0_4
+	j	.LBB0_6
+.LBB0_6:                                #   in Loop: Header=BB0_2 Depth=1
+	lw	a0, -36(s0)
+	lw	a1, -24(s0)
+	lw	a2, -32(s0)
+	slli	a2, a2, 2
+	add	a1, a1, a2
+	sw	a0, 0(a1)
+	j	.LBB0_7
+.LBB0_7:                                #   in Loop: Header=BB0_2 Depth=1
+	lw	a0, -32(s0)
+	addi	a0, a0, 1
+	sw	a0, -32(s0)
+	j	.LBB0_8
+.LBB0_8:                                #   in Loop: Header=BB0_2 Depth=1
+	lw	a0, -32(s0)
+	lw	a1, -28(s0)
+	blt	a0, a1, .LBB0_2
+	j	.LBB0_9
+.LBB0_9:
+	j	.LBB0_10
+.LBB0_10:
+	lw	ra, 44(sp)                      # 4-byte Folded Reload
+	lw	s0, 40(sp)                      # 4-byte Folded Reload
+	addi	sp, sp, 48
+	ret
+.Lfunc_end0:
+	.size	prefix_sum, .Lfunc_end0-prefix_sum
+	.cfi_endproc
+                                        # -- End function
+	.ident	"Ubuntu clang version 15.0.7"
+	.section	".note.GNU-stack","",@progbits

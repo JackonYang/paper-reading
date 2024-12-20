@@ -1,0 +1,93 @@
+	.text
+	.syntax unified
+	.eabi_attribute	67, "2.09"	@ Tag_conformance
+	.eabi_attribute	6, 1	@ Tag_CPU_arch
+	.eabi_attribute	8, 1	@ Tag_ARM_ISA_use
+	.eabi_attribute	34, 1	@ Tag_CPU_unaligned_access
+	.eabi_attribute	17, 1	@ Tag_ABI_PCS_GOT_use
+	.eabi_attribute	20, 1	@ Tag_ABI_FP_denormal
+	.eabi_attribute	21, 0	@ Tag_ABI_FP_exceptions
+	.eabi_attribute	23, 3	@ Tag_ABI_FP_number_model
+	.eabi_attribute	24, 1	@ Tag_ABI_align_needed
+	.eabi_attribute	25, 1	@ Tag_ABI_align_preserved
+	.eabi_attribute	38, 1	@ Tag_ABI_FP_16bit_format
+	.eabi_attribute	18, 4	@ Tag_ABI_PCS_wchar_t
+	.eabi_attribute	14, 0	@ Tag_ABI_PCS_R9_use
+	.file	"file.c"
+	.globl	prefix_sum                      @ -- Begin function prefix_sum
+	.p2align	2
+	.type	prefix_sum,%function
+	.code	32                              @ @prefix_sum
+prefix_sum:
+	.fnstart
+@ %bb.0:
+	sub	sp, sp, #32
+	str	r0, [sp, #24]
+	str	r1, [sp, #16]
+	str	r2, [sp, #12]
+	ldr	r0, [sp, #12]
+	cmp	r0, #1
+	blt	.LBB0_10
+	b	.LBB0_1
+.LBB0_1:
+	mov	r0, #0
+	str	r0, [sp, #8]
+	b	.LBB0_2
+.LBB0_2:                                @ =>This Loop Header: Depth=1
+                                        @     Child Loop BB0_4 Depth 2
+	mov	r0, #0
+	str	r0, [sp, #4]
+	str	r0, [sp]
+	ldr	r0, [sp]
+	ldr	r1, [sp, #8]
+	cmp	r0, r1
+	bge	.LBB0_7
+	b	.LBB0_3
+.LBB0_3:                                @   in Loop: Header=BB0_2 Depth=1
+	b	.LBB0_4
+.LBB0_4:                                @   Parent Loop BB0_2 Depth=1
+                                        @ =>  This Inner Loop Header: Depth=2
+	ldr	r0, [sp, #24]
+	ldr	r1, [sp]
+	ldr	r0, [r0, r1, lsl #2]
+	ldr	r1, [sp, #4]
+	add	r0, r1, r0
+	str	r0, [sp, #4]
+	ldr	r0, [sp]
+	add	r0, r0, #1
+	str	r0, [sp]
+	b	.LBB0_5
+.LBB0_5:                                @   in Loop: Header=BB0_4 Depth=2
+	ldr	r0, [sp]
+	ldr	r1, [sp, #8]
+	cmp	r0, r1
+	blt	.LBB0_4
+	b	.LBB0_6
+.LBB0_6:                                @   in Loop: Header=BB0_2 Depth=1
+	ldr	r0, [sp, #4]
+	ldr	r1, [sp, #16]
+	ldr	r2, [sp, #8]
+	str	r0, [r1, r2, lsl #2]
+	b	.LBB0_7
+.LBB0_7:                                @   in Loop: Header=BB0_2 Depth=1
+	ldr	r0, [sp, #8]
+	add	r0, r0, #1
+	str	r0, [sp, #8]
+	b	.LBB0_8
+.LBB0_8:                                @   in Loop: Header=BB0_2 Depth=1
+	ldr	r0, [sp, #8]
+	ldr	r1, [sp, #12]
+	cmp	r0, r1
+	blt	.LBB0_2
+	b	.LBB0_9
+.LBB0_9:
+	b	.LBB0_10
+.LBB0_10:
+	add	sp, sp, #32
+	mov	pc, lr
+.Lfunc_end0:
+	.size	prefix_sum, .Lfunc_end0-prefix_sum
+	.fnend
+                                        @ -- End function
+	.ident	"Ubuntu clang version 15.0.7"
+	.section	".note.GNU-stack","",%progbits
