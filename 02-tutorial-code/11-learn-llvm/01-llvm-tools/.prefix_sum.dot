@@ -1,0 +1,29 @@
+digraph "CFG for 'prefix_sum' function" {
+	label="CFG for 'prefix_sum' function";
+
+	Node0x6000031bba00 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#abc8fd70",label="{%3:\l  %4 = alloca ptr, align 8\l  %5 = alloca ptr, align 8\l  %6 = alloca i32, align 4\l  %7 = alloca i32, align 4\l  %8 = alloca i32, align 4\l  %9 = alloca i32, align 4\l  store ptr %0, ptr %4, align 8\l  store ptr %1, ptr %5, align 8\l  store i32 %2, ptr %6, align 4\l  %10 = load i32, ptr %6, align 4\l  %11 = icmp slt i32 0, %10\l  br i1 %11, label %12, label %46\l|{<s0>T|<s1>F}}"];
+	Node0x6000031bba00:s0 -> Node0x6000031bfc40;
+	Node0x6000031bba00:s1 -> Node0x6000031bfcc0;
+	Node0x6000031bfc40 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#8fb1fe70",label="{%12:\l12:                                               \l  store i32 0, ptr %7, align 4\l  br label %13\l}"];
+	Node0x6000031bfc40 -> Node0x6000031bfc80;
+	Node0x6000031bfc80 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#f7b99e70",label="{%13:\l13:                                               \l  store i32 0, ptr %8, align 4\l  store i32 0, ptr %9, align 4\l  %14 = load i32, ptr %9, align 4\l  %15 = load i32, ptr %7, align 4\l  %16 = icmp slt i32 %14, %15\l  br i1 %16, label %17, label %38\l|{<s0>T|<s1>F}}"];
+	Node0x6000031bfc80:s0 -> Node0x6000031bfd40;
+	Node0x6000031bfc80:s1 -> Node0x6000031bfdc0;
+	Node0x6000031bfd40 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#efcebd70",label="{%17:\l17:                                               \l  br label %18\l}"];
+	Node0x6000031bfd40 -> Node0x6000031bfd80;
+	Node0x6000031bfd80 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%18:\l18:                                               \l  %19 = load ptr, ptr %4, align 8\l  %20 = load i32, ptr %9, align 4\l  %21 = sext i32 %20 to i64\l  %22 = getelementptr inbounds i32, ptr %19, i64 %21\l  %23 = load i32, ptr %22, align 4\l  %24 = load i32, ptr %8, align 4\l  %25 = add nsw i32 %24, %23\l  store i32 %25, ptr %8, align 4\l  %26 = load i32, ptr %9, align 4\l  %27 = add nsw i32 %26, 1\l  store i32 %27, ptr %9, align 4\l  br label %28\l}"];
+	Node0x6000031bfd80 -> Node0x6000031bfe40;
+	Node0x6000031bfe40 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%28:\l28:                                               \l  %29 = load i32, ptr %9, align 4\l  %30 = load i32, ptr %7, align 4\l  %31 = icmp slt i32 %29, %30\l  br i1 %31, label %18, label %32, !llvm.loop !5\l|{<s0>T|<s1>F}}"];
+	Node0x6000031bfe40:s0 -> Node0x6000031bfd80;
+	Node0x6000031bfe40:s1 -> Node0x6000031bfe80;
+	Node0x6000031bfe80 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#efcebd70",label="{%32:\l32:                                               \l  %33 = load i32, ptr %8, align 4\l  %34 = load ptr, ptr %5, align 8\l  %35 = load i32, ptr %7, align 4\l  %36 = sext i32 %35 to i64\l  %37 = getelementptr inbounds i32, ptr %34, i64 %36\l  store i32 %33, ptr %37, align 4\l  br label %38\l}"];
+	Node0x6000031bfe80 -> Node0x6000031bfdc0;
+	Node0x6000031bfdc0 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#f7b99e70",label="{%38:\l38:                                               \l  %39 = load i32, ptr %7, align 4\l  %40 = add nsw i32 %39, 1\l  store i32 %40, ptr %7, align 4\l  br label %41\l}"];
+	Node0x6000031bfdc0 -> Node0x6000031bba40;
+	Node0x6000031bba40 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#f7b99e70",label="{%41:\l41:                                               \l  %42 = load i32, ptr %7, align 4\l  %43 = load i32, ptr %6, align 4\l  %44 = icmp slt i32 %42, %43\l  br i1 %44, label %13, label %45, !llvm.loop !7\l|{<s0>T|<s1>F}}"];
+	Node0x6000031bba40:s0 -> Node0x6000031bfc80;
+	Node0x6000031bba40:s1 -> Node0x6000031bba80;
+	Node0x6000031bba80 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#8fb1fe70",label="{%45:\l45:                                               \l  br label %46\l}"];
+	Node0x6000031bba80 -> Node0x6000031bfcc0;
+	Node0x6000031bfcc0 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#abc8fd70",label="{%46:\l46:                                               \l  ret void\l}"];
+}
