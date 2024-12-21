@@ -1,0 +1,20 @@
+digraph "CFG for 'matmul' function" {
+	label="CFG for 'matmul' function";
+
+	Node0x60000179b800 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#7396f570",label="{%3:\l  br label %4\l}"];
+	Node0x60000179b800 -> Node0x60000179b840;
+	Node0x60000179b840 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#cedaeb70",label="{%4:\l4:                                                \l  %5 = phi i64 [ 0, %3 ], [ %8, %7 ]\l  br label %10\l}"];
+	Node0x60000179b840 -> Node0x60000179b980;
+	Node0x60000179ba00 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#7396f570",label="{%6:\l6:                                                \l  ret i32 0\l}"];
+	Node0x60000179b900 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#cedaeb70",label="{%7:\l7:                                                \l  %8 = add nuw nsw i64 %5, 1\l  %9 = icmp eq i64 %5, 0\l  br i1 %9, label %4, label %6, !llvm.loop !5\l|{<s0>T|<s1>F}}"];
+	Node0x60000179b900:s0 -> Node0x60000179b840;
+	Node0x60000179b900:s1 -> Node0x60000179ba00;
+	Node0x60000179b980 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#f7a88970",label="{%10:\l10:                                               \l  %11 = phi i64 [ 0, %4 ], [ %14, %13 ]\l  %12 = getelementptr inbounds [2 x i32], ptr %2, i64 %5, i64 %11\l  store i32 0, ptr %12, align 4, !tbaa !8\l  br label %16\l}"];
+	Node0x60000179b980 -> Node0x60000179ba80;
+	Node0x60000179b8c0 [shape=record,color="#3d50c3ff", style=filled, fillcolor="#f7a88970",label="{%13:\l13:                                               \l  %14 = add nuw nsw i64 %11, 1\l  %15 = icmp eq i64 %11, 0\l  br i1 %15, label %10, label %7, !llvm.loop !12\l|{<s0>T|<s1>F}}"];
+	Node0x60000179b8c0:s0 -> Node0x60000179b980;
+	Node0x60000179b8c0:s1 -> Node0x60000179b900;
+	Node0x60000179ba80 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%16:\l16:                                               \l  %17 = phi i64 [ 0, %10 ], [ %25, %16 ]\l  %18 = phi i32 [ 0, %10 ], [ %24, %16 ]\l  %19 = getelementptr inbounds [2 x i32], ptr %0, i64 %5, i64 %17\l  %20 = load i32, ptr %19, align 4, !tbaa !8\l  %21 = getelementptr inbounds [2 x i32], ptr %1, i64 %17, i64 %11\l  %22 = load i32, ptr %21, align 4, !tbaa !8\l  %23 = mul nsw i32 %22, %20\l  %24 = add nsw i32 %18, %23\l  store i32 %24, ptr %12, align 4, !tbaa !8\l  %25 = add nuw nsw i64 %17, 1\l  %26 = icmp eq i64 %17, 0\l  br i1 %26, label %16, label %13, !llvm.loop !13\l|{<s0>T|<s1>F}}"];
+	Node0x60000179ba80:s0 -> Node0x60000179ba80;
+	Node0x60000179ba80:s1 -> Node0x60000179b8c0;
+}
