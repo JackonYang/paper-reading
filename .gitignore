@@ -3,6 +3,7 @@
 repos
 
 build
+a.out
 
 test
 images/*
