@@ -11,6 +11,17 @@ int main(int argc, char *argv[]) {
 
     llvm::IRBuilder<> builder(context);
 
+    // Create a global variable: int globalVar = 42
+    llvm::Type *int32Type = llvm::Type::getInt32Ty(context);
+    llvm::GlobalVariable *globalVar = new llvm::GlobalVariable(
+        module,                           // Module
+        int32Type,                       // Type
+        /*isConstant=*/false,           // isConstant
+        llvm::GlobalValue::ExternalLinkage, // Linkage
+        llvm::ConstantInt::get(int32Type, 42), // Initial value
+        "globalVar"                     // Name
+    );
+
     // Create a function signature: int add(int, int)
     llvm::FunctionType *funcType = llvm::FunctionType::get(builder.getInt32Ty(),
         {builder.getInt32Ty(), builder.getInt32Ty()}, false);
@@ -30,8 +41,12 @@ int main(int argc, char *argv[]) {
     // Create the addition instruction
     llvm::Value *sum = builder.CreateAdd(a, b, "sum");
 
+    // Load the global variable and use it (e.g., add it to the sum)
+    llvm::Value *globalValue = builder.CreateLoad(int32Type, globalVar, "globalValue");
+    llvm::Value *result = builder.CreateAdd(sum, globalValue, "result");
+
     // Return the sum
-    builder.CreateRet(sum);
+    builder.CreateRet(result);
 
     // Output the module to stdout
     module.print(llvm::outs(), nullptr);
