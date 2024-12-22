@@ -22,26 +22,45 @@ int main(int argc, char *argv[]) {
     llvm::BasicBlock *bb = llvm::BasicBlock::Create(context, "entry", loadStoreFunction);
     builder.SetInsertPoint(bb);
 
+    // Get function arguments to avoid constant folding in CreateInsertElement
+    auto args = loadStoreFunction->arg_begin();
+    llvm::Value *a = args++;
+    llvm::Value *b = args;
+
     // Define the type for an integer
     llvm::Type *intType = llvm::Type::getInt32Ty(context);
+    // Define the type for a vector of 4 integers
+    llvm::VectorType *vecType = llvm::VectorType::get(intType, 4, false/*scalable*/);
 
-    // Create a pointer to an array of integers (a simple vector)
-    llvm::Value *size = llvm::ConstantInt::get(intType, 10); // Size of the vector
-    llvm::Value *vectorPtr = builder.CreateAlloca(intType->getPointerTo(), size, "vector");
+    // Create an undefined vector
+    llvm::Value *vec = llvm::UndefValue::get(vecType);
+    // Insert scalars into the vector
+    llvm::Value *vecAfterInsert0 = builder.CreateInsertElement(vec, a, llvm::ConstantInt::get(intType, 0));
+    llvm::Value *vecAfterInsert1 = builder.CreateInsertElement(vec, b, llvm::ConstantInt::get(intType, 1));
+    llvm::Value *vecAfterInsert2 = builder.CreateInsertElement(vec, a, llvm::ConstantInt::get(intType, 2));
+    llvm::Value *vecAfterInsert3 = builder.CreateInsertElement(vec, b, llvm::ConstantInt::get(intType, 3));
+
+    // store the vector into a pointer
+    llvm::Value *vectorPtr = builder.CreateAlloca(vecType, nullptr, "vectorPtr");
+    // llvm::Value *size = llvm::ConstantInt::get(intType, 4); // Size of the vector
+    // llvm::Value *vectorPtr = builder.CreateAlloca(intType->getPointerTo(), size, "vector");
+    builder.CreateStore(vec, vectorPtr);
+
+    // Extract the first element from the vector
+    llvm::Value *extractedElement = builder.CreateExtractElement(vecAfterInsert3, llvm::ConstantInt::get(intType, 3), "extractedElement");
 
     // Create a GEP instruction to access the first element of the vector
     llvm::Value *zeroIndex = llvm::ConstantInt::get(intType, 0);
     llvm::Value *gep = builder.CreateGEP(intType, vectorPtr, zeroIndex, "gep");
 
-    // Store a value into the first element of the vector
-    llvm::Value *valueToStore = llvm::ConstantInt::get(intType, 42); // Value to store
-    builder.CreateStore(valueToStore, gep);
-
     // Load the value from the first element of the vector
     llvm::Value *valueLoaded = builder.CreateLoad(intType, gep, "valueLoaded");
 
+    // sum the extracted element and the loaded value
+    llvm::Value *sum = builder.CreateAdd(extractedElement, valueLoaded, "sum");
+
     // Return the loaded value
-    builder.CreateRet(valueLoaded);
+    builder.CreateRet(sum);
 
     // Output the module to stdout
     module.print(llvm::outs(), nullptr);
