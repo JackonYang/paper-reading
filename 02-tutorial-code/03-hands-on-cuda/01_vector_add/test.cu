@@ -61,6 +61,7 @@ int main(int argc, char* argv[])
     cudaFree(dev_b);
     cudaFree(dev_c);
 
+
     // Verify the result
     for (int i = 0; i < N; i++)
     {
@@ -79,6 +80,10 @@ int main(int argc, char* argv[])
     std::cout << std::endl;
 
     std::cout << "Success!" << std::endl;
+
+    free(a);
+    free(b);
+    free(c);
 
     return 0;
 }
