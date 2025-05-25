@@ -8,15 +8,32 @@ Add two vectors in parallel using CUDA.
 #include <iostream>
 
 #define N 1024 * 1024 * 1024
+#define elementsPerThread 4
 
 // CUDA kernel for vector addition
 __global__ void vector_add(const float *a, const float *b, float *c)
 {
-    // global thread index
+    // hit peak bw at elementsPerThread = 2
+    // int base = (blockIdx.x * blockDim.x + threadIdx.x) * elementsPerThread;
+    // #pragma unroll
+    // for (int i = 0; i < elementsPerThread; ++i) {
+    //     int tid = base + i;
+    //     if (tid < N) {
+    //         c[tid] = a[tid] + b[tid];
+    //     }
+    // }
+
+    // impl 2: using float4 instruction
     int tid = blockIdx.x * blockDim.x + threadIdx.x;
-    if (tid < N)  // check the bound
-    {
-        c[tid] = a[tid] + b[tid];
+    if (tid < N/4) {
+        float4 a4 = reinterpret_cast<const float4*>(a)[tid];
+        float4 b4 = reinterpret_cast<const float4*>(b)[tid];
+        float4 c4;
+        c4.x = a4.x + b4.x;
+        c4.y = a4.y + b4.y;
+        c4.z = a4.z + b4.z;
+        c4.w = a4.w + b4.w;
+        reinterpret_cast<float4*>(c)[tid] = c4;
     }
 }
 
@@ -48,8 +65,8 @@ int main(int argc, char* argv[])
 
     // Launch kernel
     int block_size = 256;
-    int grid_size = (N + block_size - 1) / block_size;
-    std::cout << "N: " << N/1024/1024 << "M, grid_size: " << grid_size << ", block_size: " << block_size << std::endl;
+    int grid_size = (N + block_size - 1) / block_size / elementsPerThread;
+    std::cout << "N: " << N/1024/1024 << "M, grid_size: " << grid_size << ", block_size: " << block_size << ", elementsPerThread: " << elementsPerThread << std::endl;
 
     cudaEvent_t start, stop;
     cudaEventCreate(&start);
@@ -71,6 +88,12 @@ int main(int argc, char* argv[])
     cudaFree(dev_b);
     cudaFree(dev_c);
 
+    // print first 10 elements of the result
+    // for (int i = 0; i < 10; i++)
+    // {
+    //     std::cout << c[i] << " ";
+    // }
+    // std::cout << std::endl;
 
     // Verify the result
     for (int i = 0; i < N; i++)
@@ -81,13 +104,6 @@ int main(int argc, char* argv[])
             return 1;
         }
     }
-
-    // print first 10 elements of the result
-    // for (int i = 0; i < 10; i++)
-    // {
-    //     std::cout << c[i] << " ";
-    // }
-    // std::cout << std::endl;
 
     const size_t data_size = N * sizeof(float);
     float bandwidth = (2.0f * data_size) / (time_ms / 1000.0f) / (1e9);  // GB/s
