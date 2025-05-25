@@ -7,7 +7,7 @@ Add two vectors in parallel using CUDA.
 
 #include <iostream>
 
-#define N 8192
+#define N 1024 * 1024 * 1024
 
 // CUDA kernel for vector addition
 __global__ void vector_add(const float *a, const float *b, float *c)
@@ -49,9 +49,19 @@ int main(int argc, char* argv[])
     // Launch kernel
     int block_size = 256;
     int grid_size = (N + block_size - 1) / block_size;
-    std::cout << "grid_size: " << grid_size << ", block_size: " << block_size << std::endl;
+    std::cout << "N: " << N/1024/1024 << "M, grid_size: " << grid_size << ", block_size: " << block_size << std::endl;
 
+    cudaEvent_t start, stop;
+    cudaEventCreate(&start);
+    cudaEventCreate(&stop);
+
+    cudaEventRecord(start);
     vector_add<<<grid_size, block_size>>>(dev_a, dev_b, dev_c);
+    cudaEventRecord(stop);
+    cudaEventSynchronize(stop);
+
+    float time_ms;
+    cudaEventElapsedTime(&time_ms, start, stop);
 
     // Copy the result from device to the host
     cudaMemcpy(c, dev_c, N * sizeof(float), cudaMemcpyDeviceToHost);
@@ -73,13 +83,15 @@ int main(int argc, char* argv[])
     }
 
     // print first 10 elements of the result
-    for (int i = 0; i < 10; i++)
-    {
-        std::cout << c[i] << " ";
-    }
-    std::cout << std::endl;
+    // for (int i = 0; i < 10; i++)
+    // {
+    //     std::cout << c[i] << " ";
+    // }
+    // std::cout << std::endl;
 
-    std::cout << "Success!" << std::endl;
+    const size_t data_size = N * sizeof(float);
+    float bandwidth = (2.0f * data_size) / (time_ms / 1000.0f) / (1e9);  // GB/s
+    printf("Success! time cost: %.3f ms, HBM Bandwidth: %.2f GB/s\n", time_ms, bandwidth);
 
     free(a);
     free(b);
