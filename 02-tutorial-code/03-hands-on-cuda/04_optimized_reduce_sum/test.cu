@@ -17,14 +17,15 @@ __global__ void reduce_optimized(float* d_in, float* d_out) {
     unsigned int tid = threadIdx.x;  // Thread ID within block
     unsigned int i = (blockIdx.x * blockDim.x + tid) * elementsPerThread;  // Global index
 
-    sdata[tid] = (i < N) ? d_in[i] : 0.0f;
+    float sum = 0.0f;
     #pragma unroll
-    for (size_t ii = 1; ii < elementsPerThread; ii++) {
+    for (size_t ii = 0; ii < elementsPerThread; ii++) {
         int gtid = i + ii;
         if (gtid < N) {
-            sdata[tid] += d_in[gtid];
+            sum += d_in[gtid];
         }
     }
+    sdata[tid] = sum;
     __syncthreads();
 
     // do reduction in shared mem
