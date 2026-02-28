@@ -1,0 +1,24 @@
+:version
+VIM - Vi IMproved 7.3 (2010 Aug 15, compiled May  4 2012 04:25:35)
+包含补丁: 1-429
+修改者 pkg-vim-maintainers@lists.alioth.debian.org
+编译者 buildd@
+巨型版本 无图形界面。  可使用(+)与不可使用(-)的功能:
++arabic +autocmd -balloon_eval -browse ++builtin_terms +byte_offset +cindent -clientserver -clipboard +cmdline_compl +cmdline_hist
++cmdline_info +comments +conceal +cryptv +cscope +cursorbind +cursorshape +dialog_con +diff +digraphs -dnd -ebcdic +emacs_tags +eval +ex_extra
+ +extra_search +farsi +file_in_path +find_in_path +float +folding -footer +fork() +gettext -hangul_input +iconv +insert_expand +jumplist
+ +keymap +langmap +libcall +linebreak +lispindent +listcmds +localmap -lua +menu +mksession +modify_fname +mouse -mouseshape +mouse_dec
+ +mouse_gpm -mouse_jsbterm +mouse_netterm -mouse_sysmouse +mouse_xterm +mouse_urxvt +multi_byte +multi_lang -mzscheme +netbeans_intg
+ +path_extra -perl +persistent_undo +postscript +printer +profile +python -python3 +quickfix +reltime +rightleft -ruby +scrollbind +signs
+ +smartindent -sniff +startuptime +statusline -sun_workshop +syntax +tag_binary +tag_old_static -tag_any_white -tcl +terminfo +termresponse
+ +textobjects +title -toolbar +user_commands +vertsplit +virtualedit +visual +visualextra +viminfo +vreplace +wildignore +wildmenu +windows
+ +writebackup -X11 -xfontset -xim -xsmp -xterm_clipboard -xterm_save
+	系统 vimrc 文件: "VIM/vimrc"
+	用户 vimrc 文件: "HOME/.vimrc"
+	  用户 exrc 文件: "HOME/.exrc"
+	     VIM 预设值: "/usr/share/vim"
+编译方式: gcc -c -I. -Iproto -DHAVE_CONFIG_H -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Wformat-security -Werror=format-s
+ecurity -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1
+链接方式: gcc   -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,--as-needed -o vim  -lm -ltinfo -lnsl  -lselinux  -lacl -lattr -lgpm -ldl     -L
+/usr/lib/python2.7/config -lpython2.7 -lpthread -ldl -lutil -lm -Xlinker -export-dynamic -Wl,-O1 -Wl,-Bsymbolic-functions
+请按 ENTER 或其它命令继续

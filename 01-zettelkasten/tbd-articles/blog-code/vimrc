@@ -1,0 +1,26 @@
+set nocompatible               " be iMproved
+filetype off                   " vundle required!
+
+" use git instead default https when building absolute repo URIs
+let g:vundle_default_git_proto = 'git' 
+
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+" let Vundle manage Vundle
+" required! 
+Bundle 'gmarik/vundle'
+
+" My Bundles here:
+"
+" original repos on github
+" Bundle 'tpope/vim-rails.git'
+" vim-scripts repos
+Bundle 'Emmet.vim'
+Bundle 'highlight_current_line.vim'
+" non github repos
+" Bundle 'git://git.wincent.com/command-t.git'
+" git repos on your local machine (ie. when working on your own plugin)
+" Bundle 'file:///Users/gmarik/path/to/plugin'
+
+filetype plugin indent on     "vundle required!
